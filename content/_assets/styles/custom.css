@@ -52,6 +52,15 @@
 
 /* ENTRIES
 ============================================================================= */
+/* Style custom breadcrumbs at top of entry pages */
+.quire-page__header__breadcrumbs {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 0.875em;
+  padding: 2rem 2rem 0;
+}
+.quire-page__header__breadcrumbs .breadcrumb-separator {
+  margin: 0 .5rem;
+}
 /* Remove bullets and spacing from lists that make up Provenance listings */
 .quire-page.quire-entry .quire-page__content ul,
 .quire-page.quire-entry .quire-page__content ul li {

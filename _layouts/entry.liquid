@@ -48,6 +48,29 @@ Entry content, including entry image and tombstone data
   <div class="quire-entry__content">
     <header class="quire-entry__header">
       <div class="container">
+        <div class="quire-page__header__breadcrumbs">
+        {% assign sections = page.filePathStem | split: "/" %}
+
+        {% assign slicePoint = sections.size | minus: 2 %}
+
+        {% assign linkSections =  sections | slice: 1, slicePoint %}
+
+
+        {% for section in linkSections %}
+          {% if forloop.first == true %}
+          {% capture capitalizedTitle %}
+            <a href="/{{ section }}/">{{ section | capitalize }}</a>
+          {% endcapture %}
+          {% else %}
+          {% assign sectionTitles = section | replace: "_", " " | split: " " %}
+          {% capture capitalizedTitle %}
+            {% for word in sectionTitles %}
+                {{ word | capitalize }}{% if forloop.first == true %}.{% endif %}
+          {% endfor %}{% endcapture %}
+          {% endif %}
+          <span>{{ capitalizedTitle }}{% if forloop.last != true %} <span class="breadcrumb-separator">⁄</span>{% endif %}</span> 
+        {% endfor %}
+        </div>
         <h1 class="quire-page__header__title" id="page-header-{{ page.filePathStem }}">
           {% pageTitle label=label, title=title, subtitle=subtitle %}
         </h1>
