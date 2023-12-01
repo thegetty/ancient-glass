@@ -24,3 +24,42 @@
     right: -130px;
   }
 }
+
+/* MENU
+============================================================================= */
+/* Keep nested section links the same size rather than getting smaller and smaller */
+.quire-menu .section-item ol {
+  font-size: .875rem;
+}
+
+/* OBJECT GRID
+============================================================================= */
+/* Remove hard-coded background color that was intended for "modern" theme */
+.object-filters,
+.object-filters__button {
+  background: transparent !important;
+}
+.object-filters__button.object-filters__button--active {
+  background: black !important;
+}
+.object-card__title, .object-card .arrow {
+  color: black !important;
+  font-family: 'Times New Roman`, serif' !important;
+}
+.object-card .arrow {
+  display: none;
+}
+
+/* ENTRIES
+============================================================================= */
+/* Remove bullets and spacing from lists that make up Provenance listings */
+.quire-page.quire-entry .quire-page__content ul,
+.quire-page.quire-entry .quire-page__content ul li {
+  margin-left: 0;
+}
+.quire-page.quire-entry .quire-page__content ul li {
+  margin-bottom: 0;
+}
+.quire-page.quire-entry .quire-page__content ul li:before {
+  content: none;
+}
