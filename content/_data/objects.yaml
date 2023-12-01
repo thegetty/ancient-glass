@@ -27,7 +27,7 @@ object_list:
     attribution: "Production area: Egypt"
     material: "Opaque blue, white, turquoise and yellow glass"
     modeling_technique_and_decoration: "Core-formed, applied handles and base."
-    inscription: "False"
+    inscription: "No"
     shape: "Amphoriskoi"
     technique: "Core-formed"
     figure:
@@ -43,10 +43,8 @@ object_list:
     attribution: "Production area: Egypt"
     material: "Dark colored, probably dark green, turquoise, yellow white glass"
     modeling_technique_and_decoration: "Core-formed"
-    inscription: "True"
-    shape:
-      - Amphoriskoi
-      - Flask
+    inscription: "No"
+    shape: ["Amphoriskoi", "Flasks"]
     technique: "Core-formed"
     figure:
       - id: cat-002-front
