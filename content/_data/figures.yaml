@@ -1,6 +1,16 @@
 figure_list:
 
-  - id: ""
-    src: 
-    caption: ""
-    credit: ""
+  - id: cat-001-main
+    src: figures/gm_24865301.jpg
+    zoom: true
+    label: "Main"
+  
+  - id: cat-002-front
+    src: figures/gm_24845701.jpg
+    zoom: true
+    label: "Front"
+  
+  - id: cat-002-back
+    src: figures/gm_248457F1V1.jpg
+    zoom: true
+    label: "Back"

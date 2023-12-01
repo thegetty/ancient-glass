@@ -1,30 +1,53 @@
 object_display_order:
-  - artist
-  - year
+  - accession_number
   - dimensions
-  - medium
-  - location
+  - date
+  - attribution
+  - material
+  - modeling_technique_and_decoration
+
+object_filters:
+  - technique
+  - shape
+  - inscription
+
+object_card:
+  - thumbnail
+  - label
 
 object_list:
 
-  - id: 1
-    title: Human Erosion in California / Migrant Mother
-    artist: Dorothea Lange
-    year: 1936
-    medium: Gelatin silver print
-    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
-    location: J. Paul Getty Museum
-    link:  https://www.getty.edu/art/collection/object/108E2E
+  - id: cat-001
+    label: "Cat. 1"
+    accession_number: "2003.146"
+    link: https://www.getty.edu/art/collection/objects/221513
+    dimensions: "H. restored 12.6 cm; H. preserved 9.5 cm; Diam. rim 2.5 cm; Diam. base 2.8 cm; Wt.: 83.46 g"
+    date: "1401–1347 B.C.; New Kingdom, Eighteenth Dynasty, Tuthmosis IV to Akenaten before Amarna period"
+    start_date: -1401
+    end_date: -1347
     figure:
-      - id: ""
+      - id: cat-001-main
+    attribution: "Production area: Egypt"
+    material: "Opaque blue, white, turquoise and yellow glass"
+    modeling_technique_and_decoration: "Core-formed, applied handles and base."
+    # inscription: "Not inscribed"
+    shape: "Amphoriskoi"
+    technique: "Core-formed"
 
-  - id: 2
-    title: Bud Fields and His Wife Ivy, and His Daughter Ellen, Hale County, Alabama
-    artist: Walker Evans
-    year: 1936
-    medium: Gelatin silver print
-    dimensions: 19.4 x 24.4 (7 <sup>5</sup>⁄<sub>8</sub> x 9 <sup>5</sup>⁄<sub>8</sub> in.)
-    location: J. Paul Getty Museum
-    link: https://www.getty.edu/art/collection/object/104A2K
+  - id: cat-002
+    label: "Cat. 2"
+    accession_number: "2004.3"
+    link: https://www.getty.edu/art/collection/objects/221454
+    dimensions: "H. 8.5 cm, Diam. rim 2.3 cm, diam. max 4.2 cm, Wt. 52.20 g"
+    date: "1540-1075 B.C. i.e. New Kingdom"
+    start_date: -1540
+    end_date: -1075
     figure:
-      - id: ""
+      - id: cat-002-front
+      - id: cat-002-back
+    attribution: "Production area: Egypt"
+    material: "Dark colored, probably dark green, turquoise, yellow white glass"
+    modeling_technique_and_decoration: "Core-formed"
+    # inscription: "Not inscribed"
+    shape: "Amphoriskoi"
+    technique: "Core-formed"
