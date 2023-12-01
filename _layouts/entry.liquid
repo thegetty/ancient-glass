@@ -1,4 +1,7 @@
 ---
+## CUSTOMIZED FILE
+## Added section breadcrumbs based on the file path, lines 54–72
+##
 classes:
   - quire-entry
 layout: base.11ty.js
@@ -50,12 +53,8 @@ Entry content, including entry image and tombstone data
       <div class="container">
         <div class="quire-page__header__breadcrumbs">
         {% assign sections = page.filePathStem | split: "/" %}
-
         {% assign slicePoint = sections.size | minus: 2 %}
-
         {% assign linkSections =  sections | slice: 1, slicePoint %}
-
-
         {% for section in linkSections %}
           {% if forloop.first == true %}
           {% capture capitalizedTitle %}
