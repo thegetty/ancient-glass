@@ -71,6 +71,9 @@ TK
 
 ### Customizations
 
+**_layouts/cover.liquid**
+Added publication.cover_title in place of the default title
+
 **_layouts/entry.liquid**
 Added section breadcrumbs to entry pages based on their file paths
 

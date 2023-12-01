@@ -1,3 +1,8 @@
+:root {
+  --accent-color: #6A8EB8;
+  /* same as $accent-color in content/_assets/styles/variables.scss */
+}
+
 /* Temporary "UNCORRECTED PROOF" Banner */
 @media screen {
   .quire::before,
@@ -22,6 +27,75 @@
     content: "";
     bottom: -130px;
     right: -130px;
+  }
+}
+
+/* COVER
+============================================================================= */
+/* Cover customization to match previous collection catalogues */
+.hero-body .container.is-fluid {
+  bottom: 0;
+  right: 0;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 3rem;
+  text-align: center;
+  background: -webkit-linear-gradient(top, transparent, rgba(0,0,0,0.7));
+  background: linear-gradient(to bottom, transparent, rgba(0,0,0,0.7));
+  text-shadow: 3px 3px 5px rgba(0,0,0,0.9);
+}
+.quire-cover__hero .title {
+  font-family: "Spectral", serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  line-height: 1.2;
+}
+.quire-cover__hero .title .title-large {
+  display: block;
+  font-size: 5.25rem;
+  font-weight: 300;
+  padding-top: 5px;
+  line-height: .9;
+  margin-bottom: .25rem;
+}
+.quire-cover__hero .contributor {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 1.35rem;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: .5px;
+  margin-top: 2rem;
+}
+.quire-cover__hero .contributor em {
+  font-style: normal;
+}
+.quire-cover__more .hero-more {
+  background: var(--accent-color);
+}
+.quire-cover .quire-page__content .container.is-fluid .content .cover-authors {
+  margin-bottom: 3rem;
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 700;
+  text-align: center;
+}
+@media screen and (max-width:510px) {
+  .quire-cover__hero .title .title-large {
+    font-size: 4rem;
+  }
+  .quire-cover__hero .title {
+    font-size: 1.75rem;
+  }
+}
+@media screen and (max-width:415px) {
+  .quire-cover__hero .title .title-large {
+    font-size: 3.5rem;
+  }
+  .quire-cover__hero .title {
+    font-size: 1.5rem;
+  }
+  .quire-cover__hero .contributor {
+    font-size: 1.2rem;
   }
 }
 

@@ -1,4 +1,7 @@
 ---
+## CUSTOMIZED FILE
+## Added publication.cover_title in place of the default title, line 25
+##
 classes:
  - quire-cover
 description: Quire publication cover page
@@ -19,11 +22,7 @@ layout: base.11ty.js
   <div class="quire-cover__hero-body hero-body">
     <div class="container is-fluid">
       <h1 class="title" id="page-header-{{ page.filePathStem }}">
-        {{ publication.title | markdownify }}
-        {% if publication.subtitle %}
-          <span class="visually-hidden">: </span>
-          <span class="subtitle">{{ publication.subtitle | markdownify }}</span>
-        {% endif %}
+        {{ publication.cover_title }}
       </h1>
       <p class="reading-line">{{ publication.reading_line | markdownify }}</p>
       <div class="contributor">
