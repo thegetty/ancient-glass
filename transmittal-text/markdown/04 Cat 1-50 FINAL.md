@@ -1,32 +1,32 @@
-Label: 1
+label: 1
 
-Title: Amphoriskos
+title: Amphoriskos
 
-Accession_number: 2003.146
+accession_number: 2003.146
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221513>
+collection_link: <https://www.getty.edu/art/collection/objects/221513>
 
-Dimensions: rest. H. 12.6, pres. H. 9.5, Diam. rim 2.5, Diam. base 2.8 cm; Wt. 83.46 g
+dimensions: rest. H. 12.6, pres. H. 9.5, Diam. rim 2.5, Diam. base 2.8 cm; Wt. 83.46 g
 
-Date: New Kingdom, Eighteenth Dynasty; Tuthmosis IV to Akhenaten before Amarna period; 1401–1347 BCE
+date: New Kingdom, Eighteenth Dynasty; Tuthmosis IV to Akhenaten before Amarna period; 1401–1347 BCE
 
-Start_date: -1401
+start_date: -1401
 
-End_date: -1347
+end_date: -1347
 
-Attribution: Production area: Egypt
+attribution: Production area: Egypt
 
-Culture: Egyptian
+culture: Egyptian
 
-Material: Opaque blue, white, turquoise, and yellow glass
+material: Opaque blue, white, turquoise, and yellow glass
 
-Modeling technique and decoration: Core-formed; applied handles and base
+modeling_technique_and_decoration: Core-formed; applied handles and base
 
-Inscription: No
+inscription: No
 
-Shape: Amphoriskoi
+shape: Amphoriskoi
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -56,35 +56,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 2
+label: 2
 
-Title: Amphoriskos or Flask
+title: Amphoriskos or Flask
 
-Accession_number: 2004.3
+accession_number: 2004.3
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221454>
+collection_link: <https://www.getty.edu/art/collection/objects/221454>
 
-Dimensions: H. 8.5, Diam. rim 2.3, max. Diam. 4.2 cm; Wt. 52.20 g
+dimensions: H. 8.5, Diam. rim 2.3, max. Diam. 4.2 cm; Wt. 52.20 g
 
-Date: New Kingdom; 1540–1075 BCE
+date: New Kingdom; 1540–1075 BCE
 
-Start_date: -1540
+start_date: -1540
 
-End_date: -1075
+end_date: -1075
 
-Attribution: Production area: Egypt
+attribution: Production area: Egypt
 
-Culture: Egyptian
+culture: Egyptian
 
-Material: Dark-colored, probably dark green, turquoise, yellow-white glass
+material: Dark-colored, probably dark green, turquoise, yellow-white glass
 
-Modeling technique and decoration: Core-formed
+modeling_technique_and_decoration: Core-formed
 
-Inscription: No
+inscription: No
 
-Shape: \[Amphoriskoi, Flasks\]
+shape: \[Amphoriskoi, Flasks\]
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -114,35 +114,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Meisterwerke der Glaskunst aus internationalem Privatbesitz (Düsseldorf, 1968–1969)
 
-Label: 3
+label: 3
 
-Title: Krateriskos
+title: Krateriskos
 
-Accession_number: 2004.2
+accession_number: 2004.2
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221453>
+collection_link: <https://www.getty.edu/art/collection/objects/221453>
 
-Dimensions: H. 9.6, Diam. rim 5.0–5.3, max. Diam. 6, Diam. base 4.0–4.1 cm; Wt. 85.52 g
+dimensions: H. 9.6, Diam. rim 5.0–5.3, max. Diam. 6, Diam. base 4.0–4.1 cm; Wt. 85.52 g
 
-Date: New Kingdom, Eighteenth Dynasty; probably the reigns of Tuthmosis IV \[when handles are added to this form\] to Amenhotep III; ca. 1397–1353 BCE
+date: New Kingdom, Eighteenth Dynasty; probably the reigns of Tuthmosis IV \[when handles are added to this form\] to Amenhotep III; ca. 1397–1353 BCE
 
-Start_date: -1397
+start_date: -1397
 
-End_date: -1353
+end_date: -1353
 
-Attribution: Production area: Eastern Mediterranean, Egypt
+attribution: Production area: Eastern Mediterranean, Egypt
 
-Culture: Egyptian
+culture: Egyptian
 
-Material: Dark blue; opaque white, yellow, and turquoise glass
+material: Dark blue; opaque white, yellow, and turquoise glass
 
-Modeling technique and decoration: Core-formed; applied handles, foot, and threads
+modeling_technique_and_decoration: Core-formed; applied handles, foot, and threads
 
-Inscription: No
+inscription: No
 
-Shape: Kratoriskoi
+shape: Kratoriskoi
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -176,35 +176,35 @@ Said to have been found in a Mycenaean grave in Cyprus: “aus einem myken. Grab
 
 None
 
-Label: 4
+label: 4
 
-Title: Lentoid Flask
+title: Lentoid Flask
 
-Accession_number: 2003.148
+accession_number: 2003.148
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221515>
+collection_link: <https://www.getty.edu/art/collection/objects/221515>
 
-Dimensions: H. 6.3, max. W. 5.4 cm; Wt. 45.21 g
+dimensions: H. 6.3, max. W. 5.4 cm; Wt. 45.21 g
 
-Date: New Kingdom, Nineteenth Dynasty; 1292–1202 BCE
+date: New Kingdom, Nineteenth Dynasty; 1292–1202 BCE
 
-Start_date: -1292
+start_date: -1292
 
-End_date: -1202
+end_date: -1202
 
-Attribution: Production area: Egypt
+attribution: Production area: Egypt
 
-Culture: Egyptian
+culture: Egyptian
 
-Material: Dark blue; opaque yellow and green glass
+material: Dark blue; opaque yellow and green glass
 
-Modeling technique and decoration: Core-formed; applied handles and unmarvered and marvered threads
+modeling_technique_and_decoration: Core-formed; applied handles and unmarvered and marvered threads
 
-Inscription: No
+inscription: No
 
-Shape: Lentoid Flasks
+shape: Lentoid Flasks
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -236,35 +236,35 @@ By 1974, Gawain McKinley Ltd. (London, England); by 1974–1988, Erwin Oppenlän
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 5
+label: 5
 
-Title: Fish-Shaped Vessel
+title: Fish-Shaped Vessel
 
-Accession_number: 2003.147
+accession_number: 2003.147
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221514>
+collection_link: <https://www.getty.edu/art/collection/objects/221514>
 
-Dimensions: H. 6, L. 12.5 cm; Wt. 114.08 g (with all fills and restoration material)
+dimensions: H. 6, L. 12.5 cm; Wt. 114.08 g (with all fills and restoration material)
 
-Date: About 1403–1347 BCE
+date: About 1403–1347 BCE
 
-Start_date: -1403
+start_date: -1403
 
-End_date: -1347
+end_date: -1347
 
-Attribution: Production area: Egypt
+attribution: Production area: Egypt
 
-Culture: Egyptian
+culture: Egyptian
 
-Material: Dark blue (appearing black); opaque yellow and white glass
+material: Dark blue (appearing black); opaque yellow and white glass
 
-Modeling technique and decoration: Core-formed; applied threads
+modeling_technique_and_decoration: Core-formed; applied threads
 
-Inscription: No
+inscription: No
 
-Shape: Flasks
+shape: Flasks
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -296,35 +296,35 @@ By 1970–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 6
+label: 6
 
-Title: Alabastron
+title: Alabastron
 
-Accession_number: 2004.16
+accession_number: 2004.16
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221474/>
+collection_link: <https://www.getty.edu/art/collection/objects/221474/>
 
-Dimensions: H. 14, Diam. rim 3.3, max. Diam. 3.5 cm; Wt. 156.75 g
+dimensions: H. 14, Diam. rim 3.3, max. Diam. 3.5 cm; Wt. 156.75 g
 
-Date: Seventh–sixth century BCE
+date: Seventh–sixth century BCE
 
-Start_date: -700
+start_date: -700
 
-End_date: -501
+end_date: -501
 
-Attribution: Production area: Achaemenid Persian
+attribution: Production area: Achaemenid Persian
 
-Culture: Achaemenid (Persian)
+culture: Achaemenid (Persian)
 
-Material: Transparent, almost colorless glass, with a greenish tinge
+material: Transparent, almost colorless glass, with a greenish tinge
 
-Modeling technique and decoration: Cast, carved, and ground
+modeling_technique_and_decoration: Cast, carved, and ground
 
-Inscription: No
+inscription: No
 
-Shape: Alabastra
+shape: Alabastra
 
-Technique: “Cast”-rotary pressed
+technique: “Cast”-rotary pressed
 
 ## Condition
 
@@ -356,35 +356,35 @@ Meisterwerke der Glaskunst aus internationalem Privatbesitz (Düsseldorf, 1968�
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 7
+label: 7
 
-Title: Kohl Tube
+title: Kohl Tube
 
-Accession_number: 2003.160
+accession_number: 2003.160
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221527>
+collection_link: <https://www.getty.edu/art/collection/objects/221527>
 
-Dimensions: H. 7.5, max. W. side 1.7, Th. bottom 1, body walls ca. 0.5 cm; Wt. 29.81 g
+dimensions: H. 7.5, max. W. side 1.7, Th. bottom 1, body walls ca. 0.5 cm; Wt. 29.81 g
 
-Date: Fifth century BCE
+date: Fifth century BCE
 
-Start_date: -500
+start_date: -500
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Western Asiatic, probably northwestern Iran, perhaps Azerbaijan
+attribution: Production area: Western Asiatic, probably northwestern Iran, perhaps Azerbaijan
 
-Culture: Near Eastern, Achaemenid (Persian)
+culture: Near Eastern, Achaemenid (Persian)
 
-Material: Translucent dark blue and greenish; opaque white, orange, and turquoise glass
+material: Translucent dark blue and greenish; opaque white, orange, and turquoise glass
 
-Modeling technique and decoration: Rod-formed, applied threads
+modeling_technique_and_decoration: Rod-formed, applied threads
 
-Inscription: No
+inscription: No
 
-Shape: Kohl Tube
+shape: Kohl Tube
 
-Technique: Rod-formed
+technique: Rod-formed
 
 ## Condition
 
@@ -418,35 +418,35 @@ By 1967–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 8
+label: 8
 
-Title: Kohl Tube
+title: Kohl Tube
 
-Accession_number: 2003.162
+accession_number: 2003.162
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221529>
+collection_link: <https://www.getty.edu/art/collection/objects/221529>
 
-Dimensions: H. 9.4, Diam. rim 1.00, max. Diam. 1.4 cm; Wt. 27.51 g
+dimensions: H. 9.4, Diam. rim 1.00, max. Diam. 1.4 cm; Wt. 27.51 g
 
-Date: Fifth century BCE
+date: Fifth century BCE
 
-Start_date: -500
+start_date: -500
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Western Asiatic, probably northwestern Iran, area of Ardebil, perhaps Azerbaijan
+attribution: Production area: Western Asiatic, probably northwestern Iran, area of Ardebil, perhaps Azerbaijan
 
-Culture: Near Eastern, Achaemenid (Persian)
+culture: Near Eastern, Achaemenid (Persian)
 
-Material: Dark blue; opaque red and yellow glass
+material: Dark blue; opaque red and yellow glass
 
-Modeling technique and decoration: Rod-formed; applied elements
+modeling_technique_and_decoration: Rod-formed; applied elements
 
-Inscription: No
+inscription: No
 
-Shape: Kohl tubes
+shape: Kohl tubes
 
-Technique: Rod-formed
+technique: Rod-formed
 
 ## Condition
 
@@ -476,35 +476,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 9
+label: 9
 
-Title: Balsamarium or Kohl Tube
+title: Balsamarium or Kohl Tube
 
-Accession_number: 2003.163
+accession_number: 2003.163
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221530>
+collection_link: <https://www.getty.edu/art/collection/objects/221530>
 
-Dimensions: H. 6.9, max. Diam. 1.6, Th. 0.2 cm; Wt. 15.30 g
+dimensions: H. 6.9, max. Diam. 1.6, Th. 0.2 cm; Wt. 15.30 g
 
-Date: Fifth century BCE
+date: Fifth century BCE
 
-Start_date: -500
+start_date: -500
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Western Asiatic, probably northwestern Iran
+attribution: Production area: Western Asiatic, probably northwestern Iran
 
-Culture: Near Eastern, Achaemenid (Persian)
+culture: Near Eastern, Achaemenid (Persian)
 
-Material: Dark green glass, appearing black
+material: Dark green glass, appearing black
 
-Modeling technique and decoration: Rod-formed; applied unmarvered thread
+modeling_technique_and_decoration: Rod-formed; applied unmarvered thread
 
-Inscription: No
+inscription: No
 
-Shape: Kohl tubes
+shape: Kohl tubes
 
-Technique: Rod-formed
+technique: Rod-formed
 
 ## Condition
 
@@ -534,35 +534,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 10
+label: 10
 
-Title: Alabastron
+title: Alabastron
 
-Accession_number: 2003.180
+accession_number: 2003.180
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221547>
+collection_link: <https://www.getty.edu/art/collection/objects/221547>
 
-Dimensions: H. 10.3, Diam. rim 3. 9, max. Diam. 3.0 cm; Wt. 94.98 g
+dimensions: H. 10.3, Diam. rim 3. 9, max. Diam. 3.0 cm; Wt. 94.98 g
 
-Date: Late sixth century BCE through fifth century BCE
+date: Late sixth century BCE through fifth century BCE
 
-Start_date: -533
+start_date: -533
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Eastern Mediterranean, possibly Rhodes
+attribution: Production area: Eastern Mediterranean, possibly Rhodes
 
-Culture: Greek
+culture: Greek
 
-Material: Opaque white and translucent purple glass
+material: Opaque white and translucent purple glass
 
-Modeling technique and decoration: Core-formed, applied rim-disk, handles, and marvered thread. Remains of whitish core in the interior. Some crust on the handles
+modeling_technique_and_decoration: Core-formed, applied rim-disk, handles, and marvered thread. Remains of whitish core in the interior. Some crust on the handles
 
-Inscription: No
+inscription: No
 
-Shape: Alabastra
+shape: Alabastra
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -594,35 +594,35 @@ This alabastron belongs to the earliest group of Aegean core-formed vessels, dat
 
 None
 
-Label: 11
+label: 11
 
-Title: Alabastron
+title: Alabastron
 
-Accession_number: 2004.5
+accession_number: 2004.5
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221456>
+collection_link: <https://www.getty.edu/art/collection/objects/221456>
 
-Dimensions: H. 13.2, Diam. rim 3.4, max. Diam. 4.2 cm; Wt. 99.43 g
+dimensions: H. 13.2, Diam. rim 3.4, max. Diam. 4.2 cm; Wt. 99.43 g
 
-Date: Late sixth–fifth century BCE
+date: Late sixth–fifth century BCE
 
-Start_date: -533
+start_date: -533
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Eastern Mediterranean, possibly Rhodes
+attribution: Production area: Eastern Mediterranean, possibly Rhodes
 
-Culture: Greek
+culture: Greek
 
-Material: Opaque white and translucent purple glass
+material: Opaque white and translucent purple glass
 
-Modeling technique and decoration: Core-formed, applied rim-disk and handles; applied marvered and unmarvered threads
+modeling_technique_and_decoration: Core-formed, applied rim-disk and handles; applied marvered and unmarvered threads
 
-Inscription: No
+inscription: No
 
-Shape: Alabastra
+shape: Alabastra
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -650,35 +650,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 12
+label: 12
 
-Title: Alabastron
+title: Alabastron
 
-Accession_number: 2003.181
+accession_number: 2003.181
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221548>
+collection_link: <https://www.getty.edu/art/collection/objects/221548>
 
-Dimensions: H. 10.6, Diam. rim 3.0, max. Diam. 2.5 cm; Wt. 43.38 g
+dimensions: H. 10.6, Diam. rim 3.0, max. Diam. 2.5 cm; Wt. 43.38 g
 
-Date: Late sixth–fifth century BCE
+date: Late sixth–fifth century BCE
 
-Start_date: -533
+start_date: -533
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Eastern Mediterranean, possibly Rhodes
+attribution: Production area: Eastern Mediterranean, possibly Rhodes
 
-Culture: Greek
+culture: Greek
 
-Material: Opaque green and yellow glass
+material: Opaque green and yellow glass
 
-Modeling technique and decoration: Core-formed, applied rim-disk, handles, and marvered thread. Remains of reddish core in the interior
+modeling_technique_and_decoration: Core-formed, applied rim-disk, handles, and marvered thread. Remains of reddish core in the interior
 
-Inscription: No
+inscription: No
 
-Shape: Alabastra
+shape: Alabastra
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -706,35 +706,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 13
+label: 13
 
-Title: Alabastron
+title: Alabastron
 
-Accession_number: 2004.6
+accession_number: 2004.6
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221457>
+collection_link: <https://www.getty.edu/art/collection/objects/221457>
 
-Dimensions: H. 9.4, Diam. rim 3.0, max. Diam. 2.6 cm; Wt. 39.0 g
+dimensions: H. 9.4, Diam. rim 3.0, max. Diam. 2.6 cm; Wt. 39.0 g
 
-Date: Fifth century BCE
+date: Fifth century BCE
 
-Start_date: -500
+start_date: -500
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Eastern Mediterranean, probably Rhodes
+attribution: Production area: Eastern Mediterranean, probably Rhodes
 
-Culture: Greek
+culture: Greek
 
-Material: Dark purple (seemingly black); opaque white glass
+material: Dark purple (seemingly black); opaque white glass
 
-Modeling technique and decoration: Core-formed, applied rim-disk, handles, and marvered thread
+modeling_technique_and_decoration: Core-formed, applied rim-disk, handles, and marvered thread
 
-Inscription: No
+inscription: No
 
-Shape: Alabastra
+shape: Alabastra
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -764,35 +764,35 @@ On core-formed alabastra see comments on [2003.180](#cat). For the classificatio
 
 None
 
-Label: 14
+label: 14
 
-Title: Alabastron
+title: Alabastron
 
-Accession_number: 2003.190
+accession_number: 2003.190
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221557>
+collection_link: <https://www.getty.edu/art/collection/objects/221557>
 
-Dimensions: H. 12.5, Diam. rim 3.0, max. Diam. 3.2 cm; Wt. 60.16 g
+dimensions: H. 12.5, Diam. rim 3.0, max. Diam. 3.2 cm; Wt. 60.16 g
 
-Date: Late sixth–fifth century BCE
+date: Late sixth–fifth century BCE
 
-Start_date: -533
+start_date: -533
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Eastern Mediterranean, possibly Syro-Palestinian region
+attribution: Production area: Eastern Mediterranean, possibly Syro-Palestinian region
 
-Culture: Greek
+culture: Greek
 
-Material: Dark blue, opaque white and yellow glass, with bronze
+material: Dark blue, opaque white and yellow glass, with bronze
 
-Modeling technique and decoration: Core-formed, applied rim-disk, handles, and marvered thread
+modeling_technique_and_decoration: Core-formed, applied rim-disk, handles, and marvered thread
 
-Inscription: No
+inscription: No
 
-Shape: Alabastra
+shape: Alabastra
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -820,35 +820,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 15
+label: 15
 
-Title: Alabastron
+title: Alabastron
 
-Accession_number: 2003.196
+accession_number: 2003.196
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221563>
+collection_link: <https://www.getty.edu/art/collection/objects/221563>
 
-Dimensions: H. 6.7, Diam. rim 1.8, max. Diam. 2.2 cm; Wt. 17.73 g
+dimensions: H. 6.7, Diam. rim 1.8, max. Diam. 2.2 cm; Wt. 17.73 g
 
-Date: Late sixth–fifth century BCE
+date: Late sixth–fifth century BCE
 
-Start_date: -533
+start_date: -533
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Eastern Mediterranean, possibly Syro-Palestinian region
+attribution: Production area: Eastern Mediterranean, possibly Syro-Palestinian region
 
-Culture: Greek
+culture: Greek
 
-Material: Dark blue; opaque turquoise and yellow glass
+material: Dark blue; opaque turquoise and yellow glass
 
-Modeling technique and decoration: Core-formed; applied rim-disk and handles; applied marvered threads
+modeling_technique_and_decoration: Core-formed; applied rim-disk and handles; applied marvered threads
 
-Inscription: No
+inscription: No
 
-Shape: Alabastra
+shape: Alabastra
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -876,35 +876,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 16
+label: 16
 
-Title: Alabastron
+title: Alabastron
 
-Accession_number: 2003.185
+accession_number: 2003.185
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221552>
+collection_link: <https://www.getty.edu/art/collection/objects/221552>
 
-Dimensions: H. 9.4, Diam. rim 3.0, max. Diam. 2.9 cm; Wt. 37.24 g
+dimensions: H. 9.4, Diam. rim 3.0, max. Diam. 2.9 cm; Wt. 37.24 g
 
-Date: Late sixth through fifth century BCE
+date: Late sixth through fifth century BCE
 
-Start_date: -533
+start_date: -533
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Eastern Mediterranean
+attribution: Production area: Eastern Mediterranean
 
-Culture: Greek
+culture: Greek
 
-Material: Dark blue; opaque turquoise glass, with bronze
+material: Dark blue; opaque turquoise glass, with bronze
 
-Modeling technique and decoration: Core-formed, applied disk-rim, handles, and marvered threads
+modeling_technique_and_decoration: Core-formed, applied disk-rim, handles, and marvered threads
 
-Inscription: No
+inscription: No
 
-Shape: Alabastra
+shape: Alabastra
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -936,37 +936,37 @@ On core-formed alabastra see comments on [2003.180](#cat). For the classificatio
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 17
+label: 17
 
-Title: Alabastron
+title: Alabastron
 
-Accession_number: 2003.182
+accession_number: 2003.182
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221549>
+collection_link: <https://www.getty.edu/art/collection/objects/221549>
 
-Dimensions: H. 8.7, Diam. rim 3.4, max. Diam. 2.8 cm; Wt. 44.54 g
+dimensions: H. 8.7, Diam. rim 3.4, max. Diam. 2.8 cm; Wt. 44.54 g
 
-Date: Fifth century BCE
+date: Fifth century BCE
 
-Start_date: -500
+start_date: -500
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Eastern Mediterranean
+attribution: Production area: Eastern Mediterranean
 
 Find area: Olbia, Ukraine
 
-Culture: Greek
+culture: Greek
 
-Material: Dark, probably purple; opaque white and yellow glass
+material: Dark, probably purple; opaque white and yellow glass
 
-Modeling technique and decoration: Core-formed, applied rim-disk, handles, and marvered thread
+modeling_technique_and_decoration: Core-formed, applied rim-disk, handles, and marvered thread
 
-Inscription: No
+inscription: No
 
-Shape: Alabastra
+shape: Alabastra
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -994,35 +994,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 18
+label: 18
 
-Title: Alabastron
+title: Alabastron
 
-Accession_number: 2003.183
+accession_number: 2003.183
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221550>
+collection_link: <https://www.getty.edu/art/collection/objects/221550>
 
-Dimensions: H. 9, Diam. rim 2.5, max. Diam. 2.6 cm; Wt. 34.54 g
+dimensions: H. 9, Diam. rim 2.5, max. Diam. 2.6 cm; Wt. 34.54 g
 
-Date: Fifth century BCE
+date: Fifth century BCE
 
-Start_date: -500
+start_date: -500
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Eastern Mediterranean, possibly Rhodes
+attribution: Production area: Eastern Mediterranean, possibly Rhodes
 
-Culture: Greek
+culture: Greek
 
-Material: Brownish-purple and opaque turquoise glass
+material: Brownish-purple and opaque turquoise glass
 
-Modeling technique and decoration: Core-formed, applied disk-rim, handles, and marvered threads
+modeling_technique_and_decoration: Core-formed, applied disk-rim, handles, and marvered threads
 
-Inscription: No
+inscription: No
 
-Shape: Alabastra
+shape: Alabastra
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -1052,35 +1052,35 @@ On core-formed alabastra see comments on [2003.180](#cat). For the classificatio
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 19
+label: 19
 
-Title: Alabastron
+title: Alabastron
 
-Accession_number: 2003.184
+accession_number: 2003.184
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221551>
+collection_link: <https://www.getty.edu/art/collection/objects/221551>
 
-Dimensions: H. 9.9, Diam. rim 3.2, max. Diam. 2.5 cm; Wt. 43.59 g
+dimensions: H. 9.9, Diam. rim 3.2, max. Diam. 2.5 cm; Wt. 43.59 g
 
-Date: Fifth century BCE
+date: Fifth century BCE
 
-Start_date: -500
+start_date: -500
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Eastern Mediterranean, possibly Rhodes
+attribution: Production area: Eastern Mediterranean, possibly Rhodes
 
-Culture: Greek
+culture: Greek
 
-Material: Purple; opaque yellow, turquoise glass
+material: Purple; opaque yellow, turquoise glass
 
-Modeling technique and decoration: Core-formed, applied disk-rim, handles, and marvered threads
+modeling_technique_and_decoration: Core-formed, applied disk-rim, handles, and marvered threads
 
-Inscription: No
+inscription: No
 
-Shape: Alabastra
+shape: Alabastra
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -1108,35 +1108,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 None
 
-Label: 20
+label: 20
 
-Title: Alabastron
+title: Alabastron
 
-Accession_number: 2003.189
+accession_number: 2003.189
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221556>
+collection_link: <https://www.getty.edu/art/collection/objects/221556>
 
-Dimensions: H. 10.0, Diam. rim 2.8, max. Diam. 2.6 cm; Wt. 48.54 g
+dimensions: H. 10.0, Diam. rim 2.8, max. Diam. 2.6 cm; Wt. 48.54 g
 
-Date: Fifth century BCE
+date: Fifth century BCE
 
-Start_date: -500
+start_date: -500
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Eastern Mediterranean, possibly Rhodes
+attribution: Production area: Eastern Mediterranean, possibly Rhodes
 
-Culture: Greek
+culture: Greek
 
-Material: Purple; opaque yellow, turquoise glass
+material: Purple; opaque yellow, turquoise glass
 
-Modeling technique and decoration: Core-formed, applied disk-rim, handles, and marvered threads
+modeling_technique_and_decoration: Core-formed, applied disk-rim, handles, and marvered threads
 
-Inscription: No
+inscription: No
 
-Shape: Alabastra
+shape: Alabastra
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -1164,35 +1164,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 21
+label: 21
 
-Title: Alabastron
+title: Alabastron
 
-Accession_number: 2003.186
+accession_number: 2003.186
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221553>
+collection_link: <https://www.getty.edu/art/collection/objects/221553>
 
-Dimensions: H. 10.4, Diam. rim 3.2, Diam. body 2.6 cm; Wt. 44.25 g
+dimensions: H. 10.4, Diam. rim 3.2, Diam. body 2.6 cm; Wt. 44.25 g
 
-Date: Fifth century BCE
+date: Fifth century BCE
 
-Start_date: -500
+start_date: -500
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Eastern Mediterranean, possibly Rhodes
+attribution: Production area: Eastern Mediterranean, possibly Rhodes
 
-Culture: Greek
+culture: Greek
 
-Material: Translucent light green/gray; opaque turquoise and yellow glass
+material: Translucent light green/gray; opaque turquoise and yellow glass
 
-Modeling technique and decoration: Core-formed, applied disk-rim, handles, and marvered threads
+modeling_technique_and_decoration: Core-formed, applied disk-rim, handles, and marvered threads
 
-Inscription: No
+inscription: No
 
-Shape: Alabastra
+shape: Alabastra
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -1220,35 +1220,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 22
+label: 22
 
-Title: Alabastron
+title: Alabastron
 
-Accession_number: 2003.193
+accession_number: 2003.193
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221560>
+collection_link: <https://www.getty.edu/art/collection/objects/221560>
 
-Dimensions: H. 16.5, Diam. rim 5.9, max. Diam. 4.3 cm; Wt. 137.51 g
+dimensions: H. 16.5, Diam. rim 5.9, max. Diam. 4.3 cm; Wt. 137.51 g
 
-Date: Mid fourth–early third century BCE
+date: Mid fourth–early third century BCE
 
-Start_date: -350
+start_date: -350
 
-End_date: -267
+end_date: -267
 
-Attribution: Production area: Eastern Mediterranean
+attribution: Production area: Eastern Mediterranean
 
-Culture: Greek
+culture: Greek
 
-Material: Translucent blue; opaque yellow, turquoise, and white glass
+material: Translucent blue; opaque yellow, turquoise, and white glass
 
-Modeling technique and decoration: Core-formed, applied rim-disk, handles, and unmarvered and marvered threads. Tooling marks on the upper- and underside of the rim and on the neck. Whitish core remains in the interior
+modeling_technique_and_decoration: Core-formed, applied rim-disk, handles, and unmarvered and marvered threads. Tooling marks on the upper- and underside of the rim and on the neck. Whitish core remains in the interior
 
-Inscription: No
+inscription: No
 
-Shape: Alabastra
+shape: Alabastra
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -1280,35 +1280,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 23
+label: 23
 
-Title: Alabastron
+title: Alabastron
 
-Accession_number: 2003.187
+accession_number: 2003.187
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221554>
+collection_link: <https://www.getty.edu/art/collection/objects/221554>
 
-Dimensions: H. 13.3, Diam. rim 3.6, max. Diam. 3.3 cm; Wt. 78.31 g
+dimensions: H. 13.3, Diam. rim 3.6, max. Diam. 3.3 cm; Wt. 78.31 g
 
-Date: Mid fourth-century through early third century BCE
+date: Mid fourth-century through early third century BCE
 
-Start_date: -350
+start_date: -350
 
-End_date: -267
+end_date: -267
 
-Attribution: Production area: Eastern Mediterranean. Allegedly from Olbia, Ukraine
+attribution: Production area: Eastern Mediterranean. Allegedly from Olbia, Ukraine
 
-Culture: Greek
+culture: Greek
 
-Material: Dark blue and opaque yellow glass
+material: Dark blue and opaque yellow glass
 
-Modeling technique and decoration: Core-formed, applied rim-disk, handles, and unmarvered and marvered threads
+modeling_technique_and_decoration: Core-formed, applied rim-disk, handles, and unmarvered and marvered threads
 
-Inscription: No
+inscription: No
 
-Shape: Alabastra
+shape: Alabastra
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -1338,35 +1338,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 None
 
-Label: 24
+label: 24
 
-Title: Alabastron
+title: Alabastron
 
-Accession number: 2003.191
+accession_number: 2003.191
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221558>
+collection_link: <https://www.getty.edu/art/collection/objects/221558>
 
-Dimensions: H. 18.4, Diam. rim 6.1, max. Diam. 4.8 cm; Wt. 281.38 g
+dimensions: H. 18.4, Diam. rim 6.1, max. Diam. 4.8 cm; Wt. 281.38 g
 
-Date: Second half of the fourth century BCE
+date: Second half of the fourth century BCE
 
-Start date: -350
+start_date: -350
 
-End date: -301
+end_date: -301
 
-Attribution: Production area: Eastern Mediterranean
+attribution: Production area: Eastern Mediterranean
 
-Culture: Greek
+culture: Greek
 
-Material: Dark blue; opaque yellow and white glass
+material: Dark blue; opaque yellow and white glass
 
-Modeling technique and decoration: Core-formed, applied rim-disk, handles, and unmarvered and marvered threads. Tooling marks on the underside of the rim and the neck
+modeling_technique_and_decoration: Core-formed, applied rim-disk, handles, and unmarvered and marvered threads. Tooling marks on the underside of the rim and the neck
 
-Inscription: No
+inscription: No
 
-Shape: Alabastra
+shape: Alabastra
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -1396,35 +1396,35 @@ Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
 Art of Alchemy (Los Angeles, 2016–2017)
 
-Label: 25
+label: 25
 
-Title: Alabastron
+title: Alabastron
 
-Accession number: 2004.7
+accession_number: 2004.7
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221458>
+collection_link: <https://www.getty.edu/art/collection/objects/221458>
 
-Dimensions: H. 10.0, Diam. rim 3.5, max. Diam. 3.1 cm; Wt. 52.08 g
+dimensions: H. 10.0, Diam. rim 3.5, max. Diam. 3.1 cm; Wt. 52.08 g
 
-Date: Mid-fourth through early third century BCE
+date: Mid-fourth through early third century BCE
 
-Start date: -366
+start_date: -366
 
-End date: -267
+end_date: -267
 
-Attribution: Production area: Eastern Mediterranean or Italian
+attribution: Production area: Eastern Mediterranean or Italian
 
-Culture: Greek
+culture: Greek
 
-Material: Dark blue and opaque yellow glass
+material: Dark blue and opaque yellow glass
 
-Modeling technique and decoration: Core-formed, applied rim, lugs, and decorative threads
+modeling_technique_and_decoration: Core-formed, applied rim, lugs, and decorative threads
 
-Inscription: No
+inscription: No
 
-Shape: Alabastra
+shape: Alabastra
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -1452,35 +1452,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 26
+label: 26
 
-Title: Alabastron
+title: Alabastron
 
-Accession number: 2004.8
+accession_number: 2004.8
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221459>
+collection_link: <https://www.getty.edu/art/collection/objects/221459>
 
-Dimensions: H. 5.7, Diam. rim 2.2, max. Diam. 1.9 cm; Wt. 16.68 g
+dimensions: H. 5.7, Diam. rim 2.2, max. Diam. 1.9 cm; Wt. 16.68 g
 
-Date: Mid-fourth to early third century BCE
+date: Mid-fourth to early third century BCE
 
-Start date: -366
+start_date: -366
 
-End date: -267
+end_date: -267
 
-Attribution: Production area: Eastern Mediterranean or Italian
+attribution: Production area: Eastern Mediterranean or Italian
 
-Culture: Greek
+culture: Greek
 
-Material: Dark blue and opaque yellow glass
+material: Dark blue and opaque yellow glass
 
-Modeling technique and decoration: Core-formed, applied rim-disk, handles, and unmarvered and marvered threads
+modeling_technique_and_decoration: Core-formed, applied rim-disk, handles, and unmarvered and marvered threads
 
-Inscription: No
+inscription: No
 
-Shape: Alabastra
+shape: Alabastra
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -1516,35 +1516,35 @@ Louis de Clercq, French, 1836–1901 (Paris, France); by 1974–1988, Erwin Oppe
 
 -   Römisch-Germanisches Museum (Cologne, June 20 to September 14, 1975)
 
-Label: 27
+label: 27
 
-Title: Alabastron
+title: Alabastron
 
-Accession number: 2003.192
+accession_number: 2003.192
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221559>
+collection_link: <https://www.getty.edu/art/collection/objects/221559>
 
-Dimensions: H. 13.5, Diam. rim 3.0, max. Diam. 2.5 cm; Wt. 67.15 g
+dimensions: H. 13.5, Diam. rim 3.0, max. Diam. 2.5 cm; Wt. 67.15 g
 
-Date: Possibly fourth–first century BCE, quite probably nineteenth or twentieth century CE
+date: Possibly fourth–first century BCE, quite probably nineteenth or twentieth century CE
 
-Start date: -400
+start_date: -400
 
-End date: -1
+end_date: -1
 
-Attribution: Production area: Eastern Mediterranean
+attribution: Production area: Eastern Mediterranean
 
-Culture: Greek
+culture: Greek
 
-Material: Translucent purple; opaque yellow and white glass
+material: Translucent purple; opaque yellow and white glass
 
-Modeling technique and decoration: Core-formed, applied lugs, and marvered threads. Whitish core remains in the interior
+modeling_technique_and_decoration: Core-formed, applied lugs, and marvered threads. Whitish core remains in the interior
 
-Inscription: No
+inscription: No
 
-Shape: Alabastra
+shape: Alabastra
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -1576,35 +1576,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 28
+label: 28
 
-Title: Alabastron
+title: Alabastron
 
-Accession_number: 2003.188
+accession_number: 2003.188
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221555>
+collection_link: <https://www.getty.edu/art/collection/objects/221555>
 
-Dimensions: H. 13.3, Diam. rim 3.3, max. Diam. 3.4 cm; Wt. 65.42 g
+dimensions: H. 13.3, Diam. rim 3.3, max. Diam. 3.4 cm; Wt. 65.42 g
 
-Date: Third through second century BCE
+date: Third through second century BCE
 
-Start_date: -300
+start_date: -300
 
-End_date: -101
+end_date: -101
 
-Attribution: Production area: Eastern Mediterranean
+attribution: Production area: Eastern Mediterranean
 
-Culture: Greek
+culture: Greek
 
-Material: Dark blue; opaque white and yellow glass
+material: Dark blue; opaque white and yellow glass
 
-Modeling technique and decoration: Core-formed, applied disk-rim, lugs, and marvered threads
+modeling_technique_and_decoration: Core-formed, applied disk-rim, lugs, and marvered threads
 
-Inscription: No
+inscription: No
 
-Shape: Alabastra
+shape: Alabastra
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -1632,35 +1632,35 @@ Louis de Clercq, French, 1836–1901; by 1974–1988, Erwin Oppenländer, 1901�
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 29
+label: 29
 
-Title: Alabastron
+title: Alabastron
 
-Accession_number: 2003.194
+accession_number: 2003.194
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221561>
+collection_link: <https://www.getty.edu/art/collection/objects/221561>
 
-Dimensions: H. 12.2, Diam. rim 2.1, max. Diam. 2.6 cm; Wt. 38.75 g
+dimensions: H. 12.2, Diam. rim 2.1, max. Diam. 2.6 cm; Wt. 38.75 g
 
-Date: Second–mid-first century BCE
+date: Second–mid-first century BCE
 
-Start_date: -200
+start_date: -200
 
-End_date: -34
+end_date: -34
 
-Attribution: Production area: Eastern Mediterranean
+attribution: Production area: Eastern Mediterranean
 
-Culture: Greek
+culture: Greek
 
-Material: Dark green and opaque white glass
+material: Dark green and opaque white glass
 
-Modeling technique and decoration: Core-formed, applied lugs, and marvered thread. Remains of whitish core in the interior
+modeling_technique_and_decoration: Core-formed, applied lugs, and marvered thread. Remains of whitish core in the interior
 
-Inscription: No
+inscription: No
 
-Shape: Alabastra
+shape: Alabastra
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -1688,35 +1688,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 30
+label: 30
 
-Title: Alabastron
+title: Alabastron
 
-Accession_number: 2004.22
+accession_number: 2004.22
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221480>
+collection_link: <https://www.getty.edu/art/collection/objects/221480>
 
-Dimensions: H. 13.3, Diam. rim 2.5, max. Diam. 2.3 cm; Wt. 24.26 g
+dimensions: H. 13.3, Diam. rim 2.5, max. Diam. 2.3 cm; Wt. 24.26 g
 
-Date: First century BCE–first century CE
+date: First century BCE–first century CE
 
-Start_date: -100
+start_date: -100
 
-End_date: 99
+end_date: 99
 
-Attribution: Production area: Eastern Mediterranean or Italy
+attribution: Production area: Eastern Mediterranean or Italy
 
-Culture: Greek
+culture: Greek
 
-Material: Opaque light bluish glass with white striations
+material: Opaque light bluish glass with white striations
 
-Modeling technique and decoration: Sagging, or blowing
+modeling_technique_and_decoration: Sagging, or blowing
 
-Inscription: No
+inscription: No
 
-Shape: Alabastra
+shape: Alabastra
 
-Technique: Probably cast, possibly core-formed
+technique: Probably cast, possibly core-formed
 
 ## Condition
 
@@ -1744,35 +1744,35 @@ Louis de Clercq, French, 1836–1901 (Paris, France); by 1974–1988, Erwin Oppe
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 31
+label: 31
 
-Title: Alabastron
+title: Alabastron
 
-Accession_number: 2003.195
+accession_number: 2003.195
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221562>
+collection_link: <https://www.getty.edu/art/collection/objects/221562>
 
-Dimensions: H. 12.5, Diam. rim 2.4, max. Diam. 3.3, Th. 0.3 cm; Wt. 55.16 g
+dimensions: H. 12.5, Diam. rim 2.4, max. Diam. 3.3, Th. 0.3 cm; Wt. 55.16 g
 
-Date: Second–mid-first century BCE
+date: Second–mid-first century BCE
 
-Start_date: -200
+start_date: -200
 
-End_date: -34
+end_date: -34
 
-Attribution: Production area: Eastern Mediterranean, possibly Syro-Palestinian region
+attribution: Production area: Eastern Mediterranean, possibly Syro-Palestinian region
 
-Culture: Greek
+culture: Greek
 
-Material: Dark blue and opaque white glass
+material: Dark blue and opaque white glass
 
-Modeling technique and decoration: Core-formed; applied rim-disk and lugs; applied marvered threads
+modeling_technique_and_decoration: Core-formed; applied rim-disk and lugs; applied marvered threads
 
-Inscription: No
+inscription: No
 
-Shape: Alabastra
+shape: Alabastra
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -1800,35 +1800,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 None
 
-Label: 32
+label: 32
 
-Title: Alabastron
+title: Alabastron
 
-Accession_number: 2003.197
+accession_number: 2003.197
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221564>
+collection_link: <https://www.getty.edu/art/collection/objects/221564>
 
-Dimensions: H. 11.4, Diam. rim 2.4, max. Diam. 4.4 cm; Wt. 67.24 g
+dimensions: H. 11.4, Diam. rim 2.4, max. Diam. 4.4 cm; Wt. 67.24 g
 
-Date: Second–mid-first century BCE
+date: Second–mid-first century BCE
 
-Start_date: -200
+start_date: -200
 
-End_date: -34
+end_date: -34
 
-Attribution: Production area: Eastern Mediterranean, possibly Syro-Palestinian region
+attribution: Production area: Eastern Mediterranean, possibly Syro-Palestinian region
 
-Culture: Greek
+culture: Greek
 
-Material: Translucent dark blue; opaque turquoise and yellow glass
+material: Translucent dark blue; opaque turquoise and yellow glass
 
-Modeling technique and decoration: Core-formed; applied rim-disk and lugs; applied marvered threads
+modeling_technique_and_decoration: Core-formed; applied rim-disk and lugs; applied marvered threads
 
-Inscription: No
+inscription: No
 
-Shape: Alabastra
+shape: Alabastra
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -1858,35 +1858,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 33
+label: 33
 
-Title: Alabastron
+title: Alabastron
 
-Accession_number: 2003.198
+accession_number: 2003.198
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221565>
+collection_link: <https://www.getty.edu/art/collection/objects/221565>
 
-Dimensions: H. 7.9, Diam. rim 2.5, max. Diam. 3.2, Th. 0.3 cm; Wt. 33.9 g
+dimensions: H. 7.9, Diam. rim 2.5, max. Diam. 3.2, Th. 0.3 cm; Wt. 33.9 g
 
-Date: Mid-second–mid-first century BCE
+date: Mid-second–mid-first century BCE
 
-Start_date: -166
+start_date: -166
 
-End_date: -34
+end_date: -34
 
-Attribution: Production area: Eastern Mediterranean, possibly Syro-Palestinian region
+attribution: Production area: Eastern Mediterranean, possibly Syro-Palestinian region
 
-Culture: Greek
+culture: Greek
 
-Material: Opaque dark blue and white glass
+material: Opaque dark blue and white glass
 
-Modeling technique and decoration: Core-formed; applied rim-disk and lugs; applied marvered threads
+modeling_technique_and_decoration: Core-formed; applied rim-disk and lugs; applied marvered threads
 
-Inscription: No
+inscription: No
 
-Shape: Alabastra
+shape: Alabastra
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -1914,35 +1914,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 None
 
-Label: 34
+label: 34
 
-Title: Amphoriskos
+title: Amphoriskos
 
-Accession_number: 2003.178
+accession_number: 2003.178
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221545>
+collection_link: <https://www.getty.edu/art/collection/objects/221545>
 
-Dimensions: H. 7, Diam. rim 2.9, max. Diam. 4.9, Diam. base 1.2 cm; Wt. 51.83 g
+dimensions: H. 7, Diam. rim 2.9, max. Diam. 4.9, Diam. base 1.2 cm; Wt. 51.83 g
 
-Date: Late sixth–fifth century BCE
+date: Late sixth–fifth century BCE
 
-Start_date: -533
+start_date: -533
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Eastern Mediterranean, possibly Rhodes
+attribution: Production area: Eastern Mediterranean, possibly Rhodes
 
-Culture: Greek
+culture: Greek
 
-Material: Opaque white and translucent purple glass
+material: Opaque white and translucent purple glass
 
-Modeling technique and decoration: Core-formed, rim, handles, and base applied; applied unmarvered and marvered threads
+modeling_technique_and_decoration: Core-formed, rim, handles, and base applied; applied unmarvered and marvered threads
 
-Inscription: No
+inscription: No
 
-Shape: Amphoriskoi
+shape: Amphoriskoi
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -1972,35 +1972,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 35
+label: 35
 
-Title: Amphoriskos
+title: Amphoriskos
 
-Accession_number: 2003.168
+accession_number: 2003.168
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221535>
+collection_link: <https://www.getty.edu/art/collection/objects/221535>
 
-Dimensions: H. 6.0, Diam. rim 2.2, max. Diam. 4.1, Diam. base 1.1 cm; Wt. 33 g
+dimensions: H. 6.0, Diam. rim 2.2, max. Diam. 4.1, Diam. base 1.1 cm; Wt. 33 g
 
-Date: Late sixth–fifth century BCE
+date: Late sixth–fifth century BCE
 
-Start_date: -533
+start_date: -533
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Eastern Mediterranean, possibly Rhodes
+attribution: Production area: Eastern Mediterranean, possibly Rhodes
 
-Culture: Greek
+culture: Greek
 
-Material: Translucent dark blue; opaque yellow and turquoise glass, with bronze chain
+material: Translucent dark blue; opaque yellow and turquoise glass, with bronze chain
 
-Modeling technique and decoration: Core-formed; applied rim and handles; applied marvered and unmarvered threads and base
+modeling_technique_and_decoration: Core-formed; applied rim and handles; applied marvered and unmarvered threads and base
 
-Inscription: No
+inscription: No
 
-Shape: Amphoriskoi
+shape: Amphoriskoi
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -2030,35 +2030,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 36
+label: 36
 
-Title: Amphoriskos
+title: Amphoriskos
 
-Accession_number: 2003.169
+accession_number: 2003.169
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221536>
+collection_link: <https://www.getty.edu/art/collection/objects/221536>
 
-Dimensions: H. 6.5, Diam. rim 2.6, max. Diam. 4.5, Diam. base 1.0 cm; Wt. 33.74 g
+dimensions: H. 6.5, Diam. rim 2.6, max. Diam. 4.5, Diam. base 1.0 cm; Wt. 33.74 g
 
-Date: Late sixth–fifth century BCE
+date: Late sixth–fifth century BCE
 
-Start_date: -533
+start_date: -533
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Eastern Mediterranean, possibly Rhodes
+attribution: Production area: Eastern Mediterranean, possibly Rhodes
 
-Culture: Greek
+culture: Greek
 
-Material: Translucent dark green; opaque yellow and turquoise glass
+material: Translucent dark green; opaque yellow and turquoise glass
 
-Modeling technique and decoration: Core-formed; applied rim and handles; applied marvered and unmarvered threads and base
+modeling_technique_and_decoration: Core-formed; applied rim and handles; applied marvered and unmarvered threads and base
 
-Inscription: No
+inscription: No
 
-Shape: Amphoriskoi
+shape: Amphoriskoi
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -2086,35 +2086,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 None
 
-Label: 37
+label: 37
 
-Title: Amphoriskos
+title: Amphoriskos
 
-Accession_number: 2003.171
+accession_number: 2003.171
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221538>
+collection_link: <https://www.getty.edu/art/collection/objects/221538>
 
-Dimensions: H. 8, Diam. rim 2.9, max. Diam. 4.8, Diam. base 1.0 cm; Wt. 49.66 g
+dimensions: H. 8, Diam. rim 2.9, max. Diam. 4.8, Diam. base 1.0 cm; Wt. 49.66 g
 
-Date: Late sixth–fifth century BCE
+date: Late sixth–fifth century BCE
 
-Start_date: -533
+start_date: -533
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Eastern Mediterranean, possibly Rhodes
+attribution: Production area: Eastern Mediterranean, possibly Rhodes
 
-Culture: Greek
+culture: Greek
 
-Material: Translucent dark blue; opaque yellow and turquoise glass
+material: Translucent dark blue; opaque yellow and turquoise glass
 
-Modeling technique and decoration: Core-formed; applied rim and handles; applied marvered and unmarvered threads and base
+modeling_technique_and_decoration: Core-formed; applied rim and handles; applied marvered and unmarvered threads and base
 
-Inscription: No
+inscription: No
 
-Shape: Amphoriskoi
+shape: Amphoriskoi
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -2142,35 +2142,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 None
 
-Label: 38
+label: 38
 
-Title: Amphoriskos
+title: Amphoriskos
 
-Accession_number: 2003.172
+accession_number: 2003.172
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221539>
+collection_link: <https://www.getty.edu/art/collection/objects/221539>
 
-Dimensions: H. 11, Diam. rim 3.3, max. Diam. 6.7, Diam. base 1.8 cm; Wt. 130.15 g
+dimensions: H. 11, Diam. rim 3.3, max. Diam. 6.7, Diam. base 1.8 cm; Wt. 130.15 g
 
-Date: Late sixth–fifth century BCE
+date: Late sixth–fifth century BCE
 
-Start_date: -533
+start_date: -533
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Eastern Mediterranean, possibly Rhodes
+attribution: Production area: Eastern Mediterranean, possibly Rhodes
 
-Culture: Greek
+culture: Greek
 
-Material: Translucent dark blue; opaque yellow glass
+material: Translucent dark blue; opaque yellow glass
 
-Modeling technique and decoration: Core-formed; applied rim and handles; applied marvered and unmarvered threads and base. Vertical indentations on the body caused by the tooling of the zigzags
+modeling_technique_and_decoration: Core-formed; applied rim and handles; applied marvered and unmarvered threads and base. Vertical indentations on the body caused by the tooling of the zigzags
 
-Inscription: No
+inscription: No
 
-Shape: Amphoriskoi
+shape: Amphoriskoi
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -2198,35 +2198,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 None
 
-Label: 39
+label: 39
 
-Title: Amphoriskos
+title: Amphoriskos
 
-Accession_number: 2003.173
+accession_number: 2003.173
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221540>
+collection_link: <https://www.getty.edu/art/collection/objects/221540>
 
-Dimensions: H. 7.1, Diam. rim 2.4, max. Diam. 4.5 cm; Wt. 44.01 g
+dimensions: H. 7.1, Diam. rim 2.4, max. Diam. 4.5 cm; Wt. 44.01 g
 
-Date: Late sixth–fifth century BCE
+date: Late sixth–fifth century BCE
 
-Start_date: -533
+start_date: -533
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Eastern Mediterranean, possibly Rhodes
+attribution: Production area: Eastern Mediterranean, possibly Rhodes
 
-Culture: Greek
+culture: Greek
 
-Material: Translucent dark blue; opaque yellow and turquoise glass
+material: Translucent dark blue; opaque yellow and turquoise glass
 
-Modeling technique and decoration: Core-formed; applied rim and handles; applied marvered and unmarvered threads
+modeling_technique_and_decoration: Core-formed; applied rim and handles; applied marvered and unmarvered threads
 
-Inscription: No
+inscription: No
 
-Shape: Amphoriskoi
+shape: Amphoriskoi
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -2254,35 +2254,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 40
+label: 40
 
-Title: Amphoriskos
+title: Amphoriskos
 
-Accession_number: 2003.170
+accession_number: 2003.170
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221537>
+collection_link: <https://www.getty.edu/art/collection/objects/221537>
 
-Dimensions: H. 7.3, Diam. rim 2.6, max. Diam. 4.4, Diam. base 1.2 cm; Wt. 40.10 g
+dimensions: H. 7.3, Diam. rim 2.6, max. Diam. 4.4, Diam. base 1.2 cm; Wt. 40.10 g
 
-Date: Fifth century BCE
+date: Fifth century BCE
 
-Start_date: -500
+start_date: -500
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Eastern Mediterranean, possibly Rhodes
+attribution: Production area: Eastern Mediterranean, possibly Rhodes
 
-Culture: Greek
+culture: Greek
 
-Material: Dark red and opaque white glass
+material: Dark red and opaque white glass
 
-Modeling technique and decoration: Core-formed; applied rim and handles; applied marvered and unmarvered threads and base
+modeling_technique_and_decoration: Core-formed; applied rim and handles; applied marvered and unmarvered threads and base
 
-Inscription: No
+inscription: No
 
-Shape: Amphoriskoi
+shape: Amphoriskoi
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -2312,35 +2312,35 @@ On core-formed amphoriskoi of this period see comments on [2003.178](#cat). For 
 
 None
 
-Label: 41
+label: 41
 
-Title: Amphoriskos
+title: Amphoriskos
 
-Accession_number: 2003.175
+accession_number: 2003.175
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221542>
+collection_link: <https://www.getty.edu/art/collection/objects/221542>
 
-Dimensions: H. 7.5, Diam. rim 2.5, max. Diam. 4.3, Diam. base 1 cm; Wt. 39.80g
+dimensions: H. 7.5, Diam. rim 2.5, max. Diam. 4.3, Diam. base 1 cm; Wt. 39.80g
 
-Date: Probably late sixth–fifth century BCE
+date: Probably late sixth–fifth century BCE
 
-Start_date: -533
+start_date: -533
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Eastern Mediterranean, possibly Rhodes
+attribution: Production area: Eastern Mediterranean, possibly Rhodes
 
-Culture: Greek
+culture: Greek
 
-Material: Translucent dark green (appearing black) and opaque white glass
+material: Translucent dark green (appearing black) and opaque white glass
 
-Modeling technique and decoration: Core-forming; applied rim and handles; applied unmarvered thread and base-knob
+modeling_technique_and_decoration: Core-forming; applied rim and handles; applied unmarvered thread and base-knob
 
-Inscription: No
+inscription: No
 
-Shape: Amphoriskoi
+shape: Amphoriskoi
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -2368,35 +2368,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 42
+label: 42
 
-Title: Unguentarium
+title: Unguentarium
 
-Accession_number: 2003.203
+accession_number: 2003.203
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221570>
+collection_link: <https://www.getty.edu/art/collection/objects/221570>
 
-Dimensions: H. 11.4, Diam. rim 2.5, max. Diam. 5.1, Diam. base 2.6 cm; Wt. 71.44 g
+dimensions: H. 11.4, Diam. rim 2.5, max. Diam. 5.1, Diam. base 2.6 cm; Wt. 71.44 g
 
-Date: Third century BCE
+date: Third century BCE
 
-Start_date: -300
+start_date: -300
 
-End_date: -201
+end_date: -201
 
-Attribution: Production area: Eastern Mediterranean, possibly Syro-Palestinian region
+attribution: Production area: Eastern Mediterranean, possibly Syro-Palestinian region
 
-Culture: Greek
+culture: Greek
 
-Material: Dark blue; opaque white and yellow glass
+material: Dark blue; opaque white and yellow glass
 
-Modeling technique and decoration: Core-formed; applied handles, base, and marvered threads
+modeling_technique_and_decoration: Core-formed; applied handles, base, and marvered threads
 
-Inscription: No
+inscription: No
 
-Shape: Unguentaria
+shape: Unguentaria
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -2424,35 +2424,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 43
+label: 43
 
-Title: Amphoriskos
+title: Amphoriskos
 
-Accession_number: 2003.200
+accession_number: 2003.200
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221567>
+collection_link: <https://www.getty.edu/art/collection/objects/221567>
 
-Dimensions: H. 14.6, Diam. rim 3, max. Diam. 4.5 cm; Wt. 129.39 g
+dimensions: H. 14.6, Diam. rim 3, max. Diam. 4.5 cm; Wt. 129.39 g
 
-Date: Mid-second to mid-first century BCE
+date: Mid-second to mid-first century BCE
 
-Start_date: -166
+start_date: -166
 
-End_date: -34
+end_date: -34
 
-Attribution: Production area: Eastern Mediterranean, probably Syro-Palestinian region or Cyprus
+attribution: Production area: Eastern Mediterranean, probably Syro-Palestinian region or Cyprus
 
-Culture: Greek
+culture: Greek
 
-Material: Translucent dark blue, almost transparent greenish, and opaque yellow glass
+material: Translucent dark blue, almost transparent greenish, and opaque yellow glass
 
-Modeling technique and decoration: Core-formed; applied rim, handles, base-knob, and marvered threads
+modeling_technique_and_decoration: Core-formed; applied rim, handles, base-knob, and marvered threads
 
-Inscription: No
+inscription: No
 
-Shape: Amphoriskoi
+shape: Amphoriskoi
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -2480,35 +2480,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 None
 
-Label: 44
+label: 44
 
-Title: Amphoriskos
+title: Amphoriskos
 
-Accession_number: 2003.201
+accession_number: 2003.201
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221568>
+collection_link: <https://www.getty.edu/art/collection/objects/221568>
 
-Dimensions: H. 12.5, Diam. rim 2.5, max. Diam. 5.2 cm; Wt. 117.62 g
+dimensions: H. 12.5, Diam. rim 2.5, max. Diam. 5.2 cm; Wt. 117.62 g
 
-Date: Mid-second to mid-first centuries BCE
+date: Mid-second to mid-first centuries BCE
 
-Start_date: -166
+start_date: -166
 
-End_date: -34
+end_date: -34
 
-Attribution: Production area: Eastern Mediterranean, probably Syro-Palestinian region or Cyprus
+attribution: Production area: Eastern Mediterranean, probably Syro-Palestinian region or Cyprus
 
-Culture: Greek
+culture: Greek
 
-Material: Translucent dark green; translucent to almost transparent amber-color; opaque white and yellow glass
+material: Translucent dark green; translucent to almost transparent amber-color; opaque white and yellow glass
 
-Modeling technique and decoration: Core-formed; applied rim, handles, base-knob, and marvered threads
+modeling_technique_and_decoration: Core-formed; applied rim, handles, base-knob, and marvered threads
 
-Inscription: No
+inscription: No
 
-Shape: Amphoriskoi
+shape: Amphoriskoi
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -2536,35 +2536,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 None
 
-Label: 45
+label: 45
 
-Title: Amphoriskos
+title: Amphoriskos
 
-Accession_number: 2003.202
+accession_number: 2003.202
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221569>
+collection_link: <https://www.getty.edu/art/collection/objects/221569>
 
-Dimensions: H. 11.4, Diam. rim 2.1, max. Diam. 5.1 cm; Wt. 118.41 g
+dimensions: H. 11.4, Diam. rim 2.1, max. Diam. 5.1 cm; Wt. 118.41 g
 
-Date: Second to mid-first century BCE with modern restorations
+date: Second to mid-first century BCE with modern restorations
 
-Start_date: -200
+start_date: -200
 
-End_date: -34
+end_date: -34
 
-Attribution: Production area: Eastern Mediterranean, possibly Syro-Palestinian region
+attribution: Production area: Eastern Mediterranean, possibly Syro-Palestinian region
 
-Culture: Greek
+culture: Greek
 
-Material: Translucent dark blue-green; transparent greenish; and opaque turquoise and yellow glass
+material: Translucent dark blue-green; transparent greenish; and opaque turquoise and yellow glass
 
-Modeling technique and decoration: Core-formed; applied handles and marvered threads
+modeling_technique_and_decoration: Core-formed; applied handles and marvered threads
 
-Inscription: No
+inscription: No
 
-Shape: Amphoriskoi
+shape: Amphoriskoi
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -2592,35 +2592,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 46
+label: 46
 
-Title: Amphoriskos
+title: Amphoriskos
 
-Accession_number: 2003.204
+accession_number: 2003.204
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221571>
+collection_link: <https://www.getty.edu/art/collection/objects/221571>
 
-Dimensions: H. 16, Diam. rim 2.8, max. Diam. 5.2 cm; Wt. 146.88 g
+dimensions: H. 16, Diam. rim 2.8, max. Diam. 5.2 cm; Wt. 146.88 g
 
-Date: Second to mid-first century BCE
+date: Second to mid-first century BCE
 
-Start_date: -200
+start_date: -200
 
-End_date: -34
+end_date: -34
 
-Attribution: Production area: Eastern Mediterranean, possibly Syro-Palestinian region
+attribution: Production area: Eastern Mediterranean, possibly Syro-Palestinian region
 
-Culture: Greek
+culture: Greek
 
-Material: Translucent dark blue and green; opaque white and red glass
+material: Translucent dark blue and green; opaque white and red glass
 
-Modeling technique and decoration: Core-formed; applied handles, base-knob, and marvered threads
+modeling_technique_and_decoration: Core-formed; applied handles, base-knob, and marvered threads
 
-Inscription: No
+inscription: No
 
-Shape: Amphoriskoi
+shape: Amphoriskoi
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -2648,35 +2648,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 47
+label: 47
 
-Title: Amphoriskos
+title: Amphoriskos
 
-Accession_number: 2003.199
+accession_number: 2003.199
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221566>
+collection_link: <https://www.getty.edu/art/collection/objects/221566>
 
-Dimensions: H. 10, Diam. rim 2.6, max. Diam. 4.6 cm; Wt. 49.93 g (with the fill)
+dimensions: H. 10, Diam. rim 2.6, max. Diam. 4.6 cm; Wt. 49.93 g (with the fill)
 
-Date: Mid-second–mid-first century BCE
+date: Mid-second–mid-first century BCE
 
-Start_date: -166
+start_date: -166
 
-End_date: -34
+end_date: -34
 
-Attribution: Production area: Eastern Mediterranean, possibly Syro-Palestinian region
+attribution: Production area: Eastern Mediterranean, possibly Syro-Palestinian region
 
-Culture: Greek
+culture: Greek
 
-Material: Dark blue; opaque yellow and white glass
+material: Dark blue; opaque yellow and white glass
 
-Modeling technique and decoration: Core-formed; applied rim-disk and marvered threads
+modeling_technique_and_decoration: Core-formed; applied rim-disk and marvered threads
 
-Inscription: No
+inscription: No
 
-Shape: Amphoriskoi
+shape: Amphoriskoi
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -2704,35 +2704,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 48
+label: 48
 
-Title: Oinochoe
+title: Oinochoe
 
-Accession_number: 2003.179
+accession_number: 2003.179
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221546>
+collection_link: <https://www.getty.edu/art/collection/objects/221546>
 
-Dimensions: H. 8.3, Diam. rim 3.1 × 2.4, max. Diam. 4.6, Diam. base 2.85 cm; Wt. 54.78 g
+dimensions: H. 8.3, Diam. rim 3.1 × 2.4, max. Diam. 4.6, Diam. base 2.85 cm; Wt. 54.78 g
 
-Date: Late sixth–fifth century BCE
+date: Late sixth–fifth century BCE
 
-Start_date: -533
+start_date: -533
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Eastern Mediterranean, possibly Rhodes
+attribution: Production area: Eastern Mediterranean, possibly Rhodes
 
-Culture: Greek
+culture: Greek
 
-Material: Opaque white and translucent purple glass
+material: Opaque white and translucent purple glass
 
-Modeling technique and decoration: Core-formed; applied rim-disk, handle, and base; applied unmarvered and marvered threads; tooling marks on the upper surface of the base. Whitish remains of the core in the interior
+modeling_technique_and_decoration: Core-formed; applied rim-disk, handle, and base; applied unmarvered and marvered threads; tooling marks on the upper surface of the base. Whitish remains of the core in the interior
 
-Inscription: No
+inscription: No
 
-Shape: Oinochoai
+shape: Oinochoai
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -2762,35 +2762,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 49
+label: 49
 
-Title: Oinochoe
+title: Oinochoe
 
-Accession_number: 2003.166
+accession_number: 2003.166
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221533>
+collection_link: <https://www.getty.edu/art/collection/objects/221533>
 
-Dimensions: H. 8, Diam. rim 3 × 2.3, max. Diam. 5.2, Diam. base 2.3 cm; Wt. 57.92 g
+dimensions: H. 8, Diam. rim 3 × 2.3, max. Diam. 5.2, Diam. base 2.3 cm; Wt. 57.92 g
 
-Date: Late sixth–fifth century BCE
+date: Late sixth–fifth century BCE
 
-Start_date: -533
+start_date: -533
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Eastern Mediterranean, possibly Rhodes
+attribution: Production area: Eastern Mediterranean, possibly Rhodes
 
-Culture: Greek
+culture: Greek
 
-Material: Dark blue; opaque yellow and turquoise glass
+material: Dark blue; opaque yellow and turquoise glass
 
-Modeling technique and decoration: Core-formed, applied handle, rim-disk, base, and unmarvered and marvered threads
+modeling_technique_and_decoration: Core-formed, applied handle, rim-disk, base, and unmarvered and marvered threads
 
-Inscription: No
+inscription: No
 
-Shape: Oinochoai
+shape: Oinochoai
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -2818,35 +2818,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 50
+label: 50
 
-Title: Oinochoe
+title: Oinochoe
 
-Accession_number: 2003.165
+accession_number: 2003.165
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221532>
+collection_link: <https://www.getty.edu/art/collection/objects/221532>
 
-Dimensions: H. 10.2, Diam. rim 4.6, max. Diam. 5.9, Diam. base 4.0 cm; Wt. 157.40 g
+dimensions: H. 10.2, Diam. rim 4.6, max. Diam. 5.9, Diam. base 4.0 cm; Wt. 157.40 g
 
-Date: Mid-fourth to early third century BCE
+date: Mid-fourth to early third century BCE
 
-Start_date: -366
+start_date: -366
 
-End_date: -267
+end_date: -267
 
-Attribution: Production area: Eastern Mediterranean or Italian
+attribution: Production area: Eastern Mediterranean or Italian
 
-Culture: Greek
+culture: Greek
 
-Material: Translucent dark blue; opaque yellow and white glass
+material: Translucent dark blue; opaque yellow and white glass
 
-Modeling technique and decoration: Core-formed; applied rim and handles; applied marvered and unmarvered threads and base
+modeling_technique_and_decoration: Core-formed; applied rim and handles; applied marvered and unmarvered threads and base
 
-Inscription: No
+inscription: No
 
-Shape: Oinochoai
+shape: Oinochoai
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
