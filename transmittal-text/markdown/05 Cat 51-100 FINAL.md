@@ -1,32 +1,32 @@
-Label: 51
+label: 51
 
-Title: Oinochoe
+title: Oinochoe
 
-Accession_number: 2003.167
+accession_number: 2003.167
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221534>
+collection_link: <https://www.getty.edu/art/collection/objects/221534>
 
-Dimensions: H. 5.8, Diam. rim 2.8, max. Diam. 3.7 cm; Wt. 32.33 g
+dimensions: H. 5.8, Diam. rim 2.8, max. Diam. 3.7 cm; Wt. 32.33 g
 
-Date: Late fourth–early third century BCE
+date: Late fourth–early third century BCE
 
-Start_date: -333
+start_date: -333
 
-End_date: -267
+end_date: -267
 
-Attribution: Production area: Eastern Mediterranean, possibly Rhodes
+attribution: Production area: Eastern Mediterranean, possibly Rhodes
 
-Culture: Greek
+culture: Greek
 
-Material: Dark blue; opaque white and turquoise glass
+material: Dark blue; opaque white and turquoise glass
 
-Modeling technique and decoration: Core-formed; applied handle, rim-disk, base, and unmarvered and marvered threads
+modeling_technique_and_decoration: Core-formed; applied handle, rim-disk, base, and unmarvered and marvered threads
 
-Inscription: No
+inscription: No
 
-Shape: Oinochoai
+shape: Oinochoai
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -54,35 +54,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 None
 
-Label: 52
+label: 52
 
-Title: Oinochoe
+title: Oinochoe
 
-Accession_number: 2003.164
+accession_number: 2003.164
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221531>
+collection_link: <https://www.getty.edu/art/collection/objects/221531>
 
-Dimensions: H. 8.8, Diam. rim 3.8 × 3.5, max. Diam. 4.4 cm (including handle), 4.2 (body) cm; Wt. 51.00 g
+dimensions: H. 8.8, Diam. rim 3.8 × 3.5, max. Diam. 4.4 cm (including handle), 4.2 (body) cm; Wt. 51.00 g
 
-Date: Mid-seventh century BCE–early sixth century BCE
+date: Mid-seventh century BCE–early sixth century BCE
 
-Start_date: -666
+start_date: -666
 
-End_date: –567
+end_date: –567
 
-Attribution: Production area: Italy
+attribution: Production area: Italy
 
-Culture: Etruscan
+culture: Etruscan
 
-Material: Translucent dark blue glass
+material: Translucent dark blue glass
 
-Modeling technique and decoration: Core-formed; applied elements
+modeling_technique_and_decoration: Core-formed; applied elements
 
-Inscription: No
+inscription: No
 
-Shape: Oinochoai
+shape: Oinochoai
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -130,35 +130,35 @@ By 1972, Gawain McKinley Ltd.; by 1974–1988, Erwin Oppenländer, 1901–1988 (
 
 -   Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 53
+label: 53
 
-Title: Aryballos
+title: Aryballos
 
-Accession_number: 2003.174
+accession_number: 2003.174
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221541>
+collection_link: <https://www.getty.edu/art/collection/objects/221541>
 
-Dimensions: H. 6, Diam. rim 2.6, max. Diam. 4.7 cm; Wt. 48.12 g
+dimensions: H. 6, Diam. rim 2.6, max. Diam. 4.7 cm; Wt. 48.12 g
 
-Date: Late sixth–fifth century BCE
+date: Late sixth–fifth century BCE
 
-Start_date: -533
+start_date: -533
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Eastern Mediterranean, possibly Rhodes
+attribution: Production area: Eastern Mediterranean, possibly Rhodes
 
-Culture: Greek
+culture: Greek
 
-Material: Translucent dark blue; opaque yellow and turquoise glass
+material: Translucent dark blue; opaque yellow and turquoise glass
 
-Modeling technique and decoration: Core-formed; applied rim and handles; applied marvered and unmarvered threads; vertical indentations on the body caused by the tooling of the zigzags
+modeling_technique_and_decoration: Core-formed; applied rim and handles; applied marvered and unmarvered threads; vertical indentations on the body caused by the tooling of the zigzags
 
-Inscription: No
+inscription: No
 
-Shape: Aryballoi
+shape: Aryballoi
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -188,35 +188,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 -   Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 54
+label: 54
 
-Title: Aryballos
+title: Aryballos
 
-Accession_number: 2003.177
+accession_number: 2003.177
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221544>
+collection_link: <https://www.getty.edu/art/collection/objects/221544>
 
-Dimensions: H. 6, Diam. rim 2.4, max. Diam. 4.4 cm; Wt. 34.64 g
+dimensions: H. 6, Diam. rim 2.4, max. Diam. 4.4 cm; Wt. 34.64 g
 
-Date: Late sixth–fifth century BCE
+date: Late sixth–fifth century BCE
 
-Start_date: -533
+start_date: -533
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Eastern Mediterranean, possibly Rhodes
+attribution: Production area: Eastern Mediterranean, possibly Rhodes
 
-Culture: Greek
+culture: Greek
 
-Material: Translucent dark blue; opaque yellow and turquoise glass
+material: Translucent dark blue; opaque yellow and turquoise glass
 
-Modeling technique and decoration: Core-formed; applied rim and handles; applied marvered and unmarvered threads
+modeling_technique_and_decoration: Core-formed; applied rim and handles; applied marvered and unmarvered threads
 
-Inscription: No
+inscription: No
 
-Shape: Aryballoi
+shape: Aryballoi
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -246,35 +246,35 @@ See comments on [2003.174](#cat). For the classification of this particular aryb
 
 -   Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 55
+label: 55
 
-Title: Aryballos
+title: Aryballos
 
-Accession_number: 2004.4
+accession_number: 2004.4
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221455>
+collection_link: <https://www.getty.edu/art/collection/objects/221455>
 
-Dimensions: H. 7.2, Diam. rim 2.8, max. Diam. 6.5 cm; Wt. 146.88 g
+dimensions: H. 7.2, Diam. rim 2.8, max. Diam. 6.5 cm; Wt. 146.88 g
 
-Date: Late sixth–fifth century BCE
+date: Late sixth–fifth century BCE
 
-Start_date: -533
+start_date: -533
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Eastern Mediterranean, possibly Rhodes
+attribution: Production area: Eastern Mediterranean, possibly Rhodes
 
-Culture: Greek
+culture: Greek
 
-Material: Dark blue; opaque yellow and turquoise glass
+material: Dark blue; opaque yellow and turquoise glass
 
-Modeling technique and decoration: Core-formed; applied rim, handles, and decorative threads and dots
+modeling_technique_and_decoration: Core-formed; applied rim, handles, and decorative threads and dots
 
-Inscription: No
+inscription: No
 
-Shape: Aryballoi
+shape: Aryballoi
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -302,35 +302,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 56
+label: 56
 
-Title: Aryballos
+title: Aryballos
 
-Accession_number: 2003.176
+accession_number: 2003.176
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221543>
+collection_link: <https://www.getty.edu/art/collection/objects/221543>
 
-Dimensions: H. 6.1, Diam. rim 2.7, max. Diam. 5, Th. 0.3 cm; Wt. 43.66 g
+dimensions: H. 6.1, Diam. rim 2.7, max. Diam. 5, Th. 0.3 cm; Wt. 43.66 g
 
-Date: Late sixth–fifth century BCE
+date: Late sixth–fifth century BCE
 
-Start_date: -533
+start_date: -533
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Eastern Mediterranean, possibly Rhodes
+attribution: Production area: Eastern Mediterranean, possibly Rhodes
 
-Culture: Greek
+culture: Greek
 
-Material: Dark blue body; opaque yellow and white decoration
+material: Dark blue body; opaque yellow and white decoration
 
-Modeling technique and decoration: Core-formed; applied rim and handles; applied marvered and unmarvered threads
+modeling_technique_and_decoration: Core-formed; applied rim and handles; applied marvered and unmarvered threads
 
-Inscription: No
+inscription: No
 
-Shape: Aryballoi
+shape: Aryballoi
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -360,35 +360,35 @@ See comments on [2003.174](#cat). For the classification of this particular aryb
 
 -   Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 57
+label: 57
 
-Title: Fragment of a Core-Formed Vessel
+title: Fragment of a Core-Formed Vessel
 
-Accession_number: 83.AF.28.1
+accession_number: 83.AF.28.1
 
-Collection_link: <https://www.getty.edu/art/collection/objects/16203>
+collection_link: <https://www.getty.edu/art/collection/objects/16203>
 
-Dimensions : H. 1.1, W. 1.6 cm; Wt. 0.69 g
+dimensions: H. 1.1, W. 1.6 cm; Wt. 0.69 g
 
-Date: Sixth–fifth century BCE
+date: Sixth–fifth century BCE
 
-Start_date: -600
+start_date: -600
 
-End_date: -401
+end_date: -401
 
-Attribution: Production area: Eastern Mediterranean. Aegean?
+attribution: Production area: Eastern Mediterranean. Aegean?
 
-Culture: Greek
+culture: Greek
 
-Material: Dark blue, white, and turquoise glass
+material: Dark blue, white, and turquoise glass
 
-Modeling technique and decoration: Core-formed; applied marvered threads
+modeling_technique_and_decoration: Core-formed; applied marvered threads
 
-Inscription: No
+inscription: No
 
-Shape: Unidentified
+shape: Unidentified
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -414,35 +414,35 @@ Unpublished
 
 None
 
-Label: 58
+label: 58
 
-Title: Fragment of a Core-Formed Vessel
+title: Fragment of a Core-Formed Vessel
 
-Accession_number: 83.AF.28.2
+accession_number: 83.AF.28.2
 
-Collection_link: <https://www.getty.edu/art/collection/objects/16204>
+collection_link: <https://www.getty.edu/art/collection/objects/16204>
 
-Dimensions: pres. H. 1.2, W. 1.00 cm; Wt. 0.72 g
+dimensions: pres. H. 1.2, W. 1.00 cm; Wt. 0.72 g
 
-Date: First century CE
+date: First century CE
 
-Start_date: 1
+start_date: 1
 
-End_date: 99
+end_date: 99
 
-Attribution: Production area: Eastern Mediterranean. Aegean?
+attribution: Production area: Eastern Mediterranean. Aegean?
 
-Culture: Roman
+culture: Roman
 
-Material: Translucent blue and opaque white glass
+material: Translucent blue and opaque white glass
 
-Modeling technique and decoration: Core-formed; applied elements
+modeling_technique_and_decoration: Core-formed; applied elements
 
-Inscription: No
+inscription: No
 
-Shape: Unidentified
+shape: Unidentified
 
-Technique: Core-formed
+technique: Core-formed
 
 ## Condition
 
@@ -468,35 +468,35 @@ Unpublished
 
 None
 
-Label: 59
+label: 59
 
-Title: Grooved Bowl
+title: Grooved Bowl
 
-Accession_number: 2003.217
+accession_number: 2003.217
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221600>
+collection_link: <https://www.getty.edu/art/collection/objects/221600>
 
-Dimensions: H. 8.5, Diam. rim 15.8, Th. 0.5 cm; Wt. 260.62 g
+dimensions: H. 8.5, Diam. rim 15.8, Th. 0.5 cm; Wt. 260.62 g
 
-Date: Ca. 150 BCE–ca. 50 BCE
+date: Ca. 150 BCE–ca. 50 BCE
 
-Start_date: -150
+start_date: -150
 
-End_date: -50
+end_date: -50
 
-Attribution: Production area: Eastern Mediterranean
+attribution: Production area: Eastern Mediterranean
 
-Culture: Greek
+culture: Greek
 
-Material: Transparent amber-colored glass
+material: Transparent amber-colored glass
 
-Modeling technique and decoration: Rotary pressed, engraved
+modeling_technique_and_decoration: Rotary pressed, engraved
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: “Cast”-rotary pressed
+technique: “Cast”-rotary pressed
 
 ## Condition
 
@@ -522,35 +522,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 -   Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 60
+label: 60
 
-Title: Grooved Bowl
+title: Grooved Bowl
 
-Accession_number: 2004.17
+accession_number: 2004.17
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221475>
+collection_link: <https://www.getty.edu/art/collection/objects/221475>
 
-Dimensions: Η. 8.5, Diam. rim 14, Th. 0.5 cm; Wt. 260.91 g
+dimensions: Η. 8.5, Diam. rim 14, Th. 0.5 cm; Wt. 260.91 g
 
-Date: Ca. 150 BCE–ca. 50 BCE
+date: Ca. 150 BCE–ca. 50 BCE
 
-Start_date: -150
+start_date: -150
 
-End_date: -50
+end_date: -50
 
-Attribution: Production area: Eastern Mediterranean
+attribution: Production area: Eastern Mediterranean
 
-Culture: Greek
+culture: Greek
 
-Material: Transparent amber-colored glass
+material: Transparent amber-colored glass
 
-Modeling technique and decoration: Rotary pressed, engraved
+modeling_technique_and_decoration: Rotary pressed, engraved
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: “Cast”-rotary pressed
+technique: “Cast”-rotary pressed
 
 ## Condition
 
@@ -576,35 +576,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 None
 
-Label: 61
+label: 61
 
-Title: Grooved Bowl
+title: Grooved Bowl
 
-Accession_number: 2004.18
+accession_number: 2004.18
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221476>
+collection_link: <https://www.getty.edu/art/collection/objects/221476>
 
-Dimensions: H. 5.8, Diam. rim 12.3, Th. 0.4 cm; Wt. 179.60 g
+dimensions: H. 5.8, Diam. rim 12.3, Th. 0.4 cm; Wt. 179.60 g
 
-Date: Ca. 150 BCE–ca. 50 BCE
+date: Ca. 150 BCE–ca. 50 BCE
 
-Start_date: -150
+start_date: -150
 
-End_date: -50
+end_date: -50
 
-Attribution: Production area: Eastern Mediterranean
+attribution: Production area: Eastern Mediterranean
 
-Culture: Greek or Roman
+culture: Greek or Roman
 
-Material: Transparent greenish glass
+material: Transparent greenish glass
 
-Modeling technique and decoration: Rotary pressed, engraved
+modeling_technique_and_decoration: Rotary pressed, engraved
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: “Cast”-rotary pressed
+technique: “Cast”-rotary pressed
 
 ## Condition
 
@@ -630,35 +630,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 None
 
-Label: 62
+label: 62
 
-Title: Bowl
+title: Bowl
 
-Accession_number: 2003.219
+accession_number: 2003.219
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221602>
+collection_link: <https://www.getty.edu/art/collection/objects/221602>
 
-Dimensions: H. 4.8, Diam. rim 10.2, Th. 0.25 cm; Wt. 97.3 g
+dimensions: H. 4.8, Diam. rim 10.2, Th. 0.25 cm; Wt. 97.3 g
 
-Date: Second–first century BCE
+date: Second–first century BCE
 
-Start_date: -200
+start_date: -200
 
-End_date: -1
+end_date: -1
 
-Attribution: Production area: Probably eastern Mediterranean
+attribution: Production area: Probably eastern Mediterranean
 
-Culture: Greek
+culture: Greek
 
-Material: Translucent amber-colored glass
+material: Translucent amber-colored glass
 
-Modeling technique and decoration: Molded
+modeling_technique_and_decoration: Molded
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: “Cast”-rotary pressed
+technique: “Cast”-rotary pressed
 
 ## Condition
 
@@ -686,35 +686,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 None
 
-Label: 63
+label: 63
 
-Title: Bowl
+title: Bowl
 
-Accession_number: 2003.216
+accession_number: 2003.216
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221599>
+collection_link: <https://www.getty.edu/art/collection/objects/221599>
 
-Dimensions: H. 1.9, Diam. rim 8.7, Th. 0.3 cm; Wt. 52.22 g
+dimensions: H. 1.9, Diam. rim 8.7, Th. 0.3 cm; Wt. 52.22 g
 
-Date: Third century BCE
+date: Third century BCE
 
-Start_date: -300
+start_date: -300
 
-End_date: -201
+end_date: -201
 
-Attribution: Production area: Probably eastern Mediterranean
+attribution: Production area: Probably eastern Mediterranean
 
-Culture: Greek
+culture: Greek
 
-Material: Decolorized glass
+material: Decolorized glass
 
-Modeling technique and decoration: Rotary pressed
+modeling_technique_and_decoration: Rotary pressed
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: “Cast”-rotary pressed
+technique: “Cast”-rotary pressed
 
 ## Condition
 
@@ -740,35 +740,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 None
 
-Label: 64
+label: 64
 
-Title: Finned Bowl
+title: Finned Bowl
 
-Accession_number: 2003.215
+accession_number: 2003.215
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221598>
+collection_link: <https://www.getty.edu/art/collection/objects/221598>
 
-Dimensions: H. 6.6, Diam. rim 15.8, Diam. base 3.3 cm; Wt. 325.40 g
+dimensions: H. 6.6, Diam. rim 15.8, Diam. base 3.3 cm; Wt. 325.40 g
 
-Date: Third–second century BCE
+date: Third–second century BCE
 
-Start_date: -300
+start_date: -300
 
-End_date: -101
+end_date: -101
 
-Attribution: Production area: Possibly Italy
+attribution: Production area: Possibly Italy
 
-Culture: Greek
+culture: Greek
 
-Material: Transparent greenish glass
+material: Transparent greenish glass
 
-Modeling technique and decoration: Cast and cut
+modeling_technique_and_decoration: Cast and cut
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: “Cast”-rotary pressed
+technique: “Cast”-rotary pressed
 
 ## Condition
 
@@ -800,35 +800,35 @@ Giorgio Sangiorgi, Italian, 1886–1965 (Rome, Italy); by 1959, Private Collecti
 
 -   Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 65
+label: 65
 
-Title: Bowl with Fins
+title: Bowl with Fins
 
-Accession_number: 2003.228
+accession_number: 2003.228
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221611>
+collection_link: <https://www.getty.edu/art/collection/objects/221611>
 
-Dimensions: H. 5.6, Diam. rim 9.3, Diam. base 4.3 cm; Wt. 88.24 g
+dimensions: H. 5.6, Diam. rim 9.3, Diam. base 4.3 cm; Wt. 88.24 g
 
-Date: First half of the first century CE
+date: First half of the first century CE
 
-Start_date: 1
+start_date: 1
 
-End_date: 49
+end_date: 49
 
-Attribution: Production area: Eastern Mediterranean
+attribution: Production area: Eastern Mediterranean
 
-Culture: Roman
+culture: Roman
 
-Material: Translucent yellowish glass
+material: Translucent yellowish glass
 
-Modeling technique and decoration: Free-blown; probably applied pieces, incised
+modeling_technique_and_decoration: Free-blown; probably applied pieces, incised
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: Free-blown
+technique: Free-blown
 
 ## Condition
 
@@ -856,35 +856,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 -   Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 66
+label: 66
 
-Title: Ribbed Bowl
+title: Ribbed Bowl
 
-Accession_number: 2003.221
+accession_number: 2003.221
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221604>
+collection_link: <https://www.getty.edu/art/collection/objects/221604>
 
-Dimensions: H. 3.9, Diam. rim 12.8, Diam. base 5.5 cm; Wt. 175.64 g
+dimensions: H. 3.9, Diam. rim 12.8, Diam. base 5.5 cm; Wt. 175.64 g
 
-Date: Ca. 50 BCE–ca. CE 50
+date: Ca. 50 BCE–ca. CE 50
 
-Start_date: -50
+start_date: -50
 
-End_date: 50
+end_date: 50
 
-Attribution: Production area: Eastern Mediterranean; a western European origin cannot be excluded
+attribution: Production area: Eastern Mediterranean; a western European origin cannot be excluded
 
-Culture: Greek
+culture: Greek
 
-Material: Translucent bluish glass
+material: Translucent bluish glass
 
-Modeling technique and decoration: Rotary pressed
+modeling_technique_and_decoration: Rotary pressed
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: Rotary pressed
+technique: Rotary pressed
 
 ## Condition
 
@@ -910,35 +910,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 None
 
-Label: 67
+label: 67
 
-Title: Ribbed Bowl
+title: Ribbed Bowl
 
-Accession_number: 2003.222
+accession_number: 2003.222
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221605>
+collection_link: <https://www.getty.edu/art/collection/objects/221605>
 
-Dimensions: H. 4.5, Diam. rim 12.2, Th. 1 cm; Wt. 125.3 g
+dimensions: H. 4.5, Diam. rim 12.2, Th. 1 cm; Wt. 125.3 g
 
-Date: Ca. 50 BCE–ca. CE 50
+date: Ca. 50 BCE–ca. CE 50
 
-Start_date: -50
+start_date: -50
 
-End_date: 50
+end_date: 50
 
-Attribution: Production area: Eastern Mediterranean; a western European origin cannot be excluded
+attribution: Production area: Eastern Mediterranean; a western European origin cannot be excluded
 
-Culture: Greek
+culture: Greek
 
-Material: Translucent bluish glass
+material: Translucent bluish glass
 
-Modeling technique and decoration: Rotary pressed
+modeling_technique_and_decoration: Rotary pressed
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: Rotary pressed
+technique: Rotary pressed
 
 ## Condition
 
@@ -964,35 +964,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 None
 
-Label: 68
+label: 68
 
-Title: Ribbed Bowl
+title: Ribbed Bowl
 
-Accession_number: 2003.223
+accession_number: 2003.223
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221606/>
+collection_link: <https://www.getty.edu/art/collection/objects/221606/>
 
-Dimensions: H. 4.2, Diam. rim 12.6, Diam. base 5, Th. 0.3 cm; Wt. 157.3 g
+dimensions: H. 4.2, Diam. rim 12.6, Diam. base 5, Th. 0.3 cm; Wt. 157.3 g
 
-Date: Ca. 50 BCE–ca. CE 50
+date: Ca. 50 BCE–ca. CE 50
 
-Start_date: -50
+start_date: -50
 
-End_date: 50
+end_date: 50
 
-Attribution: Production area: Eastern Mediterranean; a western European origin cannot be excluded
+attribution: Production area: Eastern Mediterranean; a western European origin cannot be excluded
 
-Culture: Greek or Roman
+culture: Greek or Roman
 
-Material: Translucent light bluish-green glass
+material: Translucent light bluish-green glass
 
-Modeling technique and decoration: Rotary pressed
+modeling_technique_and_decoration: Rotary pressed
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: Rotary pressed
+technique: Rotary pressed
 
 ## Condition
 
@@ -1020,35 +1020,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 None
 
-Label: 69
+label: 69
 
-Title: Ribbed Bowl
+title: Ribbed Bowl
 
-Accession_number: 2003.224
+accession_number: 2003.224
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221607>
+collection_link: <https://www.getty.edu/art/collection/objects/221607>
 
-Dimensions: H. 4.5, Diam. rim 13.5, Diam. base 5.2, Th. 0.4 cm; Wt. 217.73 g
+dimensions: H. 4.5, Diam. rim 13.5, Diam. base 5.2, Th. 0.4 cm; Wt. 217.73 g
 
-Date: Ca. 50 BCE–ca. CE 50
+date: Ca. 50 BCE–ca. CE 50
 
-Start_date: -50
+start_date: -50
 
-End_date: 50
+end_date: 50
 
-Attribution: Production area: Eastern Mediterranean; a western European origin cannot be excluded
+attribution: Production area: Eastern Mediterranean; a western European origin cannot be excluded
 
-Culture: Roman
+culture: Roman
 
-Material: Translucent greenish glass
+material: Translucent greenish glass
 
-Modeling technique and decoration: Rotary pressed
+modeling_technique_and_decoration: Rotary pressed
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: Rotary pressed
+technique: Rotary pressed
 
 ## Condition
 
@@ -1078,35 +1078,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 -   Pompeii and the Roman Villa: Art and Culture around the Bay of Naples (Los Angeles, 2009)
 
-Label: 70
+label: 70
 
-Title: Ribbed Bowl
+title: Ribbed Bowl
 
-Accession_number: 2003.220
+accession_number: 2003.220
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221603>
+collection_link: <https://www.getty.edu/art/collection/objects/221603>
 
-Dimensions: H. 5.6, Diam. rim 11.1, Diam. base 5.8 cm; Wt. 166.57 g
+dimensions: H. 5.6, Diam. rim 11.1, Diam. base 5.8 cm; Wt. 166.57 g
 
-Date: Ca. 50 BCE–ca. CE 50
+date: Ca. 50 BCE–ca. CE 50
 
-Start_date: -50
+start_date: -50
 
-End_date: 50
+end_date: 50
 
-Attribution: Production area: Eastern Mediterranean; a western European origin cannot be excluded
+attribution: Production area: Eastern Mediterranean; a western European origin cannot be excluded
 
-Culture: Roman
+culture: Roman
 
-Material: Translucent amber-colored glass
+material: Translucent amber-colored glass
 
-Modeling technique and decoration: Rotary pressed
+modeling_technique_and_decoration: Rotary pressed
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: Rotary pressed
+technique: Rotary pressed
 
 ## Condition
 
@@ -1132,35 +1132,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 -   Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 71
+label: 71
 
-Title: Ribbed Bowl
+title: Ribbed Bowl
 
-Accession_number: 78.AF.27
+accession_number: 78.AF.27
 
-Collection_link: <https://www.getty.edu/art/collection/objects/8161>
+collection_link: <https://www.getty.edu/art/collection/objects/8161>
 
-Dimensions: H. 6, Diam. rim 11.8, Diam. base 6.1 cm; Wt. 206.25 g
+dimensions: H. 6, Diam. rim 11.8, Diam. base 6.1 cm; Wt. 206.25 g
 
-Date: Ca. 50 BCE–ca. CE 50
+date: Ca. 50 BCE–ca. CE 50
 
-Start_date: -50
+start_date: -50
 
-End_date: 50
+end_date: 50
 
-Attribution: Production area: Eastern Mediterranean; a western European origin cannot be excluded
+attribution: Production area: Eastern Mediterranean; a western European origin cannot be excluded
 
-Culture: Roman
+culture: Roman
 
-Material: Translucent amber-colored glass
+material: Translucent amber-colored glass
 
-Modeling technique and decoration: Rotary pressed
+modeling_technique_and_decoration: Rotary pressed
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: Rotary pressed
+technique: Rotary pressed
 
 ## Condition
 
@@ -1196,35 +1196,35 @@ Ribbed bowls appear in three main shapes: shallow ({Isings 1957}, p. 18–19, fo
 
 None
 
-Label: 72
+label: 72
 
-Title: Ribbed Bowl
+title: Ribbed Bowl
 
-Accession_number: 2004.19
+accession_number: 2004.19
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221477>
+collection_link: <https://www.getty.edu/art/collection/objects/221477>
 
-Dimensions: H. 7.7, Diam. rim 15.7, Diam. base 6.3 cm; Wt. 378.95 g
+dimensions: H. 7.7, Diam. rim 15.7, Diam. base 6.3 cm; Wt. 378.95 g
 
-Date: Ca. 50 BCE–ca. CE 50
+date: Ca. 50 BCE–ca. CE 50
 
-Start_date: -50
+start_date: -50
 
-End_date: 50
+end_date: 50
 
-Attribution: Production area: Eastern Mediterranean; a western European origin cannot be excluded
+attribution: Production area: Eastern Mediterranean; a western European origin cannot be excluded
 
-Culture: Greek or Roman
+culture: Greek or Roman
 
-Material: Translucent yellow-green glass
+material: Translucent yellow-green glass
 
-Modeling technique and decoration: Rotary pressed
+modeling_technique_and_decoration: Rotary pressed
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: Rotary pressed
+technique: Rotary pressed
 
 ## Condition
 
@@ -1256,35 +1256,35 @@ On this form of vessel see [78.AF.27](#cat).
 
 None
 
-Label: 73
+label: 73
 
-Title: Ribbed Bowl
+title: Ribbed Bowl
 
-Accession_number: 2003.218
+accession_number: 2003.218
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221601>
+collection_link: <https://www.getty.edu/art/collection/objects/221601>
 
-Dimensions: H. 6.5, Diam. rim 12.9, Diam. base 5.8 cm; Wt. 209.55 g
+dimensions: H. 6.5, Diam. rim 12.9, Diam. base 5.8 cm; Wt. 209.55 g
 
-Date: Ca. 50 BCE–ca. CE 50
+date: Ca. 50 BCE–ca. CE 50
 
-Start_date: -50
+start_date: -50
 
-End_date: 50
+end_date: 50
 
-Attribution: Production area: Eastern Mediterranean; a western European origin cannot be excluded
+attribution: Production area: Eastern Mediterranean; a western European origin cannot be excluded
 
-Culture: Greek
+culture: Greek
 
-Material: Translucent dark blue glass
+material: Translucent dark blue glass
 
-Modeling technique and decoration: Rotary pressed
+modeling_technique_and_decoration: Rotary pressed
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: Rotary pressed
+technique: Rotary pressed
 
 ## Condition
 
@@ -1310,35 +1310,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 None
 
-Label: 74
+label: 74
 
-Title: Ribbed Bowl
+title: Ribbed Bowl
 
-Accession_number: 2003.225
+accession_number: 2003.225
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221608>
+collection_link: <https://www.getty.edu/art/collection/objects/221608>
 
-Dimensions: H. 5.2, Diam. rim 13.5, Diam. base 3.6, Th. 0.45 cm; Wt. 181.50 g
+dimensions: H. 5.2, Diam. rim 13.5, Diam. base 3.6, Th. 0.45 cm; Wt. 181.50 g
 
-Date: Ca. 50 BCE–ca. 50 CE
+date: Ca. 50 BCE–ca. 50 CE
 
-Start_date: -50
+start_date: -50
 
-End_date: 50
+end_date: 50
 
-Attribution: Production area: Eastern Mediterranean; a western European origin cannot be excluded
+attribution: Production area: Eastern Mediterranean; a western European origin cannot be excluded
 
-Culture: Greek or Roman
+culture: Greek or Roman
 
-Material: Translucent greenish glass
+material: Translucent greenish glass
 
-Modeling technique and decoration: Rotary pressed
+modeling_technique_and_decoration: Rotary pressed
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: Rotary pressed
+technique: Rotary pressed
 
 ## Condition
 
@@ -1364,35 +1364,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 None
 
-Label: 75
+label: 75
 
-Title: Bowl (Patella), Double Convex Bowl
+title: Bowl (Patella), Double Convex Bowl
 
-Accession_number: 2003.232
+accession_number: 2003.232
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221615>
+collection_link: <https://www.getty.edu/art/collection/objects/221615>
 
-Dimensions: H. 3.4, Diam. rim 7.3, Diam. base 2.8 cm; Wt. 48.11 g
+dimensions: H. 3.4, Diam. rim 7.3, Diam. base 2.8 cm; Wt. 48.11 g
 
-Date: First half of the first century CE, probably second quarter of the first century CE
+date: First half of the first century CE, probably second quarter of the first century CE
 
-Start_date: 1
+start_date: 1
 
-End_date: 49
+end_date: 49
 
-Attribution: Production area: Probably Italy
+attribution: Production area: Probably Italy
 
-Culture: Roman
+culture: Roman
 
-Material: Opaque red glass; speckles of green glass are visible on both interior and exterior
+material: Opaque red glass; speckles of green glass are visible on both interior and exterior
 
-Modeling technique and decoration: Cast
+modeling_technique_and_decoration: Cast
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: “Cast”-rotary pressed
+technique: “Cast”-rotary pressed
 
 ## Condition
 
@@ -1420,35 +1420,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 -   Pompeii and the Roman Villa: Art and Culture around the Bay of Naples (Los Angeles, 2009)
 
-Label: 76
+label: 76
 
-Title: Bowl (Patella), Double Convex Bowl
+title: Bowl (Patella), Double Convex Bowl
 
-Accession_number: 2003.233
+accession_number: 2003.233
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221616>
+collection_link: <https://www.getty.edu/art/collection/objects/221616>
 
-Dimensions: H. 3.3, Diam. rim 7.3, Diam. base 2.7 cm; Wt. 46.09 g
+dimensions: H. 3.3, Diam. rim 7.3, Diam. base 2.7 cm; Wt. 46.09 g
 
-Date: First half of the first century CE, probably second quarter of the first century CE
+date: First half of the first century CE, probably second quarter of the first century CE
 
-Start_date: 1
+start_date: 1
 
-End_date: 49
+end_date: 49
 
-Attribution: Production area: Probably Italy
+attribution: Production area: Probably Italy
 
-Culture: Roman
+culture: Roman
 
-Material: Opaque green glass
+material: Opaque green glass
 
-Modeling technique and decoration: Cast
+modeling_technique_and_decoration: Cast
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: “Cast”-rotary pressed
+technique: “Cast”-rotary pressed
 
 ## Condition
 
@@ -1476,35 +1476,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 -   Pompeii and the Roman Villa: Art and Culture around the Bay of Naples (Los Angeles, 2009)
 
-Label: 77
+label: 77
 
-Title: Bowl (Patella), Double Convex Bowl
+title: Bowl (Patella), Double Convex Bowl
 
-Accession_number: 2003.234
+accession_number: 2003.234
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221617>
+collection_link: <https://www.getty.edu/art/collection/objects/221617>
 
-Dimensions: H. 4, Diam. rim 7.8, Diam. base 3.1 cm; Wt. 56.47 g
+dimensions: H. 4, Diam. rim 7.8, Diam. base 3.1 cm; Wt. 56.47 g
 
-Date: First half of the first century CE, probably second quarter of the first century CE
+date: First half of the first century CE, probably second quarter of the first century CE
 
-Start_date: 1
+start_date: 1
 
-End_date: 49
+end_date: 49
 
-Attribution: Production area: Probably Italy
+attribution: Production area: Probably Italy
 
-Culture: Roman
+culture: Roman
 
-Material: Opaque light blue glass
+material: Opaque light blue glass
 
-Modeling technique and decoration: Cast
+modeling_technique_and_decoration: Cast
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: “Cast”-rotary pressed
+technique: “Cast”-rotary pressed
 
 ## Condition
 
@@ -1532,35 +1532,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 -   Pompeii and the Roman Villa: Art and Culture around the Bay of Naples (Los Angeles, 2009)
 
-Label: 78
+label: 78
 
-Title: Bowl (Patella)
+title: Bowl (Patella)
 
-Accession_number: 2003.235
+accession_number: 2003.235
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221618>
+collection_link: <https://www.getty.edu/art/collection/objects/221618>
 
-Dimensions: H. 3.4, Diam. rim 6.1, Diam. base 2.8, Th. 0.2 cm; Wt. 45.5 g
+dimensions: H. 3.4, Diam. rim 6.1, Diam. base 2.8, Th. 0.2 cm; Wt. 45.5 g
 
-Date: First half of the first century CE, probably second quarter of the first century CE
+date: First half of the first century CE, probably second quarter of the first century CE
 
-Start_date: 1
+start_date: 1
 
-End_date: 49
+end_date: 49
 
-Attribution: Production area: Probably Italy
+attribution: Production area: Probably Italy
 
-Culture: Greek or Roman
+culture: Greek or Roman
 
-Material: Opaque red glass
+material: Opaque red glass
 
-Modeling technique and decoration: Cast
+modeling_technique_and_decoration: Cast
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: “Cast”-rotary pressed
+technique: “Cast”-rotary pressed
 
 ## Condition
 
@@ -1586,33 +1586,33 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 None
 
-Label: 79
+label: 79
 
-Title: Bowl
+title: Bowl
 
-Accession_number: 2003.236
+accession_number: 2003.236
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221619>
+collection_link: <https://www.getty.edu/art/collection/objects/221619>
 
-Dimensions: H. 3, Diam. rim 8.6, Diam. base 5.8, Th. 0.2 cm; Wt. 76 g
+dimensions: H. 3, Diam. rim 8.6, Diam. base 5.8, Th. 0.2 cm; Wt. 76 g
 
-Date: First half of the first century CE, probably second quarter of the first century CE Start_date: 1
+date: First half of the first century CE, probably second quarter of the first century CE start_date: 1
 
-End_date: 49
+end_date: 49
 
-Attribution: Production area: Probably Italy
+attribution: Production area: Probably Italy
 
-Culture: Greek or Roman
+culture: Greek or Roman
 
-Material: Opaque white glass
+material: Opaque white glass
 
-Modeling technique and decoration: Cast
+modeling_technique_and_decoration: Cast
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: “Cast”-rotary pressed
+technique: “Cast”-rotary pressed
 
 ## Condition
 
@@ -1638,35 +1638,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 None
 
-Label: 80
+label: 80
 
-Title: Bowl
+title: Bowl
 
-Accession_number: 2003.237
+accession_number: 2003.237
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221620/>
+collection_link: <https://www.getty.edu/art/collection/objects/221620/>
 
-Dimensions: H. 4, Diam. rim 7.4, Diam. base 5.4 cm; Wt. 52.40 g
+dimensions: H. 4, Diam. rim 7.4, Diam. base 5.4 cm; Wt. 52.40 g
 
-Date: End of the first century BCE–first half of the first century CE
+date: End of the first century BCE–first half of the first century CE
 
-Start_date: -33
+start_date: -33
 
-End_date: 49
+end_date: 49
 
-Attribution: Production area: Italy
+attribution: Production area: Italy
 
-Culture: Roman
+culture: Roman
 
-Material: Peacock blue translucent glass
+material: Peacock blue translucent glass
 
-Modeling technique and decoration: Mold pressed or cast, then wheel-cut
+modeling_technique_and_decoration: Mold pressed or cast, then wheel-cut
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: “Cast”-rotary pressed
+technique: “Cast”-rotary pressed
 
 ## Condition
 
@@ -1692,35 +1692,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 -   Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 81
+label: 81
 
-Title: Bowl
+title: Bowl
 
-Accession_number: 2003.475
+accession_number: 2003.475
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221864/>
+collection_link: <https://www.getty.edu/art/collection/objects/221864/>
 
-Dimensions: H. 5.7, Diam. rim 10.3, Diam. base 3.5 cm; Wt. 65.9 g
+dimensions: H. 5.7, Diam. rim 10.3, Diam. base 3.5 cm; Wt. 65.9 g
 
-Date: First century CE
+date: First century CE
 
-Start_date: 1
+start_date: 1
 
-End_date: 99
+end_date: 99
 
-Attribution: Production area: Western Roman Empire, probably Italy
+attribution: Production area: Western Roman Empire, probably Italy
 
-Culture: Roman
+culture: Roman
 
-Material: Translucent amber-colored and opaque white glass
+material: Translucent amber-colored and opaque white glass
 
-Modeling technique and decoration: Molded and ground
+modeling_technique_and_decoration: Molded and ground
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: “Cast”-rotary pressed
+technique: “Cast”-rotary pressed
 
 ## Condition
 
@@ -1746,35 +1746,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 -   Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 82
+label: 82
 
-Title: Cameo Glass Skyphos
+title: Cameo Glass Skyphos
 
-Accession_number: 84.AF.85
+accession_number: 84.AF.85
 
-Collection_link: <https://www.getty.edu/art/collection/objects/10890>
+collection_link: <https://www.getty.edu/art/collection/objects/10890>
 
-Dimensions: H. 10.5, Diam. rim 10.6, Th. 0.7 \[blue: 0.5, white: 0.2\] cm; Wt. 496.40 g (with the added base)
+dimensions: H. 10.5, Diam. rim 10.6, Th. 0.7 \[blue: 0.5, white: 0.2\] cm; Wt. 496.40 g (with the added base)
 
-Date: 15 BCE–25 CE
+date: 15 BCE–25 CE
 
-Start_date: -15
+start_date: -15
 
-End_date: 25
+end_date: 25
 
-Attribution: Production area: Probably Italy
+attribution: Production area: Probably Italy
 
-Culture: Roman
+culture: Roman
 
-Material: Opaque white over translucent dark blue glass
+material: Opaque white over translucent dark blue glass
 
-Modeling technique and decoration: Cast in a mold, ground and polished
+modeling_technique_and_decoration: Cast in a mold, ground and polished
 
-Inscription: No
+inscription: No
 
-Shape: Skyphoi
+shape: Skyphoi
 
-Technique: “Cast”-rotary pressed
+technique: “Cast”-rotary pressed
 
 ## Condition
 
@@ -1872,35 +1872,35 @@ By 1962–1985, Ernst Kofler, 1899–1989 and Marthe Truniger, 1918–1999 (Luce
 
 -   Beyond the Nile: Egypt and the Classical World (Los Angeles, 2018)
 
-Label: 83
+label: 83
 
-Title: Vessel Fragment, Probably a Skyphos
+title: Vessel Fragment, Probably a Skyphos
 
-Accession_number: 2003.354
+accession_number: 2003.354
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221744>
+collection_link: <https://www.getty.edu/art/collection/objects/221744>
 
-Dimensions: H. 4.7, L. 3.5, Th. 0.3 cm; Wt. 14.6 g
+dimensions: H. 4.7, L. 3.5, Th. 0.3 cm; Wt. 14.6 g
 
-Date: 15 BCE–CE 25
+date: 15 BCE–CE 25
 
-Start_date: -15
+start_date: -15
 
-End_date: 25
+end_date: 25
 
-Attribution: Production area: Probably Italy
+attribution: Production area: Probably Italy
 
-Culture: Roman
+culture: Roman
 
-Material: Opaque blue and white glass
+material: Opaque blue and white glass
 
-Modeling technique and decoration: Cast in a mold, ground and polished
+modeling_technique_and_decoration: Cast in a mold, ground and polished
 
-Inscription: No
+inscription: No
 
-Shape: \[Unidentified, Skyphoi\]
+shape: \[Unidentified, Skyphoi\]
 
-Technique: “Cast”-rotary pressed
+technique: “Cast”-rotary pressed
 
 ## Condition
 
@@ -1926,35 +1926,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 -   Reflecting Antiquity: Modern Glass Inspired by Ancient Rome (Malibu, 2007–2008; Corning, 2008)
 
-Label: 84
+label: 84
 
-Title: Cameo Glass Flask
+title: Cameo Glass Flask
 
-Accession_number: 85.AF.84
+accession_number: 85.AF.84
 
-Collection_link: <https://www.getty.edu/art/collection/objects/10940>
+collection_link: <https://www.getty.edu/art/collection/objects/10940>
 
-Dimensions: H. 7.6, W. 4.2, Diam. base 2, Th. 0.3 cm; Wt. 35.27 g
+dimensions: H. 7.6, W. 4.2, Diam. base 2, Th. 0.3 cm; Wt. 35.27 g
 
-Date: 15 BCE–25 CE
+date: 15 BCE–25 CE
 
-Start_date: -15
+start_date: -15
 
-End_date: 25
+end_date: 25
 
-Attribution: Production area: Probably Italy. Said to come from near Eskişehir, Türkiye
+attribution: Production area: Probably Italy. Said to come from near Eskişehir, Türkiye
 
-Culture: Roman
+culture: Roman
 
-Material: Opaque white and translucent cobalt blue glass
+material: Opaque white and translucent cobalt blue glass
 
-Modeling technique and decoration: Cast in a mold, and free-blown
+modeling_technique_and_decoration: Cast in a mold, and free-blown
 
-Inscription: No
+inscription: No
 
-Shape: Flasks
+shape: Flasks
 
-Technique: \[“Cast”-rotary pressed, free-blown\]
+technique: \[“Cast”-rotary pressed, free-blown\]
 
 ## Condition
 
@@ -2048,35 +2048,35 @@ Wight and Swetnam-Burland 2010.
 
 -   Beyond the Nile: Egypt and the Classical World (Los Angeles, 2018)
 
-Label: 85
+label: 85
 
-Title: Cameo Glass Fragment, Probably of a Vessel
+title: Cameo Glass Fragment, Probably of a Vessel
 
-Accession_number: 96.AF.289
+accession_number: 96.AF.289
 
-Collection_link: <https://www.getty.edu/art/collection/objects/103526/>
+collection_link: <https://www.getty.edu/art/collection/objects/103526/>
 
-Dimensions: H. 1.6, W.1.2, max. Th. 0.30 \[purple layer 0.1, white 0.2\] cm; Wt. 0.49 g
+dimensions: H. 1.6, W.1.2, max. Th. 0.30 \[purple layer 0.1, white 0.2\] cm; Wt. 0.49 g
 
-Date: 15 BCE–25 CE
+date: 15 BCE–25 CE
 
-Start_date: -15
+start_date: -15
 
-End_date: 25
+end_date: 25
 
-Attribution: Production area: Probably Italy
+attribution: Production area: Probably Italy
 
-Culture: Roman
+culture: Roman
 
-Material: Translucent purple and opaque white glass
+material: Translucent purple and opaque white glass
 
-Modeling technique and decoration: Cast in a mold; ground and polished
+modeling_technique_and_decoration: Cast in a mold; ground and polished
 
-Inscription: No
+inscription: No
 
-Shape: Unidentified
+shape: Unidentified
 
-Technique: “Cast”-rotary pressed
+technique: “Cast”-rotary pressed
 
 ## Condition
 
@@ -2104,35 +2104,35 @@ The fragment is flat and the back side shows no indication of a curve, merely so
 
 None
 
-Label: 86
+label: 86
 
-Title: Dish
+title: Dish
 
-Accession_number: 85.AF.85
+accession_number: 85.AF.85
 
-Collection_link: <https://www.getty.edu/art/collection/objects/10941>
+collection_link: <https://www.getty.edu/art/collection/objects/10941>
 
-Dimensions: H. 2.1, Diam. rim 16, Diam. base 8.8 cm; Wt. 134.68 g
+dimensions: H. 2.1, Diam. rim 16, Diam. base 8.8 cm; Wt. 134.68 g
 
-Date: Late first century BCE–early first century CE
+date: Late first century BCE–early first century CE
 
-Start_date: -33
+start_date: -33
 
-End_date: 32
+end_date: 32
 
-Attribution: Production area: Italy or possibly eastern Mediterranean
+attribution: Production area: Italy or possibly eastern Mediterranean
 
-Culture: Roman
+culture: Roman
 
-Material: Opaque white and yellow; translucent purple and bluish glass
+material: Opaque white and yellow; translucent purple and bluish glass
 
-Modeling technique and decoration: Assembled of slices of canes, cast, base-ring applied, rotary-polished
+modeling_technique_and_decoration: Assembled of slices of canes, cast, base-ring applied, rotary-polished
 
-Inscription: No
+inscription: No
 
-Shape: Dishes
+shape: Dishes
 
-Technique: Slumped
+technique: Slumped
 
 ## Condition
 
@@ -2178,35 +2178,35 @@ By 1964–1985, Ernst Kofler, 1899–1989 and Marthe Truniger, 1918–1999 (Luce
 
 -   Pompeii and the Roman Villa: Art and Culture around the Bay of Naples (Los Angeles, 2009)
 
-Label: 87
+label: 87
 
-Title: Fragment of a Dish
+title: Fragment of a Dish
 
-Accession_number: 2003.258.1
+accession_number: 2003.258.1
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221641/>
+collection_link: <https://www.getty.edu/art/collection/objects/221641/>
 
-Dimensions: pres. H. 1.7, W. 5.6, L. 4, Th. 1.8, est. Diam. base ca. 12 cm; Wt. 11.89 g
+dimensions: pres. H. 1.7, W. 5.6, L. 4, Th. 1.8, est. Diam. base ca. 12 cm; Wt. 11.89 g
 
-Date: Late first century BCE–early first century CE
+date: Late first century BCE–early first century CE
 
-Start_date: -33
+start_date: -33
 
-End_date: 32
+end_date: 32
 
-Attribution: Production area: Probably Italy, or eastern Mediterranean
+attribution: Production area: Probably Italy, or eastern Mediterranean
 
-Culture: Greek or Roman
+culture: Greek or Roman
 
-Material: Translucent purple, gray, and yellow glass; opaque white glass
+material: Translucent purple, gray, and yellow glass; opaque white glass
 
-Modeling technique and decoration: Assembled of slices of canes, cast, base-ring applied, rotary-polished
+modeling_technique_and_decoration: Assembled of slices of canes, cast, base-ring applied, rotary-polished
 
-Inscription: No
+inscription: No
 
-Shape: Dishes
+shape: Dishes
 
-Technique: Slumped
+technique: Slumped
 
 ## Condition
 
@@ -2232,35 +2232,35 @@ Pierre Mavrogordato, Greek, 1870–1948 (Berlin, Germany); by 1974–1988, Erwin
 
 None
 
-Label: 88
+label: 88
 
-Title: Bowl
+title: Bowl
 
-Accession_number: 85.AF.86
+accession_number: 85.AF.86
 
-Collection_link: <https://www.getty.edu/art/collection/objects/10942>
+collection_link: <https://www.getty.edu/art/collection/objects/10942>
 
-Dimensions: H. 4.4, Diam. rim 8.9, Diam. base 5.6 cm; Wt. 102.68 g
+dimensions: H. 4.4, Diam. rim 8.9, Diam. base 5.6 cm; Wt. 102.68 g
 
-Date: Early first century BCE
+date: Early first century BCE
 
-Start_date: -100
+start_date: -100
 
-End_date: -67
+end_date: -67
 
-Attribution: Production area: Italy or possibly eastern Mediterranean
+attribution: Production area: Italy or possibly eastern Mediterranean
 
-Culture: Roman
+culture: Roman
 
-Material: Opaque white, yellow, green, turquoise; translucent purple glass
+material: Opaque white, yellow, green, turquoise; translucent purple glass
 
-Modeling technique and decoration: Assembled of slices of canes, slumped, base-ring and rim applied, polished
+modeling_technique_and_decoration: Assembled of slices of canes, slumped, base-ring and rim applied, polished
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: Slumped
+technique: Slumped
 
 ## Condition
 
@@ -2310,35 +2310,35 @@ By 1981, Private Collection (Switzerland); 1985, Ernst Kofler, 1899–1989 and M
 
 None
 
-Label: 89
+label: 89
 
-Title: Mosaic Glass Bowl
+title: Mosaic Glass Bowl
 
-Accession_number: 78.AF.32
+accession_number: 78.AF.32
 
-Collection_link: <https://www.getty.edu/art/collection/objects/8166>
+collection_link: <https://www.getty.edu/art/collection/objects/8166>
 
-Dimensions: H. 4.1, Diam. rim 8.9, Diam. base 4 cm; Wt. 41.29 g
+dimensions: H. 4.1, Diam. rim 8.9, Diam. base 4 cm; Wt. 41.29 g
 
-Date: Late first century BCE–early first century CE
+date: Late first century BCE–early first century CE
 
-Start_date: -33
+start_date: -33
 
-End_date: 32
+end_date: 32
 
-Attribution: Production area: Italy or possibly eastern Mediterranean
+attribution: Production area: Italy or possibly eastern Mediterranean
 
-Culture: Roman
+culture: Roman
 
-Material: Opaque white, red, yellow; translucent purple glass
+material: Opaque white, red, yellow; translucent purple glass
 
-Modeling technique and decoration: Assembled of slices of canes, cast, base-ring applied, rotary-polished
+modeling_technique_and_decoration: Assembled of slices of canes, cast, base-ring applied, rotary-polished
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: Slumped
+technique: Slumped
 
 ## Condition
 
@@ -2368,35 +2368,35 @@ For the production technique see {Dawes 2002} and comments on [85.AF.85](#num). 
 
 None
 
-Label: 90
+label: 90
 
-Title: Mosaic Bowl
+title: Mosaic Bowl
 
-Accession_number: 2003.248
+accession_number: 2003.248
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221631>
+collection_link: <https://www.getty.edu/art/collection/objects/221631>
 
-Dimensions: H. 4.2, Diam. rim 9, Diam. base 4 cm; Wt. 59.91 g
+dimensions: H. 4.2, Diam. rim 9, Diam. base 4 cm; Wt. 59.91 g
 
-Date: Late first century BCE–early first century CE
+date: Late first century BCE–early first century CE
 
-Start_date: -33
+start_date: -33
 
-End_date: 32
+end_date: 32
 
-Attribution: Production area: Italy or possibly eastern Mediterranean
+attribution: Production area: Italy or possibly eastern Mediterranean
 
-Culture: Roman
+culture: Roman
 
-Material: Opaque red, white, green; translucent blue glass
+material: Opaque red, white, green; translucent blue glass
 
-Modeling technique and decoration: Assembled of slices of canes, cast, base-ring applied, rotary-polished
+modeling_technique_and_decoration: Assembled of slices of canes, cast, base-ring applied, rotary-polished
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: Slumped
+technique: Slumped
 
 ## Condition
 
@@ -2440,37 +2440,37 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 -   Pompeii and the Roman Villa: Art and Culture around the Bay of Naples (Los Angeles, 2009)
 
-Label: 91
+label: 91
 
-Title: Mosaic Bowl
+title: Mosaic Bowl
 
-Accession_number: 2003.249
+accession_number: 2003.249
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221632>
+collection_link: <https://www.getty.edu/art/collection/objects/221632>
 
-Dimensions: H. 4, Diam. rim 9, Diam. base 4.1 cm; Wt. 66.89 g
+dimensions: H. 4, Diam. rim 9, Diam. base 4.1 cm; Wt. 66.89 g
 
-Date: Late first century BCE–early first century CE
+date: Late first century BCE–early first century CE
 
 Unknown artist/maker
 
-Start_date: -33
+start_date: -33
 
-End_date: 32
+end_date: 32
 
-Attribution: Production area: Italy or possibly eastern Mediterranean
+attribution: Production area: Italy or possibly eastern Mediterranean
 
-Culture: Roman
+culture: Roman
 
-Material: Opaque red, yellow; translucent greenish and purple glass
+material: Opaque red, yellow; translucent greenish and purple glass
 
-Modeling technique and decoration: Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; cast, base-ring applied, rotary-polished
+modeling_technique_and_decoration: Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; cast, base-ring applied, rotary-polished
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: Slumped
+technique: Slumped
 
 ## Condition
 
@@ -2504,35 +2504,35 @@ For the production technique see {Dawes 2002} and comments on [85.AF.85](#num). 
 
 -   Molten Color: Glassmaking in Antiquity (Malibu, 2009–2010)
 
-Label: 92
+label: 92
 
-Title: Mosaic Bowl
+title: Mosaic Bowl
 
-Accession_number: 2003.250
+accession_number: 2003.250
 
-Collection_link: <https://www.getty.edu/art/collection/objects/221633/>
+collection_link: <https://www.getty.edu/art/collection/objects/221633/>
 
-Dimensions: H. 3.9, Diam. rim 9, Diam. base 4.2 cm; Wt. 48.83 g
+dimensions: H. 3.9, Diam. rim 9, Diam. base 4.2 cm; Wt. 48.83 g
 
-Date: Late first century BCE–early first century CE
+date: Late first century BCE–early first century CE
 
-Start_date: -33
+start_date: -33
 
-End_date: 32
+end_date: 32
 
-Attribution: Production area: Italy or possibly eastern Mediterranean
+attribution: Production area: Italy or possibly eastern Mediterranean
 
-Culture: Roman
+culture: Roman
 
-Material: Opaque white; translucent grayish and purple glass
+material: Opaque white; translucent grayish and purple glass
 
-Modeling technique and decoration: Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; cast, base-ring applied, rotary-polished
+modeling_technique_and_decoration: Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; cast, base-ring applied, rotary-polished
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: Slumped
+technique: Slumped
 
 ## Condition
 
@@ -2568,35 +2568,35 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 -   Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
-Label: 93
+label: 93
 
-Title: Mosaic Patella Bowl
+title: Mosaic Patella Bowl
 
-Accession_number: 96.AF.288
+accession_number: 96.AF.288
 
-Collection_link: <https://www.getty.edu/art/collection/objects/103525>
+collection_link: <https://www.getty.edu/art/collection/objects/103525>
 
-Dimensions: H. 4.7, Diam. rim 9.7, Diam. base 3.9 cm; Wt. 75.60 g
+dimensions: H. 4.7, Diam. rim 9.7, Diam. base 3.9 cm; Wt. 75.60 g
 
-Date: Late first century BCE–early first century CE
+date: Late first century BCE–early first century CE
 
-Start_date: -33
+start_date: -33
 
-End_date: 32
+end_date: 32
 
-Attribution: Production area: Italy or possibly eastern Mediterranean. Allegedly found at Kerch
+attribution: Production area: Italy or possibly eastern Mediterranean. Allegedly found at Kerch
 
-Culture: Roman
+culture: Roman
 
-Material: Opaque red, yellow; translucent greenish and blue glass
+material: Opaque red, yellow; translucent greenish and blue glass
 
-Modeling technique and decoration: Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; cast, base-ring applied, rotary-polished
+modeling_technique_and_decoration: Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; cast, base-ring applied, rotary-polished
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: Slumped
+technique: Slumped
 
 ## Condition
 
@@ -2634,35 +2634,35 @@ For the production technique see {Dawes 2002} and comments on [85.AF.85](#num). 
 
 None
 
-Label: 94
+label: 94
 
-Title: Fragment of a Mosaic Glass Vessel
+title: Fragment of a Mosaic Glass Vessel
 
-Accession_number: 76.AF.70.44
+accession_number: 76.AF.70.44
 
-Collection_link: <https://www.getty.edu/art/collection/objects/19063>
+collection_link: <https://www.getty.edu/art/collection/objects/19063>
 
-Dimensions: pres. H. 1.5, Th. 0.4 cm; Wt. 2.42 g
+dimensions: pres. H. 1.5, Th. 0.4 cm; Wt. 2.42 g
 
-Date: Late first century BCE–early first century CE
+date: Late first century BCE–early first century CE
 
-Start_date: -33
+start_date: -33
 
-End_date: 32
+end_date: 32
 
-Attribution: Production area: Italy or possibly eastern Mediterranean
+attribution: Production area: Italy or possibly eastern Mediterranean
 
-Culture: Roman
+culture: Roman
 
-Material: Opaque red and white; translucent blue glass
+material: Opaque red and white; translucent blue glass
 
-Modeling technique and decoration: Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; cast, rotary-polished
+modeling_technique_and_decoration: Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; cast, rotary-polished
 
-Inscription: No
+inscription: No
 
-Shape: Unidentified
+shape: Unidentified
 
-Technique: Slumped
+technique: Slumped
 
 ## Condition
 
@@ -2688,35 +2688,35 @@ Unpublished
 
 None
 
-Label: 95
+label: 95
 
-Title: Fragment of a Mosaic Vessel with Geometrical Motif
+title: Fragment of a Mosaic Vessel with Geometrical Motif
 
-Accession_number: 76.AF.70.21
+accession_number: 76.AF.70.21
 
-Collection_link: <https://www.getty.edu/art/collection/objects/19040>
+collection_link: <https://www.getty.edu/art/collection/objects/19040>
 
-Dimensions: L. 1.6, W. 1.2, Th. 0.4–0.3 cm; Wt. 1.60 g
+dimensions: L. 1.6, W. 1.2, Th. 0.4–0.3 cm; Wt. 1.60 g
 
-Date: Late first century BCE–early first century CE
+date: Late first century BCE–early first century CE
 
-Start_date: -33
+start_date: -33
 
-End_date: 32
+end_date: 32
 
-Attribution: Production area: Italy or Egypt
+attribution: Production area: Italy or Egypt
 
-Culture: Roman
+culture: Roman
 
-Material: Translucent green and blue; opaque white, yellow, and red glass
+material: Translucent green and blue; opaque white, yellow, and red glass
 
-Modeling technique and decoration: Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished
+modeling_technique_and_decoration: Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished
 
-Inscription: No
+inscription: No
 
-Shape: Unidentified
+shape: Unidentified
 
-Technique: Slumped
+technique: Slumped
 
 ## Condition
 
@@ -2746,35 +2746,35 @@ Unpublished
 
 None
 
-Label: 96
+label: 96
 
-Title: Fragment of a Mosaic Vessel with Floral Theme
+title: Fragment of a Mosaic Vessel with Floral Theme
 
-Accession_number: 76.AF.70.32
+accession_number: 76.AF.70.32
 
-Collection_link: <https://www.getty.edu/art/collection/objects/19051>
+collection_link: <https://www.getty.edu/art/collection/objects/19051>
 
-Dimensions: L. 1.5, W. 1.9, Th. 0.3–0.4 cm; Wt. 2.73 g
+dimensions: L. 1.5, W. 1.9, Th. 0.3–0.4 cm; Wt. 2.73 g
 
-Date: Late first century BCE–early first century CE
+date: Late first century BCE–early first century CE
 
-Start_date: -33
+start_date: -33
 
-End_date: 32
+end_date: 32
 
-Attribution: Production area: Italy or Egypt
+attribution: Production area: Italy or Egypt
 
-Culture: Roman
+culture: Roman
 
-Material: Translucent green and blue; opaque white, yellow, and red glass
+material: Translucent green and blue; opaque white, yellow, and red glass
 
-Modeling technique and decoration: Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished
+modeling_technique_and_decoration: Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished
 
-Inscription: No
+inscription: No
 
-Shape: Unidentified
+shape: Unidentified
 
-Technique: Slumped
+technique: Slumped
 
 ## Condition
 
@@ -2800,35 +2800,35 @@ Unpublished
 
 None
 
-Label: 97
+label: 97
 
-Title: Fragment of a Mosaic Bowl
+title: Fragment of a Mosaic Bowl
 
-Accession_number: 83.AF.28.10
+accession_number: 83.AF.28.10
 
-Collection_link: <https://www.getty.edu/art/collection/objects/16212>
+collection_link: <https://www.getty.edu/art/collection/objects/16212>
 
-Dimensions: pres. H. 1.4, est. Diam. rim ca. 7, Th. 0.4 cm; Wt. 1.85 g
+dimensions: pres. H. 1.4, est. Diam. rim ca. 7, Th. 0.4 cm; Wt. 1.85 g
 
-Date: Late first century BCE–early first century CE
+date: Late first century BCE–early first century CE
 
-Start_date: -33
+start_date: -33
 
-End_date: 32
+end_date: 32
 
-Attribution: Production area: Italy or Egypt
+attribution: Production area: Italy or Egypt
 
-Culture: Roman
+culture: Roman
 
-Material: Opaque red, white, green, yellow; translucent blue glass
+material: Opaque red, white, green, yellow; translucent blue glass
 
-Modeling technique and decoration: Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished
+modeling_technique_and_decoration: Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished
 
-Inscription: No
+inscription: No
 
-Shape: Bowls
+shape: Bowls
 
-Technique: Slumped
+technique: Slumped
 
 ## Condition
 
@@ -2856,35 +2856,35 @@ Unpublished
 
 None
 
-Label: 98
+label: 98
 
-Title: Fragment of a Mosaic Glass Vessel
+title: Fragment of a Mosaic Glass Vessel
 
-Accession_number: 83.AF.28.16
+accession_number: 83.AF.28.16
 
-Collection_link: <https://www.getty.edu/art/collection/objects/16218>
+collection_link: <https://www.getty.edu/art/collection/objects/16218>
 
-Dimensions: 3.1 × 3.4, Th. 0.4–0.5 cm; Wt. 6.15 g
+dimensions: 3.1 × 3.4, Th. 0.4–0.5 cm; Wt. 6.15 g
 
-Date: Late first century BCE–early first century CE
+date: Late first century BCE–early first century CE
 
-Start_date: -33
+start_date: -33
 
-End_date: 32
+end_date: 32
 
-Attribution: Production area: Italy or Egypt
+attribution: Production area: Italy or Egypt
 
-Culture: Roman
+culture: Roman
 
-Material: Translucent blue; opaque yellow, white, red, turquoise, orange glass
+material: Translucent blue; opaque yellow, white, red, turquoise, orange glass
 
-Modeling technique and decoration: Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished
+modeling_technique_and_decoration: Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished
 
-Inscription: No
+inscription: No
 
-Shape: Unidentified
+shape: Unidentified
 
-Technique: Slumped
+technique: Slumped
 
 ## Condition
 
@@ -2910,35 +2910,35 @@ Unpublished
 
 None
 
-Label: 99
+label: 99
 
-Title: Fragment of a Mosaic Glass Vessel
+title: Fragment of a Mosaic Glass Vessel
 
-Accession_number: 83.AF.28.6
+accession_number: 83.AF.28.6
 
-Collection_link: <https://www.getty.edu/art/collection/objects/16208>
+collection_link: <https://www.getty.edu/art/collection/objects/16208>
 
-Dimensions: 1.9 × 1.8, Th. 0.25 cm; Wt. 1.78 g
+dimensions: 1.9 × 1.8, Th. 0.25 cm; Wt. 1.78 g
 
-Date: Late first century BCE–early first century CE
+date: Late first century BCE–early first century CE
 
-Start_date: -33
+start_date: -33
 
-End_date: 32
+end_date: 32
 
-Attribution: Production area: Italy or possibly Egypt
+attribution: Production area: Italy or possibly Egypt
 
-Culture: Roman
+culture: Roman
 
-Material: Translucent purple; opaque turquoise, white, red, and yellow glass
+material: Translucent purple; opaque turquoise, white, red, and yellow glass
 
-Modeling technique and decoration: Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished
+modeling_technique_and_decoration: Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished
 
-Inscription: No
+inscription: No
 
-Shape: Unidentified
+shape: Unidentified
 
-Technique: Slumped
+technique: Slumped
 
 ## Condition
 
@@ -2964,35 +2964,35 @@ Unpublished
 
 None
 
-Label: 100
+label: 100
 
-Title: Fragment of a Mosaic Glass Vessel
+title: Fragment of a Mosaic Glass Vessel
 
-Accession_number: 83.AF.28.8
+accession_number: 83.AF.28.8
 
-Collection_link: <https://www.getty.edu/art/collection/objects/16210>
+collection_link: <https://www.getty.edu/art/collection/objects/16210>
 
-Dimensions: 2.9 × 1.9, Th. 0.3 cm; Wt. 2.88 g
+dimensions: 2.9 × 1.9, Th. 0.3 cm; Wt. 2.88 g
 
-Date: Late first century BCE–early first century CE
+date: Late first century BCE–early first century CE
 
-Start_date: -33
+start_date: -33
 
-End_date: 32
+end_date: 32
 
-Attribution: Production area: Italy or possibly Egypt
+attribution: Production area: Italy or possibly Egypt
 
-Culture: Roman
+culture: Roman
 
-Material: Translucent purple; opaque turquoise, white, red, and yellow glass
+material: Translucent purple; opaque turquoise, white, red, and yellow glass
 
-Modeling technique and decoration: Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished
+modeling_technique_and_decoration: Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished
 
-Inscription: No
+inscription: No
 
-Shape: Unidentified
+shape: Unidentified
 
-Technique: Slumped
+technique: Slumped
 
 ## Condition
 
