@@ -38,11 +38,11 @@ Amphoriskos \[Neck and rim are not preserved. Preserved examples indicate it pro
 
 Marvered white, turquoise, and yellow threads spirally wound around the body from shoulders to almost the bottom eight times and dragged 19 times upwards, forming a festoon pattern.
 
-Based on its shape ({Nolte 1968}, p. 165 amphoriskoi, form III.f, wherein several parallels are cited) and decoration, this vessel belongs among the products of a workshop, known in bibliography as “Workshop 2,” which was established early in the reign of Amenhotep III at Malkata and continued its operation during Amenhotep IV in Amarna ({Nolte 1968}, workshop 2a, pp. 88–93). The vessels of this group are characterized by their garlands, and they can be subdivided into groups 2a and 2b. Our vessel belongs to group 2a, where the garland thread is usually thin and even, drawn out with small arches and very curved; the second group shows irregular garlands, sometimes narrower, sometimes wider, and often curved in large arches. Usually the decoration comprises yellow, white, and light blue threads on an opaque dark blue to translucent copper blue background, just like 2003.146 and [2004.2](#cat). The vessels of the first group are elegant, elongated, and slender, and those of the second group are broader and more compact.
+Based on its shape ([[Nolte 1968]], p. 165 amphoriskoi, form III.f, wherein several parallels are cited) and decoration, this vessel belongs among the products of a workshop, known in bibliography as “Workshop 2,” which was established early in the reign of Amenhotep III at Malkata and continued its operation during Amenhotep IV in Amarna ([[Nolte 1968]], workshop 2a, pp. 88–93). The vessels of this group are characterized by their garlands, and they can be subdivided into groups 2a and 2b. Our vessel belongs to group 2a, where the garland thread is usually thin and even, drawn out with small arches and very curved; the second group shows irregular garlands, sometimes narrower, sometimes wider, and often curved in large arches. Usually the decoration comprises yellow, white, and light blue threads on an opaque dark blue to translucent copper blue background, just like 2003.146 and [2004.2](#cat). The vessels of the first group are elegant, elongated, and slender, and those of the second group are broader and more compact.
 
 ## Comparanda
 
-{Nolte 1968}, pp. 88–93, plates VI:4; VII:8, 9, 11. Also, {Grose 1989}, pp. 59–60, no. 5 for a two-handled example; for a four-handled parallel see the MMA piece that has been dated to the period of Amenhotep III–Akhenaten, ca. 1391–1336 BCE: https://www.metmuseum.org/art/collection/search/544828.
+[[Nolte 1968]], pp. 88–93, plates VI:4; VII:8, 9, 11. Also, [[Grose 1989]], pp. 59–60, no. 5 for a two-handled example; for a four-handled parallel see the MMA piece that has been dated to the period of Amenhotep III–Akhenaten, ca. 1391–1336 BCE: https://www.metmuseum.org/art/collection/search/544828.
 
 ## Provenance
 
@@ -50,7 +50,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern et al. 1974}, p. 18, no. 2; p. 21, ill.
+[[von Saldern et al. 1974]], p. 18, no. 2; p. 21, ill.
 
 ## Exhibitions
 
@@ -98,7 +98,7 @@ A turquoise or translucent gray unmarvered thread around the rim. The dark-color
 
 ## Comments and Comparanda
 
-No direct parallels are published. The vessel could be a flask ({Nolte 1968}, form I), although it cannot be excluded that it originally had handles ({Nolte 1968}, form II). Probably connected to the production of a workshop active after the Amarna period in an unknown place, during the Ramesside period (Nineteenth–Twentieth Dynasties; thirteenth–eleventh centuries BCE), where single-colored vessels were made alongside thread-decorated vases of workgroup 5 ({Nolte 1968}, pp. 127–129, workshop 6).
+No direct parallels are published. The vessel could be a flask ([[Nolte 1968]], form I), although it cannot be excluded that it originally had handles ([[Nolte 1968]], form II). Probably connected to the production of a workshop active after the Amarna period in an unknown place, during the Ramesside period (Nineteenth–Twentieth Dynasties; thirteenth–eleventh centuries BCE), where single-colored vessels were made alongside thread-decorated vases of workgroup 5 ([[Nolte 1968]], pp. 127–129, workshop 6).
 
 ## Provenance
 
@@ -106,9 +106,9 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern 1968}, p. 12, no. 2.
+[[von Saldern 1968]], p. 12, no. 2.
 
-{von Saldern et al. 1974}, p. 19, no. 8.
+[[von Saldern et al. 1974]], p. 19, no. 8.
 
 ## Exhibitions
 
@@ -156,21 +156,21 @@ A marvered turquoise thread is wound around the rim. Around the neck and on the 
 
 ## Comments and Comparanda
 
-Krateriskoi are one of the most characteristic Egyptian vessel forms. This particular shape and the presence of handles date it to the reigns of Tuthmosis III to Amenhotep IV, ca. 1397–to 1350 BCE ({Stern and Schlick-Nolte 1994}, pp. 130–131). Furthermore, the turquoise thread around the rim ascribes it to a particular workshop that specialized in decoration of festoon patterns, among which this feature exclusively appears ({Nolte 1968}, workshop 2a, plate VII:12; {Nolte 1985}, p. 95, plate 7.9, 12). For a discussion of this workshop, known as “Workshop 2” see [2003.146](#cat).
+Krateriskoi are one of the most characteristic Egyptian vessel forms. This particular shape and the presence of handles date it to the reigns of Tuthmosis III to Amenhotep IV, ca. 1397–to 1350 BCE ([[Stern and Schlick-Nolte 1994]], pp. 130–131). Furthermore, the turquoise thread around the rim ascribes it to a particular workshop that specialized in decoration of festoon patterns, among which this feature exclusively appears ([[Nolte 1968]], workshop 2a, plate VII:12; [[Nolte 1985]], p. 95, plate 7.9, 12). For a discussion of this workshop, known as “Workshop 2” see [2003.146](#cat).
 
-Comparanda include finds kept in the Museum für Kunst und Gewerbe Hamburg, the Hermitage St. Petersburg, the Museum of Cairo, and the Louvre ({Nolte 1968}, workshop 2a, p. 93, no. 12, plate VIII:14, 16, 17, 19); Württembergisches Museum Stuttgart ({Stern and Schlick-Nolte 1994}, pp. 130–131, no. 5); Toledo Museum of Art ({Grose 1989}, pp. 60–61, nos. 7–8) and a similar vessel is in the British Museum ({Tatton-Brown and Andrews 1991}, pp. 30–31, fig. 26).
+Comparanda include finds kept in the Museum für Kunst und Gewerbe Hamburg, the Hermitage St. Petersburg, the Museum of Cairo, and the Louvre ([[Nolte 1968]], workshop 2a, p. 93, no. 12, plate VIII:14, 16, 17, 19); Württembergisches Museum Stuttgart ([[Stern and Schlick-Nolte 1994]], pp. 130–131, no. 5); Toledo Museum of Art ([[Grose 1989]], pp. 60–61, nos. 7–8) and a similar vessel is in the British Museum ([[Tatton-Brown and Andrews 1991]], pp. 30–31, fig. 26).
 
 ## Provenance
 
-By 1965, Private Collection (Stuttgart, Germany); by 1968–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheritance to his daughter, Ingrid Reisser, 1988 \[Source: described in {Nolte 1968} as from “Grab auf Zypern”\]; 1988–2004, Ingrid Reisser (Böblingen, Germany), sold to the J. Paul Getty Museum, 2004
+By 1965, Private Collection (Stuttgart, Germany); by 1968–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheritance to his daughter, Ingrid Reisser, 1988 \[Source: described in [[Nolte 1968]] as from “Grab auf Zypern”\]; 1988–2004, Ingrid Reisser (Böblingen, Germany), sold to the J. Paul Getty Museum, 2004
 
 ## Bibliography
 
-{Möller 1965}, pp. 33–34, no. 76.
+[[Möller 1965]], pp. 33–34, no. 76.
 
-{Nolte 1968}, p. 93, no. 15, plate VIII:15; reference to the export of glass p. 93, no. 15, plate 8, pp. 15ff. and 89.
+[[Nolte 1968]], p. 93, no. 15, plate VIII:15; reference to the export of glass p. 93, no. 15, plate 8, pp. 15ff. and 89.
 
-Said to have been found in a Mycenaean grave in Cyprus: “aus einem myken. Grab auf Zypern” ({von Saldern et al. 1974}, p. 18, no. 1).
+Said to have been found in a Mycenaean grave in Cyprus: “aus einem myken. Grab auf Zypern” ([[von Saldern et al. 1974]], p. 18, no. 1).
 
 ## Exhibitions
 
@@ -218,7 +218,7 @@ An unmarvered yellow thread is wound around the rim. One yellow and one green ma
 
 ## Comments and Comparanda
 
-The translucent, bright copper-blue base color is typical of the Ramesside period (Nineteenth–Twentieth Dynasties; 1292–1070), as is the large green and yellow feather decor of the body. Numerous fragments from the glass workshop in Lisht of thick-walled, squat vessels confirm the dating ({Nolte 1968}, workshop 5, pp. 121–126, form VII, pp. 172–173, wherein several parallels are cited). The vessel is one of the last thread-decorated glasses in Egypt of excellent quality. Cf. {Nolte 1968}, p. 121, plate XXI:11, similar feather decoration in yellow and white; XXI:22, a small vessel of a similar shape with yellow and green thread decoration and greenish handles. Also cf. MMA turquoise body, blue, white, and yellow threads 30.8.179 \[ca. 1295–1070 BCE\]: https://www.metmuseum.org/art/collection/search/569296.
+The translucent, bright copper-blue base color is typical of the Ramesside period (Nineteenth–Twentieth Dynasties; 1292–1070), as is the large green and yellow feather decor of the body. Numerous fragments from the glass workshop in Lisht of thick-walled, squat vessels confirm the dating ([[Nolte 1968]], workshop 5, pp. 121–126, form VII, pp. 172–173, wherein several parallels are cited). The vessel is one of the last thread-decorated glasses in Egypt of excellent quality. Cf. [[Nolte 1968]], p. 121, plate XXI:11, similar feather decoration in yellow and white; XXI:22, a small vessel of a similar shape with yellow and green thread decoration and greenish handles. Also cf. MMA turquoise body, blue, white, and yellow threads 30.8.179 \[ca. 1295–1070 BCE\]: https://www.metmuseum.org/art/collection/search/569296.
 
 ## Provenance
 
@@ -226,11 +226,11 @@ By 1974, Gawain McKinley Ltd. (London, England); by 1974–1988, Erwin Oppenlän
 
 ## Bibliography
 
-{von Saldern et al. 1974}, pp. 18–19, no. 5; p. 20, plate no. 5.
+[[von Saldern et al. 1974]], pp. 18–19, no. 5; p. 20, plate no. 5.
 
-{McKinley 1974}, p. 2, ill.
+[[McKinley 1974]], p. 2, ill.
 
-{[JGS 1977]{.underline}}, p. 169, no. 1, ill.
+[[[JGS 1977]{.underline}]], p. 169, no. 1, ill.
 
 ## Exhibitions
 
@@ -278,7 +278,7 @@ An unmarvered yellow thread is wound around the open mouth and another is applie
 
 ## Comments and Comparanda
 
-The vessel belongs to a well-known form of fish-shaped flasks that represent a [Tilapia nilotica]{.underline} fish, common in the Nile and a standard decorative motif in ancient Egyptian art rendered in many media ({Shaw and Nicholson 1995}, p. 100). These flasks seem to have held ointments, and since they cannot stand by themselves, they must have been supported by stands. Published examples have been unearthed in Malkata and Amarna (cf. {Nolte 1968}, pp. 70, 134–136, 176, form XI, plates XXVIII:59, 60; XXIX:1, 2). Other fish-shaped, core-formed Egyptian vessels are known from museum collections: a very colorful example in the British Museum EA55193: <https://www.britishmuseum.org/collection/object/Y_EA55193> ({Nolte 1968}, p. 70, plate XXIX:2; {Cooney 1976}, p. 146, no. 1753, plate VII) and a monochrome one, EA63786: <https://www.britishmuseum.org/collection/object/Y_EA63786> ({Cooney 1976}, p. 146, no. 1754; {Tait 1991}, p. 28, fig. 23); a single-colored fish in the Brooklyn Museum, 37.316E (<https://www.brooklynmuseum.org/opencollection/objects/4014>); also, a similar fish-shaped glass object, probably used as a palette, of the same period is in Miho Museum ({Miho Museum 2001}, p. 29, 192, no. 21).
+The vessel belongs to a well-known form of fish-shaped flasks that represent a [Tilapia nilotica]{.underline} fish, common in the Nile and a standard decorative motif in ancient Egyptian art rendered in many media ([[Shaw and Nicholson 1995]], p. 100). These flasks seem to have held ointments, and since they cannot stand by themselves, they must have been supported by stands. Published examples have been unearthed in Malkata and Amarna (cf. [[Nolte 1968]], pp. 70, 134–136, 176, form XI, plates XXVIII:59, 60; XXIX:1, 2). Other fish-shaped, core-formed Egyptian vessels are known from museum collections: a very colorful example in the British Museum EA55193: <https://www.britishmuseum.org/collection/object/Y_EA55193> ([[Nolte 1968]], p. 70, plate XXIX:2; [[Cooney 1976]], p. 146, no. 1753, plate VII) and a monochrome one, EA63786: <https://www.britishmuseum.org/collection/object/Y_EA63786> ([[Cooney 1976]], p. 146, no. 1754; [[Tait 1991]], p. 28, fig. 23); a single-colored fish in the Brooklyn Museum, 37.316E (<https://www.brooklynmuseum.org/opencollection/objects/4014>); also, a similar fish-shaped glass object, probably used as a palette, of the same period is in Miho Museum ([[Miho Museum 2001]], p. 29, 192, no. 21).
 
 ## Provenance
 
@@ -286,11 +286,11 @@ By 1970–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{[JGS 1970]{.underline}}, p. 171, no. 1, ill.
+[[[JGS 1970]{.underline}]], p. 171, no. 1, ill.
 
-{von Saldern et al. 1974}, p. 18, no. 3; p. 19, plate no. 3.
+[[von Saldern et al. 1974]], p. 18, no. 3; p. 19, plate no. 3.
 
-{Dolez 1988}, p. 22.
+[[Dolez 1988]], p. 22.
 
 ## Exhibitions
 
@@ -336,7 +336,7 @@ Flaring rim, with one ground band clearly visible at the tip and another in the 
 
 ## Comments and Comparanda
 
-These cast alabastra are part of a Phoenician or Assyrian monochrome glass production that included bowls but also handled jars, jugs, and incense burners. They have been found in Assyria, Cyprus, Italy, and Spain in contexts dated to the late eighth through sixth centuries BCE ({von Saldern 1970}, pp. 225–228, nos. 48–54; {Grose 1989}, pp. 75–76). In general, it is believed that they were made by Phoenician craftsmen working in the Assyrian royal court. Particularly for the alabastra, it has been assumed that they were made in Phoenicia ({Barag 1985}, esp. pp. 52–57). Alabastra appear in two variants: a taller and slender one with height ranging between 18 and 23 cm (from Italy: {von Saldern 1970}, no. 48 = {Goldstein 1979}, p. 102, no. 200; {von Saldern 1970}, no. 51 = {Barag 1985}, pp. 67–68, no. 44; {von Saldern 1970}, no. 54a; and Cyprus: {von Saldern 1970}, no. 52= {Lightfoot 2017}, p. 29, no. 3), and a squatter one, like 2004.16, with a height between 10 and 14 cm ({von Saldern 1970}, nos. 50, 53 from Cyprus; {Arveiller-Dulong and Nenna 2000}, pp. 166–167, no. 195 from Italy). In addition, a similar squat alabastron has been unearthed in Rhodes in a burial dated to the last quarter of the fourth century BCE ({Triantafyllidis 2000}, pp. 154–155, no. 15).
+These cast alabastra are part of a Phoenician or Assyrian monochrome glass production that included bowls but also handled jars, jugs, and incense burners. They have been found in Assyria, Cyprus, Italy, and Spain in contexts dated to the late eighth through sixth centuries BCE ([[von Saldern 1970]], pp. 225–228, nos. 48–54; [[Grose 1989]], pp. 75–76). In general, it is believed that they were made by Phoenician craftsmen working in the Assyrian royal court. Particularly for the alabastra, it has been assumed that they were made in Phoenicia ([[Barag 1985]], esp. pp. 52–57). Alabastra appear in two variants: a taller and slender one with height ranging between 18 and 23 cm (from Italy: [[von Saldern 1970]], no. 48 = [[Goldstein 1979]], p. 102, no. 200; [[von Saldern 1970]], no. 51 = [[Barag 1985]], pp. 67–68, no. 44; [[von Saldern 1970]], no. 54a; and Cyprus: [[von Saldern 1970]], no. 52= [[Lightfoot 2017]], p. 29, no. 3), and a squatter one, like 2004.16, with a height between 10 and 14 cm ([[von Saldern 1970]], nos. 50, 53 from Cyprus; [[Arveiller-Dulong and Nenna 2000]], pp. 166–167, no. 195 from Italy). In addition, a similar squat alabastron has been unearthed in Rhodes in a burial dated to the last quarter of the fourth century BCE ([[Triantafyllidis 2000]], pp. 154–155, no. 15).
 
 ## Provenance
 
@@ -344,11 +344,11 @@ By 1968–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern 1968}, p. 12, no. 3.
+[[von Saldern 1968]], p. 12, no. 3.
 
-{Oppenheim et al. 1970}, p. 226, no. 49, fig. 45.
+[[Oppenheim et al. 1970]], p. 226, no. 49, fig. 45.
 
-{von Saldern et al. 1974}, p. 92, no. 241.
+[[von Saldern et al. 1974]], p. 92, no. 241.
 
 ## Exhibitions
 
@@ -400,7 +400,7 @@ On the rim is a twisted blue and white thread. On the body two orange threads fl
 
 These small, tubular vases—assumed to have been used to hold kohl, an eyeliner of antiquity—are known as kohl tubes. They were rod-formed, that is, made by collecting molten glass on one end of a metal rod, which was pulled out after the vessel was formed and decorated, and while it was still hot. Usually made of dark-colored glass decorated with bright-colored threads dragged to form zigzag or feathered patterns, or rarely festoons like 2003.160. Depending on the shape of their body, they are classified into three groups: I. square; II. cylindrical; and III. flattened pear–shaped, and then subdivided into subgroups in relation to their decoration. So, 2003.160 belongs to a rare group of tubes with square cross-section and additional knobs on the corners of the shoulders (group IC). The other two examples in the JPGM collection belong to a homogeneous, relatively numerous group of circular kohl tubes. The first subgroup (group IIC; e.g., [2003.162](#num)) is distinguished by their convex base and the thread decoration, composed of threads of one or two colors, like [2003.162](#num) marvered into the surface and dragged to form festoons. Another subgroup of cylindrical tubes (group IIB) in the JPGM collection are decorated with spirally wound coil decoration, in this case of the same color as the body and dragged up and down, forming a feather pattern ([2003.163](#num)).
 
-They are considered Iranian products, because that is where most of them were unearthed, although occasionally they found their way to distant regions such as Assyria, Georgia, and even Cyprus. They are dated in the fifth and fourth centuries and mainly to the fifth century BCE ({Barag 1975}).
+They are considered Iranian products, because that is where most of them were unearthed, although occasionally they found their way to distant regions such as Assyria, Georgia, and even Cyprus. They are dated in the fifth and fourth centuries and mainly to the fifth century BCE ([[Barag 1975]]).
 
 ## Provenance
 
@@ -408,11 +408,11 @@ By 1967–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{[JGS 1967]{.underline}}, p. 133, no. 4.
+[[[JGS 1967]{.underline}]], p. 133, no. 4.
 
-{von Saldern et al. 1974}, p. 48, no. 103; p. 52, plate no. 103.
+[[von Saldern et al. 1974]], p. 48, no. 103; p. 52, plate no. 103.
 
-{Barag 1975}, pp. 24 n. 4, 35, IC.3, fig. 25.
+[[Barag 1975]], pp. 24 n. 4, 35, IC.3, fig. 25.
 
 ## Exhibitions
 
@@ -468,9 +468,9 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern et al. 1974}, p. 50, no. 110; p. 50, plate no. 110.
+[[von Saldern et al. 1974]], p. 50, no. 110; p. 50, plate no. 110.
 
-{Barag 1975}, pp. 24 n. 4, 28, 36, IIC.1, fig. 42.
+[[Barag 1975]], pp. 24 n. 4, 28, 36, IIC.1, fig. 42.
 
 ## Exhibitions
 
@@ -526,9 +526,9 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern et al. 1974}, pp. 50–51, no. 111.
+[[von Saldern et al. 1974]], pp. 50–51, no. 111.
 
-{Barag 1975}, pp. 24 n. 4, 35, IIB.3, fig. 34.
+[[Barag 1975]], pp. 24 n. 4, 35, IIB.3, fig. 34.
 
 ## Exhibitions
 
@@ -576,9 +576,9 @@ An unmarvered purple thread around the rim. A marvered purple thread is wound sp
 
 ## Comments and Comparanda
 
-The alabastron (a narrow-necked flask) was one of the ceramic vessel form that was rendered in glass by the core-forming technique from the sixth century BCE, when this technique, known in Mesopotamia and Egypt since the middle of the second millennium BCE, was introduced in the Aegean world. In addition to alabastra, amphoriskoi (small amphoras), aryballoi, and oinochoiskai (juglets) were also rendered in core-formed glass. It is believed that they functioned as unguentaria, intended for aromatic and cosmetic substances ({Harden 1981}; {McClellan 1984}; {Grose 1989}, pp. 109–125; {Stern and Schlick-Nolte 1994}, pp. 37–44).
+The alabastron (a narrow-necked flask) was one of the ceramic vessel form that was rendered in glass by the core-forming technique from the sixth century BCE, when this technique, known in Mesopotamia and Egypt since the middle of the second millennium BCE, was introduced in the Aegean world. In addition to alabastra, amphoriskoi (small amphoras), aryballoi, and oinochoiskai (juglets) were also rendered in core-formed glass. It is believed that they functioned as unguentaria, intended for aromatic and cosmetic substances ([[Harden 1981]]; [[McClellan 1984]]; [[Grose 1989]], pp. 109–125; [[Stern and Schlick-Nolte 1994]], pp. 37–44).
 
-This alabastron belongs to the earliest group of Aegean core-formed vessels, dating from the middle of the sixth century to the end of the fifth century BCE ({Harden 1981}, pp. 58–99; {Grose 1989}, pp. 110–115). They were made either of blue glass and decorated with white, yellow, and turquoise threads or of milky white glass decorated with purple threads. Vessels of this group have been found in great numbers in Rhodes, Macedonia, the Aegean islands, and Italy. For the classification of this particular alabastron see {Grose 1989}, class I:A, alabastron form I:2: pp. 133–134, nos. 65–68.
+This alabastron belongs to the earliest group of Aegean core-formed vessels, dating from the middle of the sixth century to the end of the fifth century BCE ([[Harden 1981]], pp. 58–99; [[Grose 1989]], pp. 110–115). They were made either of blue glass and decorated with white, yellow, and turquoise threads or of milky white glass decorated with purple threads. Vessels of this group have been found in great numbers in Rhodes, Macedonia, the Aegean islands, and Italy. For the classification of this particular alabastron see [[Grose 1989]], class I:A, alabastron form I:2: pp. 133–134, nos. 65–68.
 
 ## Provenance
 
@@ -586,9 +586,9 @@ This alabastron belongs to the earliest group of Aegean core-formed vessels, dat
 
 ## Bibliography
 
-{Cramer 1908}, lot 1064, plate XI, no. 47.
+[[Cramer 1908]], lot 1064, plate XI, no. 47.
 
-{von Saldern et al. 1974}, p. 66, no. 158; p. 56, plate no. 158.
+[[von Saldern et al. 1974]], p. 66, no. 158; p. 56, plate no. 158.
 
 ## Exhibitions
 
@@ -636,7 +636,7 @@ The body and the handles are made of opaque white glass. An unmarvered transluce
 
 ## Comments and Comparanda
 
-On core-formed alabastra see comments on [2003.180](#cat). For the classification of this particular alabastron see {Grose 1989}, class I:A, alabastron form I:1.
+On core-formed alabastra see comments on [2003.180](#cat). For the classification of this particular alabastron see [[Grose 1989]], class I:A, alabastron form I:1.
 
 ## Provenance
 
@@ -644,7 +644,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern et al. 1974}, p. 66, no. 154.
+[[von Saldern et al. 1974]], p. 66, no. 154.
 
 ## Exhibitions
 
@@ -692,7 +692,7 @@ An unmarvered yellow thread around the rim.
 
 ## Comments and Comparanda
 
-On core-formed alabastra see comments on [2003.180](#cat). For the classification of this particular alabastron see {Grose 1989}, class I:F subgroup with dark-colored ground and two horizontal threads, dated to the late sixth century BCE, alabastron form I:3B, dated to the fifth century BCE: p. 137, no. 77. {Arveiller-Dulong and Nenna 2000}, p. 44, no. 17, p. 24 color plate, from Eretria, Greece.
+On core-formed alabastra see comments on [2003.180](#cat). For the classification of this particular alabastron see [[Grose 1989]], class I:F subgroup with dark-colored ground and two horizontal threads, dated to the late sixth century BCE, alabastron form I:3B, dated to the fifth century BCE: p. 137, no. 77. [[Arveiller-Dulong and Nenna 2000]], p. 44, no. 17, p. 24 color plate, from Eretria, Greece.
 
 ## Provenance
 
@@ -700,7 +700,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern et al. 1974}, p. 67, no. 162.
+[[von Saldern et al. 1974]], p. 67, no. 162.
 
 ## Exhibitions
 
@@ -748,7 +748,7 @@ The alabastron is made of a seemingly black, probably dark purple glass, and it 
 
 ## Comments and Comparanda
 
-On core-formed alabastra see comments on [2003.180](#cat). For the classification of this particular alabastron see {Grose 1989}, class I:F, alabastron form I:3A: p. 187, no. 77; {Harden 1981}, form 3; {Harden 1981}, pp. 58–59.
+On core-formed alabastra see comments on [2003.180](#cat). For the classification of this particular alabastron see [[Grose 1989]], class I:F, alabastron form I:3A: p. 187, no. 77; [[Harden 1981]], form 3; [[Harden 1981]], pp. 58–59.
 
 ## Provenance
 
@@ -756,9 +756,9 @@ On core-formed alabastra see comments on [2003.180](#cat). For the classificatio
 
 ## Bibliography
 
-{Cramer 1908}, no. 1077.
+[[Cramer 1908]], no. 1077.
 
-{von Saldern et al. 1974}, p. 67, no. 161.
+[[von Saldern et al. 1974]], p. 67, no. 161.
 
 ## Exhibitions
 
@@ -806,7 +806,7 @@ An unmarvered white thread lines the rim. A wide yellow thread is wound twice ar
 
 ## Comments and Comparanda
 
-On core-formed alabastra see comments on [2003.180](#cat). For the classification of this particular alabastron see {Grose 1989}, class I:G, alabastron form I:5: pp. 137–138, nos. 78–79.
+On core-formed alabastra see comments on [2003.180](#cat). For the classification of this particular alabastron see [[Grose 1989]], class I:G, alabastron form I:5: pp. 137–138, nos. 78–79.
 
 ## Provenance
 
@@ -814,7 +814,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern 1974}, p. 73, no. 186; p. 57, plate no. 186.
+[[von Saldern 1974]], p. 73, no. 186; p. 57, plate no. 186.
 
 ## Exhibitions
 
@@ -862,7 +862,7 @@ An unmarvered opaque yellow thread is wound around the rim. A marvered opaque ye
 
 ## Comment and Comparanda
 
-On core-formed alabastra see comments on [2003.180](#cat). For the classification of this particular alabastron see {Grose 1989}, class I:B, alabastron form I:5: pp. 137–138, nos. 78–79.
+On core-formed alabastra see comments on [2003.180](#cat). For the classification of this particular alabastron see [[Grose 1989]], class I:B, alabastron form I:5: pp. 137–138, nos. 78–79.
 
 ## Provenance
 
@@ -870,7 +870,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern 1974}, pp. 74–75, no. 197.
+[[von Saldern 1974]], pp. 74–75, no. 197.
 
 ## Exhibitions
 
@@ -916,11 +916,11 @@ Horizontal rim-disk; short, cylindrical neck; rudimentary shoulder; cylindrical 
 
 One unmarvered turquoise thread is wound around the rim. A marvered turquoise thread is spirally wound 27 times from neck to bottom. It is almost entirely weathered, now appearing white. The first six coils, covering the upper third of the body, are straight and the 18 lower, which cover the lower two-thirds of the body, are dragged up and down, forming a zigzag pattern.
 
-A bronze, m-shaped pin, missing one leg, is placed inside it. This type of double pin appears in the seventh century BCE, probably originating from Macedonia but widespread throughout the Balkans, and continues to appear until the Hellenistic era (fourth–first centuries BCE) mildly altered. For parallels see {Michailidou-Despotidou 2011}, pp. 92–94, 536, plate 44: 296–297; {Vasić 1982}, pp. 244–247, fig. 2.
+A bronze, m-shaped pin, missing one leg, is placed inside it. This type of double pin appears in the seventh century BCE, probably originating from Macedonia but widespread throughout the Balkans, and continues to appear until the Hellenistic era (fourth–first centuries BCE) mildly altered. For parallels see [[Michailidou-Despotidou 2011]], pp. 92–94, 536, plate 44: 296–297; [[Vasić 1982]], pp. 244–247, fig. 2.
 
 ## Comments and Comparanda
 
-On core-formed alabastra see comments on [2003.180](#cat). For the classification of this particular alabastron see {Grose 1989}, class I:B, alabastron form I:3A: pp. 136–137, no. 75.
+On core-formed alabastra see comments on [2003.180](#cat). For the classification of this particular alabastron see [[Grose 1989]], class I:B, alabastron form I:3A: pp. 136–137, no. 75.
 
 ## Provenance
 
@@ -928,9 +928,9 @@ On core-formed alabastra see comments on [2003.180](#cat). For the classificatio
 
 ## Bibliography
 
-{Cramer 1908}, lot 1060.
+[[Cramer 1908]], lot 1060.
 
-{von Saldern 1974}, p. 70, no. 175.
+[[von Saldern 1974]], p. 70, no. 175.
 
 ## Exhibitions
 
@@ -980,7 +980,7 @@ A probably yellow unmarvered thread, now gray due to weathering, is wound around
 
 ## Comments and Comparanda
 
-On core-formed alabastra see comments on [2003.180](#cat). For the classification of this particular alabastron see {Grose 1989}, class I:F, alabastron form I:3A: p. 141, no. 88, also very similar but taller are the examples of form I:3B: pp. 140–142, nos. 81, 85–87, 89–91.
+On core-formed alabastra see comments on [2003.180](#cat). For the classification of this particular alabastron see [[Grose 1989]], class I:F, alabastron form I:3A: p. 141, no. 88, also very similar but taller are the examples of form I:3B: pp. 140–142, nos. 81, 85–87, 89–91.
 
 ## Provenance
 
@@ -988,7 +988,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern 1974}, p. 67, no. 164; p. 69, plate no. 164.
+[[von Saldern 1974]], p. 67, no. 164; p. 69, plate no. 164.
 
 ## Exhibitions
 
@@ -1036,7 +1036,7 @@ A probably white unmarvered thread, now gray due to weathering, is wound around 
 
 ## Comments and Comparanda
 
-On core-formed alabastra see comments on [2003.180](#cat). For the classification of this particular alabastron see {Grose 1989}, class I:F, alabastron form I:3B: pp. 140–142, nos. 81, 85–87, 89–91.
+On core-formed alabastra see comments on [2003.180](#cat). For the classification of this particular alabastron see [[Grose 1989]], class I:F, alabastron form I:3B: pp. 140–142, nos. 81, 85–87, 89–91.
 
 ## Provenance
 
@@ -1044,9 +1044,9 @@ On core-formed alabastra see comments on [2003.180](#cat). For the classificatio
 
 ## Bibliography
 
-{Cramer 1908}, lot 1060.
+[[Cramer 1908]], lot 1060.
 
-{von Saldern et al. 1974}, p. 70, no. 175.
+[[von Saldern et al. 1974]], p. 70, no. 175.
 
 ## Exhibitions
 
@@ -1094,7 +1094,7 @@ A yellow marvered thread, wound around the rim, spirals 22 times around the body
 
 ## Comments and Comparanda
 
-On core-formed alabastra see comments on [2003.180](#cat). For the classification of this particular alabastron see {Grose 1989}, class I:F, alabastron form I:3B: pp. 139–141, nos. 82–85. Almost identical with [2003.189](#num).
+On core-formed alabastra see comments on [2003.180](#cat). For the classification of this particular alabastron see [[Grose 1989]], class I:F, alabastron form I:3B: pp. 139–141, nos. 82–85. Almost identical with [2003.189](#num).
 
 ## Provenance
 
@@ -1102,7 +1102,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern et al. 1974}, p. 70, no. 174.
+[[von Saldern et al. 1974]], p. 70, no. 174.
 
 ## Exhibitions
 
@@ -1150,7 +1150,7 @@ A yellow marvered thread wound around the rim spirals 25 times around the body t
 
 ## Comments and Comparanda
 
-On core-formed alabastra see comments on [2003.180](#cat). For the classification of this particular alabastron see {Grose 1989}, class I:F, alabastron form I:3B: pp. 139–141, nos. 82–85. Almost identical with [2003.186](#num).
+On core-formed alabastra see comments on [2003.180](#cat). For the classification of this particular alabastron see [[Grose 1989]], class I:F, alabastron form I:3B: pp. 139–141, nos. 82–85. Almost identical with [2003.186](#num).
 
 ## Provenance
 
@@ -1158,7 +1158,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern 1974}, pp. 72–73, no. 185; p. 57, plate no. 185.
+[[von Saldern 1974]], pp. 72–73, no. 185; p. 57, plate no. 185.
 
 ## Exhibitions
 
@@ -1206,7 +1206,7 @@ A yellow thread is wound around the rim. A thin turquoise and wide yellow thread
 
 ## Comments and Comparanda
 
-On core-formed alabastra see comments on [2003.180](#cat). For the classification of this particular alabastron see {Grose 1989}, class I:F, alabastron form I:3A: p. 141, no. 88.
+On core-formed alabastra see comments on [2003.180](#cat). For the classification of this particular alabastron see [[Grose 1989]], class I:F, alabastron form I:3A: p. 141, no. 88.
 
 ## Provenance
 
@@ -1214,7 +1214,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern 1974}, p. 70, no. 178; p. 71, plate no. 178.
+[[von Saldern 1974]], p. 70, no. 178; p. 71, plate no. 178.
 
 ## Exhibitions
 
@@ -1262,7 +1262,7 @@ A yellow unmarvered thread around the rim. The body of the vessel, from the shou
 
 ## Comparanda and Comment
 
-On the origins of core-formed alabastra and early examples, see comments on [2003.180](#cat). This object belongs to the second group of core-formed vessels, which appears after the early fourth century BCE and continues to be made until the third century BCE ({Harden 1981}, pp. 100–121; {Grose 1989}, pp. 115–122). They were probably produced in more workshops and are found predominantly in mainland Greece, as well as in central and southern Italy. Initially the vessel types of the first group are repeated, differing only in shape and decoration, but later on new shapes appear, like the hydriske, the unguentarium, and the lentoid aryballos. For the classification of this particular alabastron see {Grose 1989}, class II:A, alabastron form II:2: pp. 154–155, nos. 127–128.
+On the origins of core-formed alabastra and early examples, see comments on [2003.180](#cat). This object belongs to the second group of core-formed vessels, which appears after the early fourth century BCE and continues to be made until the third century BCE ([[Harden 1981]], pp. 100–121; [[Grose 1989]], pp. 115–122). They were probably produced in more workshops and are found predominantly in mainland Greece, as well as in central and southern Italy. Initially the vessel types of the first group are repeated, differing only in shape and decoration, but later on new shapes appear, like the hydriske, the unguentarium, and the lentoid aryballos. For the classification of this particular alabastron see [[Grose 1989]], class II:A, alabastron form II:2: pp. 154–155, nos. 127–128.
 
 ## Provenance
 
@@ -1270,11 +1270,11 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern 1974}, p. 73, no. 190; p. 61, plate no. 190.
+[[von Saldern 1974]], p. 73, no. 190; p. 61, plate no. 190.
 
-{[JPGM Handbook]{.underline} 7th ed.}, p. 46, ill.
+[[[JPGM Handbook]{.underline} 7th ed.]], p. 46, ill.
 
-{[JPGM Handbook Antiquities]{.underline} rev. ed.}, p. 103.
+[[[JPGM Handbook Antiquities]{.underline} rev. ed.]], p. 103.
 
 ## Exhibitions
 
@@ -1324,7 +1324,7 @@ An unmarvered yellow thread is wound around the rim. A white thread is spirally 
 
 ## Comments and Comparanda
 
-On core-formed alabastra of this period see comments on [2003.193](#cat). For the classification of this particular alabastron see {Grose 1989}, class II:A, alabastron form II:2: pp. 153–155, nos. 124, 128.
+On core-formed alabastra of this period see comments on [2003.193](#cat). For the classification of this particular alabastron see [[Grose 1989]], class II:A, alabastron form II:2: pp. 153–155, nos. 124, 128.
 
 ## Provenance
 
@@ -1332,7 +1332,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern 1974}, p. 70, no. 181; p. 72, plate no. 181.
+[[von Saldern 1974]], p. 70, no. 181; p. 72, plate no. 181.
 
 ## Exhibitions
 
@@ -1380,7 +1380,7 @@ A thick, white, unmarvered thread around the rim. This thread has a very thin ye
 
 ## Comments and Comparanda
 
-On core-formed alabastra of this period see comments on [2003.193](#cat). For the classification of this particular alabastron see {Grose 1989}, class III:A or B, alabastron form III:1. This example does not fit exactly in either group A or B. Although the thread around the rim is unmarvered, the neck and the upper body are not decorated, the long neck, the cylindrical body, the handles in form of lugs, and their position near the shoulder lead us to ascribe it to this form. For a comparable find from Macedonia cf. {Adam-Veleni and Ignatiadou 2010}, pp. 336–337, nos. 345–346, dated to the last quarter of the fourth century BCE.
+On core-formed alabastra of this period see comments on [2003.193](#cat). For the classification of this particular alabastron see [[Grose 1989]], class III:A or B, alabastron form III:1. This example does not fit exactly in either group A or B. Although the thread around the rim is unmarvered, the neck and the upper body are not decorated, the long neck, the cylindrical body, the handles in form of lugs, and their position near the shoulder lead us to ascribe it to this form. For a comparable find from Macedonia cf. [[Adam-Veleni and Ignatiadou 2010]], pp. 336–337, nos. 345–346, dated to the last quarter of the fourth century BCE.
 
 ## Provenance
 
@@ -1388,7 +1388,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern 1974}, p. 73, no. 187; p. 57, plate no. 187.
+[[von Saldern 1974]], p. 73, no. 187; p. 57, plate no. 187.
 
 ## Exhibitions
 
@@ -1438,7 +1438,7 @@ An unmarvered yellow thread is wound around the rim. A marvered yellow thread is
 
 ## Comments and Comparanda
 
-On core-formed alabastra of this period see comments on [2003.193](#cat). For the classification of this particular alabastron see {Grose 1989}, class II:A, alabastron form II:2: pp. 153–154, no. 125.
+On core-formed alabastra of this period see comments on [2003.193](#cat). For the classification of this particular alabastron see [[Grose 1989]], class II:A, alabastron form II:2: pp. 153–154, no. 125.
 
 ## Provenance
 
@@ -1446,7 +1446,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern et al. 1974}, p. 70, no. 177.
+[[von Saldern et al. 1974]], p. 70, no. 177.
 
 ## Exhibitions
 
@@ -1494,7 +1494,7 @@ Decorated with yellow threads, with an unmarvered one wound around the rim. A ma
 
 ## Comments and Comparanda
 
-On core-formed alabastra of this period see comments on [2003.193](#cat). For the classification of this particular alabastron see {Grose 1989}, class II:D, alabastron form II:8: pp. 158–159, no. 140.
+On core-formed alabastra of this period see comments on [2003.193](#cat). For the classification of this particular alabastron see [[Grose 1989]], class II:D, alabastron form II:8: pp. 158–159, no. 140.
 
 ## Provenance
 
@@ -1502,9 +1502,9 @@ Louis de Clercq, French, 1836–1901 (Paris, France); by 1974–1988, Erwin Oppe
 
 ## Bibliography
 
-{de Ridder 1909}, no. 581, plate 31.
+[[de Ridder 1909]], no. 581, plate 31.
 
-{von Saldern et al. 1974}, p. 112, no. 300.
+[[von Saldern et al. 1974]], p. 112, no. 300.
 
 ## Exhibitions
 
@@ -1570,7 +1570,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern 1974}, p. 73, no. 189; p. 61, plate no. 189.
+[[von Saldern 1974]], p. 73, no. 189; p. 61, plate no. 189.
 
 ## Exhibitions
 
@@ -1618,7 +1618,7 @@ A marvered yellow thread is wound around the disk-rim and spirals loosely three 
 
 ## Comments and Comparanda
 
-On core-formed alabastra of this period see comments on [2003.193](#cat). For the classification of this particular alabastron see {Grose 1989}, class III:C, alabastron form III:3: pp. 167–168, no. 164. Further examples include one in Freer Gallery (no. 09.435, ={Grose 1989}, fig. 88 left) and one from Samothrace ({Dusenberry 1967}, pp. 37–38, no. 3, fig. 4).
+On core-formed alabastra of this period see comments on [2003.193](#cat). For the classification of this particular alabastron see [[Grose 1989]], class III:C, alabastron form III:3: pp. 167–168, no. 164. Further examples include one in Freer Gallery (no. 09.435, =[[Grose 1989]], fig. 88 left) and one from Samothrace ([[Dusenberry 1967]], pp. 37–38, no. 3, fig. 4).
 
 ## Provenance
 
@@ -1626,7 +1626,7 @@ Louis de Clercq, French, 1836–1901; by 1974–1988, Erwin Oppenländer, 1901�
 
 ## Bibliography
 
-{von Saldern 1974}, p. 71, no. 182; p. 72, plate no. 182.
+[[von Saldern 1974]], p. 71, no. 182; p. 72, plate no. 182.
 
 ## Exhibitions
 
@@ -1674,7 +1674,7 @@ An opaque white thread wound spirally 44 times from bottom to the rim and dragge
 
 ## Comments and Comparanda
 
-For a discussion of early core-formed alabastra, see [2003.180](#cat). This object belongs to the third group of core-formed vessels, which appears between the second century BCE and the early first century CE; the centers of production seem to have been in Cyprus and on the Phoenician coast. It includes different shapes of alabastra and amphoriskoi, which are similar to those of ceramic vessels manufactured at the same time ({Harden 1981}, pp. 123–141; {Grose 1989}, pp. 122–125). For the classification of this particular alabastron compare {Grose 1989}, class III:E, alabastron form III:4: p. 168, no. 165, which has a much more acute angle turning to the bottom. Cf. {Fossing 1940}, p. 112, fig. 84, spotted by Axel von Saldern ({von Saldern 1974}, no. 191), who also notes that this vessel (2003.194) does not have the unusually elongated shape, but is greatly expanded below the middle of the body.
+For a discussion of early core-formed alabastra, see [2003.180](#cat). This object belongs to the third group of core-formed vessels, which appears between the second century BCE and the early first century CE; the centers of production seem to have been in Cyprus and on the Phoenician coast. It includes different shapes of alabastra and amphoriskoi, which are similar to those of ceramic vessels manufactured at the same time ([[Harden 1981]], pp. 123–141; [[Grose 1989]], pp. 122–125). For the classification of this particular alabastron compare [[Grose 1989]], class III:E, alabastron form III:4: p. 168, no. 165, which has a much more acute angle turning to the bottom. Cf. [[Fossing 1940]], p. 112, fig. 84, spotted by Axel von Saldern ([[von Saldern 1974]], no. 191), who also notes that this vessel (2003.194) does not have the unusually elongated shape, but is greatly expanded below the middle of the body.
 
 ## Provenance
 
@@ -1682,7 +1682,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern 1974}, pp. 73–74, no. 191; p. 61, plate no. 191.
+[[von Saldern 1974]], pp. 73–74, no. 191; p. 61, plate no. 191.
 
 ## Exhibitions
 
@@ -1728,7 +1728,7 @@ Flaring, fire-polished rim; elongated conical body; convex bottom. The interior 
 
 ## Comments and Comparanda
 
-On core-formed alabastra of this period see comments on [2003.194](#cat). The alabastron probably belongs to the fashion of archaicizing vases that were imitating archaic prototypes. In this case for the prototype of the shape of the body see a clay alabastron from Kamiros, dated between the 610–550 BCE, kept in the British Museum: <https://www.britishmuseum.org/collection/object/G_1860-0404-49>. The production technique indicates a much later date, and the object is made of the exact same glass as the jug [2003.476](#num) and the patella [2003.234](#num). See also comments of Axel von Saldern corroborating this dating and ascribing it to the early imperial colored glass vessels ({von Saldern et al. 1974}, p. 112, no. 300).
+On core-formed alabastra of this period see comments on [2003.194](#cat). The alabastron probably belongs to the fashion of archaicizing vases that were imitating archaic prototypes. In this case for the prototype of the shape of the body see a clay alabastron from Kamiros, dated between the 610–550 BCE, kept in the British Museum: <https://www.britishmuseum.org/collection/object/G_1860-0404-49>. The production technique indicates a much later date, and the object is made of the exact same glass as the jug [2003.476](#num) and the patella [2003.234](#num). See also comments of Axel von Saldern corroborating this dating and ascribing it to the early imperial colored glass vessels ([[von Saldern et al. 1974]], p. 112, no. 300).
 
 ## Provenance
 
@@ -1736,9 +1736,9 @@ Louis de Clercq, French, 1836–1901 (Paris, France); by 1974–1988, Erwin Oppe
 
 ## Bibliography
 
-{de Ridder 1909}, no. 581, plate 31.
+[[de Ridder 1909]], no. 581, plate 31.
 
-{von Saldern et al. 1974}, p. 112, no. 300.
+[[von Saldern et al. 1974]], p. 112, no. 300.
 
 ## Exhibitions
 
@@ -1786,7 +1786,7 @@ A white thread is wound 33 times around the body from the bottom to the rim. The
 
 ## Comments and Comparanda
 
-On core-formed alabastra of this period, see comments on [2003.194](#cat). For the classification of this particular alabastron see {Grose 1989}, class III:E, alabastron form III:5: pp. 168–169, nos. 166–167; {Harden 1981}, form 18, pp. 122–123.
+On core-formed alabastra of this period, see comments on [2003.194](#cat). For the classification of this particular alabastron see [[Grose 1989]], class III:E, alabastron form III:5: pp. 168–169, nos. 166–167; [[Harden 1981]], form 18, pp. 122–123.
 
 ## Provenance
 
@@ -1794,7 +1794,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern et al. 1974}, p. 74, no. 192.
+[[von Saldern et al. 1974]], p. 74, no. 192.
 
 ## Exhibitions
 
@@ -1844,7 +1844,7 @@ Dark-colored remains of the core are visible in the interior.
 
 ## Comments and Comparanda
 
-On core-formed alabastra of this period see comments on [2003.194](#cat). For the classification of this particular alabastron see {Grose 1989}, class III:E, alabastron form III:5: pp. 168–169, nos. 166–167; {Harden 1981}, form 18; {Harden 1981}, pp. 122–123.
+On core-formed alabastra of this period see comments on [2003.194](#cat). For the classification of this particular alabastron see [[Grose 1989]], class III:E, alabastron form III:5: pp. 168–169, nos. 166–167; [[Harden 1981]], form 18; [[Harden 1981]], pp. 122–123.
 
 ## Provenance
 
@@ -1852,7 +1852,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern et al. 1974}, pp. 75–76, no. 199; p. 77, plate no. 199.
+[[von Saldern et al. 1974]], pp. 75–76, no. 199; p. 77, plate no. 199.
 
 ## Exhibitions
 
@@ -1900,7 +1900,7 @@ A marvered white thread is wound 17 times around the body, from the bottom to th
 
 ## Comments and Comparanda
 
-On core-formed alabastra of this period see comments on [2003.194](#cat). For the classification of this particular alabastron see {Grose 1989}, class III:E, alabastron form III:5. The majority of the alabastra of this form are better proportioned and quite similar among themselves, quite different to the squatter variant of 2003.198, which is very similar to an example from Amathous, Cyprus ({Harden 1981}, p. 128, no. 340).
+On core-formed alabastra of this period see comments on [2003.194](#cat). For the classification of this particular alabastron see [[Grose 1989]], class III:E, alabastron form III:5. The majority of the alabastra of this form are better proportioned and quite similar among themselves, quite different to the squatter variant of 2003.198, which is very similar to an example from Amathous, Cyprus ([[Harden 1981]], p. 128, no. 340).
 
 ## Provenance
 
@@ -1908,7 +1908,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern et al. 1974}, p. 76, no. 200.
+[[von Saldern et al. 1974]], p. 76, no. 200.
 
 ## Exhibitions
 
@@ -1956,9 +1956,9 @@ Opaque white ground, translucent purple decoration. Unmarvered thread wound arou
 
 ## Comments and Comparanda
 
-The amphoriskos (small amphora) was one of the ceramic vessel forms that was rendered in glass by the core-forming technique from the sixth century BCE onward, when this technique, known in Mesopotamia and Egypt since the middle of the second millennium BCE, was introduced in the Aegean world. In addition to amphoriskoi, alabastra, aryballoi, and oinochoiskai (juglets) were imitated in core-formed glass. It is believed that they functioned as unguentaria, intended for aromatic and cosmetic substances ({Harden 1981}; {McClellan 1984}; {Grose 1989}, pp. 109–125; {Stern and Schlick-Nolte 1994}, pp. 37–44).
+The amphoriskos (small amphora) was one of the ceramic vessel forms that was rendered in glass by the core-forming technique from the sixth century BCE onward, when this technique, known in Mesopotamia and Egypt since the middle of the second millennium BCE, was introduced in the Aegean world. In addition to amphoriskoi, alabastra, aryballoi, and oinochoiskai (juglets) were imitated in core-formed glass. It is believed that they functioned as unguentaria, intended for aromatic and cosmetic substances ([[Harden 1981]]; [[McClellan 1984]]; [[Grose 1989]], pp. 109–125; [[Stern and Schlick-Nolte 1994]], pp. 37–44).
 
-This object belongs to the earliest group of Aegean core-formed vessels, dating from the middle of the sixth century to the end of the fifth century BCE ({Harden 1981}, pp. 58–99; {Grose 1989}, pp. 110–115), which were made either of blue glass and decorated with white, yellow, and turquoise threads or of milky white glass decorated with purple threads. Vessels of this group have been found in great numbers in Rhodes, Macedonia, the Aegean islands, and Italy. For the classification of this particular amphoriskos see {Grose 1989}, class I:A, amphoriskos form I:2; for the class see p. 143, nos. 94–95; for the form see p. 145, no. 101.
+This object belongs to the earliest group of Aegean core-formed vessels, dating from the middle of the sixth century to the end of the fifth century BCE ([[Harden 1981]], pp. 58–99; [[Grose 1989]], pp. 110–115), which were made either of blue glass and decorated with white, yellow, and turquoise threads or of milky white glass decorated with purple threads. Vessels of this group have been found in great numbers in Rhodes, Macedonia, the Aegean islands, and Italy. For the classification of this particular amphoriskos see [[Grose 1989]], class I:A, amphoriskos form I:2; for the class see p. 143, nos. 94–95; for the form see p. 145, no. 101.
 
 ## Provenance
 
@@ -1966,7 +1966,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern et al. 1974}, p. 66, no. 153; p. 56, plate no. 153.
+[[von Saldern et al. 1974]], p. 66, no. 153; p. 56, plate no. 153.
 
 ## Exhibitions
 
@@ -2016,7 +2016,7 @@ A bronze chain ending with a large ring is attached to one of the handles.
 
 ## Comments and Comparanda
 
-On core-formed amphoriskoi of this period see comments on [2003.178](#cat). For the classification of this particular amphoriskos see {Grose 1989}, class I:B, amphoriskos form I:2: p. 144, no. 97.
+On core-formed amphoriskoi of this period see comments on [2003.178](#cat). For the classification of this particular amphoriskos see [[Grose 1989]], class I:B, amphoriskos form I:2: p. 144, no. 97.
 
 ## Provenance
 
@@ -2024,7 +2024,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern et al. 1974}, p. 81, no. 221; p. 61, plate no. 221.
+[[von Saldern et al. 1974]], p. 81, no. 221; p. 61, plate no. 221.
 
 ## Exhibitions
 
@@ -2072,7 +2072,7 @@ An unmarvered opaque white thread is wound around the rim. A marvered white thre
 
 ## Comments and Comparanda
 
-On core-formed amphoriskoi of this period see comments on [2003.178](#cat). For the classification of this particular amphoriskos see {Grose 1989}, nontypical example of class I:B, amphoriskos form I:2: pp. 144–146, nos. 97–104.
+On core-formed amphoriskoi of this period see comments on [2003.178](#cat). For the classification of this particular amphoriskos see [[Grose 1989]], nontypical example of class I:B, amphoriskos form I:2: pp. 144–146, nos. 97–104.
 
 ## Provenance
 
@@ -2080,7 +2080,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern et al. 1974}, p. 60, no. 132; p. 59, plate no. 132.
+[[von Saldern et al. 1974]], p. 60, no. 132; p. 59, plate no. 132.
 
 ## Exhibitions
 
@@ -2128,7 +2128,7 @@ An unmarvered opaque yellow thread is wound around the rim. A marvered wide yell
 
 ## Comments and Comparanda
 
-On core-formed amphoriskoi of this period see comments on [2003.178](#cat). For the classification of this particular amphoriskos see {Grose 1989}, class I:B amphoriskos form I:2, pp. 144–146, nos. 97–104.
+On core-formed amphoriskoi of this period see comments on [2003.178](#cat). For the classification of this particular amphoriskos see [[Grose 1989]], class I:B amphoriskos form I:2, pp. 144–146, nos. 97–104.
 
 ## Provenance
 
@@ -2136,7 +2136,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern et al. 1974}, p. 62, no. 138.
+[[von Saldern et al. 1974]], p. 62, no. 138.
 
 ## Exhibitions
 
@@ -2184,7 +2184,7 @@ An unmarvered opaque yellow thread is wound around the rim. A marvered wide yell
 
 ## Comments and Comparanda
 
-On core-formed amphoriskoi of this period see comments on [2003.178](#cat). For the classification of this particular amphoriskos see {Grose 1989}, class I:B, amphoriskos form I:1: p. 143, no. 96.
+On core-formed amphoriskoi of this period see comments on [2003.178](#cat). For the classification of this particular amphoriskos see [[Grose 1989]], class I:B, amphoriskos form I:1: p. 143, no. 96.
 
 ## Provenance
 
@@ -2192,7 +2192,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern et al. 1974}, p. 62, no. 141; p. 60, plate no. 141.
+[[von Saldern et al. 1974]], p. 62, no. 141; p. 60, plate no. 141.
 
 ## Exhibitions
 
@@ -2240,7 +2240,7 @@ An unmarvered opaque yellow thread and a turquoise thread are wound around the r
 
 ## Comments and Comparanda
 
-On core-formed amphoriskoi of this period see comments on [2003.178](#cat). For the classification of this particular amphoriskos see {Grose 1989}, class I:B, amphoriskos form I:2: p. 144, no. 97.
+On core-formed amphoriskoi of this period see comments on [2003.178](#cat). For the classification of this particular amphoriskos see [[Grose 1989]], class I:B, amphoriskos form I:2: p. 144, no. 97.
 
 ## Provenance
 
@@ -2248,7 +2248,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern et al. 1974}, p. 62, no. 142.
+[[von Saldern et al. 1974]], p. 62, no. 142.
 
 ## Exhibitions
 
@@ -2296,7 +2296,7 @@ An unmarvered opaque yellow thread is wound around the rim. A marvered wide thre
 
 ## Comments and Comparanda
 
-On core-formed amphoriskoi of this period see comments on [2003.178](#cat). For the classification of this particular amphoriskos see {Grose 1989}, class I:F, amphoriskos form I:2: pp. 146–48, nos. 104, 109.
+On core-formed amphoriskoi of this period see comments on [2003.178](#cat). For the classification of this particular amphoriskos see [[Grose 1989]], class I:F, amphoriskos form I:2: pp. 146–48, nos. 104, 109.
 
 ## Provenance
 
@@ -2304,9 +2304,9 @@ On core-formed amphoriskoi of this period see comments on [2003.178](#cat). For 
 
 ## Bibliography
 
-{Cramer 1908}, lot 1017.
+[[Cramer 1908]], lot 1017.
 
-{von Saldern et al. 1974}, p. 60, no. 133.
+[[von Saldern et al. 1974]], p. 60, no. 133.
 
 ## Exhibitions
 
@@ -2354,7 +2354,7 @@ A thick unmarvered opaque white thread is wound around the rim, and another one 
 
 ## Comments and Comparanda
 
-On core-formed amphoriskoi of this period see comments on [2003.178](#cat). This is a very rare variant of the core-formed amphoriskoi because of its monochrome body, and no other examples with the exact same colors of dark green (nearly black) and white have been identified. For the classification of this particular amphoriskos see {Grose 1989}, class I:F, amphoriskos form I:2. The almost spherical base-knob does not appear among group I amphoriskoi, yet the body shape fits within that group. The base-knob appears in group II, similar to II:2, which has a different body form. Other intriguing details are that the rim was made by bending the mass of the body and not by a separate disc. In addition, only a layer of dirt—no larger particles of the core—is visible in the interior, raising doubts about the production technique and the date of the vessel.
+On core-formed amphoriskoi of this period see comments on [2003.178](#cat). This is a very rare variant of the core-formed amphoriskoi because of its monochrome body, and no other examples with the exact same colors of dark green (nearly black) and white have been identified. For the classification of this particular amphoriskos see [[Grose 1989]], class I:F, amphoriskos form I:2. The almost spherical base-knob does not appear among group I amphoriskoi, yet the body shape fits within that group. The base-knob appears in group II, similar to II:2, which has a different body form. Other intriguing details are that the rim was made by bending the mass of the body and not by a separate disc. In addition, only a layer of dirt—no larger particles of the core—is visible in the interior, raising doubts about the production technique and the date of the vessel.
 
 ## Provenance
 
@@ -2362,7 +2362,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern et al. 1974}, p. 64, no. 147; p. 63, plate no. 147.
+[[von Saldern et al. 1974]], p. 64, no. 147; p. 63, plate no. 147.
 
 ## Exhibitions
 
@@ -2410,7 +2410,7 @@ A marvered white thread spirally wound four times on the lower part of the neck 
 
 ## Comments and Comparanda
 
-Double-handled unguentaria along with hydriskai, jars, and lentoid aryballoi are a new vessel form, ascribed to the second, far rarer group II of Mediterranean core-formed vessels. This group appears late in the fourth century BCE, at the very beginning of the Hellenistic era (fourth–first centuries BCE), and dominated the market until the first or second quarter of the third century. New production centers operated then, probably in Italy and mainland Greece, possibly Macedonia. New decorative patterns replaced the old zigzags with festoons and feather patterns ({Harden 1981}, pp. 100–121; {McClellan 1984}, pp. 77–126; {Grose 1989}, pp. 115–122; {Stern and Schlick-Nolte 1994}, pp. 38–39). For the classification of this particular vessel see {Grose 1989}, class II:G, unguentarium form II:1, pp. 121–122; {Harden 1981}, pp. 135–137, nos. 372–373.
+Double-handled unguentaria along with hydriskai, jars, and lentoid aryballoi are a new vessel form, ascribed to the second, far rarer group II of Mediterranean core-formed vessels. This group appears late in the fourth century BCE, at the very beginning of the Hellenistic era (fourth–first centuries BCE), and dominated the market until the first or second quarter of the third century. New production centers operated then, probably in Italy and mainland Greece, possibly Macedonia. New decorative patterns replaced the old zigzags with festoons and feather patterns ([[Harden 1981]], pp. 100–121; [[McClellan 1984]], pp. 77–126; [[Grose 1989]], pp. 115–122; [[Stern and Schlick-Nolte 1994]], pp. 38–39). For the classification of this particular vessel see [[Grose 1989]], class II:G, unguentarium form II:1, pp. 121–122; [[Harden 1981]], pp. 135–137, nos. 372–373.
 
 ## Provenance
 
@@ -2418,7 +2418,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern et al. 1974}, p. 81, no. 218; p. 61, plate no. 218.
+[[von Saldern et al. 1974]], p. 81, no. 218; p. 61, plate no. 218.
 
 ## Exhibitions
 
@@ -2466,7 +2466,7 @@ A marvered opaque yellow thread is wound on the rim and spirals to the bottom tw
 
 ## Comments and Comparanda
 
-Amphoriskoi are one of the two main vessel forms produced in glass workshops active in the eastern Mediterranean between the middle of the second century BCE and the early first century CE, conventionally referred to as Mediterranean group III, a period of revival of core-forming, after a century-long period of stasis during which no new glass vessel forms were introduced. On Mediterranean group II: {Harden 1981}, pp. 123–141; {McClellan 1984}, pp. 127–164; {Grose 1989}, pp. 122–125; {Stern and Schlick-Nolte 1994}, p. 39. For the classification of this particular vessel see {Grose 1989}, class III:E, amphoriskos form III:2B: pp. 169–172, nos. 168–176.
+Amphoriskoi are one of the two main vessel forms produced in glass workshops active in the eastern Mediterranean between the middle of the second century BCE and the early first century CE, conventionally referred to as Mediterranean group III, a period of revival of core-forming, after a century-long period of stasis during which no new glass vessel forms were introduced. On Mediterranean group II: [[Harden 1981]], pp. 123–141; [[McClellan 1984]], pp. 127–164; [[Grose 1989]], pp. 122–125; [[Stern and Schlick-Nolte 1994]], p. 39. For the classification of this particular vessel see [[Grose 1989]], class III:E, amphoriskos form III:2B: pp. 169–172, nos. 168–176.
 
 ## Provenance
 
@@ -2474,7 +2474,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern et al. 1974}, p. 78, no. 209; p. 79, plate no. 209.
+[[von Saldern et al. 1974]], p. 78, no. 209; p. 79, plate no. 209.
 
 ## Exhibitions
 
@@ -2522,7 +2522,7 @@ A marvered opaque yellow thread is wound on the rim and spirals to the bottom 32
 
 ## Comments and Comparanda
 
-On core-formed amphoriskoi of this period see comments on [2003.200](#cat). For the classification of this particular amphoriskos see {Grose 1989}, class III:E, amphoriskos form III:2B: pp. 169–172, nos. 168–176.
+On core-formed amphoriskoi of this period see comments on [2003.200](#cat). For the classification of this particular amphoriskos see [[Grose 1989]], class III:E, amphoriskos form III:2B: pp. 169–172, nos. 168–176.
 
 ## Provenance
 
@@ -2530,7 +2530,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern et al. 1974}, p. 80, no. 210; p. 79, plate no. 210.
+[[von Saldern et al. 1974]], p. 80, no. 210; p. 79, plate no. 210.
 
 ## Exhibitions
 
@@ -2578,7 +2578,7 @@ A yellow and a turquoise marvered threads spirally wound 27 times from rim to bo
 
 ## Comments and Comparanda
 
-On core-formed amphoriskoi of this period see comments on [2003.200](#cat). For the classification of this particular amphoriskos see {Grose 1989}, class III:E, amphoriskos form III:2B: pp. 170–172, nos. 170–174. The shoulder area was restored forming an unexpected obtuse angle between the neck and the shoulder/body, compared for instance with the more typical for the form 2003.204.
+On core-formed amphoriskoi of this period see comments on [2003.200](#cat). For the classification of this particular amphoriskos see [[Grose 1989]], class III:E, amphoriskos form III:2B: pp. 170–172, nos. 170–174. The shoulder area was restored forming an unexpected obtuse angle between the neck and the shoulder/body, compared for instance with the more typical for the form 2003.204.
 
 ## Provenance
 
@@ -2586,7 +2586,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern et al. 1974}, p. 80, no. 214.
+[[von Saldern et al. 1974]], p. 80, no. 214.
 
 ## Exhibitions
 
@@ -2634,7 +2634,7 @@ A red and a white thread wound 32 times from rim to bottom in horizontal lines, 
 
 ## Comments and Comparanda
 
-On core-formed amphoriskoi of this period see comments on [2003.200](#cat). For the classification of this particular amphoriskos see {Grose 1989}, class III:E, amphoriskos form III:2B: pp. 170–172, nos. 170–174.
+On core-formed amphoriskoi of this period see comments on [2003.200](#cat). For the classification of this particular amphoriskos see [[Grose 1989]], class III:E, amphoriskos form III:2B: pp. 170–172, nos. 170–174.
 
 ## Provenance
 
@@ -2642,7 +2642,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern et al. 1974}, p. 59, no. 130, illus.
+[[von Saldern et al. 1974]], p. 59, no. 130, illus.
 
 ## Exhibitions
 
@@ -2690,7 +2690,7 @@ A yellow and a white marvered threads spirally wound around the vessel from rim 
 
 ## Comments and Comparanda
 
-On the origins of core-formed amphoriskoi, see [2003.178](#cat). This object belongs to the third group of core-formed vessels, which appears between the second century BCE and the early first century CE; the centers of production seem to have been in Cyprus and on the Phoenician coast. It includes different shapes of alabastra and amphoriskoi, which are similar to those of ceramic vessels manufactured at the same time ({Harden 1981}, pp. 123–141; {Grose 1989}, pp. 122–125). For the classification of this particular alabastron see {Grose 1989}, p. 123, class III:E, amphoriskos form III:3. A few unprovenanced examples include {Grose 1989}, pp. 172–173, nos. 177–179; Brooklyn Museum, New York, inv.-nr. 12.34: vessel’s form and displaced feather pattern are the same, and it preserves the strongly curved handles stretching from the rim to the shoulder, typical for the form. That vessel was reassembled with the addition of what seems to be a free-blown base of a stemmed beaker: <https://www.brooklynmuseum.org/opencollection/objects/5809>; Musée du Verre, Grand Curtius, Liège, inv. no. B 1463; the same vessel without handle and with a flat foot noted in {von Saldern 1974}, no. 206; {Hayes 1975}, p. 15, no. 38, plate 3: [https://collections.rom.on.ca/objects/405071/](https://collections.rom.on.ca/objects/405071/amphoriskos-with-sshaped-handles?ctx=d39e1c4c-60b3-4e2b-b0ad-1e27d908798b&idx=5).
+On the origins of core-formed amphoriskoi, see [2003.178](#cat). This object belongs to the third group of core-formed vessels, which appears between the second century BCE and the early first century CE; the centers of production seem to have been in Cyprus and on the Phoenician coast. It includes different shapes of alabastra and amphoriskoi, which are similar to those of ceramic vessels manufactured at the same time ([[Harden 1981]], pp. 123–141; [[Grose 1989]], pp. 122–125). For the classification of this particular alabastron see [[Grose 1989]], p. 123, class III:E, amphoriskos form III:3. A few unprovenanced examples include [[Grose 1989]], pp. 172–173, nos. 177–179; Brooklyn Museum, New York, inv.-nr. 12.34: vessel’s form and displaced feather pattern are the same, and it preserves the strongly curved handles stretching from the rim to the shoulder, typical for the form. That vessel was reassembled with the addition of what seems to be a free-blown base of a stemmed beaker: <https://www.brooklynmuseum.org/opencollection/objects/5809>; Musée du Verre, Grand Curtius, Liège, inv. no. B 1463; the same vessel without handle and with a flat foot noted in [[von Saldern 1974]], no. 206; [[Hayes 1975]], p. 15, no. 38, plate 3: [https://collections.rom.on.ca/objects/405071/](https://collections.rom.on.ca/objects/405071/amphoriskos-with-sshaped-handles?ctx=d39e1c4c-60b3-4e2b-b0ad-1e27d908798b&idx=5).
 
 ## Provenance
 
@@ -2698,7 +2698,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern et al. 1974}, p. 76, no. 206; p. 78, plate no. 206.
+[[von Saldern et al. 1974]], p. 76, no. 206; p. 78, plate no. 206.
 
 ## Exhibitions
 
@@ -2746,9 +2746,9 @@ One unmarvered thread around the rim and the base. A marvered thread is wound ei
 
 ## Comments and Comparanda
 
-The oinochoiske (juglet) was one of the ceramic vessel forms that had been rendered in glass with core-forming since the sixth century BCE, when this technique, known in Mesopotamia and Egypt since the middle of the second millennium BCE, was introduced in the Aegean world. In addition to oinochoiskai, amphoriskoi (small amphoras), alabastra, and aryballoi were imitated in core-formed glass. It is believed that they functioned as unguentaria, intended for aromatic and cosmetic substances ({Harden 1981}; {McClellan 1984}; {Grose 1989}, pp. 109–125; {Stern and Schlick-Nolte 1994}, pp. 37–44).
+The oinochoiske (juglet) was one of the ceramic vessel forms that had been rendered in glass with core-forming since the sixth century BCE, when this technique, known in Mesopotamia and Egypt since the middle of the second millennium BCE, was introduced in the Aegean world. In addition to oinochoiskai, amphoriskoi (small amphoras), alabastra, and aryballoi were imitated in core-formed glass. It is believed that they functioned as unguentaria, intended for aromatic and cosmetic substances ([[Harden 1981]]; [[McClellan 1984]]; [[Grose 1989]], pp. 109–125; [[Stern and Schlick-Nolte 1994]], pp. 37–44).
 
-This object belongs to the earliest group of Aegean core-formed vessels, dating from the middle of the sixth century to the end of the fifth century BCE ({Harden 1981}, pp. 58–99; {Grose 1989}, pp. 110–115), which were made either of blue glass and decorated with white, yellow, and turquoise threads or of milky white glass decorated with purple threads. Vessels of this group have been found in great numbers in Rhodes, Macedonia, the Aegean islands, and Italy. For the classification of this particular oinochoe see {Grose 1989}, class I:A, oinochoe form I:2: pp. 148–149, nos. 110–113.
+This object belongs to the earliest group of Aegean core-formed vessels, dating from the middle of the sixth century to the end of the fifth century BCE ([[Harden 1981]], pp. 58–99; [[Grose 1989]], pp. 110–115), which were made either of blue glass and decorated with white, yellow, and turquoise threads or of milky white glass decorated with purple threads. Vessels of this group have been found in great numbers in Rhodes, Macedonia, the Aegean islands, and Italy. For the classification of this particular oinochoe see [[Grose 1989]], class I:A, oinochoe form I:2: pp. 148–149, nos. 110–113.
 
 ## Provenance
 
@@ -2756,7 +2756,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern et al. 1974}, p. 66, no. 155; p. 57, plate no. 155.
+[[von Saldern et al. 1974]], p. 66, no. 155; p. 57, plate no. 155.
 
 ## Exhibitions
 
@@ -2804,7 +2804,7 @@ An unmarvered yellow thread is wound around the rim. A marvered yellow thread is
 
 ## Comments and Comparanda
 
-See comments on [2003.179](#cat). For the classification of this particular oinochoe see {Grose 1989}, class I:B, oinochoe form I:2: pp. 161, 163, nos. 147, 150.
+See comments on [2003.179](#cat). For the classification of this particular oinochoe see [[Grose 1989]], class I:B, oinochoe form I:2: pp. 161, 163, nos. 147, 150.
 
 ## Provenance
 
@@ -2812,7 +2812,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern et al. 1974}, p. 54, no. 119; p. 53, plate no. 119.
+[[von Saldern et al. 1974]], p. 54, no. 119; p. 53, plate no. 119.
 
 ## Exhibitions
 
@@ -2862,7 +2862,7 @@ One unmarvered yellow thread is wound around the base.
 
 ## Comments and Comparanda
 
-See comments on [2003.179](#cat). For the classification of this particular oinochoe see {Grose 1989}, class II:A, oinochoe form II:1: pp. 161, 163, nos. 147, 150.
+See comments on [2003.179](#cat). For the classification of this particular oinochoe see [[Grose 1989]], class II:A, oinochoe form II:1: pp. 161, 163, nos. 147, 150.
 
 ## Provenance
 
@@ -2870,7 +2870,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-{von Saldern et al. 1974}, p. 54, no. 117; p. 49, plate no. 117.
+[[von Saldern et al. 1974]], p. 54, no. 117; p. 49, plate no. 117.
 
 ## Exhibitions
 
