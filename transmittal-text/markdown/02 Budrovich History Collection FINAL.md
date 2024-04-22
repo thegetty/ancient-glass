@@ -26,37 +26,37 @@ Between 2016 and 2018, the Villa’s permanent collections were fully reinstalle
 
 This catalogue is the first comprehensive presentation of the Getty Museum’s ancient glass collection, which in its diversity, quality, and beauty lives up to the promise of J. Paul Getty’s earliest acquisitions and is certainly the finest collection in the western United States. As an open-access digital catalogue that includes detailed technical studies and newly commissioned photography, this publication continues Getty’s commitment to sharing his collection with the public, allowing specialists and amateurs alike to discover and appreciate the wonder of ancient glass (fig. 10).
 
-[^1]: As part of the Getty Museum’s Antiquities Provenance Project, Judith Barr has extensively researched J. Paul Getty’s personal collection and the museum’s ancient glass holdings, and her findings have been invaluable in providing this summary. The study of ancient glass dates at least to the nineteenth century, though glass objects were documented in archaeological records even earlier; for a summary of the literature through the mid-twentieth century see {Harden 1984}. For more recent introductions to ancient Greek and Roman glass scholarship, see {Larson 2023} and {Cool 2016}.
+[^1]: As part of the Getty Museum’s Antiquities Provenance Project, Judith Barr has extensively researched J. Paul Getty’s personal collection and the museum’s ancient glass holdings, and her findings have been invaluable in providing this summary. The study of ancient glass dates at least to the nineteenth century, though glass objects were documented in archaeological records even earlier; for a summary of the literature through the mid-twentieth century see [[Harden 1984]]. For more recent introductions to ancient Greek and Roman glass scholarship, see [[Larson 2023]] and [[Cool 2016]].
 
 [^2]: The Getty Museum at the Ranch House had a series of directors, curators, and acting curators, notably Paul Wescher and Burton Fredericksen, who specialized in paintings but oversaw antiquities purchases.
 
-[^3]: {Getty 1941}, p. 392.
+[^3]: [[Getty 1941]], p. 392.
 
-[^4]: {Lapatin 2018}, p. 109. Imitation Statue of Aphrodite ([67.AK.12](https://www.getty.edu/art/collection/object/105X9H)), Bust of a Woman ([70.AA.100](https://www.getty.edu/art/collection/object/103SQ6)), and Portrait Head of Agrippina the Younger ([70.AA.101](https://www.getty.edu/art/collection/object/103SQ5)).
+[^4]: [[Lapatin 2018]], p. 109. Imitation Statue of Aphrodite ([67.AK.12](https://www.getty.edu/art/collection/object/105X9H)), Bust of a Woman ([70.AA.100](https://www.getty.edu/art/collection/object/103SQ6)), and Portrait Head of Agrippina the Younger ([70.AA.101](https://www.getty.edu/art/collection/object/103SQ5)).
 
-[^5]: See [Harry Leonard Simmons](https://www.getty.edu/art/collection/person/105DZB), [78.AF.18](#$num)–.[32](#num), and [81.AF.1](#num); {Parke-Bernet Galleries 1940}.
+[^5]: See [Harry Leonard Simmons](https://www.getty.edu/art/collection/person/105DZB), [78.AF.18](#$num)–.[32](#num), and [81.AF.1](#num); [[Parke-Bernet Galleries 1940]].
 
-[^6]: {Getty 1965}, p. 14.
+[^6]: [[Getty 1965]], p. 14.
 
-[^7]: Just over a third of the ancient glass objects are illustrated in the auction catalog (19 of 53 lots) and a few include ex-collection information (12 of 53 lots) {Parke-Bernet Galleries 1940}. Prior owners represented in Getty’s purchases include Emile Tabbagh, 1879–1933 ([78.AF.29](file:///C:\Users\klapatin\Downloads\78.AF.29), [78.AK.30](https://www.getty.edu/art/collection/object/103TGG)), George Dupont Pratt, 1869–1935 ([78.AF.26](https://www.getty.edu/art/collection/object/105Y1G), [78.AF.27](https://www.getty.edu/art/collection/object/105Y1J)), and Robert Weeks de Forest, 1848–1931 ([78.AF.21](https://www.getty.edu/art/collection/object/105Y1C)), whose collections were sold in New York in the 1930s. Additional and earlier owners have since been identified, including Enrico Caruso, 1873–1921 ([78.AF.299](#num)), Frank Gair Macomber, 1849–1941 ([81.AF.1](https://www.getty.edu/art/collection/object/105YQX)), Valentine Everit Macy, 1871–1930 ([78.AF.23](https://www.getty.edu/art/collection/object/103TGF)), and a 1936 Anderson Galleries auction ([78.AF.22](https://www.getty.edu/art/collection/object/105Y1D), [78.AF.32](https://www.getty.edu/art/collection/object/103TGH)).
+[^7]: Just over a third of the ancient glass objects are illustrated in the auction catalog (19 of 53 lots) and a few include ex-collection information (12 of 53 lots) [[Parke-Bernet Galleries 1940]]. Prior owners represented in Getty’s purchases include Emile Tabbagh, 1879–1933 ([78.AF.29](file:///C:\Users\klapatin\Downloads\78.AF.29), [78.AK.30](https://www.getty.edu/art/collection/object/103TGG)), George Dupont Pratt, 1869–1935 ([78.AF.26](https://www.getty.edu/art/collection/object/105Y1G), [78.AF.27](https://www.getty.edu/art/collection/object/105Y1J)), and Robert Weeks de Forest, 1848–1931 ([78.AF.21](https://www.getty.edu/art/collection/object/105Y1C)), whose collections were sold in New York in the 1930s. Additional and earlier owners have since been identified, including Enrico Caruso, 1873–1921 ([78.AF.299](#num)), Frank Gair Macomber, 1849–1941 ([81.AF.1](https://www.getty.edu/art/collection/object/105YQX)), Valentine Everit Macy, 1871–1930 ([78.AF.23](https://www.getty.edu/art/collection/object/103TGF)), and a 1936 Anderson Galleries auction ([78.AF.22](https://www.getty.edu/art/collection/object/105Y1D), [78.AF.32](https://www.getty.edu/art/collection/object/103TGH)).
 
 [^8]: In 1950, [78.AF.33](https://www.getty.edu/art/collection/object/105Y1N), [78.AF.34](https://www.getty.edu/art/collection/object/105Y1P); in 1953, [78.AF.35](https://www.getty.edu/art/collection/object/103TGJ), [78.AF.36](https://www.getty.edu/art/collection/object/105Y1Q), [78.AF.37](https://www.getty.edu/art/collection/object/105Y1R).
 
-[^9]: Imitation of Frankish Silver Treasure 78.AK.11–17; {[JPGM Guidebook]{.underline} 1st ed.}, p. 21.
+[^9]: Imitation of Frankish Silver Treasure 78.AK.11–17; [[[JPGM Guidebook]{.underline} 1st ed.]], p. 21.
 
-[^10]: {Stothart 1965}, pp. 20–21. For a photo of the early glass display, see the [Los Angeles Times]{.underline}, Jan. 24, 1958, p. 25: https://www.newspapers.com/article/the-los-angeles-times/44318751/.
+[^10]: [[Stothart 1965]], pp. 20–21. For a photo of the early glass display, see the [Los Angeles Times]{.underline}, Jan. 24, 1958, p. 25: https://www.newspapers.com/article/the-los-angeles-times/44318751/.
 
-[^11]: In 1955 Getty published a fictionalized history of the Lansdowne Hercules ([70.AA.109](https://www.getty.edu/art/collection/object/103QSP)), which he imagined as having once been displayed in the actual Villa dei Papiri; see {Lapatin 2018}, pp. 15–18, and the novella “A Journey from Corinth” is in {Getty and Le Vane 1955}, pp. 273–329.
+[^11]: In 1955 Getty published a fictionalized history of the Lansdowne Hercules ([70.AA.109](https://www.getty.edu/art/collection/object/103QSP)), which he imagined as having once been displayed in the actual Villa dei Papiri; see [[Lapatin 2018]], pp. 15–18, and the novella “A Journey from Corinth” is in [[Getty and Le Vane 1955]], pp. 273–329.
 
-[^12]: 71.AF.79–71.AF.85, and 71.AK.86 which was deaccessioned; {Fredericksen 2015}, p. 104.
+[^12]: 71.AF.79–71.AF.85, and 71.AK.86 which was deaccessioned; [[Fredericksen 2015]], p. 104.
 
 [^13]: The glass bowl ([72.AF.37](https://www.getty.edu/art/collection/object/103SVD)) had long remained in the collections of the Château de Ripaille and in 1892 was transferred with the estate to Frédéric Engel-Gros (1843–1918), whose heirs still own the chateau.
 
 [^14]: The agate bowl ([72.AI.38](https://www.getty.edu/art/collection/object/103SVE)) was found in Qift (formerly Koptos) in southern Egypt in 1930.
 
-[^15]: {[JPGM Guidebook]{.underline} 3rd ed.}, p. 36; {[JPGM Handbook]{.underline} 4th ed.}, p. 36. The silver cup was likely [72.AM.34](https://www.getty.edu/art/collection/object/103SVB).
+[^15]: [[[JPGM Guidebook]{.underline} 3rd ed.]], p. 36; [[[JPGM Handbook]{.underline} 4th ed.]], p. 36. The silver cup was likely [72.AM.34](https://www.getty.edu/art/collection/object/103SVB).
 
-[^16]: {Felch and Frammolino 2011}, 26–37; Kennedy, “Jiri Frel, Getty’s Former Antiquities Curator, Dies at 82,” [New York Times]{.underline}, May 17, 2006.
+[^16]: [[Felch and Frammolino 2011]], 26–37; Kennedy, “Jiri Frel, Getty’s Former Antiquities Curator, Dies at 82,” [New York Times]{.underline}, May 17, 2006.
 
 [^17]: Donation groups include forty-five glass fragments ([76.AF.70](https://www.getty.edu/art/collection/object/105XN4)) from Bruce McNall, five glass pendants ([78.AF.321.1](https://www.getty.edu/art/collection/object/103TK4)–[.5](#num)) from Ira Goldberg, a group of 46 glass vessels ([79.AF.184.1](https://www.getty.edu/art/collection/object/105Y8F)–[.47](#num)) from Edwin Lipps, and a group of 27 glass fragments ([83.AF.28.1](https://www.getty.edu/art/collection/object/103XZ7)–[.27](#num)) from Jiri Frel (four fragments, 83.AF.28.3, 83.AF.28.5, 83.AF.28.7, 83.AF.28.13, were deaccessioned to the Education Department’s art handling collection in 2017). The donations from Frel note the importance of the objects for study purposes.
 
@@ -64,9 +64,9 @@ This catalogue is the first comprehensive presentation of the Getty Museum’s a
 
 [^19]: Cameo Glass Skyphos [84.AF.85](https://www.getty.edu/art/collection/object/103QT2).
 
-[^20]: Ernest Kofler and Marthe Truniger acquired their ancient glass pieces from the mid-1950s through the late 1970s, assembling a collection of hundreds of vessels, Egyptian inlays, and fragments. From this sale, [85.AF.83](https://www.getty.edu/art/collection/object/103VNY), [85.AF.84](https://www.getty.edu/art/collection/object/103VP0), [85.AF.85](https://www.getty.edu/art/collection/object/103VP2), and [85.AF.86](https://www.getty.edu/art/collection/object/103VNZ) were acquired with Robin Symes acting as agent, and [85.AF.320](https://www.getty.edu/art/collection/object/103VR0) was acquired from the Mansour Gallery shortly after the auction. See {Christie’s 1985}.
+[^20]: Ernest Kofler and Marthe Truniger acquired their ancient glass pieces from the mid-1950s through the late 1970s, assembling a collection of hundreds of vessels, Egyptian inlays, and fragments. From this sale, [85.AF.83](https://www.getty.edu/art/collection/object/103VNY), [85.AF.84](https://www.getty.edu/art/collection/object/103VP0), [85.AF.85](https://www.getty.edu/art/collection/object/103VP2), and [85.AF.86](https://www.getty.edu/art/collection/object/103VNZ) were acquired with Robin Symes acting as agent, and [85.AF.320](https://www.getty.edu/art/collection/object/103VR0) was acquired from the Mansour Gallery shortly after the auction. See [[Christie’s 1985]].
 
-[^21]: [85.AF.83](https://www.getty.edu/art/collection/object/103VNY); see {Wight 2011}, p. vi.
+[^21]: [85.AF.83](https://www.getty.edu/art/collection/object/103VNY); see [[Wight 2011]], p. vi.
 
 [^22]: [85.AF.90](https://www.getty.edu/art/collection/object/103VP4) and [85.AF.91](https://www.getty.edu/art/collection/object/103VP6).
 
@@ -74,15 +74,15 @@ This catalogue is the first comprehensive presentation of the Getty Museum’s a
 
 [^24]: [95.AF.60](https://www.getty.edu/art/collection/object/10400N) and [96.AF.320](https://www.getty.edu/art/collection/object/107S0V).
 
-[^25]: In 2003, the Getty bought the bulk of Gert Oppenländer’s collection, 370 works, and the following year acquired an additional 43 objects from Ingrid Reisser, who still retains the rest of her collection. On the Getty acquisition, {Wight 2004}, p. 196.
+[^25]: In 2003, the Getty bought the bulk of Gert Oppenländer’s collection, 370 works, and the following year acquired an additional 43 objects from Ingrid Reisser, who still retains the rest of her collection. On the Getty acquisition, [[Wight 2004]], p. 196.
 
 [^26]: Acquisition Proposal, Gert Oppenlander collection of ancient glass, 2003, Getty Museum, Antiquities Department records.
 
-[^27]: Exhibitions were held at the Museum für Kunst und Gewerbe in Hamburg (October 4–November 17, 1974) and the Römisch-Germanisches Museum in Cologne (spring 1975); see {von Saldern et al. 1974}.
+[^27]: Exhibitions were held at the Museum für Kunst und Gewerbe in Hamburg (October 4–November 17, 1974) and the Römisch-Germanisches Museum in Cologne (spring 1975); see [[von Saldern et al. 1974]].
 
-[^28]: {Hess and Wight 2005}.
+[^28]: [[Hess and Wight 2005]].
 
-[^29]: {Moltese 2007}, pp. 156–158, fig. 3.
+[^29]: [[Moltese 2007]], pp. 156–158, fig. 3.
 
 [^30]: “[Molten Color: Glassmaking in Antiquity](https://www.getty.edu/art/collection/exhibition/103P50),” J. Paul Getty Museum at the Getty Villa, January 28–August 6, 2006, reinstalled in 2007 (January 11–April 23, 2007), 2009 (October 8, 2009–February 22, 2010), and became part of the permanent collection in 2010 (October 8, 2010–February 26, 2017).
 
