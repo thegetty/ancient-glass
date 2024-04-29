@@ -2,12 +2,12 @@
 label: "1"
 title: "Amphoriskos"
 layout: entry
-order: 135
+order: 141
 presentation: side-by-side
 # toc: false
 menu: false
 object:
-  - id: "1"
+  - id: "cat-1"
 ---
 
 ## Condition
