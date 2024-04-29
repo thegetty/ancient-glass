@@ -1,7 +1,7 @@
 ---
 label: 
-title: Amphoriskoi
-order: 140
+title: Single-colored 
+order: 
 layout: table-of-contents
 presentation: grid
 ---

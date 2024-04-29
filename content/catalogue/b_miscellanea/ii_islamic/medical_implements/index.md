@@ -1,7 +1,7 @@
 ---
 label: 
-title: Amphoriskoi
-order: 140
+title: "Medical-Alchemical implements (3)"
+order: 
 layout: table-of-contents
 presentation: grid
 ---
