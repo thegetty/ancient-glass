@@ -1,7 +1,7 @@
 ---
 label: 
-title: "Unguentaria handleless (12)"
-order: 570
+title: "Unguentaria handleless"
+order: 580
 layout: table-of-contents
 presentation: grid
 ---

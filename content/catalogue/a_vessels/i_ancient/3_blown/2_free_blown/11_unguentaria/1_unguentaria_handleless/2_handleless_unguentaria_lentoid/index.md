@@ -1,7 +1,7 @@
 ---
 label: 
-title: "Handleless Unguentaria, lentoid (1)"
-order: 890
+title: "Handleless Unguentaria, lentoid"
+order: 900
 layout: table-of-contents
 presentation: grid
 ---

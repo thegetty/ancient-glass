@@ -1,6 +1,6 @@
 ---
 label: 
-title: "Kohl Tube (3)"
+title: "Kohl Tube"
 order: 200
 layout: table-of-contents
 presentation: grid

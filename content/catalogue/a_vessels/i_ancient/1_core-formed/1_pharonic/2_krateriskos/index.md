@@ -1,6 +1,6 @@
 ---
 label: 
-title: "Krateriskos (1)"
+title: "Krateriskos"
 order: 150
 layout: table-of-contents
 presentation: grid

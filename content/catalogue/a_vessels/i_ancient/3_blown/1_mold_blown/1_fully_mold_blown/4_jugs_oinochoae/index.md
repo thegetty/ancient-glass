@@ -1,7 +1,7 @@
 ---
 label: 
-title: "Jugs- oinochoae (9)"
-order: 550
+title: "Jugs- oinochoae"
+order: 560
 layout: table-of-contents
 presentation: grid
 ---

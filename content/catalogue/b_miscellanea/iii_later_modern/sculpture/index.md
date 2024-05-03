@@ -1,7 +1,7 @@
 ---
 label: 
-title: "Sculpture (2)"
-order: 
+title: "Sculpture"
+order: 2330
 layout: table-of-contents
 presentation: grid
 ---

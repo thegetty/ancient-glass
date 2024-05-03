@@ -1,6 +1,6 @@
 ---
-label: "3.2."
+label: "3.2"
 title: "Free Blown"
-order: 680
+order: 690
 layout: page
 ---

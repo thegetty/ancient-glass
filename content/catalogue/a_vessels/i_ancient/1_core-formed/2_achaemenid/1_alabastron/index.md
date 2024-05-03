@@ -1,6 +1,6 @@
 ---
 label: 
-title: "Alabastron (1)"
+title: "Alabastron"
 order: 190
 layout: table-of-contents
 presentation: grid

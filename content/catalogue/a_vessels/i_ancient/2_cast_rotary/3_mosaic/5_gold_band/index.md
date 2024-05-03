@@ -1,7 +1,7 @@
 ---
 label: 
-title: "Gold-band (3)"
-order: 440
+title: "Gold-band"
+order: 450
 layout: table-of-contents
 presentation: grid
 ---

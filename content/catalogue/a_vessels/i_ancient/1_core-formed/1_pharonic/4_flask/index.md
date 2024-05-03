@@ -1,6 +1,6 @@
 ---
 label: 
-title: "Flask (1)"
+title: "Flask"
 order: 170
 layout: table-of-contents
 presentation: grid

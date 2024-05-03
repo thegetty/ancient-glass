@@ -1,7 +1,7 @@
 ---
 label: 
-title: "Skyphoi and Kantharoi (2)"
-order: 750
+title: "Skyphoi and Kantharoi"
+order: 760
 layout: table-of-contents
 presentation: grid
 ---

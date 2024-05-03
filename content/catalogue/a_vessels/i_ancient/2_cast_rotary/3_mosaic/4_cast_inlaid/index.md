@@ -1,7 +1,7 @@
 ---
 label: 
-title: "Cast and Inlaid (2)"
-order: 430
+title: "Cast and Inlaid"
+order: 440
 layout: table-of-contents
 presentation: grid
 ---

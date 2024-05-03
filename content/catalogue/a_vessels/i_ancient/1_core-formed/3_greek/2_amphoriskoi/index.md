@@ -1,7 +1,7 @@
 ---
 label: 
-title: "Amphoriskoi (14)"
-order: 240
+title: "Amphoriskoi"
+order: 250
 layout: table-of-contents
 presentation: grid
 ---

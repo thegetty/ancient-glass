@@ -1,7 +1,7 @@
 ---
 label: 
-title: "Handled Unguentaria, Aryballoi (2)"
-order: 910
+title: "Handled Unguentaria, Aryballoi"
+order: 920
 layout: table-of-contents
 presentation: grid
 ---

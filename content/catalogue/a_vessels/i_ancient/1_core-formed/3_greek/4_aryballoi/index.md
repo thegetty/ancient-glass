@@ -1,7 +1,7 @@
 ---
 label: 
-title: "Aryballoi (4)"
-order: 270
+title: "Aryballoi"
+order: 280
 layout: table-of-contents
 presentation: grid
 ---

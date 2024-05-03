@@ -1,5 +1,5 @@
 ---
-label: "1.2."
+label: "1.2"
 title: "Achaemenid"
 order: 180
 layout: page

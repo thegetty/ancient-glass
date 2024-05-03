@@ -1,7 +1,7 @@
 ---
 label: 
-title: "Bottles (1)"
-order: 820
+title: "Bottles"
+order: 830
 layout: table-of-contents
 presentation: grid
 ---

@@ -1,7 +1,7 @@
 ---
 label: 
-title: "Millefiori (31)"
-order: 350
+title: "Millefiori"
+order: 360
 layout: table-of-contents
 presentation: grid
 ---

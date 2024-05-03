@@ -1,7 +1,7 @@
 ---
 label: 
-title: "Handleless Unguentaria, Sprinklers (7)"
-order: 880
+title: "Handleless Unguentaria, Sprinklers"
+order: 890
 layout: table-of-contents
 presentation: grid
 ---

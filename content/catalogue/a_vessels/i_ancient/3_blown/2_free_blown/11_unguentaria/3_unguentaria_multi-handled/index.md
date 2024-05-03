@@ -1,7 +1,7 @@
 ---
 label: 
-title: "Unguentaria, Multi-handled (2)"
-order: 940
+title: "Unguentaria, Multi-handled"
+order: 950
 layout: table-of-contents
 presentation: grid
 ---

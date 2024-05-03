@@ -1,7 +1,7 @@
 ---
 label: 
-title: "Amphorae (1)"
-order: 650
+title: "Amphorae"
+order: 660
 layout: table-of-contents
 presentation: grid
 ---

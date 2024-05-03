@@ -1,7 +1,7 @@
 ---
 label: 
-title: "Single-colored (23)" 
-order: 300
+title: "Single-colored" 
+order: 310
 layout: table-of-contents
 presentation: grid
 ---

@@ -1,7 +1,7 @@
 ---
 label: 
-title: "Bowls & Cups (23)"
-order: 700
+title: "Bowls & Cups"
+order: 710
 layout: table-of-contents
 presentation: grid
 ---
