@@ -2,12 +2,12 @@
 label: "2"
 title: "Amphoriskos or flask"
 layout: entry
-order: 136
+order: 142
 presentation: side-by-side
 # toc: false
 menu: false
 object:
-  - id: "2"
+  - id: "cat-2"
 ---
 
 ## Condition

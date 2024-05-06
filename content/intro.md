@@ -1,7 +1,6 @@
 ---
-title: Introduction
+title: "An Introduction to the History and Technology of Ancient Glass Production "
+short_title: 
 layout: page
-order: 10
+order: 11
 ---
-
-TK

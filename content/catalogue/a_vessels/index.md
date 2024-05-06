@@ -1,6 +1,6 @@
 ---
-label: A
-title: Vessels
+label: "A"
+title: "Vessels"
 order: 100
 layout: page
 ---

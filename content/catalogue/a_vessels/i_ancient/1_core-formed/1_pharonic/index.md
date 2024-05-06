@@ -1,6 +1,6 @@
 ---
-label: 1
-title: Pharonic
-order: 120
+label: "1.1"
+title: "Pharonic"
+order: 130
 layout: page
 ---
