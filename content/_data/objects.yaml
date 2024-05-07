@@ -31,7 +31,7 @@ object_list:
   #   inscription: """No"""  
   #   shape: """Amphoriskoi"""  
   #   technique: """Core-formed""  
-	# figure:- id: "fig-"
+	# figure:
   #   figure:"  
   #     - id: "cat-001-main"  
   
@@ -48,7 +48,7 @@ object_list:
   #   inscription: """No"""  
   #   shape: ""["Amphoriskoi", "Flasks"]""  
   #   technique: """Core-formed""  
-	# figure:- id: "fig-"
+	# figure:
   #   figure:"  
   #     - id: "cat-002-front"               
   # - id: "cat-002-back"
@@ -69,7 +69,7 @@ object_list:
   shape: "Amphoriskoi"
   technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-2"
   accession_number: "2004.3"
@@ -86,7 +86,7 @@ object_list:
   shape: [ "Amphoriskoi", "Flasks" ]
   technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-3"
   accession_number: "2004.2"
@@ -103,7 +103,7 @@ object_list:
   shape: "Kratoriskoi"
   technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-4"
   accession_number: "2003.148"
@@ -120,7 +120,7 @@ object_list:
   shape: "Lentoid Flasks"
   technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-5"
   accession_number: "2003.147"
@@ -137,7 +137,7 @@ object_list:
   shape: "Flasks"
   technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-6"
   accession_number: "2004.16"
@@ -154,7 +154,7 @@ object_list:
   shape: "Alabastra"
   technique: $1
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-7"
   accession_number: "2003.160"
@@ -171,7 +171,7 @@ object_list:
   shape: "Kohl Tube"
   technique: "Rod-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-8"
   accession_number: "2003.162"
@@ -188,7 +188,7 @@ object_list:
 	shape: "Kohl tubes"
   technique: "Rod-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-9"
   accession_number: "2003.163"
@@ -205,7 +205,7 @@ object_list:
   shape: "Kohl tubes"
   technique: "Rod-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-10"
   accession_number: "2003.180"
@@ -222,7 +222,7 @@ object_list:
   shape: "Alabastra"
   technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-11"
   accession_number: "2004.5"
@@ -239,7 +239,7 @@ object_list:
   shape: "Alabastra"
   technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-12"
   accession_number: "2003.181"
@@ -256,7 +256,7 @@ object_list:
   shape: "Alabastra"
   technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-13"
   accession_number: "2004.6"
@@ -273,7 +273,7 @@ object_list:
   shape: "Alabastra"
   technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-14"
   accession_number: "2003.190"
@@ -290,7 +290,7 @@ object_list:
   shape: "Alabastra"
   technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-15"
   accession_number: "2003.196"
@@ -307,7 +307,7 @@ object_list:
   shape: "Alabastra"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-16"
   accession_number: "2003.185"
@@ -324,7 +324,7 @@ object_list:
   shape: "Alabastra"
   technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-17"
   accession_number: "2003.182"
@@ -342,7 +342,7 @@ object_list:
   shape: "Alabastra"
   technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-18"
 	accession_number: "2003.183"
@@ -359,7 +359,7 @@ object_list:
 	shape: "Alabastra"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-19"
 	accession_number: "2003.184"
@@ -376,7 +376,7 @@ object_list:
 	shape: "Alabastra"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-20"
 	accession_number: "2003.189"
@@ -393,7 +393,7 @@ object_list:
 	shape: "Alabastra"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-21"
 	accession_number: "2003.186"
@@ -410,7 +410,7 @@ object_list:
 	shape: "Alabastra"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-22"
 	accession_number: "2003.193"
@@ -427,7 +427,7 @@ object_list:
 	shape: "Alabastra"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-23"
 	accession_number: "2003.187"
@@ -444,7 +444,7 @@ object_list:
 	shape: "Alabastra"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-24"
 	accession_number: "2003.191"
@@ -461,7 +461,7 @@ object_list:
 	shape: "Alabastra"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-25"
 	accession_number: "2004.7"
@@ -478,7 +478,7 @@ object_list:
 	shape: "Alabastra"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-26"
 	accession_number: "2004.8"
@@ -495,7 +495,7 @@ object_list:
 	shape: "Alabastra"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-27"
 	accession_number: "2003.192"
@@ -512,7 +512,7 @@ object_list:
 	shape: "Alabastra"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-28"
 	accession_number: "2003.188"
@@ -529,7 +529,7 @@ object_list:
 	shape: "Alabastra"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-29"
 	accession_number: "2003.194"
@@ -546,7 +546,7 @@ object_list:
 	shape: "Alabastra"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-30"
 	accession_number: "2004.22"
@@ -563,7 +563,7 @@ object_list:
 	shape: "Alabastra"
 	technique: "Probably cast, possibly core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-31"
 	accession_number: "2003.195"
@@ -580,7 +580,7 @@ object_list:
 	shape: "Alabastra"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-32"
 	accession_number: "2003.197"
@@ -597,7 +597,7 @@ object_list:
 	shape: "Alabastra"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-33"
 	accession_number: "2003.198"
@@ -614,7 +614,7 @@ object_list:
 	shape: "Alabastra"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-34"
 	accession_number: "2003.178"
@@ -631,7 +631,7 @@ object_list:
 	shape: "Amphoriskoi"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-35"
 	accession_number: "2003.168"
@@ -648,7 +648,7 @@ object_list:
 	shape: "Amphoriskoi"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-36"
 	accession_number: "2003.169"
@@ -665,7 +665,7 @@ object_list:
 	shape: "Amphoriskoi"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-37"
 	accession_number: "2003.171"
@@ -682,7 +682,7 @@ object_list:
 	shape: "Amphoriskoi"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-38"
 	accession_number: "2003.172"
@@ -699,7 +699,7 @@ object_list:
 	shape: "Amphoriskoi"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-39"
 	accession_number: "2003.173"
@@ -716,7 +716,7 @@ object_list:
 	shape: "Amphoriskoi"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-40"
 	accession_number: "2003.170"
@@ -733,7 +733,7 @@ object_list:
 	shape: "Amphoriskoi"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-41"
 	accession_number: "2003.175"
@@ -750,7 +750,7 @@ object_list:
 	shape: "Amphoriskoi"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-42"
 	accession_number: "2003.203"
@@ -767,7 +767,7 @@ object_list:
 	shape: "Unguentaria"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-43"
 	accession_number: "2003.200"
@@ -784,7 +784,7 @@ object_list:
 	shape: "Amphoriskoi"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-44"
 	accession_number: "2003.201"
@@ -801,7 +801,7 @@ object_list:
 	shape: "Amphoriskoi"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-45"
 	accession_number: "2003.202"
@@ -818,7 +818,7 @@ object_list:
 	shape: "Amphoriskoi"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-46"
 	accession_number: "2003.204"
@@ -835,7 +835,7 @@ object_list:
 	shape: "Amphoriskoi"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-47"
 	accession_number: "2003.199"
@@ -852,7 +852,7 @@ object_list:
 	shape: "Amphoriskoi"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-48"
 	accession_number: "2003.179"
@@ -869,7 +869,7 @@ object_list:
 	shape: "Oinochoai"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-49"
 	accession_number: "2003.166"
@@ -886,7 +886,7 @@ object_list:
 	shape: "Oinochoai"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-50"
 	accession_number: "2003.165"
@@ -903,7 +903,7 @@ object_list:
 	shape: "Oinochoai"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-51"
 	accession_number: "2003.167"
@@ -920,7 +920,7 @@ object_list:
 	shape: "Oinochoai"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-52"
 	accession_number: "2003.164"
@@ -937,7 +937,7 @@ object_list:
 	shape: "Oinochoai"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-53"
 	accession_number: "2003.174"
@@ -954,7 +954,7 @@ object_list:
 	shape: "Aryballoi"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-54"
 	accession_number: "2003.177"
@@ -971,7 +971,7 @@ object_list:
 	shape: "Aryballoi"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-55"
 	accession_number: "2004.4"
@@ -988,7 +988,7 @@ object_list:
 	shape: "Aryballoi"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-56"
 	accession_number: "2003.176"
@@ -1005,7 +1005,7 @@ object_list:
 	shape: "Aryballoi"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-57"
 	accession_number: "83.AF.28.1"
@@ -1022,7 +1022,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-58"
 	accession_number: "83.AF.28.2"
@@ -1039,7 +1039,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Core-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-59"
 	accession_number: "2003.217"
@@ -1056,7 +1056,7 @@ object_list:
 	shape: "Bowls"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-60"
 	accession_number: "2004.17"
@@ -1073,7 +1073,7 @@ object_list:
 	shape: "Bowls"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-61"
 	accession_number: "2004.18"
@@ -1090,7 +1090,7 @@ object_list:
 	shape: "Bowls"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-62"
 	accession_number: "2003.219"
@@ -1107,7 +1107,7 @@ object_list:
 	shape: "Bowls"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-63"
 	accession_number: "2003.216"
@@ -1124,7 +1124,7 @@ object_list:
 	shape: "Bowls"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-64"
 	accession_number: "2003.215"
@@ -1141,7 +1141,7 @@ object_list:
 	shape: "Bowls"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-65"
 	accession_number: "2003.228"
@@ -1158,7 +1158,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-66"
 	accession_number: "2003.221"
@@ -1175,7 +1175,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-67"
 	accession_number: "2003.222"
@@ -1192,7 +1192,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-68"
 	accession_number: "2003.223"
@@ -1209,7 +1209,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-69"
 	accession_number: "2003.224"
@@ -1226,7 +1226,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-70"
 	accession_number: "2003.220"
@@ -1243,7 +1243,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-71"
 	accession_number: "78.AF.27"
@@ -1260,7 +1260,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-72"
 	accession_number: "2004.19"
@@ -1277,7 +1277,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-73"
 	accession_number: "2003.218"
@@ -1294,7 +1294,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-74"
 	accession_number: "2003.225"
@@ -1311,7 +1311,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-75"
 	accession_number: "2003.232"
@@ -1328,7 +1328,7 @@ object_list:
 	shape: "Bowls"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-76"
 	accession_number: "2003.233"
@@ -1345,7 +1345,7 @@ object_list:
 	shape: "Bowls"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-77"
 	accession_number: "2003.234"
@@ -1362,7 +1362,7 @@ object_list:
 	shape: "Bowls"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-78"
 	accession_number: "2003.235"
@@ -1379,7 +1379,7 @@ object_list:
 	shape: "Bowls"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-79"
 	accession_number: "2003.236"
@@ -1395,7 +1395,7 @@ object_list:
 	shape: "Bowls"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-80"
 	accession_number: "2003.237"
@@ -1412,7 +1412,7 @@ object_list:
 	shape: "Bowls"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-81"
 	accession_number: "2003.475"
@@ -1429,7 +1429,7 @@ object_list:
 	shape: "Bowls"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-82"
 	accession_number: "84.AF.85"
@@ -1446,7 +1446,7 @@ object_list:
 	shape: "Skyphoi"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-83"
 	accession_number: "2003.354"
@@ -1463,7 +1463,7 @@ object_list:
 	shape: [ "Unidentified", "Skyphoi" ]
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-84"
 	accession_number: "85.AF.84"
@@ -1480,7 +1480,7 @@ object_list:
 	shape: "Flasks"
 	technique: [ "“Cast”-rotary pressed", "Free-blown" ]
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-85"
 	accession_number: "96.AF.289"
@@ -1497,7 +1497,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-86"
 	accession_number: "85.AF.85"
@@ -1514,7 +1514,7 @@ object_list:
 	shape: "Dishes"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-87"
 	accession_number: "2003.258.1"
@@ -1531,7 +1531,7 @@ object_list:
 	shape: "Dishes"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-88"
 	accession_number: "85.AF.86"
@@ -1548,7 +1548,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-89"
 	accession_number: "78.AF.32"
@@ -1565,7 +1565,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-90"
 	accession_number: "2003.248"
@@ -1582,7 +1582,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-91"
 	accession_number: "2003.249"
@@ -1599,7 +1599,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-92"
 	accession_number: "2003.250"
@@ -1616,7 +1616,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-93"
 	accession_number: "96.AF.288"
@@ -1633,7 +1633,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-94"
 	accession_number: "76.AF.70.44"
@@ -1650,7 +1650,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-95"
 	accession_number: "76.AF.70.21"
@@ -1667,7 +1667,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-96"
 	accession_number: "76.AF.70.32"
@@ -1684,7 +1684,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-97"
 	accession_number: "83.AF.28.10"
@@ -1701,7 +1701,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-98"
 	accession_number: "83.AF.28.16"
@@ -1718,7 +1718,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-99"
 	accession_number: "83.AF.28.6"
@@ -1735,7 +1735,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-100"
 	accession_number: "83.AF.28.8"
@@ -1752,7 +1752,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-101"
 	accession_number: "83.AF.28.18"
@@ -1769,7 +1769,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-102"
 	accession_number: "83.AF.28.22"
@@ -1786,7 +1786,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-103"
 	accession_number: "83.AF.28.11"
@@ -1803,7 +1803,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-104"
 	accession_number: "83.AF.28.12"
@@ -1820,7 +1820,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-105"
 	accession_number: "76.AF.70.36"
@@ -1837,7 +1837,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-106"
 	accession_number: "83.AF.28.17"
@@ -1854,7 +1854,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-107"
 	accession_number: "83.AF.28.4"
@@ -1871,7 +1871,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-108"
 	accession_number: "2004.26.3"
@@ -1888,7 +1888,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-109"
 	accession_number: "2003.258.5"
@@ -1905,7 +1905,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-110"
 	accession_number: "2004.26.6"
@@ -1922,7 +1922,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-111"
 	accession_number: "83.AF.28.14"
@@ -1939,7 +1939,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-112"
 	accession_number: "83.AF.28.19"
@@ -1956,7 +1956,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-113"
 	accession_number: "76.AF.70.17"
@@ -1973,7 +1973,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-114"
 	accession_number: "76.AF.70.18"
@@ -1990,7 +1990,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-115"
 	accession_number: "76.AF.70.23"
@@ -2007,7 +2007,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-116"
 	accession_number: "76.AF.70.24"
@@ -2024,7 +2024,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-117"
 	accession_number: "2004.21"
@@ -2041,7 +2041,7 @@ object_list:
 	shape: "Alabastra"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-118"
 	accession_number: "2004.23"
@@ -2058,7 +2058,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-119"
 	accession_number: "2003.246"
@@ -2075,7 +2075,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-120"
 	accession_number: "2003.251"
@@ -2092,7 +2092,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-121"
 	accession_number: "2003.252"
@@ -2109,7 +2109,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-122"
 	accession_number: "2003.247"
@@ -2126,7 +2126,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-123"
 	accession_number: "2004.24"
@@ -2143,7 +2143,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-124"
 	accession_number: "83.AF.28.27"
@@ -2160,7 +2160,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-125"
 	accession_number: "2004.26.7"
@@ -2177,7 +2177,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-126"
 	accession_number: "2003.258.6"
@@ -2194,7 +2194,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-127"
 	accession_number: "2004.26.9"
@@ -2211,7 +2211,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-128"
 	accession_number: "2003.258.3"
@@ -2228,7 +2228,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-129"
 	accession_number: "2003.258.4"
@@ -2245,7 +2245,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-130"
 	accession_number: "2004.26.8"
@@ -2262,7 +2262,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-131"
 	accession_number: "2003.258.2"
@@ -2279,7 +2279,7 @@ object_list:
 	shape: "Bowl"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-132"
 	accession_number: "2003.253"
@@ -2296,7 +2296,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-133"
 	accession_number: "72.AF.37"
@@ -2313,7 +2313,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-134"
 	accession_number: "2004.25"
@@ -2330,7 +2330,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-135"
 	accession_number: "76.AF.70.15"
@@ -2347,7 +2347,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-136"
 	accession_number: "2003.256"
@@ -2364,7 +2364,7 @@ object_list:
 	shape: "Pyxides"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-137"
 	accession_number: "76.AF.70.2"
@@ -2381,7 +2381,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-138"
 	accession_number: "76.AF.70.4"
@@ -2398,7 +2398,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-139"
 	accession_number: "76.AF.70.9"
@@ -2415,7 +2415,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-140"
 	accession_number: "76.AF.70.19"
@@ -2432,7 +2432,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-141"
 	accession_number: "76.AF.70.39"
@@ -2449,7 +2449,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-142"
 	accession_number: "76.AF.70.33"
@@ -2466,7 +2466,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-143"
 	accession_number: "83.AF.28.23"
@@ -2483,7 +2483,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-144"
 	accession_number: "76.AF.70.22"
@@ -2500,7 +2500,7 @@ object_list:
 	shape: "Unidentified"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-145"
 	accession_number: "2003.229"
@@ -2517,7 +2517,7 @@ object_list:
 	shape: "Alabastra"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-146"
 	accession_number: "2003.230"
@@ -2534,7 +2534,7 @@ object_list:
 	shape: "Flasks"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-147"
 	accession_number: "2003.231"
@@ -2551,7 +2551,7 @@ object_list:
 	shape: "Pyxides"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-148"
 	accession_number: "2003.277"
@@ -2568,7 +2568,7 @@ object_list:
 	shape: "Jars"
 	technique: "Slumped and blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-149"
 	accession_number: "2003.273"
@@ -2585,7 +2585,7 @@ object_list:
 	shape: "Flasks"
 	technique: "Slumped and blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-150"
 	accession_number: "2003.274"
@@ -2602,7 +2602,7 @@ object_list:
 	shape: "Flasks"
 	technique: "Slumped and blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-151"
 	accession_number: "2003.279"
@@ -2619,7 +2619,7 @@ object_list:
 	shape: "Flasks"
 	technique: "Slumped and blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-152"
 	accession_number: "2003.275"
@@ -2636,7 +2636,7 @@ object_list:
 	shape: "Flasks"
 	technique: "Slumped and blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-153"
 	accession_number: "2003.278"
@@ -2653,7 +2653,7 @@ object_list:
 	shape: "Flasks"
 	technique: "Slumped and blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-154"
 	accession_number: "2003.276"
@@ -2670,7 +2670,7 @@ object_list:
 	shape: "Flasks"
 	technique: "Slumped and blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-155"
 	accession_number: "2003.267"
@@ -2687,7 +2687,7 @@ object_list:
 	shape: "Flasks"
 	technique: "Slumped and blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-156"
 	accession_number: "2003.281"
@@ -2704,7 +2704,7 @@ object_list:
 	shape: "Flasks"
 	technique: "Slumped and blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-157"
 	accession_number: "2003.255"
@@ -2721,7 +2721,7 @@ object_list:
 	shape: "Flasks"
 	technique: "Fused and blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-158"
 	accession_number: "2003.293"
@@ -2738,7 +2738,7 @@ object_list:
 	shape: "Bowls"
 	technique: "Slumped"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-159"
 	accession_number: "2003.474"
@@ -2755,7 +2755,7 @@ object_list:
 	shape: "Cups"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-160"
 	accession_number: "2003.319"
@@ -2772,7 +2772,7 @@ object_list:
 	shape: "Beakers"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-161"
 	accession_number: "2004.35"
@@ -2789,7 +2789,7 @@ object_list:
 	shape: "Beakers"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-162"
 	accession_number: "85.AF.91"
@@ -2806,7 +2806,7 @@ object_list:
 	shape: "Beakers"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-163"
 	accession_number: "2003.318"
@@ -2823,7 +2823,7 @@ object_list:
 	shape: "Beakers"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-164"
 	accession_number: "2003.316"
@@ -2840,7 +2840,7 @@ object_list:
 	shape: "Cups"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-165"
 	accession_number: "2003.315"
@@ -2857,7 +2857,7 @@ object_list:
 	shape: "Pyxides"
 	technique: ""Mold blown""
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-166"
 	accession_number: "95.AF.60"
@@ -2874,7 +2874,7 @@ object_list:
 	shape: "Cups"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-167"
 	accession_number: "2003.317"
@@ -2893,7 +2893,7 @@ Translucent greenish glass
 	shape: "Cups"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-168"
 	accession_number: "2004.34"
@@ -2910,7 +2910,7 @@ Translucent greenish glass
 	shape: "Cups"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-169"
 	accession_number: "85.AF.83"
@@ -2927,7 +2927,7 @@ Translucent greenish glass
 	shape: "Beakers"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-170"
 	accession_number: "2003.322"
@@ -2944,7 +2944,7 @@ Translucent greenish glass
 	shape: "Beakers"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-171"
 	accession_number: "85.AF.90"
@@ -2961,7 +2961,7 @@ Translucent greenish glass
 	shape: "Beakers"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-172"
 	accession_number: "2003.320"
@@ -2978,7 +2978,7 @@ Translucent greenish glass
 	shape: "Beakers"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-173"
 	accession_number: "2003.321"
@@ -2995,7 +2995,7 @@ Translucent greenish glass
 	shape: "Beakers"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-174"
 	accession_number: "2003.323"
@@ -3012,7 +3012,7 @@ Translucent greenish glass
 	shape: "Beakers"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-175"
 	accession_number: "2004.36"
@@ -3029,7 +3029,7 @@ Translucent greenish glass
 	shape: "Flasks"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-176"
 	accession_number: "2003.326"
@@ -3046,7 +3046,7 @@ Translucent greenish glass
 	shape: "Head flasks"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-177"
 	accession_number: "2003.327"
@@ -3063,7 +3063,7 @@ Translucent greenish glass
 	shape: "Head flasks"
 	technique: [ "Free-blown", "Mold-blown" ]
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-178"
 	accession_number: "2003.328"
@@ -3080,7 +3080,7 @@ Translucent greenish glass
 	shape: "Flasks"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-179"
 	accession_number: "78.AF.26"
@@ -3097,7 +3097,7 @@ Translucent greenish glass
 	shape: "Jars"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-180"
 	accession_number: "2003.343"
@@ -3114,7 +3114,7 @@ Translucent greenish glass
 	shape: "Flasks"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-181"
 	accession_number: "85.AF.320"
@@ -3131,7 +3131,7 @@ Translucent greenish glass
 	shape: "Head jugs"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-182"
 	accession_number: "2004.44"
@@ -3148,7 +3148,7 @@ Translucent greenish glass
 	shape: "Head jugs"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-183"
 	accession_number: "2003.324"
@@ -3165,7 +3165,7 @@ Translucent greenish glass
 	shape: "Head jugs"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-184"
 	accession_number: "2003.332"
@@ -3182,7 +3182,7 @@ Translucent greenish glass
 	shape: "Jugs"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-185"
 	accession_number: "79.AF.184.13"
@@ -3199,7 +3199,7 @@ Translucent greenish glass
 	shape: "Jugs"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-186"
 	accession_number: "2003.427"
@@ -3216,7 +3216,7 @@ Translucent greenish glass
 	shape: "Oinochoai"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-187"
 	accession_number: "71.AF.83"
@@ -3248,7 +3248,7 @@ technique:
 	shape: "Jugs"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-189"
 	accession_number: "2003.344"
@@ -3265,7 +3265,7 @@ technique:
 	shape: "Jugs"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-190"
 	accession_number: "2003.297"
@@ -3282,7 +3282,7 @@ technique:
 	shape: [ "Bottles", "Flasks" ] 
 	technique: [ "Mold-blown", "Free-blown" ]
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-191"
 	accession_number: "2003.298"
@@ -3314,7 +3314,7 @@ technique:
 	shape: "Flasks"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-193"
 	accession_number: "2003.300"
@@ -3331,7 +3331,7 @@ technique:
 	shape: [ "Bottles", "Flasks" ]
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-194"
 	accession_number: "2003.301"
@@ -3348,7 +3348,7 @@ technique:
 	shape: [ "Bottles", "Flasks" ]
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-195"
 	accession_number: "2003.333"
@@ -3365,7 +3365,7 @@ technique:
 	shape: "Unguentaria"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-196"
 	accession_number: "2003.334"
@@ -3382,7 +3382,7 @@ technique:
 	shape: "Unguentaria"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-197"
 	accession_number: "2003.331"
@@ -3399,7 +3399,7 @@ technique:
 	shape: [ "Unguentaria", "Flasks" ]
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-198"
 	accession_number: "2003.330"
@@ -3416,7 +3416,7 @@ technique:
 	shape: [ "Unguentaria", "Flasks" ]
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-199"
 	accession_number: "2003.329"
@@ -3433,7 +3433,7 @@ technique:
 	shape: [ "Unguentaria", "Flasks" ]
   technique:
   figure:
-    - id: "fig-"
+    
 
 - id: "cat-200"
 	accession_number: "2003.325"
@@ -3450,7 +3450,7 @@ technique:
 	shape: "Unguentaria"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-201"
 	accession_number: "2003.345"
@@ -3467,7 +3467,7 @@ technique:
 	shape: "Flasks"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-202"
 	accession_number: "2003.336"
@@ -3484,7 +3484,7 @@ technique:
 	shape: "Sprinklers"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-203"
 	accession_number: "2003.337"
@@ -3501,7 +3501,7 @@ technique:
 	shape: "Sprinklers"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-204"
 	accession_number: "2003.335"
@@ -3518,7 +3518,7 @@ technique:
 	shape: [ "Sprinklers", "Flasks" ]
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-205"
 	accession_number: "2003.302"
@@ -3535,7 +3535,7 @@ technique:
 	shape: [ "Amphoriskoi", "Bottles" ]
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-206"
 	accession_number: "2003.303"
@@ -3552,7 +3552,7 @@ technique:
 	shape: [ "Amphoriskoi", "Bottles" ]
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-207"
 	accession_number: "2003.313"
@@ -3569,7 +3569,7 @@ technique:
 	shape: "Amphoriskoi"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-208"
 	accession_number: "2003.314"
@@ -3586,7 +3586,7 @@ technique:
 	shape: [ "Jugs", "Flasks" ]
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-209"
 	accession_number: "2003.312"
@@ -3603,7 +3603,7 @@ technique:
 	shape: "Amphoriskoi"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-210"
 	accession_number: "2003.304"
@@ -3620,7 +3620,7 @@ technique:
 	shape: "Amphoriskoi"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-211"
 	accession_number: "2003.305"
@@ -3637,7 +3637,7 @@ technique:
 	shape: "Amphoriskoi"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-212"
 	accession_number: "2003.309"
@@ -3654,7 +3654,7 @@ technique:
 	shape: "Amphoriskoi"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-213"
 	accession_number: "2003.310"
@@ -3671,7 +3671,7 @@ technique:
 	shape: "Amphoriskoi"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-214"
 	accession_number: "2003.308"
@@ -3688,7 +3688,7 @@ technique:
 	shape: "Amphoriskoi"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-215"
 	accession_number: "2003.311"
@@ -3705,7 +3705,7 @@ technique:
 	shape: "Amphoriskoi"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-216"
 	accession_number: "2003.307"
@@ -3722,7 +3722,7 @@ technique:
 	shape: [ "Oinochoai", "Bottles" ]
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-217"
 	accession_number: "2003.306"
@@ -3739,7 +3739,7 @@ technique:
 	shape: [ "Oinochoai", "Bottles" ]
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-218"
 	accession_number: "2003.339"
@@ -3756,7 +3756,7 @@ technique:
 	shape: "Bowls"
 	technique: "Dip mold–blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-219"
 	accession_number: "2003.435"
@@ -3773,7 +3773,7 @@ technique:
 	shape: "Beakers"
 	technique: "Dip mold–blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-220"
 	accession_number: "2003.414"
@@ -3790,7 +3790,7 @@ technique:
 	shape: "Amphoras"
 	technique: "Dip mold–blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-221"
 	accession_number: "2003.429"
@@ -3807,7 +3807,7 @@ technique:
 	shape: "Flasks"
 	technique: "Dip mold–blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-222"
 	accession_number: "2003.340"
@@ -3824,7 +3824,7 @@ technique:
 	shape: "Flasks"
 	technique: "Dip mold–blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-223"
 	accession_number: "71.AF.81"
@@ -3841,7 +3841,7 @@ technique:
 	shape: [ "Sprinklers", "Flasks" ]
 	technique: "Dip mold–blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-224"
 	accession_number: "71.AF.82"
@@ -3858,7 +3858,7 @@ technique:
 	shape: [ "Sprinklers", "Flasks" ]
 	technique: "Dip mold–blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-225"
 	accession_number: "2003.341"
@@ -3875,7 +3875,7 @@ technique:
 	shape: "Flasks"
 	technique: "Dip mold–blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-226"
 	accession_number: "78.AF.37"
@@ -3892,7 +3892,7 @@ technique:
 	shape: "Flasks"
 	technique: "Dip mold–blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-227"
 	accession_number: "78.AF.20"
@@ -3909,7 +3909,7 @@ technique:
 	shape: "Flasks"
 	technique: "Dip mold–blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-228"
 	accession_number: "2003.342"
@@ -3926,7 +3926,7 @@ technique:
 	shape: "Flasks"
 	technique: "Dip mold–blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-229"
 	accession_number: "2003.387"
@@ -3943,7 +3943,7 @@ technique:
 	shape: "Plates"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-230"
 	accession_number: "78.AF.33"
@@ -3960,7 +3960,7 @@ technique:
 	shape: [ "Bowls", "Plates" ]
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-231"
 	accession_number: "76.AF.29"
@@ -3977,7 +3977,7 @@ technique:
 	shape: "Dishes"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-232"
 	accession_number: "2003.351"
@@ -3994,7 +3994,7 @@ technique:
 	shape: "Plates"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-233"
 	accession_number: "2003.290"
@@ -4011,7 +4011,7 @@ technique:
 	shape: [ "Cups", "Modioli" ]
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-234"
 	accession_number: "78.AF.31"
@@ -4028,7 +4028,7 @@ technique:
 	shape: "Modioli"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-235"
 	accession_number: "2003.287"
@@ -4045,7 +4045,7 @@ technique:
 	shape: "Cups"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-236"
 	accession_number: "2003.226"
@@ -4062,7 +4062,7 @@ technique:
 	shape: "Bowls"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-237"
 	accession_number: "2004.20"
@@ -4079,7 +4079,7 @@ technique:
 	shape: "Bowls"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-238"
 	accession_number: "2003.227"
@@ -4096,7 +4096,7 @@ technique:
 	shape: "Bowls"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-239"
 	accession_number: "2003.294"
@@ -4113,7 +4113,7 @@ technique:
 	shape: "Bowls"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-240"
 	accession_number: "2003.362"
@@ -4130,7 +4130,7 @@ technique:
 	shape: "Bowls"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-241"
 	accession_number: "2003.421"
@@ -4147,7 +4147,7 @@ technique:
 	shape: "Cups"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-242"
 	accession_number: "2003.388"
@@ -4164,7 +4164,7 @@ technique:
 	shape: "Bowls"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-243"
 	accession_number: "2003.238"
@@ -4181,7 +4181,7 @@ technique:
 	shape: "Bowls"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-244"
 	accession_number: "2003.372"
@@ -4198,7 +4198,7 @@ technique:
 	shape: "Bowls"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-245"
 	accession_number: "79.AF.184.5"
@@ -4215,7 +4215,7 @@ technique:
 	shape: "Bowls"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-246"
 	accession_number: "2003.363"
@@ -4232,7 +4232,7 @@ technique:
 	shape: "Bowls"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-247"
 	accession_number: "2003.379.2"
@@ -4249,7 +4249,7 @@ technique:
 	shape: "Bowls"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-248"
 	accession_number: "78.AF.21"
@@ -4266,7 +4266,7 @@ technique:
 	shape: "Bowls"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-249"
 	accession_number: "78.AF.22"
@@ -4283,7 +4283,7 @@ technique:
 	shape: "Bowls"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-250"
 	accession_number: "2003.348"
@@ -4300,7 +4300,7 @@ technique:
 	shape: "Cups"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-251"
 	accession_number: "2003.349"
@@ -4317,7 +4317,7 @@ technique:
 	shape: "Bowls"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-252"
 	accession_number: "2004.38"
@@ -4334,7 +4334,7 @@ technique:
 	shape: "Bowls"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-253"
 	accession_number: "2004.37"
@@ -4351,7 +4351,7 @@ technique:
 	shape: "Bowls"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-254"
 	accession_number: "2003.454"
@@ -4368,7 +4368,7 @@ technique:
 	shape: [ "Bowls", "Lamps" ]
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-255"
 	accession_number: "2003.455"
@@ -4385,7 +4385,7 @@ technique:
 	shape: [ "Bowls", "Lamps" ]
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-256"
 	accession_number: "96.AF.320"
@@ -4402,7 +4402,7 @@ technique:
 	shape: "Beakers"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-257"
 	accession_number: "2003.347"
@@ -4419,7 +4419,7 @@ technique:
 	shape: "Beakers"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-258"
 	accession_number: "2003.379.1"
@@ -4436,7 +4436,7 @@ technique:
 	shape: "Beakers"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-259"
 	accession_number: "71.AF.84"
@@ -4453,7 +4453,7 @@ technique:
 	shape: "Beakers"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-260"
 	accession_number: "78.AF.28"
@@ -4470,7 +4470,7 @@ technique:
 	shape: "Beakers"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-261"
 	accession_number: "2003.412"
@@ -4487,7 +4487,7 @@ technique:
 	shape: "Beakers"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-262"
 	accession_number: "2004.41"
@@ -4504,7 +4504,7 @@ technique:
 	shape: "Beakers"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-263"
 	accession_number: "2003.423"
@@ -4521,7 +4521,7 @@ technique:
 	shape: "Beakers"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-264"
 	accession_number: "2003.443"
@@ -4538,7 +4538,7 @@ technique:
 	shape: "Beakers"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-265"
 	accession_number: "2003.444"
@@ -4555,7 +4555,7 @@ technique:
 	shape: "Beakers"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-266"
 	accession_number: "2003.361"
@@ -4572,7 +4572,7 @@ technique:
 	shape: "Skyphoi"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-267"
 	accession_number: "84.AF.30"
@@ -4589,7 +4589,7 @@ technique:
 	shape: "Kantharoi"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-268"
 	accession_number: "2003.402"
@@ -4606,7 +4606,7 @@ technique:
 	shape: "Amphoriskoi"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-269"
 	accession_number: "78.AF.18"
@@ -4623,7 +4623,7 @@ technique:
 	shape: "Amphoras"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-270"
 	accession_number: "96.AF.56"
@@ -4640,7 +4640,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-271"
 	accession_number: "2003.408"
@@ -4657,7 +4657,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-272"
 	accession_number: "2003.390"
@@ -4674,7 +4674,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-273"
 	accession_number: "2004.39"
@@ -4691,7 +4691,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-274"
 	accession_number: "2003.352"
@@ -4708,7 +4708,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-275"
 	accession_number: "2003.424"
@@ -4725,7 +4725,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-276"
 	accession_number: "2003.439"
@@ -4742,7 +4742,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-277"
 	accession_number: "2004.43"
@@ -4759,7 +4759,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-278"
 	accession_number: "2003.440"
@@ -4776,7 +4776,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-279"
 	accession_number: "2003.445"
@@ -4793,7 +4793,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-280"
 	accession_number: "2003.366"
@@ -4810,7 +4810,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-281"
 	accession_number: "71.AF.85"
@@ -4827,7 +4827,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-282"
 	accession_number: "2003.436"
@@ -4844,7 +4844,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-283"
 	accession_number: "2003.449"
@@ -4861,7 +4861,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-284"
 	accession_number: "2003.245"
@@ -4878,7 +4878,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-285"
 	accession_number: "2003.381"
@@ -4895,7 +4895,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-286"
 	accession_number: "2003.382"
@@ -4912,7 +4912,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-287"
 	accession_number: "2003.383"
@@ -4929,7 +4929,7 @@ technique:
 	shape: [ "Askoi", "Flasks" ]
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-288"
 	accession_number: "2003.447"
@@ -4946,7 +4946,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-289"
 	accession_number: "2003.476"
@@ -4963,7 +4963,7 @@ technique:
 	shape: "Jugs"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-290"
 	accession_number: "2003.346"
@@ -4980,7 +4980,7 @@ technique:
 	shape: "Jugs"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-291"
 	accession_number: "2003.377"
@@ -4997,7 +4997,7 @@ technique:
 	shape: "Jugs"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-292"
 	accession_number: "2003.373"
@@ -5014,7 +5014,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-293"
 	accession_number: "2003.391"
@@ -5031,7 +5031,7 @@ technique:
 	shape: "Jugs"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-294"
 	accession_number: "78.AF.34"
@@ -5048,7 +5048,7 @@ technique:
 	shape: "Jugs"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-295"
 	accession_number: "2003.284"
@@ -5065,7 +5065,7 @@ technique:
 	shape: "Jugs"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-296"
 	accession_number: "2003.376"
@@ -5082,7 +5082,7 @@ technique:
 	shape: "Jugs"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-297"
 	accession_number: "2003.393"
@@ -5099,7 +5099,7 @@ technique:
 	shape: "Oinochoai"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-298"
 	accession_number: "2003.428"
@@ -5116,7 +5116,7 @@ technique:
 	shape: "Jugs"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-299"
 	accession_number: "2003.422"
@@ -5133,7 +5133,7 @@ technique:
 	shape: "Jugs"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-300"
 	accession_number: "2003.410"
@@ -5150,7 +5150,7 @@ technique:
 	shape: "Oinochoai"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-301"
 	accession_number: "2003.413"
@@ -5167,7 +5167,7 @@ technique:
 	shape: "Jugs"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-302"
 	accession_number: "2003.433"
@@ -5184,7 +5184,7 @@ technique:
 	shape: "Jugs"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-303"
 	accession_number: "2003.434"
@@ -5201,7 +5201,7 @@ technique:
 	shape: "Jugs"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-304"
 	accession_number: "2003.452"
@@ -5218,7 +5218,7 @@ technique:
 	shape: "Jugs"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-305"
 	accession_number: "2003.450"
@@ -5235,7 +5235,7 @@ technique:
 	shape: "Jugs"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-306"
 	accession_number: "2003.288"
@@ -5252,7 +5252,7 @@ technique:
 	shape: "Jugs"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-307"
 	accession_number: "71.AF.79"
@@ -5269,7 +5269,7 @@ technique:
 	shape: "Bottles"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-308"
 	accession_number: "80.AF.125"
@@ -5286,7 +5286,7 @@ technique:
 	shape: "Cinerary urns"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-309"
 	accession_number: "2003.392"
@@ -5303,7 +5303,7 @@ technique:
 	shape: "Jars"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-310"
 	accession_number: "2003.394"
@@ -5320,7 +5320,7 @@ technique:
 	shape: [ "Bowls", "Jars" ]
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-311"
 	accession_number: "2003.400"
@@ -5337,7 +5337,7 @@ technique:
 	shape: "Jars"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-312"
 	accession_number: "2003.398"
@@ -5354,7 +5354,7 @@ technique:
 	shape: "Jars"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-313"
 	accession_number: "2003.399"
@@ -5371,7 +5371,7 @@ technique:
 	shape: "Jars"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-314"
 	accession_number: "2003.411"
@@ -5388,7 +5388,7 @@ technique:
 	shape: "Jars"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-315"
 	accession_number: "78.AF.25"
@@ -5405,7 +5405,7 @@ technique:
 	shape: "Jars"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-316"
 	accession_number: "2003.375"
@@ -5422,7 +5422,7 @@ technique:
 	shape: "Jars"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-317"
 	accession_number: "2003.270"
@@ -5439,7 +5439,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-318"
 	accession_number: "2003.269"
@@ -5456,7 +5456,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-319"
 	accession_number: "2003.271"
@@ -5473,7 +5473,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-320"
 	accession_number: "2003.272"
@@ -5490,7 +5490,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-321"
 	accession_number: "2003.282"
@@ -5507,7 +5507,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-322"
 	accession_number: "2003.286"
@@ -5524,7 +5524,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-323"
 	accession_number: "2003.244"
@@ -5541,7 +5541,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-324"
 	accession_number: "2003.285"
@@ -5558,7 +5558,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-325"
 	accession_number: "2003.268"
@@ -5575,7 +5575,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-326"
 	accession_number: "2003.280"
@@ -5592,7 +5592,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-327"
 	accession_number: "2003.283"
@@ -5609,7 +5609,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-328"
 	accession_number: "2003.397"
@@ -5626,7 +5626,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-329"
 	accession_number: "2003.420"
@@ -5643,7 +5643,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-330"
 	accession_number: "2004.40"
@@ -5660,7 +5660,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-331"
 	accession_number: "2003.418"
@@ -5677,7 +5677,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-332"
 	accession_number: "2003.415"
@@ -5694,7 +5694,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-333"
 	accession_number: "2003.416"
@@ -5711,7 +5711,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-334"
 	accession_number: "2003.242"
@@ -5728,7 +5728,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-335"
 	accession_number: "2003.243"
@@ -5745,7 +5745,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-336"
 	accession_number: "2003.365"
@@ -5777,7 +5777,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-338"
 	accession_number: "2003.369"
@@ -5794,7 +5794,7 @@ technique:
 	shape: "Unguentaria"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-339"
 	accession_number: "2003.370"
@@ -5811,7 +5811,7 @@ technique:
 	shape: "Unguentaria"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-340"
 	accession_number: "79.AF.184.2"
@@ -5828,7 +5828,7 @@ technique:
 	shape: "Unguentaria"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-341"
 	accession_number: "79.AF.184.3"
@@ -5845,7 +5845,7 @@ technique:
 	shape: "Unguentaria"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-342"
 	accession_number: "79.AF.184.18"
@@ -5862,7 +5862,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-343"
 	accession_number: "98.AF.56"
@@ -5879,7 +5879,7 @@ technique:
 	shape: "Unguentaria"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-344"
 	accession_number: "2003.409"
@@ -5896,7 +5896,7 @@ technique:
 	shape: [ "Sprinklers", "Flasks" ]
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-345"
 	accession_number: "2003.477"
@@ -5913,7 +5913,7 @@ technique:
 	shape: [ "Sprinklers", "Flasks" ]
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-346"
 	accession_number: "2003.437"
@@ -5930,7 +5930,7 @@ technique:
 	shape: [ "Sprinklers", "Flasks" ]
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-347"
 	accession_number: "2004.42"
@@ -5947,7 +5947,7 @@ technique:
 	shape: [ "Sprinklers", "Flasks" ]
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-348"
 	accession_number: "2003.289"
@@ -5964,7 +5964,7 @@ technique:
 	shape: [ "Sprinklers", "Flasks" ]
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-349"
 	accession_number: "2003.438"
@@ -5981,7 +5981,7 @@ technique:
 	shape: [ "Sprinklers", "Flasks" ]
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-350"
 	accession_number: "2003.448"
@@ -5998,7 +5998,7 @@ technique:
 	shape: [ "Sprinklers", "Flasks" ]
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-351"
 	accession_number: "79.AF.184.8"
@@ -6015,7 +6015,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-352"
 	accession_number: "2003.292"
@@ -6032,7 +6032,7 @@ technique:
 	shape: "Aryballoi"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-353"
 	accession_number: "2003.374"
@@ -6049,7 +6049,7 @@ technique:
 	shape: "Aryballoi"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-354"
 	accession_number: "2003.241"
@@ -6066,7 +6066,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-355"
 	accession_number: "2003.291"
@@ -6083,7 +6083,7 @@ technique:
 	shape: "Amphoriskoi"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-356"
 	accession_number: "2003.367"
@@ -6100,7 +6100,7 @@ technique:
 	shape: "Amphoriskoi"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-357"
 	accession_number: "2003.368"
@@ -6117,7 +6117,7 @@ technique:
 	shape: "Amphoriskoi"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-358"
 	accession_number: "2003.364"
@@ -6134,7 +6134,7 @@ technique:
 	shape: "Amphoriskoi"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-359"
 	accession_number: "2003.419"
@@ -6151,7 +6151,7 @@ technique:
 	shape: [ "Amphoriskoi", "Flasks" ]
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-360"
 	accession_number: "2003.389"
@@ -6168,7 +6168,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-361"
 	accession_number: "2003.425"
@@ -6185,7 +6185,7 @@ technique:
 	shape: "Amphoriskoi"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-362"
 	accession_number: "2003.430"
@@ -6202,7 +6202,7 @@ technique:
 	shape: [ "Flasks", "Amphoriskoi" ]
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-363"
 	accession_number: "2003.350"
@@ -6219,7 +6219,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-364"
 	accession_number: "78.AF.35"
@@ -6236,7 +6236,7 @@ technique:
 	shape: "Amphoriskoi"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-365"
 	accession_number: "2003.426"
@@ -6253,7 +6253,7 @@ technique:
 	shape: "Amphoriskoi"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-366"
 	accession_number: "2003.417"
@@ -6270,7 +6270,7 @@ technique:
 	shape: "Amphoriskoi"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-367"
 	accession_number: "78.AF.19"
@@ -6287,7 +6287,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-368"
 	accession_number: "71.AF.80"
@@ -6304,7 +6304,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-369"
 	accession_number: "2003.431"
@@ -6321,7 +6321,7 @@ technique:
 	shape: "Kohl tubes"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-370"
 	accession_number: "2003.432"
@@ -6338,7 +6338,7 @@ technique:
 	shape: "Kohl tubes"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-371"
 	accession_number: "2003.396"
@@ -6355,7 +6355,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-372"
 	accession_number: "2003.239"
@@ -6372,7 +6372,7 @@ technique:
 	shape: "Inkwells"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-373"
 	accession_number: "2003.240"
@@ -6389,7 +6389,7 @@ technique:
 	shape: "Inkwells"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-374"
 	accession_number: "2003.378"
@@ -6406,7 +6406,7 @@ technique:
 	shape: "Inkwells"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-375"
 	accession_number: "2003.453"
@@ -6423,7 +6423,7 @@ technique:
 	shape: "Inkwells"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-376"
 	accession_number: "2003.470"
@@ -6440,7 +6440,7 @@ technique:
 	shape: "Kohl tubes"
 	technique: "Rod-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-377"
 	accession_number: "2003.469"
@@ -6457,7 +6457,7 @@ technique:
 	shape: "Kohl tubes"
 	technique: "Rod-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-378"
 	accession_number: "2003.468"
@@ -6474,7 +6474,7 @@ technique:
 	shape: "Kohl tubes"
 	technique: "Rod-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-379"
 	accession_number: "2003.463"
@@ -6491,7 +6491,7 @@ technique:
 	shape: "Kohl tube"
 	technique: "Rod-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-380"
 	accession_number: "79.AF.184.19"
@@ -6508,7 +6508,7 @@ technique:
 	shape: "Flasks"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-381"
 	accession_number: "79.AF.184.33"
@@ -6525,7 +6525,7 @@ technique:
 	shape: "Flasks"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-382"
 	accession_number: "79.AF.184.43"
@@ -6542,7 +6542,7 @@ technique:
 	shape: "Flasks"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-383"
 	accession_number: "2003.472"
@@ -6559,7 +6559,7 @@ technique:
 	shape: "Flasks"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-384"
 	accession_number: "79.AF.184.39"
@@ -6576,7 +6576,7 @@ technique:
 	shape: "Flasks"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-385"
 	accession_number: "79.AF.184.37"
@@ -6593,7 +6593,7 @@ technique:
 	shape: "Flasks"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-386"
 	accession_number: "79.AF.184.35"
@@ -6610,7 +6610,7 @@ technique:
 	shape: "Flasks"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-387"
 	accession_number: "79.AF.184.36"
@@ -6627,7 +6627,7 @@ technique:
 	shape: "Flasks"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-388"
 	accession_number: "79.AF.184.44"
@@ -6644,7 +6644,7 @@ technique:
 	shape: "Flasks"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-389"
 	accession_number: "79.AF.184.45"
@@ -6661,7 +6661,7 @@ technique:
 	shape: "Flasks"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-390"
 	accession_number: "79.AF.184.28"
@@ -6678,7 +6678,7 @@ technique:
 	shape: "Flasks"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-391"
 	accession_number: "79.AF.184.40"
@@ -6695,7 +6695,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-392"
 	accession_number: "79.AF.184.42"
@@ -6712,7 +6712,7 @@ technique:
 	shape: "Flasks"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-393"
 	accession_number: "79.AF.184.7"
@@ -6729,7 +6729,7 @@ technique:
 	shape: "Flasks"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-394"
 	accession_number: "2003.471"
@@ -6746,7 +6746,7 @@ technique:
 	shape: "Flasks"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-395"
 	accession_number: "2003.338"
@@ -6763,7 +6763,7 @@ technique:
 	shape: "Flasks"
 	technique: "Mold-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-396"
 	accession_number: "78.AF.36"
@@ -6780,7 +6780,7 @@ technique:
 	shape: "Flasks"
 	technique: "Dip mold–blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-397"
 	accession_number: "79.AF.184.47"
@@ -6797,7 +6797,7 @@ technique:
 	shape: "Bowls"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-398"
 	accession_number: "2003.478"
@@ -6814,7 +6814,7 @@ technique:
 	shape: "Bowls"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-399"
 	accession_number: "2003.467"
@@ -6831,7 +6831,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-400"
 	accession_number: "78.AF.29"
@@ -6848,7 +6848,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-401"
 	accession_number: "79.AF.184.12"
@@ -6865,7 +6865,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-402"
 	accession_number: "79.AF.184.9"
@@ -6882,7 +6882,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-403"
 	accession_number: "78.AF.23"
@@ -6899,7 +6899,7 @@ technique:
 	shape: "Bottles"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-404"
 	accession_number: "2003.464"
@@ -6916,7 +6916,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-405"
 	accession_number: "2003.465"
@@ -6933,7 +6933,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-406"
 	accession_number: "2004.33"
@@ -6950,7 +6950,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-407"
 	accession_number: "78.AK.30"
@@ -6967,7 +6967,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-408"
 	accession_number: "79.AF.184.11"
@@ -6984,7 +6984,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-409"
 	accession_number: "2003.446"
@@ -7001,7 +7001,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-410"
 	accession_number: "2003.466"
@@ -7018,7 +7018,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-411"
 	accession_number: "2003.461"
@@ -7035,7 +7035,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-412"
 	accession_number: "79.AF.184.23"
@@ -7052,7 +7052,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-413"
 	accession_number: "79.AF.184.46"
@@ -7069,7 +7069,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-414"
 	accession_number: "79.AF.184.27"
@@ -7086,7 +7086,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-415"
 	accession_number: "79.AF.184.21"
@@ -7103,7 +7103,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-416"
 	accession_number: "79.AF.184.41"
@@ -7120,7 +7120,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-417"
 	accession_number: "2003.473"
@@ -7137,7 +7137,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-418"
 	accession_number: "79.AF.184.24"
@@ -7154,7 +7154,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-419"
 	accession_number: "79.AF.184.15"
@@ -7171,7 +7171,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-420"
 	accession_number: "79.AF.184.25"
@@ -7188,7 +7188,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-421"
 	accession_number: "79.AF.184.29"
@@ -7205,7 +7205,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-422"
 	accession_number: "79.AF.184.14"
@@ -7222,7 +7222,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-423"
 	accession_number: "79.AF.184.16"
@@ -7239,7 +7239,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-424"
 	accession_number: "79.AF.184.6"
@@ -7256,7 +7256,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-425"
 	accession_number: "79.AF.184.10"
@@ -7273,7 +7273,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-426"
 	accession_number: "79.AF.184.31"
@@ -7290,7 +7290,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-427"
 	accession_number: "79.AF.184.32"
@@ -7307,7 +7307,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-428"
 	accession_number: "79.AF.184.34"
@@ -7324,7 +7324,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-429"
 	accession_number: "79.AF.184.38"
@@ -7341,7 +7341,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-430"
 	accession_number: "79.AF.184.26"
@@ -7358,7 +7358,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-431"
 	accession_number: "81.AF.1"
@@ -7375,7 +7375,7 @@ technique:
 	shape: "Flasks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-432"
 	accession_number: "79.AF.184.17"
@@ -7392,7 +7392,7 @@ technique:
 	shape: "Ibriks"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-433"
 	accession_number: "2003.451"
@@ -7409,7 +7409,7 @@ technique:
 	shape: "Jars"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-434"
 	accession_number: "2003.384"
@@ -7426,7 +7426,7 @@ technique:
 	shape: "Jars"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-435"
 	accession_number: "2003.385"
@@ -7443,7 +7443,7 @@ technique:
 	shape: "Jars"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-436"
 	accession_number: "2003.386"
@@ -7460,7 +7460,7 @@ technique:
 	shape: "Jars"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-437"
 	accession_number: "2003.254"
@@ -7477,7 +7477,7 @@ technique:
 	shape: "Bowls"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-438"
 	accession_number: "2003.296"
@@ -7494,7 +7494,7 @@ technique:
 	shape: "Medallions"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-439"
 	accession_number: "83.AK.29"
@@ -7511,7 +7511,7 @@ technique:
 	shape: "Unidentified"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-440"
 	accession_number: "2003.442"
@@ -7528,7 +7528,7 @@ technique:
 	shape: "Cups"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-441"
 	accession_number: "2003.395"
@@ -7545,7 +7545,7 @@ technique:
 	shape: "Jars"
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-442"
 	accession_number: "2003.149"
@@ -7562,7 +7562,7 @@ technique:
 	shape: "Appliqués"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-443"
 	accession_number: "2003.150"
@@ -7579,7 +7579,7 @@ technique:
 	shape: "Appliqués"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-444"
 	accession_number: "2003.151"
@@ -7596,7 +7596,7 @@ technique:
 	shape: "Appliqués"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-445"
 	accession_number: "2003.152"
@@ -7613,7 +7613,7 @@ technique:
 	shape: "Appliqués"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-446"
 	accession_number: "2003.153"
@@ -7630,7 +7630,7 @@ technique:
 	shape: "Appliqués"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-447"
 	accession_number: "2003.158"
@@ -7647,7 +7647,7 @@ technique:
 	shape: "Appliqués"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-448"
 	accession_number: "2003.154"
@@ -7664,7 +7664,7 @@ technique:
 	shape: "Appliqués"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-449"
 	accession_number: "2003.260"
@@ -7681,7 +7681,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-450"
 	accession_number: "2004.27"
@@ -7698,7 +7698,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-451"
 	accession_number: "2004.28"
@@ -7715,7 +7715,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-452"
 	accession_number: "2003.264"
@@ -7732,7 +7732,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-453"
 	accession_number: "2003.261"
@@ -7749,7 +7749,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-454"
 	accession_number: "2003.262"
@@ -7766,7 +7766,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-455"
 	accession_number: "2003.263"
@@ -7783,7 +7783,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-456"
 	accession_number: "2004.29"
@@ -7800,7 +7800,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-457"
 	accession_number: "2004.30"
@@ -7817,7 +7817,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-458"
 	accession_number: "2004.31"
@@ -7834,7 +7834,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-459"
 	accession_number: "2004.32"
@@ -7851,7 +7851,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-460"
 	accession_number: "2004.26.2"
@@ -7868,7 +7868,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-461"
 	accession_number: "2004.26.5"
@@ -7885,7 +7885,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-462"
 	accession_number: "83.AF.28.21"
@@ -7902,7 +7902,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-463"
 	accession_number: "83.AF.28.24"
@@ -7934,7 +7934,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-465"
 	accession_number: "76.AF.70.38"
@@ -7951,7 +7951,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-466"
 	accession_number: "76.AF.70.42"
@@ -7968,7 +7968,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-467"
 	accession_number: "76.AF.70.3"
@@ -7985,7 +7985,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-468"
 	accession_number: "76.AF.70.25"
@@ -8002,7 +8002,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-469"
 	accession_number: "76.AF.70.29"
@@ -8019,7 +8019,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-470"
 	accession_number: "76.AF.70.41"
@@ -8036,7 +8036,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-471"
 	accession_number: "76.AF.70.1"
@@ -8053,7 +8053,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-472"
 	accession_number: "76.AF.70.6"
@@ -8070,7 +8070,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-473"
 	accession_number: "76.AF.70.28"
@@ -8087,7 +8087,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-474"
 	accession_number: "76.AF.70.30"
@@ -8104,7 +8104,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-475"
 	accession_number: "76.AF.70.34"
@@ -8121,7 +8121,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-476"
 	accession_number: "76.AF.70.5"
@@ -8138,7 +8138,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-477"
 	accession_number: "76.AF.70.12"
@@ -8155,7 +8155,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-478"
 	accession_number: "76.AF.70.20"
@@ -8172,7 +8172,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-479"
 	accession_number: "76.AF.70.37"
@@ -8189,7 +8189,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-480"
 	accession_number: "83.AF.28.15"
@@ -8206,7 +8206,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-481"
 	accession_number: "76.AF.70.8"
@@ -8223,7 +8223,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-482"
 	accession_number: "76.AF.70.43"
@@ -8240,7 +8240,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-483"
 	accession_number: "76.AF.70.26"
@@ -8257,7 +8257,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-484"
 	accession_number: "76.AF.70.13"
@@ -8274,7 +8274,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-485"
 	accession_number: "76.AF.70.45"
@@ -8291,7 +8291,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-486"
 	accession_number: "76.AF.70.27"
@@ -8308,7 +8308,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-487"
 	accession_number: "76.AF.70.7"
@@ -8325,7 +8325,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-488"
 	accession_number: "76.AF.70.35"
@@ -8342,7 +8342,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-489"
 	accession_number: "83.AF.28.25"
@@ -8359,7 +8359,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-490"
 	accession_number: "2004.26.1"
@@ -8376,7 +8376,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-491"
 	accession_number: "2004.26.4"
@@ -8393,7 +8393,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-492"
 	accession_number: "2003.258.7"
@@ -8410,7 +8410,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-493"
 	accession_number: "2003.265"
@@ -8427,7 +8427,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-494"
 	accession_number: "76.AF.70.31"
@@ -8444,7 +8444,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-495"
 	accession_number: "2003.257"
@@ -8461,7 +8461,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-496"
 	accession_number: "2003.266"
@@ -8478,7 +8478,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-497"
 	accession_number: "76.AF.70.14"
@@ -8495,7 +8495,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-498"
 	accession_number: "76.AF.70.16"
@@ -8512,7 +8512,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-499"
 	accession_number: "83.AF.28.9"
@@ -8529,7 +8529,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-500"
 	accession_number: "83.AF.28.26"
@@ -8546,7 +8546,7 @@ technique:
 	shape: "Appliqués"
 	technique: "Fusion"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-501"
 	accession_number: "76.AF.70.11"
@@ -8563,7 +8563,7 @@ technique:
 	shape: "Appliqués"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-502"
 	accession_number: "2003.353"
@@ -8580,7 +8580,7 @@ technique:
 	shape: "Appliqués"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-503"
 	accession_number: "2003.355"
@@ -8597,7 +8597,7 @@ technique:
 	shape: "Appliqués"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-504"
 	accession_number: "2003.358"
@@ -8614,7 +8614,7 @@ technique:
 	shape: "Appliqués"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-505"
 	accession_number: "2003.359"
@@ -8631,7 +8631,7 @@ technique:
 	shape: "Appliqués"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-506"
 	accession_number: "2003.360"
@@ -8648,7 +8648,7 @@ technique:
 	shape: "Appliqués"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-507"
 	accession_number: "80.AF.76"
@@ -8665,7 +8665,7 @@ technique:
 	shape: "Appliqués"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-508"
 	accession_number: "2003.405"
@@ -8682,7 +8682,7 @@ technique:
 	shape: "Appliqués"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-509"
 	accession_number: "2003.214.1"
@@ -8699,7 +8699,7 @@ technique:
 	shape: "Beads"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-510"
 	accession_number: "2003.214.2"
@@ -8716,7 +8716,7 @@ technique:
 	shape: "Beads"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-511"
 	accession_number: "2003.214.3"
@@ -8733,7 +8733,7 @@ technique:
 	shape: "Beads"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-512"
 	accession_number: "2003.214.4"
@@ -8750,7 +8750,7 @@ technique:
 	shape: "Beads"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-513"
 	accession_number: "2003.214.5"
@@ -8767,7 +8767,7 @@ technique:
 	shape: "Beads"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-514"
 	accession_number: "2003.214.6"
@@ -8784,7 +8784,7 @@ technique:
 	shape: "Beads"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-515"
 	accession_number: "2003.214.7"
@@ -8801,7 +8801,7 @@ technique:
 	shape: "Beads"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-516"
 	accession_number: "2003.214.8"
@@ -8818,7 +8818,7 @@ technique:
 	shape: "Beads"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-517"
 	accession_number: "2003.214.9"
@@ -8835,7 +8835,7 @@ technique:
 	shape: "Beads"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-518"
 	accession_number: "2003.214.10"
@@ -8852,7 +8852,7 @@ technique:
 	shape: "Beads"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-519"
 	accession_number: "2003.214.11"
@@ -8869,7 +8869,7 @@ technique:
 	shape: "Beads"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-520"
 	accession_number: "2003.214.12"
@@ -8886,7 +8886,7 @@ technique:
 	shape: "Beads"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-521"
 	accession_number: "2003.214.13"
@@ -8903,7 +8903,7 @@ technique:
 	shape: "Beads"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-522"
 	accession_number: "2003.214.14"
@@ -8920,7 +8920,7 @@ technique:
 	shape: "Beads"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-523"
 	accession_number: "2003.214.15"
@@ -8937,7 +8937,7 @@ technique:
 	shape: "Beads"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-524"
 	accession_number: "2003.214.16"
@@ -8954,7 +8954,7 @@ technique:
 	shape: "Beads"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-525"
 	accession_number: "2003.214.17"
@@ -8971,7 +8971,7 @@ technique:
 	shape: "Beads"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-526"
 	accession_number: "2004.15.1"
@@ -8988,7 +8988,7 @@ technique:
 	shape: "Beads"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-527"
 	accession_number: "2004.15.2"
@@ -9005,7 +9005,7 @@ technique:
 	shape: "Beads"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-528"
 	accession_number: "2004.15.3"
@@ -9022,7 +9022,7 @@ technique:
 	shape: "Beads"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-529"
 	accession_number: "2004.15.4"
@@ -9039,7 +9039,7 @@ technique:
 	shape: "Beads"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-530"
 	accession_number: "2004.15.5"
@@ -9056,7 +9056,7 @@ technique:
 	shape: "Beads"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-531"
 	accession_number: "2004.15.6"
@@ -9073,7 +9073,7 @@ technique:
 	shape: "Beads"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-532"
 	accession_number: "2004.15.7"
@@ -9090,7 +9090,7 @@ technique:
 	shape: "Beads"
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-533"
 	accession_number: "2003.209"
@@ -9107,7 +9107,7 @@ technique:
 	shape: "Beads"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-534.1–30"
 	accession_number: "2003.259"
@@ -9124,7 +9124,7 @@ technique:
 	shape: "Beads"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-535"
 	accession_number: "78.AF.324.1"
@@ -9141,7 +9141,7 @@ technique:
 	shape: "Beads"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-536"
 	accession_number: "76.AM.61.15"
@@ -9158,7 +9158,7 @@ technique:
 	shape: "Beads"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-537"
 	accession_number: "2004.12"
@@ -9175,7 +9175,7 @@ technique:
 	shape: "Beads"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-538"
 	accession_number: "2003.210"
@@ -9192,7 +9192,7 @@ technique:
 	shape: "Beads"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-539"
 	accession_number: "2004.13"
@@ -9209,7 +9209,7 @@ technique:
 	shape: "Beads"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-540"
 	accession_number: "2003.212"
@@ -9226,7 +9226,7 @@ technique:
 	shape: "Beads"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-541"
 	accession_number: "2003.211"
@@ -9243,7 +9243,7 @@ technique:
 	shape: "Beads"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-542"
 	accession_number: "80.AH.20.850"
@@ -9260,7 +9260,7 @@ technique:
 	shape: "Beads"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-543"
 	accession_number: "2003.213"
@@ -9277,7 +9277,7 @@ technique:
 	shape: "Amulets"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-544"
 	accession_number: "2003.206"
@@ -9294,7 +9294,7 @@ technique:
 	shape: "Amulets"
 	technique: "Rod-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-545"
 	accession_number: "2003.208"
@@ -9311,7 +9311,7 @@ technique:
 	shape: "Amulets"
 	technique: "Rod-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-546"
 	accession_number: "2004.9"
@@ -9328,7 +9328,7 @@ technique:
 	shape: "Amulets"
 	technique: "Rod-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-547"
 	accession_number: "2004.10"
@@ -9345,7 +9345,7 @@ technique:
 	shape: "Amulets"
 	technique: "Rod-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-548"
 	accession_number: "2003.205"
@@ -9362,7 +9362,7 @@ technique:
 	shape: "Amulets"
 	technique: "Rod-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-549"
 	accession_number: "2003.207"
@@ -9379,7 +9379,7 @@ technique:
 	shape: "Amulets"
 	technique: "Rod-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-550"
 	accession_number: "83.AM.1.1"
@@ -9396,7 +9396,7 @@ technique:
 	shape: "Amulets"
 	technique: "Rod-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-551"
 	accession_number: "83.AM.1.2"
@@ -9413,7 +9413,7 @@ technique:
 	shape: "Amulets"
 	technique: "Rod-formed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-552"
 	accession_number: "78.AF.324.3"
@@ -9430,7 +9430,7 @@ technique:
 	shape: "Amulets"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-553"
 	accession_number: "2004.11"
@@ -9447,7 +9447,7 @@ technique:
 	shape: "Amulets"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-554"
 	accession_number: "76.AF.70.46"
@@ -9464,7 +9464,7 @@ technique:
 	shape: "Amulets"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-555"
 	accession_number: "2003.456"
@@ -9481,7 +9481,7 @@ technique:
 	shape: "Amulets"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-556"
 	accession_number: "78.AF.321.1"
@@ -9498,7 +9498,7 @@ technique:
 	shape: "Amulets"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-557"
 	accession_number: "78.AF.321.2"
@@ -9515,7 +9515,7 @@ technique:
 	shape: "Amulets"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-558"
 	accession_number: "78.AF.321.3"
@@ -9532,7 +9532,7 @@ technique:
 	shape: "Amulets"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-559"
 	accession_number: "78.AF.321.4"
@@ -9549,7 +9549,7 @@ technique:
 	shape: "Amulets"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-560"
 	accession_number: "78.AF.321.5"
@@ -9566,7 +9566,7 @@ technique:
 	shape: "Amulets"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-561"
 	accession_number: "79.AF.184.1"
@@ -9583,7 +9583,7 @@ technique:
   shape:
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-562"
 	accession_number: "79.AF.184.4"
@@ -9600,7 +9600,7 @@ technique:
 	shape: "Bracelets"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-563"
 	accession_number: "2003.457"
@@ -9617,7 +9617,7 @@ technique:
 	shape: "Bracelets"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-564"
 	accession_number: "2003.459"
@@ -9634,7 +9634,7 @@ technique:
 	shape: "Bracelets"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-565"
 	accession_number: "2003.458"
@@ -9651,7 +9651,7 @@ technique:
 	shape: "Bracelets"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-566"
 	accession_number: "2003.407"
@@ -9668,7 +9668,7 @@ technique:
 	shape: "Bracelets"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-567"
 	accession_number: "2003.295.1–2"
@@ -9685,7 +9685,7 @@ technique:
   shape:
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-568"
 	accession_number: "2003.460"
@@ -9702,7 +9702,7 @@ technique:
 	shape: "Spindle whorls"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-569"
 	accession_number: "79.AF.171"
@@ -9719,7 +9719,7 @@ technique:
 	shape: "Knucklebones"
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-570"
 	accession_number: "2003.403"
@@ -9736,7 +9736,7 @@ technique:
   shape:
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-571"
 	accession_number: "82.AC.22.315"
@@ -9753,7 +9753,7 @@ technique:
   shape:
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-572"
 	accession_number: "2003.404"
@@ -9770,7 +9770,7 @@ technique:
   shape:
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-573"
 	accession_number: "2003.401"
@@ -9787,7 +9787,7 @@ technique:
   shape:
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-574"
 	accession_number: "2003.356"
@@ -9804,7 +9804,7 @@ technique:
   shape:
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-575"
 	accession_number: "2003.357"
@@ -9821,7 +9821,7 @@ technique:
   shape:
 	technique: "“Cast”-rotary pressed"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-576"
 	accession_number: "2003.155"
@@ -9838,7 +9838,7 @@ technique:
   shape:
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-577"
 	accession_number: "2003.156"
@@ -9855,7 +9855,7 @@ technique:
   shape:
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-578"
 	accession_number: "2003.371"
@@ -9872,7 +9872,7 @@ technique:
   shape:
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
 
 - id: "cat-579"
 	accession_number: "78.AC.381.77"
@@ -9889,7 +9889,7 @@ technique:
   shape:
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-580"
 	accession_number: "79.AF.184.20"
@@ -9906,7 +9906,7 @@ technique:
   shape:
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-581"
 	accession_number: "79.AF.184.22"
@@ -9923,7 +9923,7 @@ technique:
   shape:
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-582"
 	accession_number: "79.AF.184.30"
@@ -9940,7 +9940,7 @@ technique:
   shape:
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-583"
 	accession_number: "2003.462"
@@ -9957,7 +9957,7 @@ technique:
   shape:
   technique:
   figure:
-		- id: "fig-"
+		
 
 - id: "cat-584"
 	accession_number: "2003.406"
@@ -9974,4 +9974,4 @@ technique:
   shape:
 	technique: "Free-blown"
 	figure:
-		- id: "fig-"
+		
