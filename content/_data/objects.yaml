@@ -9285,6 +9285,22 @@ object_list:
     shape: 
     technique: 
     figure: [ id: "fig-2003-156-a" ]
+- 
+    id: cat-578
+    accession_number: "2003.371"
+    collection_link: <https://www.getty.edu/art/collection/objects/221761/>
+    dimensions: "H. 2, Diam. 18.3, Th. 0.2 cm; Wt. 171 g"
+    date: "Islamic, Byzantine, or Ottoman"
+    start_date: "550"
+    end_date: "1700?"
+    attribution: "Production area: Eastern Mediterranean"
+    culture: "Islamic, Byzantine, or Ottoman"
+    material: "Transparent greenish glass"
+    modeling_technique_and_decoration: "Free-blown"
+    inscription: "No"
+    shape:
+    technique: "Free-blown"
+    figure: [ id: "fig-2003-371-a", id: "fig-2003-371-b" ]  
 -
     id: cat-579
     accession_number: "78.AC.381.77"
