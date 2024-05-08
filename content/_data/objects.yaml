@@ -152,7 +152,7 @@ object_list:
   modeling_technique_and_decoration: "Cast, carved, and ground"
   inscription: "No"
   shape: "Alabastra"
-  technique: $1
+  technique: "“Cast”-rotary pressed"
   figure:
     
 
