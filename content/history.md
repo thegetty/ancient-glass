@@ -1,5 +1,5 @@
 ---
 title: "History of the Collection"
 layout: page
-order: 10
+order: 11
 ---
