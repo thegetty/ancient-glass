@@ -7732,7 +7732,7 @@ object_list:
     inscription: "No"
     shape: [ "Appliqués" ]
     technique: [ "Fusion" ]
-    figure: [ id: "fig-83-AF-28-15-a", id: "fig-83-AF-28-15-b" ]
+    figure: [ id: "fig-83-AF-28-15-a-a", id: "fig-83-AF-28-15-a-b", id: "fig-83-AF-28-15-b-a", id: "fig-83-AF-28-15-b-b" ]
 -
     id: cat-481
     accession_number: "76.AF.70.8"
