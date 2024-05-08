@@ -9299,7 +9299,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape:
-    technique: "Free-blown"
+    technique: [ "Free-blown" ]
     figure: [ id: "fig-2003-371-a", id: "fig-2003-371-b" ]  
 -
     id: cat-579
