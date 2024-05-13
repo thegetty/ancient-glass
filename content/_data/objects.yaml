@@ -1780,7 +1780,7 @@ object_list:
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
-    figure: #N/A
+    figure: [ id: "fig-2004-26-3-a", id: "fig-2004-26-3-b" ]
 -
     id: cat-109
     accession_number: "2003.258.5"
@@ -1812,7 +1812,7 @@ object_list:
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
-    figure: #N/A
+    figure: [ id: "fig-2004-26-6-a", "fig-2004-26-6-b" ]
 -
     id: cat-111
     accession_number: "83.AF.28.14"
@@ -2052,7 +2052,7 @@ object_list:
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
-    figure: #N/A
+    figure: [ id: "fig-2004-26-7-a", id: "fig-2004-26-7-b" ]
 -
     id: cat-126
     accession_number: "2003.258.6"
@@ -2084,7 +2084,7 @@ object_list:
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
-    figure: #N/A
+    figure: [ id: "fig-2004-26-9-a", id: "fig-2004-26-9-b" ]
 -
     id: cat-128
     accession_number: "2003.258.3"
@@ -2132,7 +2132,7 @@ object_list:
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
-    figure: #N/A
+    figure: [ id: "fig-2004-26-8-a", id: "fig-2004-26-8-b" ]
 -
     id: cat-131
     accession_number: "2003.258.2"
@@ -7412,7 +7412,7 @@ object_list:
     inscription: "No"
     shape: [ "Appliqués" ]
     technique: [ "Fusion" ]
-    figure: #N/A
+    figure: [ id: "fig-2004-26-2-a", id: "fig-2004-26-2-b" ]
 -
     id: cat-461
     accession_number: "2004.26.5"
@@ -7428,7 +7428,7 @@ object_list:
     inscription: "No"
     shape: [ "Appliqués" ]
     technique: [ "Fusion" ]
-    figure: #N/A
+    figure: [ id: "fig-2004-26-5-a", id: "fig-2004-26-5-b" ]
 -
     id: cat-462
     accession_number: "83.AF.28.21"
@@ -7892,7 +7892,7 @@ object_list:
     inscription: "No"
     shape: [ "Appliqués" ]
     technique: [ "Fusion" ]
-    figure: #N/A
+    figure: [ id: "fig-2004-26-1-a", id: "fig-2004-26-1-b" ]
 -
     id: cat-491
     accession_number: "2004.26.4"
@@ -7908,7 +7908,7 @@ object_list:
     inscription: "No"
     shape: [ "Appliqués" ]
     technique: [ "Fusion" ]
-    figure: #N/A
+    figure: [ id: "fig-2004-26-4-a", id: "fig-2004-26-4-b" ]
 -
     id: cat-492
     accession_number: "2003.258.7"
@@ -8468,7 +8468,7 @@ object_list:
     inscription: "No"
     shape: [ "Beads" ]
     technique: [ "“Cast”-rotary pressed" ]
-    figure: #N/A
+    figure: [ id: "fig-2004-15-1-a", id: "fig-2004-15-1-b", id: "fig-2004-15-1-c" ]
 -
     id: cat-527
     accession_number: "2004.15.2"
@@ -8484,7 +8484,7 @@ object_list:
     inscription: "No"
     shape: [ "Beads" ]
     technique: [ "“Cast”-rotary pressed" ]
-    figure: #N/A
+    figure: [ id: "fig-2004-15-2-a", id: "fig-2004-15-2-b", id: "fig-2004-15-2-c" ]
 -
     id: cat-528
     accession_number: "2004.15.3"
@@ -8500,7 +8500,7 @@ object_list:
     inscription: "No"
     shape: [ "Beads" ]
     technique: [ "“Cast”-rotary pressed" ]
-    figure: #N/A
+    figure: [ id: "fig-2004-15-3-a", id: "fig-2004-15-3-b", id: "fig-2004-15-3-c" ]
 -
     id: cat-529
     accession_number: "2004.15.4"
@@ -8516,7 +8516,7 @@ object_list:
     inscription: "No"
     shape: [ "Beads" ]
     technique: [ "“Cast”-rotary pressed" ]
-    figure: #N/A
+    figure: [ id: "fig-2004-15-4-a", id: "fig-2004-15-4-b", id: "fig-2004-15-4-c" ]
 -
     id: cat-530
     accession_number: "2004.15.5"
@@ -8532,7 +8532,7 @@ object_list:
     inscription: "No"
     shape: [ "Beads" ]
     technique: [ "“Cast”-rotary pressed" ]
-    figure: #N/A
+    figure: [ id: "fig-2004-15-5-a", id: "fig-2004-15-5-b", id: "fig-2004-15-5-c" ]
 -
     id: cat-531
     accession_number: "2004.15.6"
@@ -8548,7 +8548,7 @@ object_list:
     inscription: "No"
     shape: [ "Beads" ]
     technique: [ "“Cast”-rotary pressed" ]
-    figure: #N/A
+    figure: [ id: "fig-2004-15-6-a", id: "fig-2004-15-6-b", id: "fig-2004-15-6-c" ]
 -
     id: cat-532
     accession_number: "2004.15.7"
@@ -8564,7 +8564,7 @@ object_list:
     inscription: "No"
     shape: [ "Beads" ]
     technique: [ "“Cast”-rotary pressed" ]
-    figure: #N/A
+    figure: [ id: "fig-2004-15-7-a", id: "fig-2004-15-7-b", id: "fig-2004-15-7-c" ]
 -
     id: cat-533
     accession_number: "2003.209"
@@ -8596,7 +8596,7 @@ object_list:
     inscription: "No"
     shape: [ "Beads" ]
     technique: 
-    figure: #N/A
+    figure: [ id: "fig-2003-259-1-a", id: "fig-2003-259-1-b", id: "fig-2003-259-1-c", id: "fig-2003-259-1-d", id: "fig-2003-259-2-a", id: "fig-2003-259-2-b", id: "fig-2003-259-2-c", id: "fig-2003-259-2-d", id: "fig-2003-259-2-e", id: "fig-2003-259-2-f", id: "fig-2003-259-3-a", id: "fig-2003-259-3-b", id: "fig-2003-259-3-c", id: "fig-2003-259-3-d", id: "fig-2003-259-3-e", id: "fig-2003-259-3-f", id: "fig-2003-259-3-g", id: "fig-2003-259-4-a", id: "fig-2003-259-4-b", id: "fig-2003-259-4-c", id: "fig-2003-259-4-d", id: "fig-2003-259-5-a", id: "fig-2003-259-5-b", id: "fig-2003-259-5-c", id: "fig-2003-259-5-d", id: "fig-2003-259-5-e", id: "fig-2003-259-6-a", id: "fig-2003-259-6-b", id: "fig-2003-259-6-c", id: "fig-2003-259-6-d", id: "fig-2003-259-6-e", id: "fig-2003-259-7-a", id: "fig-2003-259-7-b", id: "fig-2003-259-7-c", id: "fig-2003-259-7-d", id: "fig-2003-259-8-a", id: "fig-2003-259-8-b", id: "fig-2003-259-8-c", id: "fig-2003-259-8-d", id: "fig-2003-259-8-e", id: "fig-2003-259-8-f", id: "fig-2003-259-9-a", id: "fig-2003-259-9-b", id: "fig-2003-259-9-c", id: "fig-2003-259-9-d", id: "fig-2003-259-10-a", id: "fig-2003-259-10-b", id: "fig-2003-259-10-c", id: "fig-2003-259-10-d", id: "fig-2003-259-10-e", id: "fig-2003-259-10-f", id: "fig-2003-259-11-a", id: "fig-2003-259-11-b", id: "fig-2003-259-11-c", id: "fig-2003-259-11-d", id: "fig-2003-259-12-a", id: "fig-2003-259-12-b", id: "fig-2003-259-12-c", id: "fig-2003-259-12-d", id: "fig-2003-259-12-e", id: "fig-2003-259-12-f", id: "fig-2003-259-13-a", id: "fig-2003-259-13-b", id: "fig-2003-259-13-c", id: "fig-2003-259-13-d", id: "fig-2003-259-13-e", id: "fig-2003-259-13-f", id: "fig-2003-259-14-a", id: "fig-2003-259-14-b", id: "fig-2003-259-14-c", id: "fig-2003-259-14-d", id: "fig-2003-259-14-e", id: "fig-2003-259-14-f", id: "fig-2003-259-15-a", id: "fig-2003-259-15-b", id: "fig-2003-259-15-c", id: "fig-2003-259-15-d", id: "fig-2003-259-15-e", id: "fig-2003-259-15-f", id: "fig-2003-259-16-a", id: "fig-2003-259-16-b", id: "fig-2003-259-16-c", id: "fig-2003-259-16-d", id: "fig-2003-259-16-e", id: "fig-2003-259-16-f", id: "fig-2003-259-16-g", id: "fig-2003-259-17-a", id: "fig-2003-259-17-b", id: "fig-2003-259-17-c", id: "fig-2003-259-17-d", id: "fig-2003-259-17-e", id: "fig-2003-259-17-f", id: "fig-2003-259-18-a", id: "fig-2003-259-18-b", id: "fig-2003-259-18-c", id: "fig-2003-259-18-d", id: "fig-2003-259-19-a", id: "fig-2003-259-19-b", id: "fig-2003-259-19-c", id: "fig-2003-259-19-d", id: "fig-2003-259-20-a", id: "fig-2003-259-20-b", id: "fig-2003-259-20-c", id: "fig-2003-259-20-d", id: "fig-2003-259-20-e", id: "fig-2003-259-20-f", id: "fig-2003-259-21-a", id: "fig-2003-259-21-b", id: "fig-2003-259-21-c", id: "fig-2003-259-21-d", id: "fig-2003-259-22-a", id: "fig-2003-259-22-b", id: "fig-2003-259-22-c", id: "fig-2003-259-22-d", id: "fig-2003-259-22-e", id: "fig-2003-259-22-f", id: "fig-2003-259-23-a", id: "fig-2003-259-23-b", id: "fig-2003-259-23-c", id: "fig-2003-259-23-d", id: "fig-2003-259-23-e", id: "fig-2003-259-24-a", id: "fig-2003-259-24-b", id: "fig-2003-259-24-c", id: "fig-2003-259-24-d", id: "fig-2003-259-25-a", id: "fig-2003-259-25-b", id: "fig-2003-259-25-c", id: "fig-2003-259-25-d", id: "fig-2003-259-26-a", id: "fig-2003-259-26-b", id: "fig-2003-259-26-c", id: "fig-2003-259-26-d", id: "fig-2003-259-26-e", id: "fig-2003-259-26-f", id: "fig-2003-259-27-a", id: "fig-2003-259-27-b", id: "fig-2003-259-27-c", id: "fig-2003-259-27-d", id: "fig-2003-259-27-e", id: "fig-2003-259-28-a", id: "fig-2003-259-28-b", id: "fig-2003-259-28-c", id: "fig-2003-259-28-d", id: "fig-2003-259-28-e", id: "fig-2003-259-28-f", id: "fig-2003-259-28-g", id: "fig-2003-259-29-a", id: "fig-2003-259-29-b", id: "fig-2003-259-29-c", id: "fig-2003-259-29-d", id: "fig-2003-259-29-e", id: "fig-2003-259-29-f", id: "fig-2003-259-30-a", id: "fig-2003-259-30-b", id: "fig-2003-259-30-c", id: "fig-2003-259-30-d", id: "fig-2003-259-30-e", id: "fig-2003-259-30-f" ]
 -
     id: cat-535
     accession_number: "78.AF.324.1"
@@ -9124,7 +9124,7 @@ object_list:
     inscription: "No"
     shape: 
     technique: 
-    figure: #N/A
+    figure: [ id: "fig-2003-295-1-a", id: "fig-2003-295-1-b", id: "fig-2003-295-1-c", id: "fig-2003-295-2-a", id: "fig-2003-295-2-b", id: "fig-2003-295-2-c"]
 -
     id: cat-568
     accession_number: "2003.460"
