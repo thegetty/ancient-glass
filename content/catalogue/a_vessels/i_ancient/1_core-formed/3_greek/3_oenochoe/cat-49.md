@@ -1,6 +1,6 @@
 ---
 label: "49"
-title: 
+title: "Oinochoe"
 layout: entry
 order: 272
 presentation: side-by-side
@@ -9,3 +9,29 @@ menu: false
 object:
   - id: "cat-49"
 ---
+
+## Condition
+
+Intact. Some light weathering on the shoulders and on the base.
+
+## Description
+
+Dark blue ground with opaque yellow and turquoise décor. Narrow trefoil rim-disc; short, cylindrical neck; convex shoulder; ovoid body; convex bottom. Short outward-splayed base, concave on its underside, a bit off-center. An opaque light blue strap handle extends from the shoulder to the rim-disk.
+
+An unmarvered yellow thread is wound around the rim. A marvered yellow thread is wound three times in horizontal lines on the shoulder and below, together with a turquoise thread, are wound three–four times and dragged up and down, forming a zigzag pattern. Below this a marvered yellow thread is wound spirally twice.
+
+## Comments and Comparanda
+
+See comments on [2003.179](#cat). For the classification of this particular oinochoe see [[Grose 1989]], class I:B, oinochoe form I:2: pp. 161, 163, nos. 147, 150.
+
+## Provenance
+
+By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheritance to his son, Gert Oppenländer, 1988; 1988–2003, Gert Oppenländer (Waiblingen, Germany), sold to the J. Paul Getty Museum, 2003
+
+## Bibliography
+
+[[von Saldern et al. 1974]], p. 54, no. 119; p. 53, plate no. 119.
+
+## Exhibitions
+
+Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
