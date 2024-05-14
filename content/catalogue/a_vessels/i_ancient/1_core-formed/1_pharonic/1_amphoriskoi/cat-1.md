@@ -12,28 +12,28 @@ object:
 
 ## Condition
 
-Mended; neck, foot, and handles modern additions. There is a small amount of discoloration in this area. There are a few minor nicks and scratches. 
+Mended; neck, foot, and handles modern additions. There is a small amount of discoloration in this area. There are a few minor nicks and scratches.
 
-## Description 
+## Description
 
-Amphoriskos [*Neck and rim are not preserved. According to preserved examples it probably had a horizontal rim with an almost pointed edge; funnel-shaped neck;*] obtuse-angled junction with rounded shoulder; inverted piriform body; convex bottom; tall outsplayed medium blue foot concave on its underside with a rounded edge. On the shoulder traces of four dark blue handles, probably originally vertical loop handles, are preserved.
+Amphoriskos \[Neck and rim are not preserved. Preserved examples indicate it probably had a horizontal rim with an almost pointed edge and funnel-shaped neck.\]: obtuse-angled junction with rounded shoulder; inverted piriform body; convex bottom; tall, outward-splayed medium blue foot, concave on its underside with a rounded edge. On the shoulder traces of four dark blue handles, probably originally vertical loop handles, are preserved.
 
-Marvered white turquoise and yellow threads spirally wound around the body from shoulders to almost the bottom eight times and dragged 19 times upwards forming a festoon pattern. 
+Marvered white, turquoise, and yellow threads spirally wound around the body from shoulders to almost the bottom eight times and dragged 19 times upwards, forming a festoon pattern.
 
-Based on its shape (Nolte 1968, p. 165 Amphoriskoi, Form III.f, wherein several parallels are cited) and decoration this vessel belongs to the products of a workshop, known in bibliography as “Workshop 2” which was established early in the reign of Amenhotep III at Malkata and continued its operation during Amenhotep IV in Amarna. (Nolte 1968, Workshop 2a, pp. 88-93). The vessels of this group are characterized by their garlands and they can be subdivided into groups, 2a and 2b. Our vessel belongs to group 2a where the garland thread is usually thin and even, drawn out with small arches and very curved; the second group shows irregular garlands, sometimes narrower, sometimes wider, and often curved in large arches. Usually the decoration comprises yellow, white and light blue threads on an opaque dark blue to translucent copper blue background, just like [2003.146](#) and [2004.2](#). The vessels of the first group are elegant, elongated and slender, and those of the second group are broader and more compact.
+Based on its shape ([[Nolte 1968]], p. 165 amphoriskoi, form III.f, wherein several parallels are cited) and decoration, this vessel belongs among the products of a workshop, known in bibliography as “Workshop 2,” which was established early in the reign of Amenhotep III at Malkata and continued its operation during Amenhotep IV in Amarna ([[Nolte 1968]], workshop 2a, pp. 88–93). The vessels of this group are characterized by their garlands, and they can be subdivided into groups 2a and 2b. Our vessel belongs to group 2a, where the garland thread is usually thin and even, drawn out with small arches and very curved; the second group shows irregular garlands, sometimes narrower, sometimes wider, and often curved in large arches. Usually the decoration comprises yellow, white, and light blue threads on an opaque dark blue to translucent copper blue background, just like 2003.146 and [2004.2](#cat). The vessels of the first group are elegant, elongated, and slender, and those of the second group are broader and more compact.
 
 ## Comparanda
 
-Nolte 1968, pp. 88-93, pl. VI:4; VII: 8, 9, 11. Also, Grose 1989, pp. 59-60, no. 5 for a two-handled example; For a four-handled parallel see the MMA, that has been dated to the period of Amenhotep III–Akhenaten, ca. 1391–1336 B.C.. https://www.metmuseum.org/art/collection/search/544828
- 
+[[Nolte 1968]], pp. 88–93, plates VI:4; VII:8, 9, 11. Also, [[Grose 1989]], pp. 59–60, no. 5 for a two-handled example; for a four-handled parallel see the MMA piece that has been dated to the period of Amenhotep III–Akhenaten, ca. 1391–1336 BCE: https://www.metmuseum.org/art/collection/search/544828.
+
 ## Provenance
 
-**By 1974 – 1988**, Erwin Oppenländer, 1901 – 1988 (Waiblingen, Germany), by inheritance to his son, Gert Oppenländer, 1988; **1988 – 2003**, Gert Oppenländer (Waiblingen, Germany), sold to the J. Paul Getty Museum, 2003.
+By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheritance to his son, Gert Oppenländer, 1988; 1988–2003, Gert Oppenländer (Waiblingen, Germany), sold to the J. Paul Getty Museum, 2003
 
 ## Bibliography
 
-{von Saldern et al. 1974}, pp. 18, no. 2, pp. 21, ill.
+[[von Saldern et al. 1974]], p. 18, no. 2; p. 21, ill.
 
 ## Exhibitions
 
-- Molten Color: Glassmaking in Antiquity: The J. Paul Getty Museum at the Getty Villa (Malibu), November 9, 2005 to August 6, 2006; January 11 to April 23, 2007; October 8, 2009 to February 22, 2010.
+Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
