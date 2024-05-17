@@ -1812,7 +1812,7 @@ object_list:
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
-    figure: [ id: "fig-2004-26-6-a", "fig-2004-26-6-b" ]
+    figure: [ id: "fig-2004-26-6-a", id: "fig-2004-26-6-b" ]
 -
     id: cat-111
     accession_number: "83.AF.28.14"
