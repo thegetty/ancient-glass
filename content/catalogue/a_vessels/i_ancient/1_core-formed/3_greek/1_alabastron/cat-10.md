@@ -1,6 +1,6 @@
 ---
 label: "10"
-title: 
+title: "Alabastron"
 layout: entry
 order: 221
 presentation: side-by-side
@@ -9,3 +9,33 @@ menu: false
 object:
   - id: "cat-10"
 ---
+
+## Condition
+
+Intact.
+
+## Description
+
+Broad horizontal rim-disk, slightly uneven on its upper side; very short, cylindrical neck; rounded shoulder; almost cylindrical, straight-sided body, tapering toward the neck; shallow, convex bottom. Below the shoulder, two opposing white ring handles with knobbed tails.
+
+An unmarvered purple thread around the rim. A marvered purple thread is wound spirally around the upper half of the body, dragged upward to form a zigzag pattern. Below this a partly marvered thread is wound spirally three times.
+
+## Comments and Comparanda
+
+The alabastron (a narrow-necked flask) was one of the ceramic vessel form that was rendered in glass by the core-forming technique from the sixth century BCE, when this technique, known in Mesopotamia and Egypt since the middle of the second millennium BCE, was introduced in the Aegean world. In addition to alabastra, amphoriskoi (small amphoras), aryballoi, and oinochoiskai (juglets) were also rendered in core-formed glass. It is believed that they functioned as unguentaria, intended for aromatic and cosmetic substances ([[Harden 1981]]; [[McClellan 1984]]; [[Grose 1989]], pp. 109–125; [[Stern and Schlick-Nolte 1994]], pp. 37–44).
+
+This alabastron belongs to the earliest group of Aegean core-formed vessels, dating from the middle of the sixth century to the end of the fifth century BCE ([[Harden 1981]], pp. 58–99; [[Grose 1989]], pp. 110–115). They were made either of blue glass and decorated with white, yellow, and turquoise threads or of milky white glass decorated with purple threads. Vessels of this group have been found in great numbers in Rhodes, Macedonia, the Aegean islands, and Italy. For the classification of this particular alabastron see [[Grose 1989]], class I:A, alabastron form I:2: pp. 133–134, nos. 65–68.
+
+## Provenance
+
+1908, A. Vogell (Karlsruhe, Germany) [sold, Griechische Altertümer südrussischen Fundorts aus dem Besitze des Herrn A. Vogell, Karlsruhe (Versteigerung), Max Cramer, Cassel, Germany, May 26–30, 1908, lot 1064]; by 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheritance to his son, Gert Oppenländer, 1988; 1988–2003, Gert Oppenländer (Waiblingen, Germany), sold to the J. Paul Getty Museum, 2003
+
+## Bibliography
+
+[[Cramer 1908]], lot 1064, plate XI, no. 47.
+
+[[von Saldern et al. 1974]], p. 66, no. 158; p. 56, plate no. 158.
+
+## Exhibitions
+
+None

@@ -1,4 +1,5 @@
 ---
+title: Title
 layout: base.11ty.js
 classes:
   - title-page
@@ -7,12 +8,13 @@ outputs:
   - pdf
   - epub
 toc: false
+menu: false
 ---
 
 <section class="title-block">
 
 {%- if publication.title -%}
-  <h1 class="title">{{ publication.title | markdownify }}{% if publication.subtitle %}: {{ publication.subtitle | markdownify }}{% endif %}
+  <h1 class="title">{{ publication.title | markdownify }}{% if publication.subtitle %} <span class="subtitle">{{ publication.subtitle | markdownify }}</span>{% endif %}
   {% if publication.reading_line %}<br /><br />{{ publication.reading_line | markdownify }}{% endif %}</h1>
 {%- endif -%}
 
