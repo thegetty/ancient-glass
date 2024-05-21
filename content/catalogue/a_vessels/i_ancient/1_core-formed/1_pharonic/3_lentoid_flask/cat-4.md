@@ -22,7 +22,7 @@ An unmarvered yellow thread is wound around the rim. One yellow and one green ma
 
 ## Comments and Comparanda
 
-The translucent, bright copper-blue base color is typical of the Ramesside period (Nineteenth–Twentieth Dynasties; 1292–1070), as is the large green and yellow feather decor of the body. Numerous fragments from the glass workshop in Lisht of thick-walled, squat vessels confirm the dating ([[Nolte 1968]], workshop 5, pp. 121–126, form VII, pp. 172–173, wherein several parallels are cited). The vessel is one of the last thread-decorated glasses in Egypt of excellent quality. Cf. [[Nolte 1968]], p. 121, plate XXI:11, similar feather decoration in yellow and white; XXI:22, a small vessel of a similar shape with yellow and green thread decoration and greenish handles. Also cf. MMA turquoise body, blue, white, and yellow threads 30.8.179 \[ca. 1295–1070 BCE\]: https://www.metmuseum.org/art/collection/search/569296.
+The translucent, bright copper-blue base color is typical of the Ramesside period (Nineteenth–Twentieth Dynasties; 1292–1070), as is the large green and yellow feather decor of the body. Numerous fragments from the glass workshop in Lisht of thick-walled, squat vessels confirm the dating ([[Nolte 1968]], workshop 5, pp. 121–126, form VII, pp. 172–173, wherein several parallels are cited). The vessel is one of the last thread-decorated glasses in Egypt of excellent quality. Cf. [[Nolte 1968]], p. 121, plate XXI:11, similar feather decoration in yellow and white; XXI:22, a small vessel of a similar shape with yellow and green thread decoration and greenish handles. Also cf. MMA turquoise body, blue, white, and yellow threads 30.8.179 [ca. 1295–1070 BCE]: https://www.metmuseum.org/art/collection/search/569296.
 
 ## Provenance
 

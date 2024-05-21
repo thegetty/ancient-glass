@@ -1,6 +1,6 @@
 ---
 label: "75"
-title: "owl (Patella), Double Convex Bowl"
+title: "Bowl (Patella), Double Convex Bowl"
 layout: entry
 order: 327
 presentation: side-by-side

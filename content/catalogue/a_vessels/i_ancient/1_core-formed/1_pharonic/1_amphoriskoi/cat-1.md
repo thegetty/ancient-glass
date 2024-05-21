@@ -16,7 +16,7 @@ Mended; neck, foot, and handles modern additions. There is a small amount of dis
 
 ## Description
 
-Amphoriskos \[Neck and rim are not preserved. Preserved examples indicate it probably had a horizontal rim with an almost pointed edge and funnel-shaped neck.\]: obtuse-angled junction with rounded shoulder; inverted piriform body; convex bottom; tall, outward-splayed medium blue foot, concave on its underside with a rounded edge. On the shoulder traces of four dark blue handles, probably originally vertical loop handles, are preserved.
+Amphoriskos [Neck and rim are not preserved. Preserved examples indicate it probably had a horizontal rim with an almost pointed edge and funnel-shaped neck.]: obtuse-angled junction with rounded shoulder; inverted piriform body; convex bottom; tall, outward-splayed medium blue foot, concave on its underside with a rounded edge. On the shoulder traces of four dark blue handles, probably originally vertical loop handles, are preserved.
 
 Marvered white, turquoise, and yellow threads spirally wound around the body from shoulders to almost the bottom eight times and dragged 19 times upwards, forming a festoon pattern.
 
