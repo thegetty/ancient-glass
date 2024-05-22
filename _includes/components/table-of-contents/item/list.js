@@ -31,6 +31,7 @@ module.exports = function (eleventyConfig) {
       abstract,
       contributor: pageContributors,
       label,
+      landing,
       layout,
       short_title,
       subtitle,
@@ -42,7 +43,7 @@ module.exports = function (eleventyConfig) {
      * Check if item is a reference to a built page or just a heading
      * @type {Boolean}
      */
-    const isPage = !!layout
+    const isPage = landing == false ? false : true
 
     const pageContributorsElement = pageContributors
       ? `<span class="contributor-divider">${contributorDivider}</span><span class="contributor">${contributors({ context: pageContributors, format: 'string' })}</span>`
@@ -67,7 +68,7 @@ module.exports = function (eleventyConfig) {
     if (isPage) {
       mainElement = `<a href="${page.url}">${mainElement}</a>`
     } else {
-      classes.push('no-landing')
+      mainElement = `<span class="no-landing">${mainElement}</span>`
     }
 
     return html`

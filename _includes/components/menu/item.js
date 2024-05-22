@@ -13,16 +13,16 @@ module.exports = function(eleventyConfig) {
   return function(params) {
     const { currentURL, page } = params
     const { data, url } = page
-    const { label, layout, title } = data
+    const { label, landing, layout, title } = data
 
     const titleText = pageTitle({ label, title })
     /**
      * Check if item is a reference to a built page or just a heading
      * @type {Boolean}
      */
-    const isPage = !!layout
+    const isPage = landing == false ? false : true
     return isPage
       ? `<a href="${url}" class="${currentURL === url ? 'active' : ''}">${titleText}</a>`
-      : titleText
+      : `<span class="no-landing">${titleText}</span>`
   }
 }
