@@ -43,8 +43,7 @@ entries:
     definition: "To give shape to a piece of glass by trimming or chipping its circumference."
 
   - term: "marver"
-    definition: "A marver is a flat, level surface of stone, usually marble, atop which glass objects are rolled in various stages of secondary production. The purposes of the rolling, or marvering, can be to achieve the vessel’s final form, to smooth the surface, or to incorporate inlays or attached elements."
-    see_also: [marvering]
+    definition: "A marver is a flat, level surface of stone, usually marble, atop which glass objects are rolled in various stages of secondary production. The purposes of the rolling, or *marvering*, can be to achieve the vessel’s final form, to smooth the surface, or to incorporate inlays or attached elements."
 
   - term: "moil"
     definition: "The upper segment of the paraison; i.e., the portion at or around the end of the blowpipe, which in the final stage of forming is cracked off as excess."
@@ -66,7 +65,9 @@ entries:
 
   - term: "pontil mark"
     definition: "The ring-shaped trace of the blowpipe, normally on the bottom of blown vessels and on Byzantine bracelets, caused by the process of cracking off the glass product from the blowpipe or rod after the forming is complete. The mark may have the form of either a pontil scar (concave) or an excess (convex)."
-    see_also: [scar]
+  
+  - term: "scar"
+    definition: "*See* pontil mark"
 
   - term: "raw glass" 
     definition: "Unused glass destined for secondary production."
@@ -79,14 +80,20 @@ entries:
 
   - term: "sagging"
     definition: "The shaping of a vessel by reheating a glass disk or blank, which is allowed to flow by gravity into a concave mold or over a convex former mold."
-    see_also: [slumping]
+  
+  - term: "slumping"
+    definition: "*See* sagging"
 
   - term: "thread"
     definition: "A delicate filament of glass, formed by drawing or pulling, used as decoration on beads, pendants, and vessels made with the core-forming and free-blowing techniques."
-    see_also: [trail]
+  
+  - term: "trail"
+    definition: "*See* thread"
 
   - term: "weathering"
     definition: "Alteration in the glass, first on its surface and then below the surface, as a result of environmental factors. It is due to the loss of alkaline ions and the creation of a siliceous layer on the surface, and is influenced by the composition of the glass. Weathering is a general term that includes the following specific types: discoloration, loss of vitreous nature, pitting, milky weathering, crusting, dulling, iridescence, crazing or crizzling, plowing, cracking or fracturing, sugaring, and lamination."
-    see_also: [corrosion]
+  
+  - term: "corrosion"
+    definition: "*See* weathering"
 
    
