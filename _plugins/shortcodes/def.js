@@ -13,7 +13,7 @@ const { warn } = chalkFactory('shortcodes:def')
  * @param      {String}   display   An optional override for inline display
  * @return     {boolean}  An HTML <span> element copying the citation pop-up
  */
-module.exports = function (eleventyConfig) {
+module.exports = function (eleventyConfig, { page }) {
   const markdownify = eleventyConfig.getFilter('markdownify')
 
   const definitions = eleventyConfig.globalData.glossary
