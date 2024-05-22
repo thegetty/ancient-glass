@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Allow for nextPage and previousPage to be overridden at page level
+//
 const chalkFactory = require('~lib/chalk')
 const path = require('path')
 

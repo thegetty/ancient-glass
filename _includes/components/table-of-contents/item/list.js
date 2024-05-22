@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Don't render TOC link if page is `landing: false`
+//
 const { html, oneLine } = require('~lib/common-tags')
 
 /**

@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Don't render menu link if page is `landing: false`
+//
 /**
  * Renders a menu item
  *
