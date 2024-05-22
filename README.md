@@ -77,6 +77,10 @@ Added publication.cover_title in place of the default title
 **_layouts/entry.liquid**
 Added section breadcrumbs to entry pages based on their file paths
 
+**_plugins/shortcodes/def.js**
+**_plugins/shortcodes/index.js**
+Add custom def shortcode for glossary pop-ups
+
 ## License
 
 © 2025 J. Paul Getty Trust
