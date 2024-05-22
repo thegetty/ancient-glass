@@ -1,5 +1,4 @@
 entries:
-### Primary Sources
   - id: "Athenaeus, *Deipnosophistae*"
     full: "*Athenaei Naucratitae deipnosophistarum libri xv*, ed. G. Kaibel, 3 vols. (Leipzig, 1887 and 1890; repr., Stuttgart, 1965 and 1966)."
     type: primary-source
@@ -18,7 +17,6 @@ entries:
   - id: "Strabo, *Geographica*"
     full: "A. Meineke, ed., *Strabonis geographica*, 3 vols. (Leipzig, 1877; repr. 1969)."
     type: primary-source
-### Books and Articles
   - id: "*3000 Jahre Glaskunst*"
     full: "Martin Kunz, ed., *3000 Jahre Glaskunst: Von der Antike bis zum Jugendstil*, exh. cat. Lucerne: Kunstmuseum, 1981."
   - id: "Abdul Hak 1959"
@@ -983,7 +981,7 @@ entries:
     full: "Matheson, Susan B. 1980. *Ancient Glass in the Yale University Art Gallery*. New Haven, CT: Yale University Art Gallery."
   - id: "Mattusch 1994"
     full: "Mattusch, Carol. 1984. “Field Notes.” *Archaeological News* 13: 34."
-Short: Mau 1893
+  - id: "Mau 1893"
     full: "Mau, August. 1893. “Ἀναξυρίδες.” In *Paulys Realencyclopädie der classischen Altertumswissenschaft* I.2, cols. 2100–2101. Stuttgart: Metzler."
   - id: "Mazar 1994"
     full: "Mazar, Eliat. 1994. “A Burial Ground of the Roman Period at Gesher Haziv.” *‘Atiqot* 25: 77–93."
@@ -1363,7 +1361,7 @@ Short: Mau 1893
     full: "Sternini, Mara. 1995. *La fenice di sabbia: Storia e tecnologia del vetro antico*. Bibliotheca archaeologica 2. Bari: Edipuglia."
   - id: "Sternini 1998"
     full: "Sternini, Mara. 1998. *La Collezione di Anichità di Alessandro Palma di Cesnola*. Bari: Edipuglia."
-short Stiaffini and Borghetti 1994
+  - id: "Stiaffini and Borghetti 1994"
     full: "D. Stiaffini, and B. Borghetti. 1994. *I vetri romani del Museo Archeologico Nazionale di Cagliari*. Mediterraneo tardoantico e medievale, scavi e richerche 9. Orisano: Alvure."
   - id: "Stothart 1965"
     full: "Stothart, Herbert. 1965. *A Handbook of the Sculpture in the J. Paul Getty Museum*. Malibu: J. Paul Getty Museum."
@@ -1568,4 +1566,4 @@ short Stiaffini and Borghetti 1994
   - id: "Zouhdi 1964"
     full: "Zouhdi, Bachir. 1964. “Les verres mosaïqués et millefiori du Musée National de Damas.” In *Annales du 3^e^ Congrès International d’Étude Historique du Verre. Damas, 14–23 novembre 1964*, 68–78. Liège: Ed. du Secrétariat général."
   - id: "Zouhdi 1977"
-    full: Zouhdi, Bachir. 1977. “Médaillions pendentifs en verre du Musée National de Damas.” In *Annales du 7^e^ Congrès de l’Association Internationale pour l’Histoire du Verre. Berlin-Leipzig, 15–21 aout 1977*, 51–65. Liège: Ed. du Secrétariat général.
+    full: "Zouhdi, Bachir. 1977. “Médaillions pendentifs en verre du Musée National de Damas.” In *Annales du 7^e^ Congrès de l’Association Internationale pour l’Histoire du Verre. Berlin-Leipzig, 15–21 aout 1977*, 51–65. Liège: Ed. du Secrétariat général."
