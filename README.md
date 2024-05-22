@@ -81,6 +81,9 @@ Added section breadcrumbs to entry pages based on their file paths
 **_plugins/shortcodes/index.js**
 Add custom def shortcode for glossary pop-ups
 
+**content/_assets/javascript/application/index.js**
+Display only one pop-up at a time
+
 ## License
 
 © 2025 J. Paul Getty Trust
