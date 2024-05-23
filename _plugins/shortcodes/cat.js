@@ -25,7 +25,13 @@ module.exports = function (eleventyConfig, { page }) {
       return renderOneLine`<span style="background-color:yellow;">${accessionNumber}</span>`
     }
 
-    return renderOneLine`
-      <a href="${obj.path}">${obj.id.replace("-",". ")}</a>`
+    const catLink = obj.path ? obj.path : ''
+    const catLabel = obj.id ? obj.id.replace("-",". ") : ''
+
+    if (catLink == '') {
+      warn(`Link path missing for '${accessionNumber}' on ${page.inputPath}`)
+    }
+
+    return renderOneLine`<a href="${catLink}">${catLabel}</a>`
   }
 }
