@@ -86,6 +86,10 @@ Added section breadcrumbs to entry pages based on their file paths
 **_plugins/shortcodes/index.js**
 Add custom def shortcode for glossary pop-ups
 
+**_plugins/shortcodes/cat.js**
+**_plugins/shortcodes/index.js**
+Add custom def shortcode for accession number catalogue links
+
 **content/_assets/javascript/application/index.js**
 Display only one pop-up at a time
 

@@ -1,11 +1,12 @@
 //
 // CUSTOMIZED FILE
-// Add new def shortcode
+// Add new def and cat shortcodes
 //
 const accordion = require('./accordion.js')
 const addComponentTag = require('../../_plugins/components/addComponentTag')
 const backmatter = require('./backmatter')
 const bibliography = require('./bibliography')
+const cat = require('./cat')
 const cite = require('./cite')
 const contributors = require('./contributors')
 const def = require('./def')
@@ -23,6 +24,7 @@ module.exports = function(eleventyConfig, collections, options) {
   addComponentTag(eleventyConfig, 'ref', ref)
   addPairedShortcode('backmatter', backmatter)
   addShortcode('bibliography', bibliography)
+  addShortcode('cat', cat)
   addShortcode('cite', cite)
   addComponentTag(eleventyConfig, 'contributors', contributors)
   addShortcode('def', def)
