@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Allow for nextPage and previousPage to be overridden at page level
+//
 const chalkFactory = require('~lib/chalk')
 const path = require('path')
 
@@ -24,6 +28,7 @@ module.exports = {
         figure: data.figure,
         image: data.image,
         label: data.label,
+        landing: data.landing,
         layout: data.layout,
         object: data.object,
         order: data.order,
@@ -122,12 +127,24 @@ module.exports = {
     const currentPageIndex = collections.navigation
       .findIndex(({ url }) => url === page.url)
     if (currentPageIndex === -1) return {}
+    // Check if the page has an override for the its next/prev nav partners
+    let previousPage = collections.navigation[currentPageIndex - 1]
+    if ( collections.navigation[currentPageIndex].data.previousPage || collections.navigation[currentPageIndex].data.previousPage==="" ) {
+      const previousPageUrl = collections.navigation[currentPageIndex].data.previousPage
+      previousPage = collections.navigation.find(({ url }) => url === previousPageUrl) 
+    }
+
+    let nextPage = collections.navigation[currentPageIndex + 1]
+    if ( collections.navigation[currentPageIndex].data.nextPage || collections.navigation[currentPageIndex].data.nextPage==="" ) {
+      const nextPageUrl = collections.navigation[currentPageIndex].data.nextPage
+      nextPage = collections.navigation.find(({ url }) => url === nextPageUrl) 
+    }
     return {
       currentPage: collections.navigation[currentPageIndex],
       currentPageIndex,
       percentProgress: 100 * (currentPageIndex + 1) / collections.navigation.length,
-      nextPage: collections.navigation[currentPageIndex + 1],
-      previousPage: collections.navigation[currentPageIndex - 1]
+      nextPage,
+      previousPage
     }
   },
   /**
