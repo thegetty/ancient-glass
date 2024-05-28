@@ -20,7 +20,7 @@ Slightly everted, smooth, fire-rounded rim; deep body; flat, slightly concave bo
 
 ## Comments and Comparanda
 
-See [78.AF.27](#cat).
+See {% cat '78.AF.27' %}.
 
 ## Provenance
 

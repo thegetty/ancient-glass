@@ -18,11 +18,11 @@ Intact. Many scratches from usage on the bottom.
 
 Vertical, smooth, fire-rounded rim; shallow, convex body; flat bottom. Mid-body decorated with 56 short vertical, slightly oblique ribs, regularly arranged. Ribs begin 1.3 cm below the rim and range from 2.2 to 2.7 cm in length.
 
-For comments on the form, see [78.AF.27](#cat).
+For comments on the form, see {% cat '78.AF.27' %}.
 
 ## Comparanda
 
-See [2003.223](#cat).
+See {% cat '2003.223' %}.
 
 ## Provenance
 
