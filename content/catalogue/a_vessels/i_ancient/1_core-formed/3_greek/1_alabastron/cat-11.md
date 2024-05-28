@@ -22,7 +22,7 @@ The body and the handles are made of opaque white glass. An unmarvered transluce
 
 ## Comments and Comparanda
 
-On core-formed alabastra see comments on [2003.180](#cat). For the classification of this particular alabastron see [[Grose 1989]], class I:A, alabastron form I:1.
+On core-formed alabastra see comments on {% cat '2003.180' %}. For the classification of this particular alabastron see [[Grose 1989]], class I:A, alabastron form I:1.
 
 ## Provenance
 

@@ -22,7 +22,7 @@ A probably white unmarvered thread, now gray due to weathering, is wound around 
 
 ## Comments and Comparanda
 
-On core-formed alabastra see comments on [2003.180](#cat). For the classification of this particular alabastron see [[Grose 1989]], class I:F, alabastron form I:3B: pp. 140–142, nos. 81, 85–87, 89–91.
+On core-formed alabastra see comments on {% cat '2003.180' %}. For the classification of this particular alabastron see [[Grose 1989]], class I:F, alabastron form I:3B: pp. 140–142, nos. 81, 85–87, 89–91.
 
 ## Provenance
 

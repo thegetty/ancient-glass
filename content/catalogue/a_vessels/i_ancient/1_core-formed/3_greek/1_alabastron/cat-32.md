@@ -24,7 +24,7 @@ Dark-colored remains of the core are visible in the interior.
 
 ## Comments and Comparanda
 
-On core-formed alabastra of this period see comments on [2003.194](#cat). For the classification of this particular alabastron see [[Grose 1989]], class III:E, alabastron form III:5: pp. 168–169, nos. 166–167; [[Harden 1981]], form 18; [[Harden 1981]], pp. 122–123.
+On core-formed alabastra of this period see comments on {% cat '2003.194' %}. For the classification of this particular alabastron see [[Grose 1989]], class III:E, alabastron form III:5: pp. 168–169, nos. 166–167; [[Harden 1981]], form 18; [[Harden 1981]], pp. 122–123.
 
 ## Provenance
 
