@@ -32,6 +32,12 @@ Between 2016 and 2018, the Villa’s permanent collections were fully reinstalle
 
 This catalogue is the first comprehensive presentation of the Getty Museum’s ancient glass collection, which in its diversity, quality, and beauty lives up to the promise of J. Paul Getty’s earliest acquisitions and is certainly the finest collection in the western United States. As an open-access digital catalogue that includes detailed technical studies and newly commissioned photography, this publication continues Getty’s commitment to sharing his collection with the public, allowing specialists and amateurs alike to discover and appreciate the wonder of ancient glass (fig. 10).
 
+{% backmatter %}
+
+## Notes
+
+{% endbackmatter %}
+
 [^1]: As part of the Getty Museum’s Antiquities Provenance Project, Judith Barr has extensively researched J. Paul Getty’s personal collection and the museum’s ancient glass holdings, and her findings have been invaluable in providing this summary. The study of ancient glass dates at least to the nineteenth century, though glass objects were documented in archaeological records even earlier; for a summary of the literature through the mid-twentieth century see [[Harden 1984]]. For more recent introductions to ancient Greek and Roman glass scholarship, see [[Larson 2023]] and [[Cool 2016]].
 
 [^2]: The Getty Museum at the Ranch House had a series of directors, curators, and acting curators, notably Paul Wescher and Burton Fredericksen, who specialized in paintings but oversaw antiquities purchases.
