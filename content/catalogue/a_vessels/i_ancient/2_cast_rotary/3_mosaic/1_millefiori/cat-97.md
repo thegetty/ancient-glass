@@ -20,7 +20,7 @@ The vessel, apparently a deep bowl, has a vertical rim with lip ground both insi
 
 ## Comments and Comparanda
 
-For the production technique see [[Dawes 2002]] and comments on [85.AF.85](#cat). For closer parallels see [76.AF.70.44](#cat). The tesserae depicting the larger, four-petaled flower appear often in plaques with Egyptianizing floral motifs, such as [2004.26.2](#cat). On the trade of small fragments of mosaic glass in nineteenth century and on the different techniques and classes of mosaic glass present in the JPGM collection, see comments on [76.AF.70.21](#cat).
+For the production technique see [[Dawes 2002]] and comments on {% cat '85.AF.85' %}. For closer parallels see {% cat '76.AF.70.44' %}. The tesserae depicting the larger, four-petaled flower appear often in plaques with Egyptianizing floral motifs, such as {% cat '2004.26.2' %}. On the trade of small fragments of mosaic glass in nineteenth century and on the different techniques and classes of mosaic glass present in the JPGM collection, see comments on {% cat '76.AF.70.21' %}.
 
 A fragment, probably part of the rim of an open-shape vessel, with identical motif is in the Freer Gallery (F. 1909.512.3.6; [[Liu 2008]], p. 64, lower photo; https://asia.si.edu/object/F1909.512/#object-content) originally bought from J. Dattari, an antiquarian and antiquities dealer from Cairo.
 
