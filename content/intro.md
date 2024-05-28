@@ -168,9 +168,15 @@ There are known examples of gilded vessels and plaques from the first and second
 
 Finally, the decorations on some third-century vessel lids were cold-painted. To keep the decoration protected from damage—to which it was particularly susceptible because of its means of production—the design was painted in reverse on the inside surface of the lid, intended to be viewed through the glass.[^91]
 
-\<#\>
+<br>
 
 All of the techniques described above continue in use during the third and fourth centuries CE,[^92] and they reappear occasionally later, such as during the Middle Byzantine period, between the tenth and thirteenth centuries CE.[^93]
+
+{% backmatter %}
+
+## Notes
+
+{% endbackmatter %}
 
 [^1]: [[Stern and Schlick-Nolte 1994]], pp. 28–37; [[Nicholson and Henderson 2000]], pp. 195–224; [[Rehren 2021]].
 
