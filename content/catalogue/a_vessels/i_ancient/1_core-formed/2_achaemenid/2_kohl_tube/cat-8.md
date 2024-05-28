@@ -22,7 +22,7 @@ Dark blue ground decorated with marvered red and yellow threads that are spirall
 
 ## Comments and Comparanda
 
-See [2003.160](#cat).
+See {% cat '2003.160' %}.
 
 ## Provenance
 
