@@ -40,13 +40,13 @@ This catalogue is the first comprehensive presentation of the Getty Museum’s a
 
 [^4]: [[Lapatin 2018]], p. 109. Imitation Statue of Aphrodite ([67.AK.12](https://www.getty.edu/art/collection/object/105X9H)), Bust of a Woman ([70.AA.100](https://www.getty.edu/art/collection/object/103SQ6)), and Portrait Head of Agrippina the Younger ([70.AA.101](https://www.getty.edu/art/collection/object/103SQ5)).
 
-[^5]: See [Harry Leonard Simmons](https://www.getty.edu/art/collection/person/105DZB), [78.AF.18](#$num)–.[32](#num), and [81.AF.1](#num); [[Parke-Bernet Galleries 1940]].
+[^5]: See [Harry Leonard Simmons](https://www.getty.edu/art/collection/person/105DZB), {% cat '78.AF.18' %}–{% cat '78.AF.32' %}, and {% cat '81.AF.1' %}; [[Parke-Bernet Galleries 1940]].
 
 [^6]: [[Getty 1965]], p. 14.
 
-[^7]: Just over a third of the ancient glass objects are illustrated in the auction catalog (19 of 53 lots) and a few include ex-collection information (12 of 53 lots) [[Parke-Bernet Galleries 1940]]. Prior owners represented in Getty’s purchases include Emile Tabbagh, 1879–1933 ([78.AF.29](file:///C:\Users\klapatin\Downloads\78.AF.29), [78.AK.30](https://www.getty.edu/art/collection/object/103TGG)), George Dupont Pratt, 1869–1935 ([78.AF.26](https://www.getty.edu/art/collection/object/105Y1G), [78.AF.27](https://www.getty.edu/art/collection/object/105Y1J)), and Robert Weeks de Forest, 1848–1931 ([78.AF.21](https://www.getty.edu/art/collection/object/105Y1C)), whose collections were sold in New York in the 1930s. Additional and earlier owners have since been identified, including Enrico Caruso, 1873–1921 ([78.AF.299](#num)), Frank Gair Macomber, 1849–1941 ([81.AF.1](https://www.getty.edu/art/collection/object/105YQX)), Valentine Everit Macy, 1871–1930 ([78.AF.23](https://www.getty.edu/art/collection/object/103TGF)), and a 1936 Anderson Galleries auction ([78.AF.22](https://www.getty.edu/art/collection/object/105Y1D), [78.AF.32](https://www.getty.edu/art/collection/object/103TGH)).
+[^7]: Just over a third of the ancient glass objects are illustrated in the auction catalog (19 of 53 lots) and a few include ex-collection information (12 of 53 lots) [[Parke-Bernet Galleries 1940]]. Prior owners represented in Getty’s purchases include Emile Tabbagh, 1879–1933 ({% cat '78.AF.29' %}, {% cat '78.AK.30' %}), George Dupont Pratt, 1869–1935 ({% cat '78.AF.26' %}), and Robert Weeks de Forest, 1848–1931 ({% cat '78.AF.21' %}), whose collections were sold in New York in the 1930s. Additional and earlier owners have since been identified, including Enrico Caruso, 1873–1921 ([78.AF.299](#num)), Frank Gair Macomber, 1849–1941 ({% cat '81.AF.1' %}), Valentine Everit Macy, 1871–1930 ({% cat '78.AF.23' %}), and a 1936 Anderson Galleries auction ({% cat '78.AF.22' %}, {% cat '78.AF.32' %}).
 
-[^8]: In 1950, [78.AF.33](https://www.getty.edu/art/collection/object/105Y1N), [78.AF.34](https://www.getty.edu/art/collection/object/105Y1P); in 1953, [78.AF.35](https://www.getty.edu/art/collection/object/103TGJ), [78.AF.36](https://www.getty.edu/art/collection/object/105Y1Q), [78.AF.37](https://www.getty.edu/art/collection/object/105Y1R).
+[^8]: In 1950, {% cat '78.AF.33' %}, {% cat '78.AF.34' %}; in 1953, {% cat '78.AF.35' %}, {% cat '78.AF.36' %}, {% cat '78.AF.37' %}.
 
 [^9]: Imitation of Frankish Silver Treasure 78.AK.11–17; [[[JPGM Guidebook]{.underline} 1st ed.]], p. 21.
 
@@ -56,29 +56,29 @@ This catalogue is the first comprehensive presentation of the Getty Museum’s a
 
 [^12]: 71.AF.79–71.AF.85, and 71.AK.86 which was deaccessioned; [[Fredericksen 2015]], p. 104.
 
-[^13]: The glass bowl ([72.AF.37](https://www.getty.edu/art/collection/object/103SVD)) had long remained in the collections of the Château de Ripaille and in 1892 was transferred with the estate to Frédéric Engel-Gros (1843–1918), whose heirs still own the chateau.
+[^13]: The glass bowl ({% cat '72.AF.37' %}) had long remained in the collections of the Château de Ripaille and in 1892 was transferred with the estate to Frédéric Engel-Gros (1843–1918), whose heirs still own the chateau.
 
 [^14]: The agate bowl ([72.AI.38](https://www.getty.edu/art/collection/object/103SVE)) was found in Qift (formerly Koptos) in southern Egypt in 1930.
 
-[^15]: [[[JPGM Guidebook]{.underline} 3rd ed.]], p. 36; [[[JPGM Handbook]{.underline} 4th ed.]], p. 36. The silver cup was likely [72.AM.34](https://www.getty.edu/art/collection/object/103SVB).
+[^15]: [[*JPGM Guidebook* 3rd ed.]], p. 36; [[*JPGM Handbook* 4th ed.]], p. 36. The silver cup was likely [72.AM.34](https://www.getty.edu/art/collection/object/103SVB).
 
-[^16]: [[Felch and Frammolino 2011]], 26–37; Kennedy, “Jiri Frel, Getty’s Former Antiquities Curator, Dies at 82,” [New York Times]{.underline}, May 17, 2006.
+[^16]: [[Felch and Frammolino 2011]], 26–37; Kennedy, “Jiri Frel, Getty’s Former Antiquities Curator, Dies at 82,” *New York Times*, May 17, 2006.
 
-[^17]: Donation groups include forty-five glass fragments ([76.AF.70](https://www.getty.edu/art/collection/object/105XN4)) from Bruce McNall, five glass pendants ([78.AF.321.1](https://www.getty.edu/art/collection/object/103TK4)–[.5](#num)) from Ira Goldberg, a group of 46 glass vessels ([79.AF.184.1](https://www.getty.edu/art/collection/object/105Y8F)–[.47](#num)) from Edwin Lipps, and a group of 27 glass fragments ([83.AF.28.1](https://www.getty.edu/art/collection/object/103XZ7)–[.27](#num)) from Jiri Frel (four fragments, 83.AF.28.3, 83.AF.28.5, 83.AF.28.7, 83.AF.28.13, were deaccessioned to the Education Department’s art handling collection in 2017). The donations from Frel note the importance of the objects for study purposes.
+[^17]: Donation groups include forty-five glass fragments ([76.AF.70](https://www.getty.edu/art/collection/object/105XN4)) from Bruce McNall, five glass pendants ({% cat '78.AF.321.1' %}–{% cat '78.AF.321.5' %}) from Ira Goldberg, a group of 46 glass vessels ({% cat '79.AF.184.1' %}–{% cat '79.AF.184.47' %}) from Edwin Lipps, and a group of 27 glass fragments ({% cat '83.AF.28.1' %}–{% cat '83.AF.28.27' %}) from Jiri Frel (four fragments, 83.AF.28.3, 83.AF.28.5, 83.AF.28.7, 83.AF.28.13, were deaccessioned to the Education Department’s art handling collection in 2017). The donations from Frel note the importance of the objects for study purposes.
 
-[^18]: Necklaces with Glass Pendants [83.AM.1](https://www.getty.edu/art/collection/object/105Z4K) and Kantharos [84.AF.30](https://www.getty.edu/art/collection/object/105ZBM).
+[^18]: Necklaces with Glass Pendants [83.AM.1](https://www.getty.edu/art/collection/object/105Z4K) and Kantharos {% cat '84.AF.30' %}.
 
-[^19]: Cameo Glass Skyphos [84.AF.85](https://www.getty.edu/art/collection/object/103QT2).
+[^19]: Cameo Glass Skyphos {% cat '84.AF.85' %}.
 
-[^20]: Ernest Kofler and Marthe Truniger acquired their ancient glass pieces from the mid-1950s through the late 1970s, assembling a collection of hundreds of vessels, Egyptian inlays, and fragments. From this sale, [85.AF.83](https://www.getty.edu/art/collection/object/103VNY), [85.AF.84](https://www.getty.edu/art/collection/object/103VP0), [85.AF.85](https://www.getty.edu/art/collection/object/103VP2), and [85.AF.86](https://www.getty.edu/art/collection/object/103VNZ) were acquired with Robin Symes acting as agent, and [85.AF.320](https://www.getty.edu/art/collection/object/103VR0) was acquired from the Mansour Gallery shortly after the auction. See [[Christie’s 1985]].
+[^20]: Ernest Kofler and Marthe Truniger acquired their ancient glass pieces from the mid-1950s through the late 1970s, assembling a collection of hundreds of vessels, Egyptian inlays, and fragments. From this sale, {% cat '85.AF.83' %}, {% cat '85.AF.84' %}, {% cat '85.AF.85' %}, and {% cat '85.AF.86' %} were acquired with Robin Symes acting as agent, and {% cat '85.AF.320' %} was acquired from the Mansour Gallery shortly after the auction. See [[Christie’s 1985]].
 
-[^21]: [85.AF.83](https://www.getty.edu/art/collection/object/103VNY); see [[Wight 2011]], p. vi.
+[^21]: {% cat '85.AF.83' %}; see [[Wight 2011]], p. vi.
 
-[^22]: [85.AF.90](https://www.getty.edu/art/collection/object/103VP4) and [85.AF.91](https://www.getty.edu/art/collection/object/103VP6).
+[^22]: {% cat '85.AF.90' %} and {% cat '85.AF.91' %}.
 
-[^23]: [96.AF.56](https://www.getty.edu/art/collection/object/10407Z), [96.AF.288](https://www.getty.edu/art/collection/object/107SKH), and [96.AF.289](https://www.getty.edu/art/collection/object/107SKG).
+[^23]: {% cat '96.AF.56' %}, {% cat '96.AF.288' %}, and {% cat '96.AF.289' %}.
 
-[^24]: [95.AF.60](https://www.getty.edu/art/collection/object/10400N) and [96.AF.320](https://www.getty.edu/art/collection/object/107S0V).
+[^24]: {% cat '95.AF.60' %} and {% cat '96.AF.320' %}.
 
 [^25]: In 2003, the Getty bought the bulk of Gert Oppenländer’s collection, 370 works, and the following year acquired an additional 43 objects from Ingrid Reisser, who still retains the rest of her collection. On the Getty acquisition, [[Wight 2004]], p. 196.
 
