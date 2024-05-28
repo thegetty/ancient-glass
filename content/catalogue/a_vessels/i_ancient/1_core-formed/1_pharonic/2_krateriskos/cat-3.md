@@ -22,7 +22,7 @@ A marvered turquoise thread is wound around the rim. Around the neck and on the 
 
 ## Comments and Comparanda
 
-Krateriskoi are one of the most characteristic Egyptian vessel forms. This particular shape and the presence of handles date it to the reigns of Tuthmosis III to Amenhotep IV, ca. 1397–to 1350 BCE ([[Stern and Schlick-Nolte 1994]], pp. 130–131). Furthermore, the turquoise thread around the rim ascribes it to a particular workshop that specialized in decoration of festoon patterns, among which this feature exclusively appears ([[Nolte 1968]], workshop 2a, plate VII:12; [[Nolte 1985]], p. 95, plate 7.9, 12). For a discussion of this workshop, known as “Workshop 2” see [2003.146](#cat).
+Krateriskoi are one of the most characteristic Egyptian vessel forms. This particular shape and the presence of handles date it to the reigns of Tuthmosis III to Amenhotep IV, ca. 1397–to 1350 BCE ([[Stern and Schlick-Nolte 1994]], pp. 130–131). Furthermore, the turquoise thread around the rim ascribes it to a particular workshop that specialized in decoration of festoon patterns, among which this feature exclusively appears ([[Nolte 1968]], workshop 2a, plate VII:12; [[Nolte 1985]], p. 95, plate 7.9, 12). For a discussion of this workshop, known as “Workshop 2” see {% cat '2003.146' %}.
 
 Comparanda include finds kept in the Museum für Kunst und Gewerbe Hamburg, the Hermitage St. Petersburg, the Museum of Cairo, and the Louvre ([[Nolte 1968]], workshop 2a, p. 93, no. 12, plate VIII:14, 16, 17, 19); Württembergisches Museum Stuttgart ([[Stern and Schlick-Nolte 1994]], pp. 130–131, no. 5); Toledo Museum of Art ([[Grose 1989]], pp. 60–61, nos. 7–8) and a similar vessel is in the British Museum ([[Tatton-Brown and Andrews 1991]], pp. 30–31, fig. 26).
 
