@@ -22,7 +22,7 @@ An unmarvered dark blue thread around the rim. A marvered yellow thread is wound
 
 ## Comments and Comparanda
 
-See comments on [2003.174](#cat). For the classification of this particular aryballos see [[Grose 1989]], class I:B, aryballos form I:1: pp. 151–152, no. 120.
+See comments on {% cat '2003.174' %}. For the classification of this particular aryballos see [[Grose 1989]], class I:B, aryballos form I:1: pp. 151–152, no. 120.
 
 ## Provenance
 
