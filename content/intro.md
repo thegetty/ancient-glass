@@ -60,7 +60,7 @@ During the Julio-Claudian era, single-colored, brightly hued glass vessels appea
 
 Slumping is a technique used to form open-shaped vessels by slumping, or sagging, a disk of viscous glass heated in the furnace over a convex former mold or in a concave, open mold; the glass disk gradually slumps and takes the shape of the mold through gravity, with the glassworker’s appropriate tooling.[^29] This technique appears relatively often in the years before the invention of glassblowing, used for various vessel forms and production methods. What vessels formed by slumping have in common is the fact that human breath was not used in their production. Such vessels were formed by heating the glass and using either a simple, open mold or a bipartite, closed one. In addition, in the early first century CE, slumped and blown mosaic vessels—small- or medium-sized flasks and unguentaria—were produced, illustrating the transition to the free-blowing technique ({% cat '2003.277' %}–{% cat '2003.293' %}).[^30]
 
-Mosaic vessels were made of bands and/or horizontal rod or cane sections of glass, known as florets ({% cat '85.AF.85' %}–{% cat '2003.255' %}). Masses of hot glass of the adequate colors were put together, tooled, and adhered, creating a wide and thick plaque with the desired motif in large scale in it. This plaque was reheated and pulled out for several meters, producing thus a rod of a much smaller diameter with the design all the way through. Thin discoid sections of these rods or canes were cut and used to form mosaic vessels and architectural and furniture inlays. The bands/cane lengths used were sometimes simpler monochrome or polychrome pieces and other times composite ones, forming intricate motifs, such as spirals, concentric circles, or rosettes. These pieces were heated on a flat surface; placed in contact with each other, they fused together and created a disk, whose perimeter was enclosed by a twisted polychrome—usually white and blue—glass coil. In order to give the mosaic vessel its final form, glassworkers then used the slumping technique on a convex former mold (fig. 4, slumping technique).[^31] It is possible that for some types of vessels, glassworkers used a bipartite mold, which was filled with discoid tesserae that had been cut from cylindrical canes. The mold was sealed and heated so that the tesserae would fuse. After the vessel was \[\[annealed\]\], it was internally polished on a lathe.
+Mosaic vessels were made of bands and/or horizontal rod or cane sections of glass, known as florets ({% cat '85.AF.85' %}–{% cat '2003.255' %}). Masses of hot glass of the adequate colors were put together, tooled, and adhered, creating a wide and thick plaque with the desired motif in large scale in it. This plaque was reheated and pulled out for several meters, producing thus a rod of a much smaller diameter with the design all the way through. Thin discoid sections of these rods or canes were cut and used to form mosaic vessels and architectural and furniture inlays. The bands/cane lengths used were sometimes simpler monochrome or polychrome pieces and other times composite ones, forming intricate motifs, such as spirals, concentric circles, or rosettes. These pieces were heated on a flat surface; placed in contact with each other, they fused together and created a disk, whose perimeter was enclosed by a twisted polychrome—usually white and blue—glass coil. In order to give the mosaic vessel its final form, glassworkers then used the slumping technique on a convex former mold (fig. 4, slumping technique).[^31] It is possible that for some types of vessels, glassworkers used a bipartite mold, which was filled with discoid tesserae that had been cut from cylindrical canes. The mold was sealed and heated so that the tesserae would fuse. After the vessel was {% def 'anneal''annealed' %}, it was internally polished on a lathe.
 
 A long tradition of mainly monochrome glass inlays placed in cells cut into a wooden background flourished, especially during the Late Period in Egypt (712–332 BCE). They were used to decorate objects intended for religious or funerary purposes. Later, probably in Egypt or also in Italy, in about the late first century BCE through early first century CE, composite mosaic glass canes were produced which were cut into slices, forming small plaques. They thereby presented a complete miniature theme from fused together glass canes that were tooled to form the appliqué of the incrustation bearing the entire desired motive and pulled out and reduced to the desired minuscule size: geometrical patterns, floral motives, theatrical masks, fish, deities, and imitations of veined stones ({% cat '2003.266' %}, {% cat '76.AF.70.11' %}). These plaques represent the most exquisite and technically refined glass products of the ancient world. They were used to decorate wooden objects, like caskets or boxes, framed with other monochrome or polychrome glass elements, probably used in rows of similar motives.[^32] A unique trimming of such a rod comprised of concentric layers of bright colored glass, which was pierced and used as a pendant, is in the JPGM collection ({% cat '76.AF.70.46' %}). Florets and other sections of mosaic rods and canes were used for the creation of beads ({% cat '2003.259' %}–{% cat '2003.211' %}) representing geometrical patterns or human faces.
 
@@ -138,7 +138,7 @@ The gold-glass technique first emerged during the Classical Greek period, used i
 
 The exact shapes of the vessels on which this technique was applied are not known since no whole vessels have survived. The extant specimens consist of flat vessel bottoms that were discovered, almost in their entirety, embedded in the plaster that sealed tomb openings in the Roman catacombs. Overall, there are known examples of Christian, Jewish, and pagan themes used in the decorations. Among other hypotheses, it has been assumed that such vessels were produced in order to be used as keepsake gifts on formal occasions, such as weddings and anniversaries of the assumption of public office.[^74]
 
-Specific technical details regarding this decoration method remain unclear. In general, it refers to the attachment of a thin sheet of gold leaf to the inside bottom of an open-shaped vessel. The desired theme is engraved on the gold, while in some cases color is added to emphasize particular details. Subsequently a second \[\[paraison\]\] of glass is blown inside the vessel, which has already been adequately reheated so that it does not fracture due to thermal shock. The new layer of glass attaches itself to the walls of the vessel, thus sealing and protecting the decoration between two layers of translucent glass.[^75] This technique is used, both during this period and in the sixth century CE, for the production of tesserae as well as of plaques and crustae of opus sectile wall revetments.[^76] In the JPGM collection are two nineteenth-century replicas of gold-glass bowls ({% cat '2003.296' %}, {% cat '83.AK.29' %}).
+Specific technical details regarding this decoration method remain unclear. In general, it refers to the attachment of a thin sheet of gold leaf to the inside bottom of an open-shaped vessel. The desired theme is engraved on the gold, while in some cases color is added to emphasize particular details. Subsequently a second {% def 'paraison' %} of glass is blown inside the vessel, which has already been adequately reheated so that it does not fracture due to thermal shock. The new layer of glass attaches itself to the walls of the vessel, thus sealing and protecting the decoration between two layers of translucent glass.[^75] This technique is used, both during this period and in the sixth century CE, for the production of tesserae as well as of plaques and crustae of opus sectile wall revetments.[^76] In the JPGM collection are two nineteenth-century replicas of gold-glass bowls ({% cat '2003.296' %}, {% cat '83.AK.29' %}).
 
 ### Indentations
 
@@ -164,7 +164,7 @@ After the Late Classical Greek and Hellenistic periods (fifth–first centuries�
 
 The material used is a kind of enamel, pulverized glass of the desired hue mixed with a liquid. The mixture is painted on the vessel, which is then heated so that the decoration can fuse to its surface.[^88] Among the earliest Roman glass vessels decorated with enamel are bowls, such as {% cat '2003.294' %}, made between about 40 and 60 CE; these may be one of the forms of painted glass that attracted Pliny’s attention.[^89]
 
-There are known examples of gilded vessels and plaques from the first and second centuries CE. In that period gilding was done after \[\[annealing\]\] and involved the application of gold leaf onto the surface to be decorated; the design details were then engraved with a pointed tool.[^90]
+There are known examples of gilded vessels and plaques from the first and second centuries CE. In that period gilding was done after {% def 'anneal' 'annealing' %} and involved the application of gold leaf onto the surface to be decorated; the design details were then engraved with a pointed tool.[^90]
 
 Finally, the decorations on some third-century vessel lids were cold-painted. To keep the decoration protected from damage—to which it was particularly susceptible because of its means of production—the design was painted in reverse on the inside surface of the lid, intended to be viewed through the glass.[^91]
 
@@ -182,7 +182,7 @@ All of the techniques described above continue in use during the third and fourt
 
 [^2]: [[Nenna, Picon, and Vichi 2000]], p. 99.
 
-[^3]: [[Pliny, [Natural History]{.underline}]] 36.62, 36.193. [[Seneca, [Epist.]{.underline}]] 90.31, and 105. [[Brill 1999]], vol. 1, pp. 15–17.
+[^3]: [[Pliny, *Natural History*]] 36.62, 36.193. [[Seneca, *Epist.*]] 90.31, and 105. [[Brill 1999]], vol. 1, pp. 15–17.
 
 [^4]: Glassmaking and glassworking had been considered distinct processes since the fourteenth century BCE, as evidence of glass ingots from the Ulu Burun shipwreck demonstrates. See [[Bass 1986]], pp. 281–282; [[Nicholson, Jackson, and Trott 1997]], pp. 143–153.
 
@@ -204,13 +204,13 @@ All of the techniques described above continue in use during the third and fourt
 
 [^13]: [[Schlick-Nolte and Lierke 2002]], p. 19; [[Vandiver 1983]], pp. 239–247.
 
-[^14]: For the finds from Amarna see [[Nicholson, Jackson, and Trott 1997]]**,** pp. 143–153, pl. XVII; (Nicholson 2007}, esp. pp. 125, 158. For the finds from Qantir see [[Rehren and Pusch 1997]]. For the finds from Karnak see [[Schlick-Nolte and Lierke 2002]], pp. 17–22, figs. 3–4.
+[^14]: For the finds from Amarna see [[Nicholson, Jackson, and Trott 1997]], pp. 143–153, pl. XVII; (Nicholson 2007}, esp. pp. 125, 158. For the finds from Qantir see [[Rehren and Pusch 1997]]. For the finds from Karnak see [[Schlick-Nolte and Lierke 2002]], pp. 17–22, figs. 3–4.
 
 [^15]: Barag 1985, pp. 107–113; [[Stern and Schlick-Nolte 1994]], p. 20.
 
 [^16]: On Mycenean beads see [[Nightingale 2002]], with further bibliography.
 
-[^17]: [[Triantafyllidis 2000]]**,** pp. 36–39, 193–195.
+[^17]: [[Triantafyllidis 2000]], pp. 36–39, 193–195.
 
 [^18]: [[Harden 1981]], pp. 58–99; [[Grose 1989]], pp. 110–115.
 
@@ -266,13 +266,13 @@ All of the techniques described above continue in use during the third and fourt
 
 [^44]: [[Lierke 1999]], pp. 37–39; [[Stern and Schlick-Nolte 1994]], pp. 79–81.
 
-[^45]: [[Pliny, [Natural History]{.underline}]] 36.193. For a detailed commentary on the passage, see [[Stern 2007]], pp. 358–359.
+[^45]: [[Pliny, *Natural History*]] 36.193. For a detailed commentary on the passage, see [[Stern 2007]], pp. 358–359.
 
 [^46]: [[Israeli 1991]], p. 53.
 
 [^47]: [[Stern 1999a]], p. 443.
 
-[^48]: [[Strabo, [Geographica]{.underline}]] 16.2.25.
+[^48]: [[Strabo, *Geographica*]] 16.2.25.
 
 [^49]: [[Stern 2004]], pp. 82–83.
 
@@ -280,7 +280,7 @@ All of the techniques described above continue in use during the third and fourt
 
 [^51]: [[Stern 1999a]], pp. 446–447.
 
-[^52]: [[Strabo, [Geographica]{.underline}]] 16.2.25. For a detailed commentary on the passage, see Stern 2007, pp. 362–363.
+[^52]: [[Strabo, *Geographica*]] 16.2.25. For a detailed commentary on the passage, see Stern 2007, pp. 362–363.
 
 [^53]: [[Barag 1985]], pp. 113–116.
 
@@ -296,7 +296,7 @@ All of the techniques described above continue in use during the third and fourt
 
 [^59]: [[Stern 2001]], p. 41.
 
-[^60]: [[Stern 1995]], pp. 201–246. On the production of mold-blown and dip mold–blown vessels in a large Mediterranean center like Thessaloniki throughout the Roman period and on the relation and juxtaposition of this technique with free blowing, see [[Antonaras 2010c]], p. 252**.**
+[^60]: [[Stern 1995]], pp. 201–246. On the production of mold-blown and dip mold–blown vessels in a large Mediterranean center like Thessaloniki throughout the Roman period and on the relation and juxtaposition of this technique with free blowing, see [[Antonaras 2010c]], p. 252.
 
 [^61]: [[Barag 1970c]], pp. 35–63; [[Barag 1971]], pp. 45–63; [[Stern 1995]], pp. 247–269; [[Newby 2008]], passim and see pp. 12–17 for an introduction.
 
@@ -304,9 +304,9 @@ All of the techniques described above continue in use during the third and fourt
 
 [^63]: [[Sorokina 1978]], pp. 118–119, pl. 4.2; this technique has been traced in a workshop of the second and/or third century at Tanais, on the Black Sea.
 
-[^64]: [[Ignatiadou 2004]], p. 61 \[Please add to reference list.\].
+[^64]: [[Ignatiadou 2004]], p. 61 [Please add to reference list].
 
-[^65]: [[Martial, [Epigr]{.underline}.}]] 11.11 and 12.74. [[Clement of Alexandria, [Paedagogus]{.underline}]] 2.3.35. For detailed commentary on the passages, see [[Trowbridge 1930]], pp. 109, 166, respectively.
+[^65]: [[Martial, *Epigr*]] 11.11 and 12.74. [[Clement of Alexandria, *Paedagogus*]] 2.3.35. For detailed commentary on the passages, see [[Trowbridge 1930]], pp. 109, 166, respectively.
 
 [^66]: This technique has been studied in detail in [[Paolucci 1997]], pp. 17–20 and passim. On techniques that survived through the Middle Ages and in more recent times, see [[Charleston 1964]], pp. 83–100 and [[Charleston 1965]], pp. 41–54.
 
@@ -322,7 +322,7 @@ All of the techniques described above continue in use during the third and fourt
 
 [^72]: [[Stern 1999b]], pp. 40–41; [[Ignatiadou et al. 2005]].
 
-[^73]: The term is used for the first time in [[Athenaeus, [Deipnosophistae]{.underline}]] 5.199f, in relation to glass vessels. For a commentary on the passage, see [[Trowbridge 1930]], p. 110, 154, note 23. For gilded vessels of this period see [[Stern and Schlick-Nolte 1994]], pp. 262–267, nos. 69–70; [[Ignatiadou 2000]], pp. 35–36, figs. 1–4; [[Arveiller-Dulong and Nenna 2000]], pp. 168–171.
+[^73]: The term is used for the first time in [[Athenaeus, *Deipnosophistae*]] 5.199f, in relation to glass vessels. For a commentary on the passage, see [[Trowbridge 1930]], p. 110, 154, note 23. For gilded vessels of this period see [[Stern and Schlick-Nolte 1994]], pp. 262–267, nos. 69–70; [[Ignatiadou 2000]], pp. 35–36, figs. 1–4; [[Arveiller-Dulong and Nenna 2000]], pp. 168–171.
 
 [^74]: [[Cameron 1996]].
 
