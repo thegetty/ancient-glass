@@ -32,7 +32,7 @@ By 1962–1985, Ernst Kofler, 1899–1989 and Marthe Truniger, 1918–1999 (Luce
 
 ## Bibliography
 
-[[[JGS]{.underline} 1962]], p. 140, no. 5.
+[[*JGS* 1962]], p. 140, no. 5.
 
 [[Kunsthaus Zurich 1964]], p. 47, no. 456; plate 37.
 
@@ -48,7 +48,7 @@ By 1962–1985, Ernst Kofler, 1899–1989 and Marthe Truniger, 1918–1999 (Luce
 
 [[JPGM Acquisitions 1985]], pp. 194–95, no. 65.
 
-[[[JGS]{.underline} 1986]], p. 98, no. 2.
+[[*JGS* 1986]], p. 98, no. 2.
 
 [[Harden et al. 1987]], pp. 55, 83–84; cat. no. 36.
 
@@ -74,19 +74,19 @@ Wight and Swetnam-Burland 2010.
 
 [[Spier et al. 2018]], p. 176, no. 176, ill.
 
-[[[Masterpieces JPGM: Antiquities]{.underline}]], p. 104.
+[[*Masterpieces JPGM: Antiquities*]], p. 104.
 
-[[[JPGM Handbook]{.underline} 3rd ed.]], p. 55.
+[[*JPGM Handbook* 3rd ed.]], p. 55.
 
-[[[JPGM Handbook]{.underline} 4th ed.]], p. 55.
+[[*JPGM Handbook* 4th ed.]], p. 55.
 
-[[[JPGM Handbook]{.underline} 6th ed.]], p. 55.
+[[*JPGM Handbook* 6th ed.]], p. 55.
 
-[[[JPGM Handbook]{.underline} 7th ed.]], p. 48, ill.
+[[*JPGM Handbook* 7th ed.]], p. 48, ill.
 
-[[[JPGM Handbook Antiquities]{.underline} 1st ed.]], p. 206.
+[[*JPGM Handbook Antiquities* 1st ed.]], p. 206.
 
-[[[JPGM Handbook Antiquities]{.underline} rev. ed.]], p. 214.
+[[*JPGM Handbook Antiquities* rev. ed.]], p. 214.
 
 ## Exhibitions
 

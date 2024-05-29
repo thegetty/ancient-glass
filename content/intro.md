@@ -86,7 +86,7 @@ Finally, another simple vessel-forming technique, heavily influenced by pottery 
 
 ### Free-Blowing
 
-The technique of free-blowing involves the inflation and further shaping of molten glass through the use of human breath channeled through a heat-insulated pipe. According to Pliny, glassblowing, or [flatu figurare]{.underline}, that is, “shaping by breath,” was one of the three techniques that made Sidon a famous glassworking center.[^45] The technique was invented in the first half of the first century BCE somewhere in the Syro-Palestinian area, where there was already a centuries-long tradition in glassworking.[^46] Around the middle of the first century CE free-blowing began to spread beyond the Syro-Palestinian region to Italy, Switzerland, and Dalmatia.[^47]
+The technique of free-blowing involves the inflation and further shaping of molten glass through the use of human breath channeled through a heat-insulated pipe. According to Pliny, glassblowing, or *flatu figurare*, that is, “shaping by breath,” was one of the three techniques that made Sidon a famous glassworking center.[^45] The technique was invented in the first half of the first century BCE somewhere in the Syro-Palestinian area, where there was already a centuries-long tradition in glassworking.[^46] Around the middle of the first century CE free-blowing began to spread beyond the Syro-Palestinian region to Italy, Switzerland, and Dalmatia.[^47]
 
 The period of the technique’s spread and popularization coincided with the Augustan age—and the resulting political calm and economic flourishing. Moreover, this political situation made possible easy and fast communication between the different provinces. The economic boom in Italy attracted tradesmen and workmen from all over the Empire and especially from the eastern provinces. The quality and quantity of early blown vessels that have been preserved in the West, in contrast to the relative scarcity of such finds in the East, would seem to support this hypothesis. It appears that the blowing technique was perfected in Italy and—as documented also in historical sources,[^48] particularly in Rome, where glassworkers from the East—Sidonians especially—relocated for financial reasons.[^49]
 
@@ -178,7 +178,7 @@ All of the techniques described above continue in use during the third and fourt
 
 {% endbackmatter %}
 
-[^1]: [[Stern and Schlick-Nolte 1994]], pp. 28–37; [[Nicholson and Henderson 2000]], pp. 195–224; [[Rehren 2021]].
+[^1]: {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 28–37; [[Nicholson and Henderson 2000]], pp. 195–224; [[Rehren 2021]].
 
 [^2]: [[Nenna, Picon, and Vichi 2000]], p. 99.
 

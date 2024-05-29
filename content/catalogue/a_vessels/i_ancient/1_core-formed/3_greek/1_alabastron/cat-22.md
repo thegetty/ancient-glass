@@ -32,9 +32,9 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 [[von Saldern 1974]], p. 73, no. 190; p. 61, plate no. 190.
 
-[[[JPGM Handbook]{.underline} 7th ed.]], p. 46, ill.
+[[*JPGM Handbook* 7th ed.]], p. 46, ill.
 
-[[[JPGM Handbook Antiquities]{.underline} rev. ed.]], p. 103.
+[[*JPGM Handbook Antiquities* rev. ed.]], p. 103.
 
 ## Exhibitions
 

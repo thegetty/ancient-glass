@@ -22,7 +22,7 @@ An unmarvered yellow thread is wound around the open mouth and another is applie
 
 ## Comments and Comparanda
 
-The vessel belongs to a well-known form of fish-shaped flasks that represent a [Tilapia nilotica]{.underline} fish, common in the Nile and a standard decorative motif in ancient Egyptian art rendered in many media ([[Shaw and Nicholson 1995]], p. 100). These flasks seem to have held ointments, and since they cannot stand by themselves, they must have been supported by stands. Published examples have been unearthed in Malkata and Amarna (cf. [[Nolte 1968]], pp. 70, 134–136, 176, form XI, plates XXVIII:59, 60; XXIX:1, 2). Other fish-shaped, core-formed Egyptian vessels are known from museum collections: a very colorful example in the British Museum EA55193: <https://www.britishmuseum.org/collection/object/Y_EA55193> ([[Nolte 1968]], p. 70, plate XXIX:2; [[Cooney 1976]], p. 146, no. 1753, plate VII) and a monochrome one, EA63786: <https://www.britishmuseum.org/collection/object/Y_EA63786> ([[Cooney 1976]], p. 146, no. 1754; [[Tait 1991]], p. 28, fig. 23); a single-colored fish in the Brooklyn Museum, 37.316E (<https://www.brooklynmuseum.org/opencollection/objects/4014>); also, a similar fish-shaped glass object, probably used as a palette, of the same period is in Miho Museum ([[Miho Museum 2001]], p. 29, 192, no. 21).
+The vessel belongs to a well-known form of fish-shaped flasks that represent a *Tilapia nilotica* fish, common in the Nile and a standard decorative motif in ancient Egyptian art rendered in many media ([[Shaw and Nicholson 1995]], p. 100). These flasks seem to have held ointments, and since they cannot stand by themselves, they must have been supported by stands. Published examples have been unearthed in Malkata and Amarna (cf. [[Nolte 1968]], pp. 70, 134–136, 176, form XI, plates XXVIII:59, 60; XXIX:1, 2). Other fish-shaped, core-formed Egyptian vessels are known from museum collections: a very colorful example in the British Museum EA55193: <https://www.britishmuseum.org/collection/object/Y_EA55193> ([[Nolte 1968]], p. 70, plate XXIX:2; [[Cooney 1976]], p. 146, no. 1753, plate VII) and a monochrome one, EA63786: <https://www.britishmuseum.org/collection/object/Y_EA63786> ([[Cooney 1976]], p. 146, no. 1754; [[Tait 1991]], p. 28, fig. 23); a single-colored fish in the Brooklyn Museum, 37.316E (<https://www.brooklynmuseum.org/opencollection/objects/4014>); also, a similar fish-shaped glass object, probably used as a palette, of the same period is in Miho Museum ([[Miho Museum 2001]], p. 29, 192, no. 21).
 
 ## Provenance
 
@@ -30,7 +30,7 @@ By 1970–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-[[[JGS 1970]{.underline}]], p. 171, no. 1, ill.
+[[*JGS 1970*]], p. 171, no. 1, ill.
 
 [[von Saldern et al. 1974]], p. 18, no. 3; p. 19, plate no. 3.
 
