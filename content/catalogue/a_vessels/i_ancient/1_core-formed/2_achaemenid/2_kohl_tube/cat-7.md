@@ -32,7 +32,7 @@ By 1967–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-[[*JGS 1967*]], p. 133, no. 4.
+[[*JGS* 1967]], p. 133, no. 4.
 
 [[von Saldern et al. 1974]], p. 48, no. 103; p. 52, plate no. 103.
 

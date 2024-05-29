@@ -34,7 +34,7 @@ By 1974, Gawain McKinley Ltd. (London, England); by 1974–1988, Erwin Oppenlän
 
 [[McKinley 1974]], p. 2, ill.
 
-[[*JGS 1977*]], p. 169, no. 1, ill.
+[[*JGS* 1977]], p. 169, no. 1, ill.
 
 ## Exhibitions
 

@@ -30,7 +30,7 @@ By 1970–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-[[*JGS 1970*]], p. 171, no. 1, ill.
+[[*JGS* 1970]], p. 171, no. 1, ill.
 
 [[von Saldern et al. 1974]], p. 18, no. 3; p. 19, plate no. 3.
 
