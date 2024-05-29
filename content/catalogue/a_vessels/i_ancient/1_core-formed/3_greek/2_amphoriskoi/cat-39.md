@@ -22,7 +22,7 @@ An unmarvered opaque yellow thread and a turquoise thread are wound around the r
 
 ## Comments and Comparanda
 
-On core-formed amphoriskoi of this period see comments on [2003.178](#cat). For the classification of this particular amphoriskos see [[Grose 1989]], class I:B, amphoriskos form I:2: p. 144, no. 97.
+On core-formed amphoriskoi of this period see comments on {% cat '2003.178' %}. For the classification of this particular amphoriskos see [[Grose 1989]], class I:B, amphoriskos form I:2: p. 144, no. 97.
 
 ## Provenance
 

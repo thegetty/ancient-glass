@@ -22,7 +22,7 @@ An unmarvered yellow thread is wound around the rim. A marvered yellow thread is
 
 ## Comments and Comparanda
 
-See comments on [2003.179](#cat). For the classification of this particular oinochoe see [[Grose 1989]], class I:B, oinochoe form I:2: pp. 161, 163, nos. 147, 150.
+See comments on {% cat '2003.179' %}. For the classification of this particular oinochoe see [[Grose 1989]], class I:B, oinochoe form I:2: pp. 161, 163, nos. 147, 150.
 
 ## Provenance
 

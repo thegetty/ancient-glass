@@ -22,7 +22,7 @@ A yellow unmarvered thread around the rim. The body of the vessel, from the shou
 
 ## Comparanda and Comment
 
-On the origins of core-formed alabastra and early examples, see comments on [2003.180](#cat). This object belongs to the second group of core-formed vessels, which appears after the early fourth century BCE and continues to be made until the third century BCE ([[Harden 1981]], pp. 100–121; [[Grose 1989]], pp. 115–122). They were probably produced in more workshops and are found predominantly in mainland Greece, as well as in central and southern Italy. Initially the vessel types of the first group are repeated, differing only in shape and decoration, but later on new shapes appear, like the hydriske, the unguentarium, and the lentoid aryballos. For the classification of this particular alabastron see [[Grose 1989]], class II:A, alabastron form II:2: pp. 154–155, nos. 127–128.
+On the origins of core-formed alabastra and early examples, see comments on {% cat '2003.180' %}. This object belongs to the second group of core-formed vessels, which appears after the early fourth century BCE and continues to be made until the third century BCE ([[Harden 1981]], pp. 100–121; [[Grose 1989]], pp. 115–122). They were probably produced in more workshops and are found predominantly in mainland Greece, as well as in central and southern Italy. Initially the vessel types of the first group are repeated, differing only in shape and decoration, but later on new shapes appear, like the hydriske, the unguentarium, and the lentoid aryballos. For the classification of this particular alabastron see [[Grose 1989]], class II:A, alabastron form II:2: pp. 154–155, nos. 127–128.
 
 ## Provenance
 

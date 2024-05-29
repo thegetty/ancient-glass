@@ -20,7 +20,7 @@ Rim slightly flaring, flat at the top; body conical with mildly convex sides. On
 
 ## Comments and Comparanda
 
-See comments on [84.AF.85](#cat).
+See comments on {% cat '84.AF.85' %}.
 
 ## Provenance
 

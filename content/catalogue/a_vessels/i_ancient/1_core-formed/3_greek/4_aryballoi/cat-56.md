@@ -22,7 +22,7 @@ An unmarvered yellow thread is wound around the rim. Thread continues (probably 
 
 ## Comments and Comparanda
 
-See comments on [2003.174](#cat). For the classification of this particular aryballos see [[Grose 1989]], class I:B, aryballos form I:2; [[Arveiller-Dulong and Nenna 2001]], p. 125, no. 153.
+See comments on {% cat '2003.174' %}. For the classification of this particular aryballos see [[Grose 1989]], class I:B, aryballos form I:2; [[Arveiller-Dulong and Nenna 2001]], p. 125, no. 153.
 
 ## Provenance
 

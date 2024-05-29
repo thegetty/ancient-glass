@@ -22,7 +22,7 @@ An unmarvered thread of the same color as the body is spirally wound around the 
 
 ## Comments and Comparanda
 
-See [2003.160](#cat).
+See {% cat '2003.160' %}.
 
 ## Provenance
 

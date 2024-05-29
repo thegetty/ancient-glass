@@ -20,7 +20,7 @@ Vertical, smooth, fire-rounded rim. Shallow body decorated with 37 slightly slan
 
 ## Comments and Comparanda
 
-See [78.AF.27](#cat).
+See {% cat '78.AF.27' %}.
 
 ## Provenance
 

@@ -24,7 +24,7 @@ A bronze, m-shaped pin, missing one leg, is placed inside it. This type of doubl
 
 ## Comments and Comparanda
 
-On core-formed alabastra see comments on [2003.180](#cat). For the classification of this particular alabastron see [[Grose 1989]], class I:B, alabastron form I:3A: pp. 136–137, no. 75.
+On core-formed alabastra see comments on {% cat '2003.180' %}. For the classification of this particular alabastron see [[Grose 1989]], class I:B, alabastron form I:3A: pp. 136–137, no. 75.
 
 ## Provenance
 

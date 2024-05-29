@@ -20,9 +20,9 @@ Slightly flaring rim, cut off; deep body, cylindrical at the upper part tapering
 
 ## Comments and Comparanda
 
-This presumably free-blown vessel seems to be a descendant of the high-quality lobed or finned bowls that first appeared in the third century BCE and were evolving until the first century BCE (see [2003.215](#cat), wherein the discussion of this form).
+This presumably free-blown vessel seems to be a descendant of the high-quality lobed or finned bowls that first appeared in the third century BCE and were evolving until the first century BCE (see {% cat '2003.215' %}, wherein the discussion of this form).
 
-No direct parallels have been located, but in rim shape and overall appearance the bowl looks close to finely ribbed bowls, that is, zarte Rippenschale (for them see comments on [2003.226](#cat), wherein the discussion of this form).
+No direct parallels have been located, but in rim shape and overall appearance the bowl looks close to finely ribbed bowls, that is, zarte Rippenschale (for them see comments on {% cat '2003.226' %}, wherein the discussion of this form).
 
 ## Provenance
 

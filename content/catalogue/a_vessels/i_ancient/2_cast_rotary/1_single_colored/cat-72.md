@@ -20,7 +20,7 @@ Slightly everted, almost vertical, smooth, fire-rounded rim; deep body decorated
 
 ## Comments
 
-On this form of vessel see [78.AF.27](#cat).
+On this form of vessel see {% cat '78.AF.27' %}.
 
 ## Comparanda
 

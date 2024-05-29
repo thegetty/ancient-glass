@@ -20,7 +20,7 @@ Horizontal rim; carinated body with two convex curves; outward-splayed base-ring
 
 ## Comments and Comparanda
 
-See [2003.232](#cat).
+See {% cat '2003.232' %}.
 
 ## Provenance
 
