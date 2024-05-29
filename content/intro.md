@@ -178,188 +178,188 @@ All of the techniques described above continue in use during the third and fourt
 
 {% endbackmatter %}
 
-[^1]: [[Stern and Schlick-Nolte 1994]], pp. 28–37; [[Nicholson and Henderson 2000]], pp. 195–224; [[Rehren 2021]].
+[^1]: {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 28–37; {% cite 'Nicholson and Henderson 2000' %}, pp. 195–224; {% cite 'Rehren 2021' %}.
 
-[^2]: [[Nenna, Picon, and Vichi 2000]], p. 99.
+[^2]: {% cite 'Nenna, Picon, and Vichi 2000' %}, p. 99.
 
-[^3]: [[Pliny, *Natural History*]] 36.62, 36.193. [[Seneca, *Epist.*]] 90.31, and 105. [[Brill 1999]], vol. 1, pp. 15–17.
+[^3]: {% cite 'Pliny, *Natural History*' %} 36.62, 36.193. {% cite 'Seneca, *Epist.*' %} 90.31, and 105. {% cite 'Brill 1999' %}, vol. 1, pp. 15–17.
 
-[^4]: Glassmaking and glassworking had been considered distinct processes since the fourteenth century BCE, as evidence of glass ingots from the Ulu Burun shipwreck demonstrates. See [[Bass 1986]], pp. 281–282; [[Nicholson, Jackson, and Trott 1997]], pp. 143–153.
+[^4]: Glassmaking and glassworking had been considered distinct processes since the fourteenth century BCE, as evidence of glass ingots from the Ulu Burun shipwreck demonstrates. See {% cite 'Bass 1986' %}, pp. 281–282; {% cite 'Nicholson, Jackson, and Trott 1997' %}, pp. 143–153.
 
-[^5]: [[Antonaras 2012]], pp. 10–15, wherein previous bibliography.
+[^5]: {% cite 'Antonaras 2012' %}, pp. 10–15, wherein previous bibliography.
 
-[^6]: [[Auth 1976]], p. 20; [[Stern and Schlick-Nolte 1994]], p. 29.
+[^6]: {% cite 'Auth 1976' %}, p. 20; {% cite 'Stern and Schlick-Nolte 1994' %}, p. 29.
 
-[^7]: [[Stern and Schlick-Nolte 1994]], pp. 28–33.
+[^7]: {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 28–33.
 
-[^8]: [[Harden 1981]]; [[Grose 1989]], pp. 109–125; [[Stern and Schlick-Nolte 1994]], pp. 28–36, 37–44.
+[^8]: {% cite 'Harden 1981' %}; {% cite 'Grose 1989' %}, pp. 109–125; {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 28–36, 37–44.
 
-[^9]: [[Stern and Schlick-Nolte 1994]], p. 26.
+[^9]: {% cite 'Stern and Schlick-Nolte 1994' %}, p. 26.
 
-[^10]: [[Nolte 1968]].
+[^10]: {% cite 'Nolte 1968' %}.
 
-[^11]: [[Stern and Schlick-Nolte 1994]], pp. 28–37.
+[^11]: {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 28–37.
 
-[^12]: [[Oppenheim et al. 1970]], pp. 69–71.
+[^12]: {% cite 'Oppenheim et al. 1970' %}, pp. 69–71.
 
-[^13]: [[Schlick-Nolte and Lierke 2002]], p. 19; [[Vandiver 1983]], pp. 239–247.
+[^13]: {% cite 'Schlick-Nolte and Lierke 2002' %}, p. 19; {% cite 'Vandiver 1983' %}, pp. 239–247.
 
-[^14]: For the finds from Amarna see [[Nicholson, Jackson, and Trott 1997]], pp. 143–153, pl. XVII; (Nicholson 2007}, esp. pp. 125, 158. For the finds from Qantir see [[Rehren and Pusch 1997]]. For the finds from Karnak see [[Schlick-Nolte and Lierke 2002]], pp. 17–22, figs. 3–4.
+[^14]: For the finds from Amarna see {% cite 'Nicholson, Jackson, and Trott 1997' %}, pp. 143–153, pl. XVII; (Nicholson 2007}, esp. pp. 125, 158. For the finds from Qantir see {% cite 'Rehren and Pusch 1997' %}. For the finds from Karnak see {% cite 'Schlick-Nolte and Lierke 2002' %}, pp. 17–22, figs. 3–4.
 
-[^15]: Barag 1985, pp. 107–113; [[Stern and Schlick-Nolte 1994]], p. 20.
+[^15]: Barag 1985, pp. 107–113; {% cite 'Stern and Schlick-Nolte 1994' %}, p. 20.
 
-[^16]: On Mycenean beads see [[Nightingale 2002]], with further bibliography.
+[^16]: On Mycenean beads see {% cite 'Nightingale 2002' %}, with further bibliography.
 
-[^17]: [[Triantafyllidis 2000]], pp. 36–39, 193–195.
+[^17]: {% cite 'Triantafyllidis 2000' %}, pp. 36–39, 193–195.
 
-[^18]: [[Harden 1981]], pp. 58–99; [[Grose 1989]], pp. 110–115.
+[^18]: {% cite 'Harden 1981' %}, pp. 58–99; {% cite 'Grose 1989' %}, pp. 110–115.
 
-[^19]: [[Harden 1981]], pp. 100–121; [[Grose 1989]], pp. 115–122.
+[^19]: {% cite 'Harden 1981' %}, pp. 100–121; {% cite 'Grose 1989' %}, pp. 115–122.
 
-[^20]: [[Harden 1981]], pp. 123–141; [[Grose 1989]], pp. 122–125.
+[^20]: {% cite 'Harden 1981' %}, pp. 123–141; {% cite 'Grose 1989' %}, pp. 122–125.
 
-[^21]: [[Stern and Schlick-Nolte 1994]], pp. 136 with rich bibliography on the Egyptian finds of the kind.
+[^21]: {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 136 with rich bibliography on the Egyptian finds of the kind.
 
-[^22]: [[Barag 1975]], pp. 23–26.
+[^22]: {% cite 'Barag 1975' %}, pp. 23–26.
 
-[^23]: [[Ignatiadou 2017]], p. 61; [[Lierke 2001]], p. 183, fig. 10.
+[^23]: {% cite 'Ignatiadou 2017' %}, p. 61; {% cite 'Lierke 2001' %}, p. 183, fig. 10.
 
-[^24]: [[Barag 1975]], p. 30, note 29; [[Stern 2001]], p. 144, no. 78–81.
+[^24]: {% cite 'Barag 1975' %}, p. 30, note 29; {% cite 'Stern 2001' %}, p. 144, no. 78–81.
 
-[^25]: [[Stern and Schlick-Nolte 1994]], pp. 50–52; [[Lierke 2001]], pp. 183–184.
+[^25]: {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 50–52; {% cite 'Lierke 2001' %}, pp. 183–184.
 
-[^26]: [[Grose 1991]], p. 2; [[Grose 1989]], p. 254.
+[^26]: {% cite 'Grose 1991' %}, p. 2; {% cite 'Grose 1989' %}, p. 254.
 
-[^27]: [[Stern and Schlick-Nolte 1994]], pp. 64–65.
+[^27]: {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 64–65.
 
-[^28]: [[Lierke 1999]], pp. 58–59.
+[^28]: {% cite 'Lierke 1999' %}, pp. 58–59.
 
-[^29]: [[Stern and Schlick-Nolte 1994]], pp. 68–71.
+[^29]: {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 68–71.
 
-[^30]: [[Grose 1989]], pp. 261–262; [[Stern and Fünfschilling 2020]], pp. 41–68.
+[^30]: {% cite 'Grose 1989' %}, pp. 261–262; {% cite 'Stern and Fünfschilling 2020' %}, pp. 41–68.
 
-[^31]: [[Stern and Schlick-Nolte 1994]], pp. 64–65, 68–69. Very enlightening on this matter are the illustrations in [[Tait 1991]], pp. 219–221, where glassmaker B. Gudenrath recreates the process using modern equipment.
+[^31]: {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 64–65, 68–69. Very enlightening on this matter are the illustrations in {% cite 'Tait 1991' %}, pp. 219–221, where glassmaker B. Gudenrath recreates the process using modern equipment.
 
-[^32]: [[Bianchi 1983a]]; [[Bianchi 1983b]]; [[Grose 1989]], pp. 351–358; [[Stern and Schlick-Nolte 1994]], pp. 61–63, 360–364, 368–409; [[Nenna 1995]]; [[Auth 1999]]; [[Mahnke 2008]]; [[Nenna 2010]], pp. 81–85.
+[^32]: {% cite 'Bianchi 1983a' %}; {% cite 'Bianchi 1983b' %}; {% cite 'Grose 1989' %}, pp. 351–358; {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 61–63, 360–364, 368–409; {% cite 'Nenna 1995' %}; {% cite 'Auth 1999' %}; {% cite 'Mahnke 2008' %}; {% cite 'Nenna 2010' %}, pp. 81–85.
 
-[^33]: [[Stern and Schlick-Nolte 1994]], p. 54.
+[^33]: {% cite 'Stern and Schlick-Nolte 1994' %}, p. 54.
 
-[^34]: [[Auth 1976]], p. 54, col. pl. 51; [[Stern and Schlick-Nolte 1994]], pp. 65–66, 274–275; [[Lierke 1999]], pp. 39–41.
+[^34]: {% cite 'Auth 1976' %}, p. 54, col. pl. 51; {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 65–66, 274–275; {% cite 'Lierke 1999' %}, pp. 39–41.
 
-[^35]: [[Lierke 1999]], pp. 61–66.
+[^35]: {% cite 'Lierke 1999' %}, pp. 61–66.
 
-[^36]: [[Weinberg and McClellan 1992]], pp. 56–57, no. 48.
+[^36]: {% cite 'Weinberg and McClellan 1992' %}, pp. 56–57, no. 48.
 
-[^37]: [[Lierke 1999]], pp. 64–66; [[Schlick-Nolte and Lierke 2002]], pp. 29–31.
+[^37]: {% cite 'Lierke 1999' %}, pp. 64–66; {% cite 'Schlick-Nolte and Lierke 2002' %}, pp. 29–31.
 
-[^38]: [[Lierke 1999]], pp. 32–36, 102–103.
+[^38]: {% cite 'Lierke 1999' %}, pp. 32–36, 102–103.
 
-[^39]: [[Lierke and Lindig 1997]]; [[Lierke 1999]], pp. 67–96.
+[^39]: {% cite 'Lierke and Lindig 1997' %}; {% cite 'Lierke 1999' %}, pp. 67–96.
 
-[^40]: [[Stern and Schlick-Nolte 1994]], pp. 72–78.
+[^40]: {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 72–78.
 
-[^41]: [[Grose 1991]], p. 2; [[Grose 1989]], p. 254.
+[^41]: {% cite 'Grose 1991' %}, p. 2; {% cite 'Grose 1989' %}, p. 254.
 
-[^42]: [[Stern and Schlick-Nolte 1994]], pp. 64–65.
+[^42]: {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 64–65.
 
-[^43]: [[Lierke 1999]], pp. 58–59.
+[^43]: {% cite 'Lierke 1999' %}, pp. 58–59.
 
-[^44]: [[Lierke 1999]], pp. 37–39; [[Stern and Schlick-Nolte 1994]], pp. 79–81.
+[^44]: {% cite 'Lierke 1999' %}, pp. 37–39; {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 79–81.
 
-[^45]: [[Pliny, *Natural History*]] 36.193. For a detailed commentary on the passage, see [[Stern 2007]], pp. 358–359.
+[^45]: {% cite 'Pliny, *Natural History*' %} 36.193. For a detailed commentary on the passage, see {% cite 'Stern 2007' %}, pp. 358–359.
 
-[^46]: [[Israeli 1991]], p. 53.
+[^46]: {% cite 'Israeli 1991' %}, p. 53.
 
-[^47]: [[Stern 1999a]], p. 443.
+[^47]: {% cite 'Stern 1999a' %}, p. 443.
 
-[^48]: [[Strabo, *Geographica*]] 16.2.25.
+[^48]: {% cite 'Strabo, *Geographica*' %} 16.2.25.
 
-[^49]: [[Stern 2004]], pp. 82–83.
+[^49]: {% cite 'Stern 2004' %}, pp. 82–83.
 
-[^50]: [[Baldoni 1987]]; [[Stern and Schlick-Nolte 1994]], pp. 24–25.
+[^50]: {% cite 'Baldoni 1987' %}; {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 24–25.
 
-[^51]: [[Stern 1999a]], pp. 446–447.
+[^51]: {% cite 'Stern 1999a' %}, pp. 446–447.
 
-[^52]: [[Strabo, *Geographica*]] 16.2.25. For a detailed commentary on the passage, see Stern 2007, pp. 362–363.
+[^52]: {% cite 'Strabo, *Geographica*' %} 16.2.25. For a detailed commentary on the passage, see Stern 2007, pp. 362–363.
 
-[^53]: [[Barag 1985]], pp. 113–116.
+[^53]: {% cite 'Barag 1985' %}, pp. 113–116.
 
-[^54]: [[Stern 1999a]], pp. 460–466.
+[^54]: {% cite 'Stern 1999a' %}, pp. 460–466.
 
-[^55]: [[Fleming 1999]], p. 42. For a general overview of finds from different areas, as well as of specific techniques and products, see [[Fontaine-Hodiamont, Bourguignon and Laevers 2010]]. A concise overview of what is known about this technique can be found in [[Stern 2010]]. For an example of finds from a large Mediterranean city, see [[Antonaras 2010c]].
+[^55]: {% cite 'Fleming 1999' %}, p. 42. For a general overview of finds from different areas, as well as of specific techniques and products, see {% cite 'Fontaine-Hodiamont, Bourguignon and Laevers 2010' %}. A concise overview of what is known about this technique can be found in {% cite 'Stern 2010' %}. For an example of finds from a large Mediterranean city, see {% cite 'Antonaras 2010c' %}.
 
-[^56]: [[Stern 1995]], pp. 46–47.
+[^56]: {% cite 'Stern 1995' %}, pp. 46–47.
 
-[^57]: [[Pliny, *Natural History*]] 36.193. For a detailed commentary on this passage, see [[Stern 2007]], pp. 359–362.
+[^57]: {% cite 'Pliny, *Natural History*' %} 36.193. For a detailed commentary on this passage, see {% cite 'Stern 2007' %}, pp. 359–362.
 
-[^58]: [[Isings 1957]], p. 45, type 31.
+[^58]: {% cite 'Isings 1957' %}, p. 45, type 31.
 
-[^59]: [[Stern 2001]], p. 41.
+[^59]: {% cite 'Stern 2001' %}, p. 41.
 
-[^60]: [[Stern 1995]], pp. 201–246. On the production of mold-blown and dip mold–blown vessels in a large Mediterranean center like Thessaloniki throughout the Roman period and on the relation and juxtaposition of this technique with free blowing, see [[Antonaras 2010c]], p. 252.
+[^60]: {% cite 'Stern 1995' %}, pp. 201–246. On the production of mold-blown and dip mold–blown vessels in a large Mediterranean center like Thessaloniki throughout the Roman period and on the relation and juxtaposition of this technique with free blowing, see {% cite 'Antonaras 2010c' %}, p. 252.
 
-[^61]: [[Barag 1970c]], pp. 35–63; [[Barag 1971]], pp. 45–63; [[Stern 1995]], pp. 247–269; [[Newby 2008]], passim and see pp. 12–17 for an introduction.
+[^61]: {% cite 'Barag 1970c' %}, pp. 35–63; {% cite 'Barag 1971' %}, pp. 45–63; {% cite 'Stern 1995' %}, pp. 247–269; {% cite 'Newby 2008' %}, passim and see pp. 12–17 for an introduction.
 
-[^62]: [[Price and Cottam 1998]], p. 13; [[Stern 2001]], pp. 27, 133–134.
+[^62]: {% cite 'Price and Cottam 1998' %}, p. 13; {% cite 'Stern 2001' %}, pp. 27, 133–134.
 
-[^63]: [[Sorokina 1978]], pp. 118–119, pl. 4.2; this technique has been traced in a workshop of the second and/or third century at Tanais, on the Black Sea.
+[^63]: {% cite 'Sorokina 1978' %}, pp. 118–119, pl. 4.2; this technique has been traced in a workshop of the second and/or third century at Tanais, on the Black Sea.
 
-[^64]: [[Ignatiadou 2004]], p. 61 [Please add to reference list].
+[^64]: {% cite 'Ignatiadou 2004' %}, p. 61 [Please add to reference list].
 
-[^65]: [[Martial, *Epigr*]] 11.11 and 12.74. [[Clement of Alexandria, *Paedagogus*]] 2.3.35. For detailed commentary on the passages, see [[Trowbridge 1930]], pp. 109, 166, respectively.
+[^65]: {% cite 'Martial, *Epigr*' %} 11.11 and 12.74. {% cite 'Clement of Alexandria, *Paedagogus*' %} 2.3.35. For detailed commentary on the passages, see {% cite 'Trowbridge 1930' %}, pp. 109, 166, respectively.
 
-[^66]: This technique has been studied in detail in [[Paolucci 1997]], pp. 17–20 and passim. On techniques that survived through the Middle Ages and in more recent times, see [[Charleston 1964]], pp. 83–100 and [[Charleston 1965]], pp. 41–54.
+[^66]: This technique has been studied in detail in {% cite 'Paolucci 1997' %}, pp. 17–20 and passim. On techniques that survived through the Middle Ages and in more recent times, see {% cite 'Charleston 1964' %}, pp. 83–100 and {% cite 'Charleston 1965' %}, pp. 41–54.
 
-[^67]: [[Paolucci 1997]], pp. 63–80.
+[^67]: {% cite 'Paolucci 1997' %}, pp. 63–80.
 
-[^68]: [[Lierke 1999]], pp. 67–96, esp. 83–85. On older hypotheses regarding the way of production, see [[Gudenrath and Whitehouse 1990]]; [[Painter and Whitehouse 1990a]]; [[Painter and Whitehouse 1990b]]; [[Sternini 1995]], pp. 120–121.
+[^68]: {% cite 'Lierke 1999' %}, pp. 67–96, esp. 83–85. On older hypotheses regarding the way of production, see {% cite 'Gudenrath and Whitehouse 1990' %}; {% cite 'Painter and Whitehouse 1990a' %}; {% cite 'Painter and Whitehouse 1990b' %}; {% cite 'Sternini 1995' %}, pp. 120–121.
 
-[^69]: [[Whitehouse 1991]].
+[^69]: {% cite 'Whitehouse 1991' %}.
 
-[^70]: [[Whitehouse 1990]]. For an overview on the matter with many examples from the Corning Museum of Glass collection see [[Whitehouse 1997]], pp. 41–65.
+[^70]: {% cite 'Whitehouse 1990' %}. For an overview on the matter with many examples from the Corning Museum of Glass collection see {% cite 'Whitehouse 1997' %}, pp. 41–65.
 
-[^71]: [[Stern 2001]], pp. 81–82.
+[^71]: {% cite 'Stern 2001' %}, pp. 81–82.
 
-[^72]: [[Stern 1999b]], pp. 40–41; [[Ignatiadou et al. 2005]].
+[^72]: {% cite 'Stern 1999b' %}, pp. 40–41; {% cite 'Ignatiadou et al. 2005' %}.
 
-[^73]: The term is used for the first time in [[Athenaeus, *Deipnosophistae*]] 5.199f, in relation to glass vessels. For a commentary on the passage, see [[Trowbridge 1930]], p. 110, 154, note 23. For gilded vessels of this period see [[Stern and Schlick-Nolte 1994]], pp. 262–267, nos. 69–70; [[Ignatiadou 2000]], pp. 35–36, figs. 1–4; [[Arveiller-Dulong and Nenna 2000]], pp. 168–171.
+[^73]: The term is used for the first time in {% cite 'Athenaeus, *Deipnosophistae*' %} 5.199f, in relation to glass vessels. For a commentary on the passage, see {% cite 'Trowbridge 1930' %}, p. 110, 154, note 23. For gilded vessels of this period see {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 262–267, nos. 69–70; {% cite 'Ignatiadou 2000' %}, pp. 35–36, figs. 1–4; {% cite 'Arveiller-Dulong and Nenna 2000' %}, pp. 168–171.
 
-[^74]: [[Cameron 1996]].
+[^74]: {% cite 'Cameron 1996' %}.
 
-[^75]: [[Stern 2001]], pp. 139–140.
+[^75]: {% cite 'Stern 2001' %}, pp. 139–140.
 
-[^76]: [[Antonaras 2008]], pp. 298–302.
+[^76]: {% cite 'Antonaras 2008' %}, pp. 298–302.
 
 [^77]: E.g. fourth-century vessel from Thessaloniki, (acc. no. ΒΚ 4467/186 in Museum of Byzantine Culture, Thessaloniki) rendering in clay a glass vessel of Isings’s form 103 with indentations around the body.
 
-[^78]: [[Isings 1957]], p. 46, form 32 and p. 49, form 35.
+[^78]: {% cite 'Isings 1957' %}, p. 46, form 32 and p. 49, form 35.
 
-[^79]: [[Price and Cottam 1998]], p. 33; [[Stern 2001]], pp. 209–211, 242–243, nos. 99–101, 128–129.
+[^79]: {% cite 'Price and Cottam 1998' %}, p. 33; {% cite 'Stern 2001' %}, pp. 209–211, 242–243, nos. 99–101, 128–129.
 
-[^80]: [[Stern 2001]], p. 248, no. 134, where there is also a relevant bibliography.
+[^80]: {% cite 'Stern 2001' %}, p. 248, no. 134, where there is also a relevant bibliography.
 
-[^81]: [[Price and Cottam 1998]], pp. 32–33; Stern 2001, pp. 249–251, nos. 135–137.
+[^81]: {% cite 'Price and Cottam 1998' %}, pp. 32–33; Stern 2001, pp. 249–251, nos. 135–137.
 
-[^82]: [[Dussart 1998]], p. 128, BX 111a, table 32/1, p. 158, BX 83, table 46/21, p. 161, BXII.1, table 49/1; [[Stern 2001]], p. 354, no. 201; [[Gorin-Rosen 2006]], p. 111, note 7.
+[^82]: {% cite 'Dussart 1998' %}, p. 128, BX 111a, table 32/1, p. 158, BX 83, table 46/21, p. 161, BXII.1, table 49/1; {% cite 'Stern 2001' %}, p. 354, no. 201; {% cite 'Gorin-Rosen 2006' %}, p. 111, note 7.
 
-[^83]: [[Weinberg and McLellan 1992]], p. 132, no. 107; [[Fremersdorf and Polónyi-Fremersdorf 1984]], p. 65, nos. 152–153.
+[^83]: {% cite 'Weinberg and McLellan 1992' %}, p. 132, no. 107; {% cite 'Fremersdorf and Polónyi-Fremersdorf 1984' %}, p. 65, nos. 152–153.
 
-[^84]: [[Dussart 1998]], p. 162, BXII 214, table 49/7.
+[^84]: {% cite 'Dussart 1998' %}, p. 162, BXII 214, table 49/7.
 
-[^85]: [[Weinberg 1988]], pp. 3, 80–81, cat. nos. 351–353, drawing in table 4-39, photo in table 4-15/351, 352, where there is also an older bibliography, as well as technical and production details.
+[^85]: {% cite 'Weinberg 1988' %}, pp. 3, 80–81, cat. nos. 351–353, drawing in table 4-39, photo in table 4-15/351, 352, where there is also an older bibliography, as well as technical and production details.
 
-[^86]: For typical examples from various periods and places of origin, see [[Stern and Schlick-Nolte 1994]], pp. 137, 205, 237, 279, nos. 8, 43, 59, 76; [[Stern 2001]], pp. 70, 119, 193, 235, 238, nos. 13, 49, 84, 121, 124.
+[^86]: For typical examples from various periods and places of origin, see {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 137, 205, 237, 279, nos. 8, 43, 59, 76; {% cite 'Stern 2001' %}, pp. 70, 119, 193, 235, 238, nos. 13, 49, 84, 121, 124.
 
-[^87]: [[Stern and Schlick-Nolte 1994]], pp. 262–267, nos. 69–70; [[Ignatiadou 2000]], pp. 35–36, figs. 1–4; [[Arveiller-Dulong and Nenna 2000]], pp. 168–171.
+[^87]: {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 262–267, nos. 69–70; {% cite 'Ignatiadou 2000' %}, pp. 35–36, figs. 1–4; {% cite 'Arveiller-Dulong and Nenna 2000' %}, pp. 168–171.
 
-[^88]: [[Rütti 1991b]].
+[^88]: {% cite 'Rütti 1991b' %}.
 
-[^89]: [[Rütti 1991b]], pp. 134–135.
+[^89]: {% cite 'Rütti 1991b' %}, pp. 134–135.
 
-[^90]: [[Whitehouse 2001a]], pp. 254, 273–274, no. 866.
+[^90]: {% cite 'Whitehouse 2001a' %}, pp. 254, 273–274, no. 866.
 
-[^91]: [[Vessberg 1952]], type I lid, pp. 149–150, table X, no. 5; [[Whitehouse 2001a]], p. 264, no. 859.
+[^91]: {% cite 'Vessberg 1952' %}, type I lid, pp. 149–150, table X, no. 5; {% cite 'Whitehouse 2001a' %}, p. 264, no. 859.
 
-[^92]: [[Whitehouse 2001a]], pp. 253–277.
+[^92]: {% cite 'Whitehouse 2001a' %}, pp. 253–277.
 
-[^93]: [[Grabar 1971]], pp. 90–106; [[Whitehouse 1998b]], pp. 4–7; [[Antonaras 2010b]], pp. 395–397.
+[^93]: {% cite 'Grabar 1971' %}, pp. 90–106; {% cite 'Whitehouse 1998b' %}, pp. 4–7; {% cite 'Antonaras 2010b' %}, pp. 395–397.
