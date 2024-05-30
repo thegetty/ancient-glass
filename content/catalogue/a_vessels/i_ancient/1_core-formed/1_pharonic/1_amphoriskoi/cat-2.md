@@ -22,7 +22,7 @@ A turquoise or translucent gray unmarvered thread around the rim. The dark-color
 
 ## Comments and Comparanda
 
-No direct parallels are published. The vessel could be a flask ([[Nolte 1968]], form I), although it cannot be excluded that it originally had handles ([[Nolte 1968]], form II). Probably connected to the production of a workshop active after the Amarna period in an unknown place, during the Ramesside period (Nineteenth–Twentieth Dynasties; thirteenth–eleventh centuries BCE), where single-colored vessels were made alongside thread-decorated vases of workgroup 5 ([[Nolte 1968]], pp. 127–129, workshop 6).
+No direct parallels are published. The vessel could be a flask ({% cite 'Nolte 1968' %}, form I), although it cannot be excluded that it originally had handles ({% cite 'Nolte 1968' %}, form II). Probably connected to the production of a workshop active after the Amarna period in an unknown place, during the Ramesside period (Nineteenth–Twentieth Dynasties; thirteenth–eleventh centuries BCE), where single-colored vessels were made alongside thread-decorated vases of workgroup 5 ({% cite 'Nolte 1968' %}, pp. 127–129, workshop 6).
 
 ## Provenance
 
@@ -30,9 +30,9 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-[[von Saldern 1968]], p. 12, no. 2.
+{% cite 'von Saldern 1968' %}, p. 12, no. 2.
 
-[[von Saldern et al. 1974]], p. 19, no. 8.
+{% cite 'von Saldern et al. 1974' %}, p. 19, no. 8.
 
 ## Exhibitions
 

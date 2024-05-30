@@ -22,7 +22,7 @@ An unmarvered opaque yellow thread is wound around the rim. A marvered wide yell
 
 ## Comments and Comparanda
 
-On core-formed amphoriskoi of this period see comments on {% cat '2003.178' %}. For the classification of this particular amphoriskos see [[Grose 1989]], class I:B, amphoriskos form I:1: p. 143, no. 96.
+On core-formed amphoriskoi of this period see comments on {% cat '2003.178' %}. For the classification of this particular amphoriskos see {% cite 'Grose 1989' %}, class I:B, amphoriskos form I:1: p. 143, no. 96.
 
 ## Provenance
 
@@ -30,7 +30,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-[[von Saldern et al. 1974]], p. 62, no. 141; p. 60, plate no. 141.
+{% cite 'von Saldern et al. 1974' %}, p. 62, no. 141; p. 60, plate no. 141.
 
 ## Exhibitions
 

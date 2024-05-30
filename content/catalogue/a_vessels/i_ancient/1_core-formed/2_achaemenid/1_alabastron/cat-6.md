@@ -20,7 +20,7 @@ Flaring rim, with one ground band clearly visible at the tip and another in the 
 
 ## Comments and Comparanda
 
-These cast alabastra are part of a Phoenician or Assyrian monochrome glass production that included bowls but also handled jars, jugs, and incense burners. They have been found in Assyria, Cyprus, Italy, and Spain in contexts dated to the late eighth through sixth centuries BCE ([[von Saldern 1970]], pp. 225–228, nos. 48–54; [[Grose 1989]], pp. 75–76). In general, it is believed that they were made by Phoenician craftsmen working in the Assyrian royal court. Particularly for the alabastra, it has been assumed that they were made in Phoenicia ([[Barag 1985]], esp. pp. 52–57). Alabastra appear in two variants: a taller and slender one with height ranging between 18 and 23 cm (from Italy: [[von Saldern 1970]], no. 48 = [[Goldstein 1979]], p. 102, no. 200; [[von Saldern 1970]], no. 51 = [[Barag 1985]], pp. 67–68, no. 44; [[von Saldern 1970]], no. 54a; and Cyprus: [[von Saldern 1970]], no. 52= [[Lightfoot 2017]], p. 29, no. 3), and a squatter one, like 2004.16, with a height between 10 and 14 cm ([[von Saldern 1970]], nos. 50, 53 from Cyprus; [[Arveiller-Dulong and Nenna 2000]], pp. 166–167, no. 195 from Italy). In addition, a similar squat alabastron has been unearthed in Rhodes in a burial dated to the last quarter of the fourth century BCE ([[Triantafyllidis 2000]], pp. 154–155, no. 15).
+These cast alabastra are part of a Phoenician or Assyrian monochrome glass production that included bowls but also handled jars, jugs, and incense burners. They have been found in Assyria, Cyprus, Italy, and Spain in contexts dated to the late eighth through sixth centuries BCE ({% cite 'von Saldern 1970' %}, pp. 225–228, nos. 48–54; {% cite 'Grose 1989' %}, pp. 75–76). In general, it is believed that they were made by Phoenician craftsmen working in the Assyrian royal court. Particularly for the alabastra, it has been assumed that they were made in Phoenicia ({% cite 'Barag 1985' %}, esp. pp. 52–57). Alabastra appear in two variants: a taller and slender one with height ranging between 18 and 23 cm (from Italy: {% cite 'von Saldern 1970' %}, no. 48 = {% cite 'Goldstein 1979' %}, p. 102, no. 200; {% cite 'von Saldern 1970' %}, no. 51 = {% cite 'Barag 1985' %}, pp. 67–68, no. 44; {% cite 'von Saldern 1970' %}, no. 54a; and Cyprus: {% cite 'von Saldern 1970' %}, no. 52= {% cite 'Lightfoot 2017' %}, p. 29, no. 3), and a squatter one, like 2004.16, with a height between 10 and 14 cm ({% cite 'von Saldern 1970' %}, nos. 50, 53 from Cyprus; {% cite 'Arveiller-Dulong and Nenna 2000' %}, pp. 166–167, no. 195 from Italy). In addition, a similar squat alabastron has been unearthed in Rhodes in a burial dated to the last quarter of the fourth century BCE ({% cite 'Triantafyllidis 2000' %}, pp. 154–155, no. 15).
 
 ## Provenance
 
@@ -28,11 +28,11 @@ By 1968–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-[[von Saldern 1968]], p. 12, no. 3.
+{% cite 'von Saldern 1968' %}, p. 12, no. 3.
 
-[[Oppenheim et al. 1970]], p. 226, no. 49, fig. 45.
+{% cite 'Oppenheim et al. 1970' %}, p. 226, no. 49, fig. 45.
 
-[[von Saldern et al. 1974]], p. 92, no. 241.
+{% cite 'von Saldern et al. 1974' %}, p. 92, no. 241.
 
 ## Exhibitions
 

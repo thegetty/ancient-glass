@@ -22,7 +22,7 @@ An unmarvered turquoise thread is wound around the rim and spirally wound three 
 
 ## Comments and Comparanda
 
-See comments on {% cat '2003.179' %}. For the classification of this particular oinochoe see [[Grose 1989]], class II:A, oinochoe form II:1 subclass with upright festoon and not feathering; see Toronto, ROM 950.157.15 ([[Grose 1989]], p. 118, fig. 74).
+See comments on {% cat '2003.179' %}. For the classification of this particular oinochoe see {% cite 'Grose 1989' %}, class II:A, oinochoe form II:1 subclass with upright festoon and not feathering; see Toronto, ROM 950.157.15 ({% cite 'Grose 1989' %}, p. 118, fig. 74).
 
 ## Provenance
 
@@ -30,7 +30,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-[[von Saldern et al. 1974]], p. 54, no. 120; p. 53, plate no. 120.
+{% cite 'von Saldern et al. 1974' %}, p. 54, no. 120; p. 53, plate no. 120.
 
 ## Exhibitions
 

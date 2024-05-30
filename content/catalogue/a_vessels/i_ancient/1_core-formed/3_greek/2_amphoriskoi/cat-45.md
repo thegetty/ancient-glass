@@ -22,7 +22,7 @@ A yellow and a turquoise marvered threads spirally wound 27 times from rim to bo
 
 ## Comments and Comparanda
 
-On core-formed amphoriskoi of this period see comments on {% cat '2003.200' %}. For the classification of this particular amphoriskos see [[Grose 1989]], class III:E, amphoriskos form III:2B: pp. 170–172, nos. 170–174. The shoulder area was restored forming an unexpected obtuse angle between the neck and the shoulder/body, compared for instance with the more typical for the form 2003.204.
+On core-formed amphoriskoi of this period see comments on {% cat '2003.200' %}. For the classification of this particular amphoriskos see {% cite 'Grose 1989' %}, class III:E, amphoriskos form III:2B: pp. 170–172, nos. 170–174. The shoulder area was restored forming an unexpected obtuse angle between the neck and the shoulder/body, compared for instance with the more typical for the form 2003.204.
 
 ## Provenance
 
@@ -30,7 +30,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-[[von Saldern et al. 1974]], p. 80, no. 214.
+{% cite 'von Saldern et al. 1974' %}, p. 80, no. 214.
 
 ## Exhibitions
 

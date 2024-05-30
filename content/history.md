@@ -22,7 +22,7 @@ Upon his death in 1976, Getty left the majority of his personal estate to the mu
 
 In 1985, antiquities curator Marion True arranged for the acquisition of selected works from the Kofler-Truniger collection at auction in London, including the most important work offered, a cameo glass flask with Egyptianizing motifs.[^20] The department’s graduate intern that year, Karol Wight, helped prepare the acquisition proposals for these objects, sparking her own interest in ancient glass, which ultimately led to her dissertation on one of the Kofler-Truniger pieces acquired at the sale, a first-century mythological beaker (fig. 6).[^21] {% figure 'fig-6-history' %} Later that year, the Getty bought two blown-glass beakers from New York dealer Robert Haber.[^22] There were no additional glass acquisitions until the mid-1990s, when the partial purchase and donation of the Barbara and Lawrence Fleischman collection brought three ancient glass objects, the most notable a fine white and blue snake-thread flask.[^23] Around the same time, True acquired a mold-blown cup inscribed in Greek, “Be glad that you have come,” possibly made by the Syrian workshop of Ennion, and a remarkable facet-cut glass beaker.[^24]
 
-The Getty Museum’s ancient glass collection now numbered around 175 objects. The holdings included a selection of high-quality objects, notably the two cameo glass vessels, but it was hardly representative of the great variety of glass vessels produced in antiquity. In 2003 and 2004, however, Marion True, with assistance from Karol Wight, arranged for the purchase of approximately 420 pieces from the ancient glass collection of Erwin Oppenländer (1901–1988), which had been inherited by his two children, Gert and Ingrid.[^25] The entire collection of more than 1,000 objects had been assembled with great care to include only works of the highest quality that represent the various glass manufacturing techniques.[^26] Erwin Oppenländer began collecting ancient glass in the 1920s, buying works at auction and from European dealers. Pieces from his collection are first mentioned in articles in 1959 and, starting in 1965, appear in the “Recent Acquisitions” section of the [Journal of Glass Studies]{.underline}. Among the selection acquired by the Getty, some objects have much earlier histories, a few coming from the Barberini and Stroganoff collections in Rome, which were assembled in the seventeenth and eighteenth centuries, and the collections of Louis de Clercq (1836–1901), Arnold Vogell (1857–1911), Fredrich von Gans (1833–1920), and Giorgio Sangiorgi (1886–1965). The 50 objects from the Pierre Mavrogordato (1870–1948) collection may have been purchased en bloc, but this is uncertain. By 1974, Oppenländer’s glass collection numbered 762 objects and was presented in a special exhibition in Hamburg and Cologne, accompanied by an extensive catalogue by the noted glass expert Axel von Saldern.[^27]
+The Getty Museum’s ancient glass collection now numbered around 175 objects. The holdings included a selection of high-quality objects, notably the two cameo glass vessels, but it was hardly representative of the great variety of glass vessels produced in antiquity. In 2003 and 2004, however, Marion True, with assistance from Karol Wight, arranged for the purchase of approximately 420 pieces from the ancient glass collection of Erwin Oppenländer (1901–1988), which had been inherited by his two children, Gert and Ingrid.[^25] The entire collection of more than 1,000 objects had been assembled with great care to include only works of the highest quality that represent the various glass manufacturing techniques.[^26] Erwin Oppenländer began collecting ancient glass in the 1920s, buying works at auction and from European dealers. Pieces from his collection are first mentioned in articles in 1959 and, starting in 1965, appear in the “Recent Acquisitions” section of the *Journal of Glass Studies*. Among the selection acquired by the Getty, some objects have much earlier histories, a few coming from the Barberini and Stroganoff collections in Rome, which were assembled in the seventeenth and eighteenth centuries, and the collections of Louis de Clercq (1836–1901), Arnold Vogell (1857–1911), Fredrich von Gans (1833–1920), and Giorgio Sangiorgi (1886–1965). The 50 objects from the Pierre Mavrogordato (1870–1948) collection may have been purchased en bloc, but this is uncertain. By 1974, Oppenländer’s glass collection numbered 762 objects and was presented in a special exhibition in Hamburg and Cologne, accompanied by an extensive catalogue by the noted glass expert Axel von Saldern.[^27]
 
 The Oppenländer acquisition greatly broadened and deepened the Getty museum’s glass holdings. Like the Getty’s antiquities collection as a whole, the majority of the Oppenländer glass objects are Greek and Roman, but there are examples of Egyptian, Mesopotamian, Phoenician, and Achaemenid Persian glass as well. The Oppenländer material also broadens the chronological range to span the entire history of ancient glass production, from New Kingdom Egyptian core-formed works and Mycenean cast glass beads (about 1400–1300 BCE) to Byzantine and Islamic vessels (800–1100 CE), as well as modern copies and forgeries in the style of ancient glass.
 
@@ -38,37 +38,37 @@ This catalogue is the first comprehensive presentation of the Getty Museum’s a
 
 {% endbackmatter %}
 
-[^1]: As part of the Getty Museum’s Antiquities Provenance Project, Judith Barr has extensively researched J. Paul Getty’s personal collection and the museum’s ancient glass holdings, and her findings have been invaluable in providing this summary. The study of ancient glass dates at least to the nineteenth century, though glass objects were documented in archaeological records even earlier; for a summary of the literature through the mid-twentieth century see [[Harden 1984]]. For more recent introductions to ancient Greek and Roman glass scholarship, see [[Larson 2023]] and [[Cool 2016]].
+[^1]: As part of the Getty Museum’s Antiquities Provenance Project, Judith Barr has extensively researched J. Paul Getty’s personal collection and the museum’s ancient glass holdings, and her findings have been invaluable in providing this summary. The study of ancient glass dates at least to the nineteenth century, though glass objects were documented in archaeological records even earlier; for a summary of the literature through the mid-twentieth century see {% cite 'Harden 1984' %}. For more recent introductions to ancient Greek and Roman glass scholarship, see {% cite 'Larson 2023' %} and {% cite 'Cool 2016' %}.
 
 [^2]: The Getty Museum at the Ranch House had a series of directors, curators, and acting curators, notably Paul Wescher and Burton Fredericksen, who specialized in paintings but oversaw antiquities purchases.
 
-[^3]: [[Getty 1941]], p. 392.
+[^3]: {% cite 'Getty 1941' %}, p. 392.
 
-[^4]: [[Lapatin 2018]], p. 109. Imitation Statue of Aphrodite ([67.AK.12](https://www.getty.edu/art/collection/object/105X9H)), Bust of a Woman ([70.AA.100](https://www.getty.edu/art/collection/object/103SQ6)), and Portrait Head of Agrippina the Younger ([70.AA.101](https://www.getty.edu/art/collection/object/103SQ5)).
+[^4]: {% cite 'Lapatin 2018' %}, p. 109. Imitation Statue of Aphrodite ([67.AK.12](https://www.getty.edu/art/collection/object/105X9H)), Bust of a Woman ([70.AA.100](https://www.getty.edu/art/collection/object/103SQ6)), and Portrait Head of Agrippina the Younger ([70.AA.101](https://www.getty.edu/art/collection/object/103SQ5)).
 
-[^5]: See [Harry Leonard Simmons](https://www.getty.edu/art/collection/person/105DZB), {% cat '78.AF.18' %}–{% cat '78.AF.32' %}, and {% cat '81.AF.1' %}; [[Parke-Bernet Galleries 1940]].
+[^5]: See [Harry Leonard Simmons](https://www.getty.edu/art/collection/person/105DZB), {% cat '78.AF.18' %}–{% cat '78.AF.32' %}, and {% cat '81.AF.1' %}; {% cite 'Parke-Bernet Galleries 1940' %}.
 
-[^6]: [[Getty 1965]], p. 14.
+[^6]: {% cite 'Getty 1965' %}, p. 14.
 
-[^7]: Just over a third of the ancient glass objects are illustrated in the auction catalog (19 of 53 lots) and a few include ex-collection information (12 of 53 lots) [[Parke-Bernet Galleries 1940]]. Prior owners represented in Getty’s purchases include Emile Tabbagh, 1879–1933 ({% cat '78.AF.29' %}, {% cat '78.AK.30' %}), George Dupont Pratt, 1869–1935 ({% cat '78.AF.26' %}), and Robert Weeks de Forest, 1848–1931 ({% cat '78.AF.21' %}), whose collections were sold in New York in the 1930s. Additional and earlier owners have since been identified, including Enrico Caruso, 1873–1921 ([78.AF.299](#num)), Frank Gair Macomber, 1849–1941 ({% cat '81.AF.1' %}), Valentine Everit Macy, 1871–1930 ({% cat '78.AF.23' %}), and a 1936 Anderson Galleries auction ({% cat '78.AF.22' %}, {% cat '78.AF.32' %}).
+[^7]: Just over a third of the ancient glass objects are illustrated in the auction catalog (19 of 53 lots) and a few include ex-collection information (12 of 53 lots) {% cite 'Parke-Bernet Galleries 1940' %}. Prior owners represented in Getty’s purchases include Emile Tabbagh, 1879–1933 ({% cat '78.AF.29' %}, {% cat '78.AK.30' %}), George Dupont Pratt, 1869–1935 ({% cat '78.AF.26' %}), and Robert Weeks de Forest, 1848–1931 ({% cat '78.AF.21' %}), whose collections were sold in New York in the 1930s. Additional and earlier owners have since been identified, including Enrico Caruso, 1873–1921 ([78.AF.299](#num)), Frank Gair Macomber, 1849–1941 ({% cat '81.AF.1' %}), Valentine Everit Macy, 1871–1930 ({% cat '78.AF.23' %}), and a 1936 Anderson Galleries auction ({% cat '78.AF.22' %}, {% cat '78.AF.32' %}).
 
 [^8]: In 1950, {% cat '78.AF.33' %}, {% cat '78.AF.34' %}; in 1953, {% cat '78.AF.35' %}, {% cat '78.AF.36' %}, {% cat '78.AF.37' %}.
 
-[^9]: Imitation of Frankish Silver Treasure 78.AK.11–17; [[[JPGM Guidebook]{.underline} 1st ed.]], p. 21.
+[^9]: Imitation of Frankish Silver Treasure 78.AK.11–17; {% cite '*JPGM Guidebook* 1st ed.' %}, p. 21.
 
-[^10]: [[Stothart 1965]], pp. 20–21. For a photo of the early glass display, see the [Los Angeles Times]{.underline}, Jan. 24, 1958, p. 25: https://www.newspapers.com/article/the-los-angeles-times/44318751/.
+[^10]: {% cite 'Stothart 1965' %}, pp. 20–21. For a photo of the early glass display, see the *Los Angeles Times*, Jan. 24, 1958, p. 25: https://www.newspapers.com/article/the-los-angeles-times/44318751/.
 
-[^11]: In 1955 Getty published a fictionalized history of the Lansdowne Hercules ([70.AA.109](https://www.getty.edu/art/collection/object/103QSP)), which he imagined as having once been displayed in the actual Villa dei Papiri; see [[Lapatin 2018]], pp. 15–18, and the novella “A Journey from Corinth” is in [[Getty and Le Vane 1955]], pp. 273–329.
+[^11]: In 1955 Getty published a fictionalized history of the Lansdowne Hercules ([70.AA.109](https://www.getty.edu/art/collection/object/103QSP)), which he imagined as having once been displayed in the actual Villa dei Papiri; see {% cite 'Lapatin 2018' %}, pp. 15–18, and the novella “A Journey from Corinth” is in {% cite 'Getty and Le Vane 1955' %}, pp. 273–329.
 
-[^12]: 71.AF.79–71.AF.85, and 71.AK.86 which was deaccessioned; [[Fredericksen 2015]], p. 104.
+[^12]: 71.AF.79–71.AF.85, and 71.AK.86 which was deaccessioned; {% cite 'Fredericksen 2015' %}, p. 104.
 
 [^13]: The glass bowl ({% cat '72.AF.37' %}) had long remained in the collections of the Château de Ripaille and in 1892 was transferred with the estate to Frédéric Engel-Gros (1843–1918), whose heirs still own the chateau.
 
 [^14]: The agate bowl ([72.AI.38](https://www.getty.edu/art/collection/object/103SVE)) was found in Qift (formerly Koptos) in southern Egypt in 1930.
 
-[^15]: [[*JPGM Guidebook* 3rd ed.]], p. 36; [[*JPGM Handbook* 4th ed.]], p. 36. The silver cup was likely [72.AM.34](https://www.getty.edu/art/collection/object/103SVB).
+[^15]: {% cite '*JPGM Guidebook* 3rd ed.' %}, p. 36; {% cite '*JPGM Handbook* 4th ed.' %}, p. 36. The silver cup was likely [72.AM.34](https://www.getty.edu/art/collection/object/103SVB).
 
-[^16]: [[Felch and Frammolino 2011]], 26–37; Kennedy, “Jiri Frel, Getty’s Former Antiquities Curator, Dies at 82,” *New York Times*, May 17, 2006.
+[^16]: {% cite 'Felch and Frammolino 2011' %}, 26–37; Kennedy, “Jiri Frel, Getty’s Former Antiquities Curator, Dies at 82,” *New York Times*, May 17, 2006.
 
 [^17]: Donation groups include forty-five glass fragments ([76.AF.70](https://www.getty.edu/art/collection/object/105XN4)) from Bruce McNall, five glass pendants ({% cat '78.AF.321.1' %}–{% cat '78.AF.321.5' %}) from Ira Goldberg, a group of 46 glass vessels ({% cat '79.AF.184.1' %}–{% cat '79.AF.184.47' %}) from Edwin Lipps, and a group of 27 glass fragments ({% cat '83.AF.28.1' %}–{% cat '83.AF.28.27' %}) from Jiri Frel (four fragments, 83.AF.28.3, 83.AF.28.5, 83.AF.28.7, 83.AF.28.13, were deaccessioned to the Education Department’s art handling collection in 2017). The donations from Frel note the importance of the objects for study purposes.
 
@@ -76,9 +76,9 @@ This catalogue is the first comprehensive presentation of the Getty Museum’s a
 
 [^19]: Cameo Glass Skyphos {% cat '84.AF.85' %}.
 
-[^20]: Ernest Kofler and Marthe Truniger acquired their ancient glass pieces from the mid-1950s through the late 1970s, assembling a collection of hundreds of vessels, Egyptian inlays, and fragments. From this sale, {% cat '85.AF.83' %}, {% cat '85.AF.84' %}, {% cat '85.AF.85' %}, and {% cat '85.AF.86' %} were acquired with Robin Symes acting as agent, and {% cat '85.AF.320' %} was acquired from the Mansour Gallery shortly after the auction. See [[Christie’s 1985]].
+[^20]: Ernest Kofler and Marthe Truniger acquired their ancient glass pieces from the mid-1950s through the late 1970s, assembling a collection of hundreds of vessels, Egyptian inlays, and fragments. From this sale, {% cat '85.AF.83' %}, {% cat '85.AF.84' %}, {% cat '85.AF.85' %}, and {% cat '85.AF.86' %} were acquired with Robin Symes acting as agent, and {% cat '85.AF.320' %} was acquired from the Mansour Gallery shortly after the auction. See {% cite 'Christie’s 1985' %}.
 
-[^21]: {% cat '85.AF.83' %}; see [[Wight 2011]], p. vi.
+[^21]: {% cat '85.AF.83' %}; see {% cite 'Wight 2011' %}, p. vi.
 
 [^22]: {% cat '85.AF.90' %} and {% cat '85.AF.91' %}.
 
@@ -86,15 +86,15 @@ This catalogue is the first comprehensive presentation of the Getty Museum’s a
 
 [^24]: {% cat '95.AF.60' %} and {% cat '96.AF.320' %}.
 
-[^25]: In 2003, the Getty bought the bulk of Gert Oppenländer’s collection, 370 works, and the following year acquired an additional 43 objects from Ingrid Reisser, who still retains the rest of her collection. On the Getty acquisition, [[Wight 2004]], p. 196.
+[^25]: In 2003, the Getty bought the bulk of Gert Oppenländer’s collection, 370 works, and the following year acquired an additional 43 objects from Ingrid Reisser, who still retains the rest of her collection. On the Getty acquisition, {% cite 'Wight 2004' %}, p. 196.
 
 [^26]: Acquisition Proposal, Gert Oppenlander collection of ancient glass, 2003, Getty Museum, Antiquities Department records.
 
-[^27]: Exhibitions were held at the Museum für Kunst und Gewerbe in Hamburg (October 4–November 17, 1974) and the Römisch-Germanisches Museum in Cologne (spring 1975); see [[von Saldern et al. 1974]].
+[^27]: Exhibitions were held at the Museum für Kunst und Gewerbe in Hamburg (October 4–November 17, 1974) and the Römisch-Germanisches Museum in Cologne (spring 1975); see {% cite 'von Saldern et al. 1974' %}.
 
-[^28]: [[Hess and Wight 2005]].
+[^28]: {% cite 'Hess and Wight 2005' %}.
 
-[^29]: [[Moltese 2007]], pp. 156–158, fig. 3.
+[^29]: {% cite 'Moltesen 2007' %}, pp. 156–158, fig. 3.
 
 [^30]: “[Molten Color: Glassmaking in Antiquity](https://www.getty.edu/art/collection/exhibition/103P50),” J. Paul Getty Museum at the Getty Villa, January 28–August 6, 2006, reinstalled in 2007 (January 11–April 23, 2007), 2009 (October 8, 2009–February 22, 2010), and became part of the permanent collection in 2010 (October 8, 2010–February 26, 2017).
 

@@ -60,7 +60,7 @@ During the Julio-Claudian era, single-colored, brightly hued glass vessels appea
 
 Slumping is a technique used to form open-shaped vessels by slumping, or sagging, a disk of viscous glass heated in the furnace over a convex former mold or in a concave, open mold; the glass disk gradually slumps and takes the shape of the mold through gravity, with the glassworker’s appropriate tooling.[^29] This technique appears relatively often in the years before the invention of glassblowing, used for various vessel forms and production methods. What vessels formed by slumping have in common is the fact that human breath was not used in their production. Such vessels were formed by heating the glass and using either a simple, open mold or a bipartite, closed one. In addition, in the early first century CE, slumped and blown mosaic vessels—small- or medium-sized flasks and unguentaria—were produced, illustrating the transition to the free-blowing technique ({% cat '2003.277' %}–{% cat '2003.293' %}).[^30]
 
-Mosaic vessels were made of bands and/or horizontal rod or cane sections of glass, known as florets ({% cat '85.AF.85' %}–{% cat '2003.255' %}). Masses of hot glass of the adequate colors were put together, tooled, and adhered, creating a wide and thick plaque with the desired motif in large scale in it. This plaque was reheated and pulled out for several meters, producing thus a rod of a much smaller diameter with the design all the way through. Thin discoid sections of these rods or canes were cut and used to form mosaic vessels and architectural and furniture inlays. The bands/cane lengths used were sometimes simpler monochrome or polychrome pieces and other times composite ones, forming intricate motifs, such as spirals, concentric circles, or rosettes. These pieces were heated on a flat surface; placed in contact with each other, they fused together and created a disk, whose perimeter was enclosed by a twisted polychrome—usually white and blue—glass coil. In order to give the mosaic vessel its final form, glassworkers then used the slumping technique on a convex former mold (fig. 4, slumping technique).[^31] {% figure 'fig-14-intro' %} It is possible that for some types of vessels, glassworkers used a bipartite mold, which was filled with discoid tesserae that had been cut from cylindrical canes. The mold was sealed and heated so that the tesserae would fuse. After the vessel was \[\[annealed\]\], it was internally polished on a lathe.
+Mosaic vessels were made of bands and/or horizontal rod or cane sections of glass, known as florets ({% cat '85.AF.85' %}–{% cat '2003.255' %}). Masses of hot glass of the adequate colors were put together, tooled, and adhered, creating a wide and thick plaque with the desired motif in large scale in it. This plaque was reheated and pulled out for several meters, producing thus a rod of a much smaller diameter with the design all the way through. Thin discoid sections of these rods or canes were cut and used to form mosaic vessels and architectural and furniture inlays. The bands/cane lengths used were sometimes simpler monochrome or polychrome pieces and other times composite ones, forming intricate motifs, such as spirals, concentric circles, or rosettes. These pieces were heated on a flat surface; placed in contact with each other, they fused together and created a disk, whose perimeter was enclosed by a twisted polychrome—usually white and blue—glass coil. In order to give the mosaic vessel its final form, glassworkers then used the slumping technique on a convex former mold (fig. 4, slumping technique).[^31] {% figure 'fig-14-intro' %} It is possible that for some types of vessels, glassworkers used a bipartite mold, which was filled with discoid tesserae that had been cut from cylindrical canes. The mold was sealed and heated so that the tesserae would fuse. After the vessel was {% def 'anneal' 'annealed' %}, it was internally polished on a lathe.
 
 A long tradition of mainly monochrome glass inlays placed in cells cut into a wooden background flourished, especially during the Late Period in Egypt (712–332 BCE). They were used to decorate objects intended for religious or funerary purposes. Later, probably in Egypt or also in Italy, in about the late first century BCE through early first century CE, composite mosaic glass canes were produced which were cut into slices, forming small plaques. They thereby presented a complete miniature theme from fused together glass canes that were tooled to form the appliqué of the incrustation bearing the entire desired motive and pulled out and reduced to the desired minuscule size: geometrical patterns, floral motives, theatrical masks, fish, deities, and imitations of veined stones ({% cat '2003.266' %}, {% cat '76.AF.70.11' %}). These plaques represent the most exquisite and technically refined glass products of the ancient world. They were used to decorate wooden objects, like caskets or boxes, framed with other monochrome or polychrome glass elements, probably used in rows of similar motives.[^32] A unique trimming of such a rod comprised of concentric layers of bright colored glass, which was pierced and used as a pendant, is in the JPGM collection ({% cat '76.AF.70.46' %}). Florets and other sections of mosaic rods and canes were used for the creation of beads ({% cat '2003.259' %}–{% cat '2003.211' %}) representing geometrical patterns or human faces.
 
@@ -86,7 +86,7 @@ Finally, another simple vessel-forming technique, heavily influenced by pottery 
 
 ### Free-Blowing
 
-The technique of free-blowing involves the inflation and further shaping of molten glass through the use of human breath channeled through a heat-insulated pipe. According to Pliny, glassblowing, or [flatu figurare]{.underline}, that is, “shaping by breath,” was one of the three techniques that made Sidon a famous glassworking center.[^45] The technique was invented in the first half of the first century BCE somewhere in the Syro-Palestinian area, where there was already a centuries-long tradition in glassworking.[^46] Around the middle of the first century CE free-blowing began to spread beyond the Syro-Palestinian region to Italy, Switzerland, and Dalmatia.[^47]
+The technique of free-blowing involves the inflation and further shaping of molten glass through the use of human breath channeled through a heat-insulated pipe. According to Pliny, glassblowing, or *flatu figurare*, that is, “shaping by breath,” was one of the three techniques that made Sidon a famous glassworking center.[^45] The technique was invented in the first half of the first century BCE somewhere in the Syro-Palestinian area, where there was already a centuries-long tradition in glassworking.[^46] Around the middle of the first century CE free-blowing began to spread beyond the Syro-Palestinian region to Italy, Switzerland, and Dalmatia.[^47]
 
 The period of the technique’s spread and popularization coincided with the Augustan age—and the resulting political calm and economic flourishing. Moreover, this political situation made possible easy and fast communication between the different provinces. The economic boom in Italy attracted tradesmen and workmen from all over the Empire and especially from the eastern provinces. The quality and quantity of early blown vessels that have been preserved in the West, in contrast to the relative scarcity of such finds in the East, would seem to support this hypothesis. It appears that the blowing technique was perfected in Italy and—as documented also in historical sources,[^48] particularly in Rome, where glassworkers from the East—Sidonians especially—relocated for financial reasons.[^49]
 
@@ -138,7 +138,7 @@ The gold-glass technique first emerged during the Classical Greek period, used i
 
 The exact shapes of the vessels on which this technique was applied are not known since no whole vessels have survived. The extant specimens consist of flat vessel bottoms that were discovered, almost in their entirety, embedded in the plaster that sealed tomb openings in the Roman catacombs. Overall, there are known examples of Christian, Jewish, and pagan themes used in the decorations. Among other hypotheses, it has been assumed that such vessels were produced in order to be used as keepsake gifts on formal occasions, such as weddings and anniversaries of the assumption of public office.[^74]
 
-Specific technical details regarding this decoration method remain unclear. In general, it refers to the attachment of a thin sheet of gold leaf to the inside bottom of an open-shaped vessel. The desired theme is engraved on the gold, while in some cases color is added to emphasize particular details. Subsequently a second \[\[paraison\]\] of glass is blown inside the vessel, which has already been adequately reheated so that it does not fracture due to thermal shock. The new layer of glass attaches itself to the walls of the vessel, thus sealing and protecting the decoration between two layers of translucent glass.[^75] This technique is used, both during this period and in the sixth century CE, for the production of tesserae as well as of plaques and crustae of opus sectile wall revetments.[^76] In the JPGM collection are two nineteenth-century replicas of gold-glass bowls ({% cat '2003.296' %}, {% cat '83.AK.29' %}).
+Specific technical details regarding this decoration method remain unclear. In general, it refers to the attachment of a thin sheet of gold leaf to the inside bottom of an open-shaped vessel. The desired theme is engraved on the gold, while in some cases color is added to emphasize particular details. Subsequently a second {% def 'paraison' %} of glass is blown inside the vessel, which has already been adequately reheated so that it does not fracture due to thermal shock. The new layer of glass attaches itself to the walls of the vessel, thus sealing and protecting the decoration between two layers of translucent glass.[^75] This technique is used, both during this period and in the sixth century CE, for the production of tesserae as well as of plaques and crustae of opus sectile wall revetments.[^76] In the JPGM collection are two nineteenth-century replicas of gold-glass bowls ({% cat '2003.296' %}, {% cat '83.AK.29' %}).
 
 ### Indentations
 
@@ -164,7 +164,7 @@ After the Late Classical Greek and Hellenistic periods (fifth–first centuries�
 
 The material used is a kind of enamel, pulverized glass of the desired hue mixed with a liquid. The mixture is painted on the vessel, which is then heated so that the decoration can fuse to its surface.[^88] Among the earliest Roman glass vessels decorated with enamel are bowls, such as {% cat '2003.294' %}, made between about 40 and 60 CE; these may be one of the forms of painted glass that attracted Pliny’s attention.[^89]
 
-There are known examples of gilded vessels and plaques from the first and second centuries CE. In that period gilding was done after \[\[annealing\]\] and involved the application of gold leaf onto the surface to be decorated; the design details were then engraved with a pointed tool.[^90]
+There are known examples of gilded vessels and plaques from the first and second centuries CE. In that period gilding was done after {% def 'anneal' 'annealing' %} and involved the application of gold leaf onto the surface to be decorated; the design details were then engraved with a pointed tool.[^90]
 
 Finally, the decorations on some third-century vessel lids were cold-painted. To keep the decoration protected from damage—to which it was particularly susceptible because of its means of production—the design was painted in reverse on the inside surface of the lid, intended to be viewed through the glass.[^91]
 
@@ -178,188 +178,188 @@ All of the techniques described above continue in use during the third and fourt
 
 {% endbackmatter %}
 
-[^1]: [[Stern and Schlick-Nolte 1994]], pp. 28–37; [[Nicholson and Henderson 2000]], pp. 195–224; [[Rehren 2021]].
+[^1]: {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 28–37; {% cite 'Nicholson and Henderson 2000' %}, pp. 195–224; {% cite 'Rehren 2021' %}.
 
-[^2]: [[Nenna, Picon, and Vichi 2000]], p. 99.
+[^2]: {% cite 'Nenna, Picon, and Vichi 2000' %}, p. 99.
 
-[^3]: [[Pliny, [Natural History]{.underline}]] 36.62, 36.193. [[Seneca, [Epist.]{.underline}]] 90.31, and 105. [[Brill 1999]], vol. 1, pp. 15–17.
+[^3]: {% cite 'Pliny, *Natural History*' %} 36.62, 36.193. {% cite 'Seneca, *Epist.*' %} 90.31, and 105. {% cite 'Brill 1999' %}, vol. 1, pp. 15–17.
 
-[^4]: Glassmaking and glassworking had been considered distinct processes since the fourteenth century BCE, as evidence of glass ingots from the Ulu Burun shipwreck demonstrates. See [[Bass 1986]], pp. 281–282; [[Nicholson, Jackson, and Trott 1997]], pp. 143–153.
+[^4]: Glassmaking and glassworking had been considered distinct processes since the fourteenth century BCE, as evidence of glass ingots from the Ulu Burun shipwreck demonstrates. See {% cite 'Bass 1986' %}, pp. 281–282; {% cite 'Nicholson, Jackson, and Trott 1997' %}, pp. 143–153.
 
-[^5]: [[Antonaras 2012]], pp. 10–15, wherein previous bibliography.
+[^5]: {% cite 'Antonaras 2012' %}, pp. 10–15, wherein previous bibliography.
 
-[^6]: [[Auth 1976]], p. 20; [[Stern and Schlick-Nolte 1994]], p. 29.
+[^6]: {% cite 'Auth 1976' %}, p. 20; {% cite 'Stern and Schlick-Nolte 1994' %}, p. 29.
 
-[^7]: [[Stern and Schlick-Nolte 1994]], pp. 28–33.
+[^7]: {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 28–33.
 
-[^8]: [[Harden 1981]]; [[Grose 1989]], pp. 109–125; [[Stern and Schlick-Nolte 1994]], pp. 28–36, 37–44.
+[^8]: {% cite 'Harden 1981' %}; {% cite 'Grose 1989' %}, pp. 109–125; {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 28–36, 37–44.
 
-[^9]: [[Stern and Schlick-Nolte 1994]], p. 26.
+[^9]: {% cite 'Stern and Schlick-Nolte 1994' %}, p. 26.
 
-[^10]: [[Nolte 1968]].
+[^10]: {% cite 'Nolte 1968' %}.
 
-[^11]: [[Stern and Schlick-Nolte 1994]], pp. 28–37.
+[^11]: {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 28–37.
 
-[^12]: [[Oppenheim et al. 1970]], pp. 69–71.
+[^12]: {% cite 'Oppenheim et al. 1970' %}, pp. 69–71.
 
-[^13]: [[Schlick-Nolte and Lierke 2002]], p. 19; [[Vandiver 1983]], pp. 239–247.
+[^13]: {% cite 'Schlick-Nolte and Lierke 2002' %}, p. 19; {% cite 'Vandiver 1983' %}, pp. 239–247.
 
-[^14]: For the finds from Amarna see [[Nicholson, Jackson, and Trott 1997]]**,** pp. 143–153, pl. XVII; (Nicholson 2007}, esp. pp. 125, 158. For the finds from Qantir see [[Rehren and Pusch 1997]]. For the finds from Karnak see [[Schlick-Nolte and Lierke 2002]], pp. 17–22, figs. 3–4.
+[^14]: For the finds from Amarna see {% cite 'Nicholson, Jackson, and Trott 1997' %}, pp. 143–153, pl. XVII; (Nicholson 2007}, esp. pp. 125, 158. For the finds from Qantir see {% cite 'Rehren and Pusch 1997' %}. For the finds from Karnak see {% cite 'Schlick-Nolte and Lierke 2002' %}, pp. 17–22, figs. 3–4.
 
-[^15]: Barag 1985, pp. 107–113; [[Stern and Schlick-Nolte 1994]], p. 20.
+[^15]: Barag 1985, pp. 107–113; {% cite 'Stern and Schlick-Nolte 1994' %}, p. 20.
 
-[^16]: On Mycenean beads see [[Nightingale 2002]], with further bibliography.
+[^16]: On Mycenean beads see {% cite 'Nightingale 2002' %}, with further bibliography.
 
-[^17]: [[Triantafyllidis 2000]]**,** pp. 36–39, 193–195.
+[^17]: {% cite 'Triantafyllidis 2000' %}, pp. 36–39, 193–195.
 
-[^18]: [[Harden 1981]], pp. 58–99; [[Grose 1989]], pp. 110–115.
+[^18]: {% cite 'Harden 1981' %}, pp. 58–99; {% cite 'Grose 1989' %}, pp. 110–115.
 
-[^19]: [[Harden 1981]], pp. 100–121; [[Grose 1989]], pp. 115–122.
+[^19]: {% cite 'Harden 1981' %}, pp. 100–121; {% cite 'Grose 1989' %}, pp. 115–122.
 
-[^20]: [[Harden 1981]], pp. 123–141; [[Grose 1989]], pp. 122–125.
+[^20]: {% cite 'Harden 1981' %}, pp. 123–141; {% cite 'Grose 1989' %}, pp. 122–125.
 
-[^21]: [[Stern and Schlick-Nolte 1994]], pp. 136 with rich bibliography on the Egyptian finds of the kind.
+[^21]: {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 136 with rich bibliography on the Egyptian finds of the kind.
 
-[^22]: [[Barag 1975]], pp. 23–26.
+[^22]: {% cite 'Barag 1975' %}, pp. 23–26.
 
-[^23]: [[Ignatiadou 2017]], p. 61; [[Lierke 2001]], p. 183, fig. 10.
+[^23]: {% cite 'Ignatiadou 2017' %}, p. 61; {% cite 'Lierke 2001' %}, p. 183, fig. 10.
 
-[^24]: [[Barag 1975]], p. 30, note 29; [[Stern 2001]], p. 144, no. 78–81.
+[^24]: {% cite 'Barag 1975' %}, p. 30, note 29; {% cite 'Stern 2001' %}, p. 144, no. 78–81.
 
-[^25]: [[Stern and Schlick-Nolte 1994]], pp. 50–52; [[Lierke 2001]], pp. 183–184.
+[^25]: {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 50–52; {% cite 'Lierke 2001' %}, pp. 183–184.
 
-[^26]: [[Grose 1991]], p. 2; [[Grose 1989]], p. 254.
+[^26]: {% cite 'Grose 1991' %}, p. 2; {% cite 'Grose 1989' %}, p. 254.
 
-[^27]: [[Stern and Schlick-Nolte 1994]], pp. 64–65.
+[^27]: {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 64–65.
 
-[^28]: [[Lierke 1999]], pp. 58–59.
+[^28]: {% cite 'Lierke 1999' %}, pp. 58–59.
 
-[^29]: [[Stern and Schlick-Nolte 1994]], pp. 68–71.
+[^29]: {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 68–71.
 
-[^30]: [[Grose 1989]], pp. 261–262; [[Stern and Fünfschilling 2020]], pp. 41–68.
+[^30]: {% cite 'Grose 1989' %}, pp. 261–262; {% cite 'Stern and Fünfschilling 2020' %}, pp. 41–68.
 
-[^31]: [[Stern and Schlick-Nolte 1994]], pp. 64–65, 68–69. Very enlightening on this matter are the illustrations in [[Tait 1991]], pp. 219–221, where glassmaker B. Gudenrath recreates the process using modern equipment.
+[^31]: {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 64–65, 68–69. Very enlightening on this matter are the illustrations in {% cite 'Tait 1991' %}, pp. 219–221, where glassmaker B. Gudenrath recreates the process using modern equipment.
 
-[^32]: [[Bianchi 1983a]]; [[Bianchi 1983b]]; [[Grose 1989]], pp. 351–358; [[Stern and Schlick-Nolte 1994]], pp. 61–63, 360–364, 368–409; [[Nenna 1995]]; [[Auth 1999]]; [[Mahnke 2008]]; [[Nenna 2010]], pp. 81–85.
+[^32]: {% cite 'Bianchi 1983a' %}; {% cite 'Bianchi 1983b' %}; {% cite 'Grose 1989' %}, pp. 351–358; {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 61–63, 360–364, 368–409; {% cite 'Nenna 1995' %}; {% cite 'Auth 1999' %}; {% cite 'Mahnke 2008' %}; {% cite 'Nenna 2010' %}, pp. 81–85.
 
-[^33]: [[Stern and Schlick-Nolte 1994]], p. 54.
+[^33]: {% cite 'Stern and Schlick-Nolte 1994' %}, p. 54.
 
-[^34]: [[Auth 1976]], p. 54, col. pl. 51; [[Stern and Schlick-Nolte 1994]], pp. 65–66, 274–275; [[Lierke 1999]], pp. 39–41.
+[^34]: {% cite 'Auth 1976' %}, p. 54, col. pl. 51; {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 65–66, 274–275; {% cite 'Lierke 1999' %}, pp. 39–41.
 
-[^35]: [[Lierke 1999]], pp. 61–66.
+[^35]: {% cite 'Lierke 1999' %}, pp. 61–66.
 
-[^36]: [[Weinberg and McClellan 1992]], pp. 56–57, no. 48.
+[^36]: {% cite 'Weinberg and McClellan 1992' %}, pp. 56–57, no. 48.
 
-[^37]: [[Lierke 1999]], pp. 64–66; [[Schlick-Nolte and Lierke 2002]], pp. 29–31.
+[^37]: {% cite 'Lierke 1999' %}, pp. 64–66; {% cite 'Schlick-Nolte and Lierke 2002' %}, pp. 29–31.
 
-[^38]: [[Lierke 1999]], pp. 32–36, 102–103.
+[^38]: {% cite 'Lierke 1999' %}, pp. 32–36, 102–103.
 
-[^39]: [[Lierke and Lindig 1997]]; [[Lierke 1999]], pp. 67–96.
+[^39]: {% cite 'Lierke and Lindig 1997' %}; {% cite 'Lierke 1999' %}, pp. 67–96.
 
-[^40]: [[Stern and Schlick-Nolte 1994]], pp. 72–78.
+[^40]: {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 72–78.
 
-[^41]: [[Grose 1991]], p. 2; [[Grose 1989]], p. 254.
+[^41]: {% cite 'Grose 1991' %}, p. 2; {% cite 'Grose 1989' %}, p. 254.
 
-[^42]: [[Stern and Schlick-Nolte 1994]], pp. 64–65.
+[^42]: {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 64–65.
 
-[^43]: [[Lierke 1999]], pp. 58–59.
+[^43]: {% cite 'Lierke 1999' %}, pp. 58–59.
 
-[^44]: [[Lierke 1999]], pp. 37–39; [[Stern and Schlick-Nolte 1994]], pp. 79–81.
+[^44]: {% cite 'Lierke 1999' %}, pp. 37–39; {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 79–81.
 
-[^45]: [[Pliny, [Natural History]{.underline}]] 36.193. For a detailed commentary on the passage, see [[Stern 2007]], pp. 358–359.
+[^45]: {% cite 'Pliny, *Natural History*' %} 36.193. For a detailed commentary on the passage, see {% cite 'Stern 2007' %}, pp. 358–359.
 
-[^46]: [[Israeli 1991]], p. 53.
+[^46]: {% cite 'Israeli 1991' %}, p. 53.
 
-[^47]: [[Stern 1999a]], p. 443.
+[^47]: {% cite 'Stern 1999a' %}, p. 443.
 
-[^48]: [[Strabo, [Geographica]{.underline}]] 16.2.25.
+[^48]: {% cite 'Strabo, *Geographica*' %} 16.2.25.
 
-[^49]: [[Stern 2004]], pp. 82–83.
+[^49]: {% cite 'Stern 2004' %}, pp. 82–83.
 
-[^50]: [[Baldoni 1987]]; [[Stern and Schlick-Nolte 1994]], pp. 24–25.
+[^50]: {% cite 'Baldoni 1987' %}; {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 24–25.
 
-[^51]: [[Stern 1999a]], pp. 446–447.
+[^51]: {% cite 'Stern 1999a' %}, pp. 446–447.
 
-[^52]: [[Strabo, [Geographica]{.underline}]] 16.2.25. For a detailed commentary on the passage, see Stern 2007, pp. 362–363.
+[^52]: {% cite 'Strabo, *Geographica*' %} 16.2.25. For a detailed commentary on the passage, see Stern 2007, pp. 362–363.
 
-[^53]: [[Barag 1985]], pp. 113–116.
+[^53]: {% cite 'Barag 1985' %}, pp. 113–116.
 
-[^54]: [[Stern 1999a]], pp. 460–466.
+[^54]: {% cite 'Stern 1999a' %}, pp. 460–466.
 
-[^55]: [[Fleming 1999]], p. 42. For a general overview of finds from different areas, as well as of specific techniques and products, see [[Fontaine-Hodiamont, Bourguignon and Laevers 2010]]. A concise overview of what is known about this technique can be found in [[Stern 2010]]. For an example of finds from a large Mediterranean city, see [[Antonaras 2010c]].
+[^55]: {% cite 'Fleming 1999' %}, p. 42. For a general overview of finds from different areas, as well as of specific techniques and products, see {% cite 'Fontaine-Hodiamont, Bourguignon and Laevers 2010' %}. A concise overview of what is known about this technique can be found in {% cite 'Stern 2010' %}. For an example of finds from a large Mediterranean city, see {% cite 'Antonaras 2010c' %}.
 
-[^56]: [[Stern 1995]], pp. 46–47.
+[^56]: {% cite 'Stern 1995' %}, pp. 46–47.
 
-[^57]: [[Pliny, *Natural History*]] 36.193. For a detailed commentary on this passage, see [[Stern 2007]], pp. 359–362.
+[^57]: {% cite 'Pliny, *Natural History*' %} 36.193. For a detailed commentary on this passage, see {% cite 'Stern 2007' %}, pp. 359–362.
 
-[^58]: [[Isings 1957]], p. 45, type 31.
+[^58]: {% cite 'Isings 1957' %}, p. 45, type 31.
 
-[^59]: [[Stern 2001]], p. 41.
+[^59]: {% cite 'Stern 2001' %}, p. 41.
 
-[^60]: [[Stern 1995]], pp. 201–246. On the production of mold-blown and dip mold–blown vessels in a large Mediterranean center like Thessaloniki throughout the Roman period and on the relation and juxtaposition of this technique with free blowing, see [[Antonaras 2010c]], p. 252**.**
+[^60]: {% cite 'Stern 1995' %}, pp. 201–246. On the production of mold-blown and dip mold–blown vessels in a large Mediterranean center like Thessaloniki throughout the Roman period and on the relation and juxtaposition of this technique with free blowing, see {% cite 'Antonaras 2010c' %}, p. 252.
 
-[^61]: [[Barag 1970c]], pp. 35–63; [[Barag 1971]], pp. 45–63; [[Stern 1995]], pp. 247–269; [[Newby 2008]], passim and see pp. 12–17 for an introduction.
+[^61]: {% cite 'Barag 1970c' %}, pp. 35–63; {% cite 'Barag 1971' %}, pp. 45–63; {% cite 'Stern 1995' %}, pp. 247–269; {% cite 'Newby 2008' %}, passim and see pp. 12–17 for an introduction.
 
-[^62]: [[Price and Cottam 1998]], p. 13; [[Stern 2001]], pp. 27, 133–134.
+[^62]: {% cite 'Price and Cottam 1998' %}, p. 13; {% cite 'Stern 2001' %}, pp. 27, 133–134.
 
-[^63]: [[Sorokina 1978]], pp. 118–119, pl. 4.2; this technique has been traced in a workshop of the second and/or third century at Tanais, on the Black Sea.
+[^63]: {% cite 'Sorokina 1978' %}, pp. 118–119, pl. 4.2; this technique has been traced in a workshop of the second and/or third century at Tanais, on the Black Sea.
 
-[^64]: [[Ignatiadou 2004]], p. 61 \[Please add to reference list.\].
+[^64]: [[Ignatiadou 2004]], p. 61 [Please add to reference list].
 
-[^65]: [[Martial, [Epigr]{.underline}.}]] 11.11 and 12.74. [[Clement of Alexandria, [Paedagogus]{.underline}]] 2.3.35. For detailed commentary on the passages, see [[Trowbridge 1930]], pp. 109, 166, respectively.
+[^65]: {% cite 'Martial, *Epigr*' %} 11.11 and 12.74. {% cite 'Clement of Alexandria, *Paedagogus*' %} 2.3.35. For detailed commentary on the passages, see {% cite 'Trowbridge 1930' %}, pp. 109, 166, respectively.
 
-[^66]: This technique has been studied in detail in [[Paolucci 1997]], pp. 17–20 and passim. On techniques that survived through the Middle Ages and in more recent times, see [[Charleston 1964]], pp. 83–100 and [[Charleston 1965]], pp. 41–54.
+[^66]: This technique has been studied in detail in {% cite 'Paolucci 1997' %}, pp. 17–20 and passim. On techniques that survived through the Middle Ages and in more recent times, see {% cite 'Charleston 1964' %}, pp. 83–100 and {% cite 'Charleston 1965' %}, pp. 41–54.
 
-[^67]: [[Paolucci 1997]], pp. 63–80.
+[^67]: {% cite 'Paolucci 1997' %}, pp. 63–80.
 
-[^68]: [[Lierke 1999]], pp. 67–96, esp. 83–85. On older hypotheses regarding the way of production, see [[Gudenrath and Whitehouse 1990]]; [[Painter and Whitehouse 1990a]]; [[Painter and Whitehouse 1990b]]; [[Sternini 1995]], pp. 120–121.
+[^68]: {% cite 'Lierke 1999' %}, pp. 67–96, esp. 83–85. On older hypotheses regarding the way of production, see {% cite 'Gudenrath and Whitehouse 1990' %}; {% cite 'Painter and Whitehouse 1990a' %}; {% cite 'Painter and Whitehouse 1990b' %}; {% cite 'Sternini 1995' %}, pp. 120–121.
 
-[^69]: [[Whitehouse 1991]].
+[^69]: {% cite 'Whitehouse 1991' %}.
 
-[^70]: [[Whitehouse 1990]]. For an overview on the matter with many examples from the Corning Museum of Glass collection see [[Whitehouse 1997]], pp. 41–65.
+[^70]: {% cite 'Whitehouse 1990' %}. For an overview on the matter with many examples from the Corning Museum of Glass collection see [[Whitehouse 1997]], pp. 41–65.
 
-[^71]: [[Stern 2001]], pp. 81–82.
+[^71]: {% cite 'Stern 2001' %}, pp. 81–82.
 
-[^72]: [[Stern 1999b]], pp. 40–41; [[Ignatiadou et al. 2005]].
+[^72]: {% cite 'Stern 1999b' %}, pp. 40–41; {% cite 'Ignatiadou et al. 2005' %}.
 
-[^73]: The term is used for the first time in [[Athenaeus, [Deipnosophistae]{.underline}]] 5.199f, in relation to glass vessels. For a commentary on the passage, see [[Trowbridge 1930]], p. 110, 154, note 23. For gilded vessels of this period see [[Stern and Schlick-Nolte 1994]], pp. 262–267, nos. 69–70; [[Ignatiadou 2000]], pp. 35–36, figs. 1–4; [[Arveiller-Dulong and Nenna 2000]], pp. 168–171.
+[^73]: The term is used for the first time in {% cite 'Athenaeus, *Deipnosophistae*' %} 5.199f, in relation to glass vessels. For a commentary on the passage, see {% cite 'Trowbridge 1930' %}, p. 110, 154, note 23. For gilded vessels of this period see {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 262–267, nos. 69–70; {% cite 'Ignatiadou 2000' %}, pp. 35–36, figs. 1–4; {% cite 'Arveiller-Dulong and Nenna 2000' %}, pp. 168–171.
 
-[^74]: [[Cameron 1996]].
+[^74]: {% cite 'Cameron 1996' %}.
 
-[^75]: [[Stern 2001]], pp. 139–140.
+[^75]: {% cite 'Stern 2001' %}, pp. 139–140.
 
-[^76]: [[Antonaras 2008]], pp. 298–302.
+[^76]: {% cite 'Antonaras 2008' %}, pp. 298–302.
 
 [^77]: E.g. fourth-century vessel from Thessaloniki, (acc. no. ΒΚ 4467/186 in Museum of Byzantine Culture, Thessaloniki) rendering in clay a glass vessel of Isings’s form 103 with indentations around the body.
 
-[^78]: [[Isings 1957]], p. 46, form 32 and p. 49, form 35.
+[^78]: {% cite 'Isings 1957' %}, p. 46, form 32 and p. 49, form 35.
 
-[^79]: [[Price and Cottam 1998]], p. 33; [[Stern 2001]], pp. 209–211, 242–243, nos. 99–101, 128–129.
+[^79]: {% cite 'Price and Cottam 1998' %}, p. 33; {% cite 'Stern 2001' %}, pp. 209–211, 242–243, nos. 99–101, 128–129.
 
-[^80]: [[Stern 2001]], p. 248, no. 134, where there is also a relevant bibliography.
+[^80]: {% cite 'Stern 2001' %}, p. 248, no. 134, where there is also a relevant bibliography.
 
-[^81]: [[Price and Cottam 1998]], pp. 32–33; Stern 2001, pp. 249–251, nos. 135–137.
+[^81]: {% cite 'Price and Cottam 1998' %}, pp. 32–33; Stern 2001, pp. 249–251, nos. 135–137.
 
-[^82]: [[Dussart 1998]], p. 128, BX 111a, table 32/1, p. 158, BX 83, table 46/21, p. 161, BXII.1, table 49/1; [[Stern 2001]], p. 354, no. 201; [[Gorin-Rosen 2006]], p. 111, note 7.
+[^82]: {% cite 'Dussart 1998' %}, p. 128, BX 111a, table 32/1, p. 158, BX 83, table 46/21, p. 161, BXII.1, table 49/1; {% cite 'Stern 2001' %}, p. 354, no. 201; {% cite 'Gorin-Rosen 2006' %}, p. 111, note 7.
 
-[^83]: [[Weinberg and McLellan 1992]], p. 132, no. 107; [[Fremersdorf and Polónyi-Fremersdorf 1984]], p. 65, nos. 152–153.
+[^83]: {% cite 'Weinberg and McClellan 1992' %}, p. 132, no. 107; {% cite 'Fremersdorf and Polónyi-Fremersdorf 1984' %}, p. 65, nos. 152–153.
 
-[^84]: [[Dussart 1998]], p. 162, BXII 214, table 49/7.
+[^84]: {% cite 'Dussart 1998' %}, p. 162, BXII 214, table 49/7.
 
-[^85]: [[Weinberg 1988]], pp. 3, 80–81, cat. nos. 351–353, drawing in table 4-39, photo in table 4-15/351, 352, where there is also an older bibliography, as well as technical and production details.
+[^85]: {% cite 'Weinberg 1988' %}, pp. 3, 80–81, cat. nos. 351–353, drawing in table 4-39, photo in table 4-15/351, 352, where there is also an older bibliography, as well as technical and production details.
 
-[^86]: For typical examples from various periods and places of origin, see [[Stern and Schlick-Nolte 1994]], pp. 137, 205, 237, 279, nos. 8, 43, 59, 76; [[Stern 2001]], pp. 70, 119, 193, 235, 238, nos. 13, 49, 84, 121, 124.
+[^86]: For typical examples from various periods and places of origin, see {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 137, 205, 237, 279, nos. 8, 43, 59, 76; {% cite 'Stern 2001' %}, pp. 70, 119, 193, 235, 238, nos. 13, 49, 84, 121, 124.
 
-[^87]: [[Stern and Schlick-Nolte 1994]], pp. 262–267, nos. 69–70; [[Ignatiadou 2000]], pp. 35–36, figs. 1–4; [[Arveiller-Dulong and Nenna 2000]], pp. 168–171.
+[^87]: {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 262–267, nos. 69–70; {% cite 'Ignatiadou 2000' %}, pp. 35–36, figs. 1–4; {% cite 'Arveiller-Dulong and Nenna 2000' %}, pp. 168–171.
 
-[^88]: [[Rütti 1991b]].
+[^88]: {% cite 'Rütti 1991b' %}.
 
-[^89]: [[Rütti 1991b]], pp. 134–135.
+[^89]: {% cite 'Rütti 1991b' %}, pp. 134–135.
 
-[^90]: [[Whitehouse 2001a]], pp. 254, 273–274, no. 866.
+[^90]: {% cite 'Whitehouse 2001a' %}, pp. 254, 273–274, no. 866.
 
-[^91]: [[Vessberg 1952]], type I lid, pp. 149–150, table X, no. 5; [[Whitehouse 2001a]], p. 264, no. 859.
+[^91]: {% cite 'Vessberg 1952' %}, type I lid, pp. 149–150, table X, no. 5; {% cite 'Whitehouse 2001a' %}, p. 264, no. 859.
 
-[^92]: [[Whitehouse 2001a]], pp. 253–277.
+[^92]: {% cite 'Whitehouse 2001a' %}, pp. 253–277.
 
-[^93]: [[Grabar 1971]], pp. 90–106; [[Whitehouse 1998b]], pp. 4–7; [[Antonaras 2010b]], pp. 395–397.
+[^93]: {% cite 'Grabar 1971' %}, pp. 90–106; {% cite 'Whitehouse 1998b' %}, pp. 4–7; {% cite 'Antonaras 2010b' %}, pp. 395–397.

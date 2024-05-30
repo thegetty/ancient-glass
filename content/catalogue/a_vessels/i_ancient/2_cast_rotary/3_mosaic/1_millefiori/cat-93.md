@@ -30,7 +30,7 @@ The coil of the base is ribbon mosaic comprised of 12 parallel layers of glass, 
 
 ## Comments and Comparanda
 
-For the production technique see [[Dawes 2002]] and comments on {% cat '85.AF.85' %}. On cast, angular vessels see comments on {% cat '78.AF.32' %}.
+For the production technique see {% cite 'Dawes 2002' %} and comments on {% cat '85.AF.85' %}. On cast, angular vessels see comments on {% cat '78.AF.32' %}.
 
 ## Provenance
 
@@ -38,9 +38,9 @@ For the production technique see [[Dawes 2002]] and comments on {% cat '85.AF.85
 
 ## Bibliography
 
-[[True and Hamma 1994]], p. 356, cat. no. 269 \[not illustrated\].
+{% cite 'True and Hamma 1994' %}, p. 356, cat. no. 269 [not illustrated].
 
-[[Report 97–98]], p. 68.
+{% cite 'Report 97–98' %}, p. 68.
 
 ## Exhibitions
 

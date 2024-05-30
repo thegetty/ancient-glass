@@ -30,7 +30,7 @@ The coil of the base is ribbon mosaic comprising parallel layers of white and pu
 
 ## Comments and Comparanda
 
-For the production technique see [[Dawes 2002]] and comments on {% cat '85.AF.85' %}. On cast, angular vessels see comments on {% cat '78.AF.32' %}.
+For the production technique see {% cite 'Dawes 2002' %} and comments on {% cat '85.AF.85' %}. On cast, angular vessels see comments on {% cat '78.AF.32' %}.
 
 ## Provenance
 
@@ -38,7 +38,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-[[von Saldern et al. 1974]], p. 118, no. 316; p. 119, plate no. 316.
+{% cite 'von Saldern et al. 1974' %}, p. 118, no. 316; p. 119, plate no. 316.
 
 ## Exhibitions
 

@@ -22,7 +22,7 @@ An unmarvered yellow thread is wound around the rim. A marvered yellow thread is
 
 ## Comments and Comparanda
 
-On core-formed alabastra of this period see comments on {% cat '2003.193' %}. For the classification of this particular alabastron see [[Grose 1989]], class II:A, alabastron form II:2: pp. 153–154, no. 125.
+On core-formed alabastra of this period see comments on {% cat '2003.193' %}. For the classification of this particular alabastron see {% cite 'Grose 1989' %}, class II:A, alabastron form II:2: pp. 153–154, no. 125.
 
 ## Provenance
 
@@ -30,7 +30,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-[[von Saldern et al. 1974]], p. 70, no. 177.
+{% cite 'von Saldern et al. 1974' %}, p. 70, no. 177.
 
 ## Exhibitions
 

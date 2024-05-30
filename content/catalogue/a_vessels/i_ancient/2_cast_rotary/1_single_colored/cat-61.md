@@ -20,7 +20,7 @@ Straight rim with round edge sloping slightly inward; thick hemispherical body w
 
 ## Comments and Comparanda
 
-Conical and hemispherical grooved bowls are the most characteristic glass vessels made on the Syro-Palestinian coast in the second half of the second to the middle of the first century BCE. This form appears to have been widespread throughout the Mediterranean from the Levant to the Atlantic coast. They were imitating silver bowls. On this form see [[Grose 1979]], pp. 54–59, group A; [[Grose 1989]], pp. 193–194, 204–207, nos. 211–222. Further parallels and discussions on the form include [[Weinberg 1970]], p. 21, nos. 12–14; [[Weinberg 1973]], nos. 9–13; [[Grose 1989]], no. 220; [[Stern and Schlick-Nolte 1994]], pp. 290–294, nos. 82–83; [[Nenna 1999a]], pp. 86–87, no. c199; [[Israeli 2003]], p. 77, no. 61; [[Antonaras 2012]], p. 68, no. 18.
+Conical and hemispherical grooved bowls are the most characteristic glass vessels made on the Syro-Palestinian coast in the second half of the second to the middle of the first century BCE. This form appears to have been widespread throughout the Mediterranean from the Levant to the Atlantic coast. They were imitating silver bowls. On this form see {% cite 'Grose 1979' %}, pp. 54–59, group A; {% cite 'Grose 1989' %}, pp. 193–194, 204–207, nos. 211–222. Further parallels and discussions on the form include {% cite 'Weinberg 1970' %}, p. 21, nos. 12–14; {% cite 'Weinberg 1973' %}, nos. 9–13; {% cite 'Grose 1989' %}, no. 220; {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 290–294, nos. 82–83; {% cite 'Nenna 1999a' %}, pp. 86–87, no. c199; {% cite 'Israeli 2003' %}, p. 77, no. 61; {% cite 'Antonaras 2012' %}, p. 68, no. 18.
 
 ## Provenance
 
@@ -28,7 +28,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-[[von Saldern et al. 1974]], p. 95, no. 251.
+{% cite 'von Saldern et al. 1974' %}, p. 95, no. 251.
 
 ## Exhibitions
 

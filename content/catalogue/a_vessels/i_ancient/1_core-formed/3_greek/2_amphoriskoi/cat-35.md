@@ -24,7 +24,7 @@ A bronze chain ending with a large ring is attached to one of the handles.
 
 ## Comments and Comparanda
 
-On core-formed amphoriskoi of this period see comments on {% cat '2003.178' %}. For the classification of this particular amphoriskos see [[Grose 1989]], class I:B, amphoriskos form I:2: p. 144, no. 97.
+On core-formed amphoriskoi of this period see comments on {% cat '2003.178' %}. For the classification of this particular amphoriskos see {% cite 'Grose 1989' %}, class I:B, amphoriskos form I:2: p. 144, no. 97.
 
 ## Provenance
 
@@ -32,7 +32,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-[[von Saldern et al. 1974]], p. 81, no. 221; p. 61, plate no. 221.
+{% cite 'von Saldern et al. 1974' %}, p. 81, no. 221; p. 61, plate no. 221.
 
 ## Exhibitions
 
