@@ -304,7 +304,7 @@ All of the techniques described above continue in use during the third and fourt
 
 [^63]: {% cite 'Sorokina 1978' %}, pp. 118–119, pl. 4.2; this technique has been traced in a workshop of the second and/or third century at Tanais, on the Black Sea.
 
-[^64]: {% cite 'Ignatiadou 2004' %}, p. 61 [Please add to reference list].
+[^64]: [[Ignatiadou 2004]], p. 61 [Please add to reference list].
 
 [^65]: {% cite 'Martial, *Epigr*' %} 11.11 and 12.74. {% cite 'Clement of Alexandria, *Paedagogus*' %} 2.3.35. For detailed commentary on the passages, see {% cite 'Trowbridge 1930' %}, pp. 109, 166, respectively.
 
@@ -316,7 +316,7 @@ All of the techniques described above continue in use during the third and fourt
 
 [^69]: {% cite 'Whitehouse 1991' %}.
 
-[^70]: {% cite 'Whitehouse 1990' %}. For an overview on the matter with many examples from the Corning Museum of Glass collection see {% cite 'Whitehouse 1997' %}, pp. 41–65.
+[^70]: {% cite 'Whitehouse 1990' %}. For an overview on the matter with many examples from the Corning Museum of Glass collection see [[Whitehouse 1997]], pp. 41–65.
 
 [^71]: {% cite 'Stern 2001' %}, pp. 81–82.
 
@@ -342,7 +342,7 @@ All of the techniques described above continue in use during the third and fourt
 
 [^82]: {% cite 'Dussart 1998' %}, p. 128, BX 111a, table 32/1, p. 158, BX 83, table 46/21, p. 161, BXII.1, table 49/1; {% cite 'Stern 2001' %}, p. 354, no. 201; {% cite 'Gorin-Rosen 2006' %}, p. 111, note 7.
 
-[^83]: {% cite 'Weinberg and McLellan 1992' %}, p. 132, no. 107; {% cite 'Fremersdorf and Polónyi-Fremersdorf 1984' %}, p. 65, nos. 152–153.
+[^83]: {% cite 'Weinberg and McClellan 1992' %}, p. 132, no. 107; {% cite 'Fremersdorf and Polónyi-Fremersdorf 1984' %}, p. 65, nos. 152–153.
 
 [^84]: {% cite 'Dussart 1998' %}, p. 162, BXII 214, table 49/7.
 
