@@ -162,11 +162,11 @@
 /* PRINT
 ============================================================================= */
 @media print {
+  /* Hide objects grid */
   objects-catalog {
     display: none;
   }
-
-
+  /* Make the History page 2-column */
   #page-history .quire-page__content {
     column-count: 2;
     column-fill: balance;
@@ -174,30 +174,28 @@
     max-width: 100%;
     margin: 0;
   }
-  
-
-
+  /* TEMP: for testing TOC alignment */
   .quire-contents-list .page-item {
-    background-color: pink;
+    /* background-color: pink; */
   }
   .quire-contents-list .menu-list a {
-    border: 1px solid red;
+    /* border: 1px solid red; */
   }
   .quire-contents-list .page-item, 
   .quire-contents-list .section-item {
-    background-color: honeydew;
+    /* background-color: honeydew; */
     /* max-width: 90%; */
   }
   .quire-contents-list .menu-list .section-item ol a {
-    border-width: 1px;
+    /* border-width: 1px; */
   }
   .quire-contents-list .menu-list .section-item ol {
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
   }
   .quire-contents-list .menu-list .section-item ol .section-item {
     /* max-width: 90%; */
   } 
-  
+  /* Make catalogue entries run together */
   .catalogue-entries-wrapper {
     column-count: 2;
     column-fill: balance;
@@ -205,26 +203,52 @@
     max-width: 100%;
     margin: 0;
   }
+  .catalogue-entries-wrapper .quire-contents .quire-page__content {
+    display: none;
+  }
+  .catalogue-entries-wrapper .quire-page,
+  .catalogue-entries-wrapper .quire-page.quire-contents,
+  .catalogue-entries-wrapper .quire-page.quire-entry {
+    min-height: auto;
+    page-break-before: avoid;
+    prince-page-group: initial;
+    page: initial;
+  }
+  .catalogue-entries-wrapper .quire-page .quire-page__header,
+  .catalogue-entries-wrapper .quire-page.quire-contents .quire-page__header,
+  .catalogue-entries-wrapper .quire-page .quire-page__header *,
+  .catalogue-entries-wrapper .quire-page.quire-contents .quire-page__header * {
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    background-color: transparent;
+    color: blue;
+    display: inline-block;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  .catalogue-entries-wrapper .quire-page .quire-page__header,
+  .catalogue-entries-wrapper .quire-page.quire-contents .quire-page__header {
+    margin-bottom: 2rem;
+  }
   .quire-page.quire-entry .quire-page__content {
     column-count: 1;
   }
-  .quire-page.quire-entry {
-    page-break-before: unset;
-    min-height: auto;
-  }
-
-  .quire-entry .quire-entry__image-wrap .q-figure {
+  .quire-page.quire-entry .quire-entry__image-wrap .q-figure {
     page: initial;
   }
-  .quire-entry__image-wrap .q-figure {
+  .quire-page.quire-entry .quire-entry__image-wrap .q-figure {
     display: none;
   }
-  .quire-entry__image-wrap .q-figure:first-child {
+  .quire-page.quire-entry .quire-entry__image-wrap .q-figure:first-child {
     width: 100%;
     height: auto;
     display: block;
   }
-  .quire-entry__image-wrap .q-figure > :first-child {
+  .quire-page.quire-entry .quire-entry__image-wrap .q-figure > :first-child {
+    height: auto;
+  }
+  .quire-page.quire-entry div.side-by-side div.quire-entry__content {
     height: auto;
   }
 }
