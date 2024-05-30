@@ -20,7 +20,7 @@ Vertical, slightly everted, smooth, fire-rounded rim. Deep body decorated with 1
 
 ## Comments and Comparanda
 
-See [78.AF.27](#cat).
+See {% cat '78.AF.27' %}.
 
 ## Provenance
 

@@ -20,7 +20,7 @@ Dark blue, curved body fragment decorated with applied fine white threads, dragg
 
 ## Comparanda
 
-See [83.AF.28.1](#cat).
+See {% cat '83.AF.28.1' %}.
 
 ## Provenance
 

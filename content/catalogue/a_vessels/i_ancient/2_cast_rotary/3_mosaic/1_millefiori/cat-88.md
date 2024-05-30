@@ -40,7 +40,7 @@ Different forms of Hellenistic mosaic bowls are known, and three different kinds
 
 This particular bowl belongs to a group of late Hellenistic glass mosaic vessels, non-carinated, convex-sided mosaic bowls with a tall splaying base, examples of which have been recovered from a shipwreck that sank ca. 80 BCE off the island of Antikythera in the Aegean Sea, carrying a diverse cargo traveling from the eastern Mediterranean to Italy ([[Weinberg 1965]]; [[Weinberg and McClellan 1992]], pp. 28–33; [[Avronidaki 2012]], pp. 140–145). A few similar non-carinated, convex-sided mosaic bowls, occasionally with a splaying base, have been very scarcely noted among Roman mosaic vessels dating from the late first century BCE to the early first century CE ([[Grose 1989]], pp. 253–254: “composite mosaic vessels with applied rims”).
 
-For similar in shape but of different type of mosaic (Ribbon Bowls) see comments on [2004.23](#cat).
+For similar in shape but of different type of mosaic (Ribbon Bowls) see comments on {% cat '2004.23' %}.
 
 ## Provenance
 

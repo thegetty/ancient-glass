@@ -22,7 +22,7 @@ A red and a white thread wound 32 times from rim to bottom in horizontal lines, 
 
 ## Comments and Comparanda
 
-On core-formed amphoriskoi of this period see comments on [2003.200](#cat). For the classification of this particular amphoriskos see [[Grose 1989]], class III:E, amphoriskos form III:2B: pp. 170–172, nos. 170–174.
+On core-formed amphoriskoi of this period see comments on {% cat '2003.200' %}. For the classification of this particular amphoriskos see [[Grose 1989]], class III:E, amphoriskos form III:2B: pp. 170–172, nos. 170–174.
 
 ## Provenance
 

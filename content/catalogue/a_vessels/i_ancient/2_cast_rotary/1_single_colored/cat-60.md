@@ -20,7 +20,7 @@ Thick conical/mastoid bowl with rounded rim and convex bottom. In the interior t
 
 ## Comparanda
 
-See [2003.217](#num).
+See {% cat '2003.217' %}.
 
 ## Provenance
 

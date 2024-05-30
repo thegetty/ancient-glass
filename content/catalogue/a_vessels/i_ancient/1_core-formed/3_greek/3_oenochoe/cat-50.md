@@ -24,7 +24,7 @@ One unmarvered yellow thread is wound around the base.
 
 ## Comments and Comparanda
 
-See comments on [2003.179](#cat). For the classification of this particular oinochoe see [[Grose 1989]], class II:A, oinochoe form II:1: pp. 161, 163, nos. 147, 150.
+See comments on {% cat '2003.179' %}. For the classification of this particular oinochoe see [[Grose 1989]], class II:A, oinochoe form II:1: pp. 161, 163, nos. 147, 150.
 
 ## Provenance
 

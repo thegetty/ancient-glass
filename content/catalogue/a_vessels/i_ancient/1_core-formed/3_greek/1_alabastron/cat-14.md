@@ -22,7 +22,7 @@ An unmarvered white thread lines the rim. A wide yellow thread is wound twice ar
 
 ## Comments and Comparanda
 
-On core-formed alabastra see comments on [2003.180](#cat). For the classification of this particular alabastron see [[Grose 1989]], class I:G, alabastron form I:5: pp. 137–138, nos. 78–79.
+On core-formed alabastra see comments on {% cat '2003.180' %}. For the classification of this particular alabastron see [[Grose 1989]], class I:G, alabastron form I:5: pp. 137–138, nos. 78–79.
 
 ## Provenance
 

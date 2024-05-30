@@ -30,7 +30,7 @@ The coil of the base is ribbon mosaic comprised of 12 parallel layers of glass, 
 
 ## Comments and Comparanda
 
-For the production technique see [[Dawes 2002]] and comments on [85.AF.85](#num). On cast, angular vessels see comments on [78.AF.32](#cat).
+For the production technique see [[Dawes 2002]] and comments on {% cat '85.AF.85' %}. On cast, angular vessels see comments on {% cat '78.AF.32' %}.
 
 ## Provenance
 

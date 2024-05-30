@@ -20,7 +20,7 @@ Vertical, smooth, fire-rounded rim; deep convex body; flat bottom. Mid-body deco
 
 ## Comparanda
 
-See [2003.223](#cat).
+See {% cat '2003.223' %}.
 
 ## Provenance
 

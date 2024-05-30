@@ -22,7 +22,7 @@ An unmarvered opaque yellow thread is wound around the rim. A marvered wide yell
 
 ## Comments and Comparanda
 
-On core-formed amphoriskoi of this period see comments on [2003.178](#cat). For the classification of this particular amphoriskos see [[Grose 1989]], class I:B, amphoriskos form I:1: p. 143, no. 96.
+On core-formed amphoriskoi of this period see comments on {% cat '2003.178' %}. For the classification of this particular amphoriskos see [[Grose 1989]], class I:B, amphoriskos form I:1: p. 143, no. 96.
 
 ## Provenance
 
