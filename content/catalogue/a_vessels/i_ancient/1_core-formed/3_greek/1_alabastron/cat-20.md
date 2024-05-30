@@ -22,7 +22,7 @@ A yellow marvered thread wound around the rim spirals 25 times around the body t
 
 ## Comments and Comparanda
 
-On core-formed alabastra see comments on {% cat '2003.180' %}. For the classification of this particular alabastron see [[Grose 1989]], class I:F, alabastron form I:3B: pp. 139–141, nos. 82–85. Almost identical with {% cat '2003.186' %}.
+On core-formed alabastra see comments on {% cat '2003.180' %}. For the classification of this particular alabastron see {% cite 'Grose 1989' %}, class I:F, alabastron form I:3B: pp. 139–141, nos. 82–85. Almost identical with {% cat '2003.186' %}.
 
 ## Provenance
 
@@ -30,7 +30,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-[[von Saldern 1974]], pp. 72–73, no. 185; p. 57, plate no. 185.
+{% cite 'von Saldern 1974' %}, pp. 72–73, no. 185; p. 57, plate no. 185.
 
 ## Exhibitions
 

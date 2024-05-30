@@ -20,11 +20,11 @@ Horizontal rim-disk; short, cylindrical neck; rudimentary shoulder; cylindrical 
 
 One unmarvered turquoise thread is wound around the rim. A marvered turquoise thread is spirally wound 27 times from neck to bottom. It is almost entirely weathered, now appearing white. The first six coils, covering the upper third of the body, are straight and the 18 lower, which cover the lower two-thirds of the body, are dragged up and down, forming a zigzag pattern.
 
-A bronze, m-shaped pin, missing one leg, is placed inside it. This type of double pin appears in the seventh century BCE, probably originating from Macedonia but widespread throughout the Balkans, and continues to appear until the Hellenistic era (fourth–first centuries BCE) mildly altered. For parallels see [[Michailidou-Despotidou 2011]], pp. 92–94, 536, plate 44: 296–297; [[Vasić 1982]], pp. 244–247, fig. 2.
+A bronze, m-shaped pin, missing one leg, is placed inside it. This type of double pin appears in the seventh century BCE, probably originating from Macedonia but widespread throughout the Balkans, and continues to appear until the Hellenistic era (fourth–first centuries BCE) mildly altered. For parallels see {% cite 'Michailidou-Despotidou 2011' %}, pp. 92–94, 536, plate 44: 296–297; {% cite 'Vasić 1982' %}, pp. 244–247, fig. 2.
 
 ## Comments and Comparanda
 
-On core-formed alabastra see comments on {% cat '2003.180' %}. For the classification of this particular alabastron see [[Grose 1989]], class I:B, alabastron form I:3A: pp. 136–137, no. 75.
+On core-formed alabastra see comments on {% cat '2003.180' %}. For the classification of this particular alabastron see {% cite 'Grose 1989' %}, class I:B, alabastron form I:3A: pp. 136–137, no. 75.
 
 ## Provenance
 
@@ -32,9 +32,9 @@ On core-formed alabastra see comments on {% cat '2003.180' %}. For the classific
 
 ## Bibliography
 
-[[Cramer 1908]], lot 1060.
+{% cite 'Cramer 1908' %}, lot 1060.
 
-[[von Saldern 1974]], p. 70, no. 175.
+{% cite 'von Saldern 1974' %}, p. 70, no. 175.
 
 ## Exhibitions
 

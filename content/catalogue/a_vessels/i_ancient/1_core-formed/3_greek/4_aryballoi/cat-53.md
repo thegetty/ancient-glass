@@ -22,9 +22,9 @@ An unmarvered opaque yellow thread is wound around the rim. A marvered yellow th
 
 ## Comments and Comparanda
 
-The aryballos was one of the ceramic vessel forms that was rendered in glass with core-forming technique after the sixth century BCE, when this technique, known in Mesopotamia and Egypt since the middle of the second millennium BCE, was introduced in the Aegean world. In addition to aryballoi, amphoriskoi (small amphoras), alabastra, and oinochoiskai (juglets) were imitated in core-formed glass. It is believed that they functioned as unguentaria, intended for aromatic and cosmetic substances ([[Harden 1981]]; [[McClellan 1984]]; [[Grose 1989]], pp. 109–125; [[Stern and Schlick-Nolte 1994]], pp. 37–44).
+The aryballos was one of the ceramic vessel forms that was rendered in glass with core-forming technique after the sixth century BCE, when this technique, known in Mesopotamia and Egypt since the middle of the second millennium BCE, was introduced in the Aegean world. In addition to aryballoi, amphoriskoi (small amphoras), alabastra, and oinochoiskai (juglets) were imitated in core-formed glass. It is believed that they functioned as unguentaria, intended for aromatic and cosmetic substances ({% cite 'Harden 1981' %}; {% cite 'McClellan 1984' %}; {% cite 'Grose 1989' %}, pp. 109–125; {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 37–44).
 
-This aryballos belongs to the earliest group of Aegean core-formed vessels, dating from the middle of the sixth century to the end of the fifth century BCE ([[Harden 1981]], pp. 58–99; [[Grose 1989]], pp. 110–115), which were made either of blue glass and decorated with white, yellow, and turquoise threads or of milky white glass decorated with purple threads. Vessels of this group have been found in great numbers in Rhodes, Macedonia, the Aegean islands, and Italy. For the classification of this particular aryballos see [[Grose 1989]], class I:B, form I:1A: p. 151, no. 119.
+This aryballos belongs to the earliest group of Aegean core-formed vessels, dating from the middle of the sixth century to the end of the fifth century BCE ({% cite 'Harden 1981' %}, pp. 58–99; {% cite 'Grose 1989' %}, pp. 110–115), which were made either of blue glass and decorated with white, yellow, and turquoise threads or of milky white glass decorated with purple threads. Vessels of this group have been found in great numbers in Rhodes, Macedonia, the Aegean islands, and Italy. For the classification of this particular aryballos see {% cite 'Grose 1989' %}, class I:B, form I:1A: p. 151, no. 119.
 
 ## Provenance
 
@@ -32,7 +32,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-[[von Saldern et al. 1974]], p. 64, no. 145; p. 53, plate no. 145.
+{% cite 'von Saldern et al. 1974' %}, p. 64, no. 145; p. 53, plate no. 145.
 
 ## Exhibitions
 

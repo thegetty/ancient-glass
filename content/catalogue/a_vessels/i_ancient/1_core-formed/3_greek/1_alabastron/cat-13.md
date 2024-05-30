@@ -22,7 +22,7 @@ The alabastron is made of a seemingly black, probably dark purple glass, and it 
 
 ## Comments and Comparanda
 
-On core-formed alabastra see comments on {% cat '2003.180' %}. For the classification of this particular alabastron see [[Grose 1989]], class I:F, alabastron form I:3A: p. 187, no. 77; [[Harden 1981]], form 3; [[Harden 1981]], pp. 58–59.
+On core-formed alabastra see comments on {% cat '2003.180' %}. For the classification of this particular alabastron see {% cite 'Grose 1989' %}, class I:F, alabastron form I:3A: p. 187, no. 77; {% cite 'Harden 1981' %}, form 3; {% cite 'Harden 1981' %}, pp. 58–59.
 
 ## Provenance
 
@@ -30,9 +30,9 @@ On core-formed alabastra see comments on {% cat '2003.180' %}. For the classific
 
 ## Bibliography
 
-[[Cramer 1908]], no. 1077.
+{% cite 'Cramer 1908' %}, no. 1077.
 
-[[von Saldern et al. 1974]], p. 67, no. 161.
+{% cite 'von Saldern et al. 1974' %}, p. 67, no. 161.
 
 ## Exhibitions
 

@@ -30,9 +30,9 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-[[von Saldern et al. 1974]], pp. 50–51, no. 111.
+{% cite 'von Saldern et al. 1974' %}, pp. 50–51, no. 111.
 
-[[Barag 1975]], pp. 24 n. 4, 35, IIB.3, fig. 34.
+{% cite 'Barag 1975' %}, pp. 24 n. 4, 35, IIB.3, fig. 34.
 
 ## Exhibitions
 

@@ -30,7 +30,7 @@ There are small cracks all over the body, probably indicating that it was made b
 
 Both ends of the handle have rounded edges, indicating that the handle was made of a lump of glass that was first stretched and tooled to the desired size on a flat surface, and then applied on the vessel.
 
-The projecting knobs that cover the surface of the body, which give it a spiky appearance, gave to the vessels of this type the nickname “hedgehog” or “hirsute” (*irsuti* in Italian) vessels (oil flasks in the shape of small oinochoe like 2003.164, small bowls, alabastra, and rarely lenticular pyxides). They were made in Etruscan workshops, originally in Caere and later in Orvieto, using the core-forming technique almost exclusively, of blue glass in different shades imported from the Near East. In addition to the vessels, beads and jewelry inlays were produced in these workshops. They appear in the middle of the seventh century BCE, and their production was at its peak during the late seventh and the first decades of the sixth century BCE. They were probably made to hold perfume in the form of scented oil, which was a specialty of the region (especially around Vetulonia), and they are found in elite burials at the sites of Cerveteri, Orvieto, Chiusi, and other early Etruscan sites ([[Caputo 1963]], pp. 13–17; [[Bizzari 1965]], pp. 57–61; [[Martelli 1994]], pp. 75–98; [[Giuntoli 1996]], pp. 13–16; [[Cappucini 2017]], pp. 44–46).
+The projecting knobs that cover the surface of the body, which give it a spiky appearance, gave to the vessels of this type the nickname “hedgehog” or “hirsute” (*irsuti* in Italian) vessels (oil flasks in the shape of small oinochoe like 2003.164, small bowls, alabastra, and rarely lenticular pyxides). They were made in Etruscan workshops, originally in Caere and later in Orvieto, using the core-forming technique almost exclusively, of blue glass in different shades imported from the Near East. In addition to the vessels, beads and jewelry inlays were produced in these workshops. They appear in the middle of the seventh century BCE, and their production was at its peak during the late seventh and the first decades of the sixth century BCE. They were probably made to hold perfume in the form of scented oil, which was a specialty of the region (especially around Vetulonia), and they are found in elite burials at the sites of Cerveteri, Orvieto, Chiusi, and other early Etruscan sites ({% cite 'Caputo 1963' %}, pp. 13–17; {% cite 'Bizzari 1965' %}, pp. 57–61; {% cite 'Martelli 1994' %}, pp. 75–98; {% cite 'Giuntoli 1996' %}, pp. 13–16; {% cite 'Cappucini 2017' %}, pp. 44–46).
 
 ## Provenance
 
@@ -38,19 +38,19 @@ By 1972, Gawain McKinley Ltd.; by 1974–1988, Erwin Oppenländer, 1901–1988 (
 
 ## Bibliography
 
-[[McKinley 1972]], p. 2, upper left, ill.
+{% cite 'McKinley 1972' %}, p. 2, upper left, ill.
 
-[[*JGS* 1973]], p. 187, no. 2, ill.
+{% cite '*JGS* 1973' %}, p. 187, no. 2, ill.
 
-[[von Saldern et al. 1974]], p. 54, no. 115; p. 52, plate no. 115.
+{% cite 'von Saldern et al. 1974' %}, p. 54, no. 115; p. 52, plate no. 115.
 
-[[Harden 1981]], p. 170, no. 113e.
+{% cite 'Harden 1981' %}, p. 170, no. 113e.
 
-[[Carandini 1985]], p. 188, fig. 227.
+{% cite 'Carandini 1985' %}, p. 188, fig. 227.
 
-[[Martelli 1994]], p. 97, nos. 44–45.
+{% cite 'Martelli 1994' %}, p. 97, nos. 44–45.
 
-[[von Saldern 2004]], p. 88, no. 3.
+{% cite 'von Saldern 2004' %}, p. 88, no. 3.
 
 ## Exhibitions
 

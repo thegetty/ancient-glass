@@ -22,7 +22,7 @@ A thick, white, unmarvered thread around the rim. This thread has a very thin ye
 
 ## Comments and Comparanda
 
-On core-formed alabastra of this period see comments on {% cat '2003.193' %}. For the classification of this particular alabastron see [[Grose 1989]], class III:A or B, alabastron form III:1. This example does not fit exactly in either group A or B. Although the thread around the rim is unmarvered, the neck and the upper body are not decorated, the long neck, the cylindrical body, the handles in form of lugs, and their position near the shoulder lead us to ascribe it to this form. For a comparable find from Macedonia cf. [[Adam-Veleni and Ignatiadou 2010]], pp. 336–337, nos. 345–346, dated to the last quarter of the fourth century BCE.
+On core-formed alabastra of this period see comments on {% cat '2003.193' %}. For the classification of this particular alabastron see {% cite 'Grose 1989' %}, class III:A or B, alabastron form III:1. This example does not fit exactly in either group A or B. Although the thread around the rim is unmarvered, the neck and the upper body are not decorated, the long neck, the cylindrical body, the handles in form of lugs, and their position near the shoulder lead us to ascribe it to this form. For a comparable find from Macedonia cf. {% cite 'Adam-Veleni and Ignatiadou 2010' %}, pp. 336–337, nos. 345–346, dated to the last quarter of the fourth century BCE.
 
 ## Provenance
 
@@ -30,7 +30,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-[[von Saldern 1974]], p. 73, no. 187; p. 57, plate no. 187.
+{% cite 'von Saldern 1974' %}, p. 73, no. 187; p. 57, plate no. 187.
 
 ## Exhibitions
 

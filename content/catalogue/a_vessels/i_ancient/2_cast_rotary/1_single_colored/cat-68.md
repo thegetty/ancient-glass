@@ -22,7 +22,7 @@ For comments on the form, see {% cat '78.AF.27' %}.
 
 ## Comparanda
 
-[[Isings 1957]], form 3c; [[Grose 1989]], pp. 264–265, nos. 234–237; [[Israeli 2003]], p. 81, no. 71; [[Antonaras 2012]], p. 57, no. 23; [[Antonaras 2017]], pp. 54–56, form 6a.
+{% cite 'Isings 1957' %}, form 3c; {% cite 'Grose 1989' %}, pp. 264–265, nos. 234–237; {% cite 'Israeli 2003' %}, p. 81, no. 71; {% cite 'Antonaras 2012' %}, p. 57, no. 23; {% cite 'Antonaras 2017' %}, pp. 54–56, form 6a.
 
 ## Provenance
 
@@ -30,7 +30,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-[[von Saldern et al. 1974]], pp. 96–97, no. 256; p. 99, plate no. 256.
+{% cite 'von Saldern et al. 1974' %}, pp. 96–97, no. 256; p. 99, plate no. 256.
 
 ## Exhibitions
 

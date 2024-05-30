@@ -22,7 +22,7 @@ Decorated with yellow threads, with an unmarvered one wound around the rim. A ma
 
 ## Comments and Comparanda
 
-On core-formed alabastra of this period see comments on {% cat '2003.193' %}. For the classification of this particular alabastron see [[Grose 1989]], class II:D, alabastron form II:8: pp. 158–159, no. 140.
+On core-formed alabastra of this period see comments on {% cat '2003.193' %}. For the classification of this particular alabastron see {% cite 'Grose 1989' %}, class II:D, alabastron form II:8: pp. 158–159, no. 140.
 
 ## Provenance
 
@@ -30,9 +30,9 @@ Louis de Clercq, French, 1836–1901 (Paris, France); by 1974–1988, Erwin Oppe
 
 ## Bibliography
 
-[[de Ridder 1909]], no. 581, plate 31.
+{% cite 'de Ridder 1909' %}, no. 581, plate 31.
 
-[[von Saldern et al. 1974]], p. 112, no. 300.
+{% cite 'von Saldern et al. 1974' %}, p. 112, no. 300.
 
 ## Exhibitions
 

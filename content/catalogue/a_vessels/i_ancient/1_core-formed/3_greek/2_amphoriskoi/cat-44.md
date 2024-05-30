@@ -22,7 +22,7 @@ A marvered opaque yellow thread is wound on the rim and spirals to the bottom 32
 
 ## Comments and Comparanda
 
-On core-formed amphoriskoi of this period see comments on {% cat '2003.200' %}. For the classification of this particular amphoriskos see [[Grose 1989]], class III:E, amphoriskos form III:2B: pp. 169–172, nos. 168–176.
+On core-formed amphoriskoi of this period see comments on {% cat '2003.200' %}. For the classification of this particular amphoriskos see {% cite 'Grose 1989' %}, class III:E, amphoriskos form III:2B: pp. 169–172, nos. 168–176.
 
 ## Provenance
 
@@ -30,7 +30,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-[[von Saldern et al. 1974]], p. 80, no. 210; p. 79, plate no. 210.
+{% cite 'von Saldern et al. 1974' %}, p. 80, no. 210; p. 79, plate no. 210.
 
 ## Exhibitions
 

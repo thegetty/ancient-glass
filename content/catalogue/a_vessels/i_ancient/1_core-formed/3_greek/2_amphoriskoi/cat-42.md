@@ -22,7 +22,7 @@ A marvered white thread spirally wound four times on the lower part of the neck 
 
 ## Comments and Comparanda
 
-Double-handled unguentaria along with hydriskai, jars, and lentoid aryballoi are a new vessel form, ascribed to the second, far rarer group II of Mediterranean core-formed vessels. This group appears late in the fourth century BCE, at the very beginning of the Hellenistic era (fourth–first centuries BCE), and dominated the market until the first or second quarter of the third century. New production centers operated then, probably in Italy and mainland Greece, possibly Macedonia. New decorative patterns replaced the old zigzags with festoons and feather patterns ([[Harden 1981]], pp. 100–121; [[McClellan 1984]], pp. 77–126; [[Grose 1989]], pp. 115–122; [[Stern and Schlick-Nolte 1994]], pp. 38–39). For the classification of this particular vessel see [[Grose 1989]], class II:G, unguentarium form II:1, pp. 121–122; [[Harden 1981]], pp. 135–137, nos. 372–373.
+Double-handled unguentaria along with hydriskai, jars, and lentoid aryballoi are a new vessel form, ascribed to the second, far rarer group II of Mediterranean core-formed vessels. This group appears late in the fourth century BCE, at the very beginning of the Hellenistic era (fourth–first centuries BCE), and dominated the market until the first or second quarter of the third century. New production centers operated then, probably in Italy and mainland Greece, possibly Macedonia. New decorative patterns replaced the old zigzags with festoons and feather patterns ({% cite 'Harden 1981' %}, pp. 100–121; {% cite 'McClellan 1984' %}, pp. 77–126; {% cite 'Grose 1989' %}, pp. 115–122; {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 38–39). For the classification of this particular vessel see {% cite 'Grose 1989' %}, class II:G, unguentarium form II:1, pp. 121–122; {% cite 'Harden 1981' %}, pp. 135–137, nos. 372–373.
 
 ## Provenance
 
@@ -30,7 +30,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-[[von Saldern et al. 1974]], p. 81, no. 218; p. 61, plate no. 218.
+{% cite 'von Saldern et al. 1974' %}, p. 81, no. 218; p. 61, plate no. 218.
 
 ## Exhibitions
 

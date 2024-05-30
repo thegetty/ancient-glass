@@ -20,7 +20,7 @@ The fragment is part of a dish’s flat bottom, which stood on a fine purple bas
 
 ## Comments and Comparanda
 
-For the production technique see [[Dawes 2002]] and comments on {% cat '85.AF.85' %}. It could be part of a shallow carinated dish like 85.AF.85, or a non-carinated dish (for the class see [[Grose 1989]], pp. 256–261: composite mosaic vessels: non-carinated forms).
+For the production technique see {% cite 'Dawes 2002' %} and comments on {% cat '85.AF.85' %}. It could be part of a shallow carinated dish like 85.AF.85, or a non-carinated dish (for the class see {% cite 'Grose 1989' %}, pp. 256–261: composite mosaic vessels: non-carinated forms).
 
 ## Provenance
 
@@ -28,7 +28,7 @@ Pierre Mavrogordato, Greek, 1870–1948 (Berlin, Germany); by 1974–1988, Erwin
 
 ## Bibliography
 
-[[von Saldern et al. 1974]], p. 123, no. 332; p. 121, plate no. 332.
+{% cite 'von Saldern et al. 1974' %}, p. 123, no. 332; p. 121, plate no. 332.
 
 ## Exhibitions
 

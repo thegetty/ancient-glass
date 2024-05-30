@@ -22,7 +22,7 @@ An unmarvered opaque yellow thread is wound around the rim. A marvered wide yell
 
 ## Comments and Comparanda
 
-See comments on {% cat '2003.174' %}. For the classification of this particular aryballos see [[Grose 1989]], class I:B, aryballos form I:1: p. 151, no. 119.
+See comments on {% cat '2003.174' %}. For the classification of this particular aryballos see {% cite 'Grose 1989' %}, class I:B, aryballos form I:1: p. 151, no. 119.
 
 ## Provenance
 
@@ -30,9 +30,9 @@ See comments on {% cat '2003.174' %}. For the classification of this particular 
 
 ## Bibliography
 
-[[Cramer 1908]], lot 1041.
+{% cite 'Cramer 1908' %}, lot 1041.
 
-[[von Saldern et al. 1974]], p. 65, no. 151, plate no. 151.
+{% cite 'von Saldern et al. 1974' %}, p. 65, no. 151, plate no. 151.
 
 ## Exhibitions
 
