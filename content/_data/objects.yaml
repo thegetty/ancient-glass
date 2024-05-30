@@ -9,7 +9,7 @@ object_display_order:
 
 object_filters:
   - culture
-  - inscritpion
+  - inscription
   - shape
   - technique
 
