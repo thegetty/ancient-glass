@@ -71,11 +71,30 @@ TK
 
 ### Customizations
 
+**_includes/components/menu/item.js**
+**_includes/components/table-of-contents/item/list.js**
+**_includes/components/table-of-contents/item/grid.js**
+Don't render menu or TOC links if page is `landing: false`
+
 **_layouts/cover.liquid**
 Added publication.cover_title in place of the default title
 
 **_layouts/entry.liquid**
 Added section breadcrumbs to entry pages based on their file paths
+
+**_plugins/shortcodes/def.js**
+**_plugins/shortcodes/index.js**
+Add custom def shortcode for glossary pop-ups
+
+**_plugins/shortcodes/cat.js**
+**_plugins/shortcodes/index.js**
+Add custom def shortcode for accession number catalogue links
+
+**content/_assets/javascript/application/index.js**
+Display only one pop-up at a time
+
+**content/_computed/eleventyComputed.js**
+Allow for nextPage and previousPage to be overridden at page level
 
 ## License
 
