@@ -38,7 +38,7 @@ For the production technique see {% cite 'Dawes 2002' %} and comments on {% cat 
 
 ## Bibliography
 
-{% cite 'True and Hamma 1994' %}, p. 356, cat. no. 269 \[not illustrated\].
+{% cite 'True and Hamma 1994' %}, p. 356, cat. no. 269 [not illustrated].
 
 {% cite 'Report 97–98' %}, p. 68.
 

@@ -30,7 +30,7 @@ Ribbed bowls appear in three main shapes: shallow ({% cite 'Isings 1957' %}, p. 
 
 ## Provenance
 
-1935, George Dupont Pratt, American, 1869–1935; 1935–1937, Estate of George Dupont Pratt, American, 1869–1935 \[sold, Anderson Galleries, New York, January 15, 1937, lot 50\]; 1940, Harry Leonard Simmons \[sold, Parke-Bernet Galleries, Inc., April 5, 1940, lot 108, through French and Co. to J. Paul Getty\]; 1940–1976, J. Paul Getty, American, 1892–1976, upon his death, held in trust by the estate; 1976–1978, Estate of J. Paul Getty, American, 1892–1976, distributed to the J. Paul Getty Museum, 1978
+1935, George Dupont Pratt, American, 1869–1935; 1935–1937, Estate of George Dupont Pratt, American, 1869–1935 [sold, Anderson Galleries, New York, January 15, 1937, lot 50]; 1940, Harry Leonard Simmons [sold, Parke-Bernet Galleries, Inc., April 5, 1940, lot 108, through French and Co. to J. Paul Getty]; 1940–1976, J. Paul Getty, American, 1892–1976, upon his death, held in trust by the estate; 1976–1978, Estate of J. Paul Getty, American, 1892–1976, distributed to the J. Paul Getty Museum, 1978
 
 ## Bibliography
 

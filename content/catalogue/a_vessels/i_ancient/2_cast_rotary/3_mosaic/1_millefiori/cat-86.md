@@ -32,7 +32,7 @@ Shallow, carinated dishes comprise a well-known form among this group of exquisi
 
 ## Provenance
 
-By 1964–1985, Ernst Kofler, 1899–1989 and Marthe Truniger, 1918–1999 (Lucerne, Switzerland); 1985, Private Collection \[sold, Ancient Glass: Formerly the Kofler-Truniger Collection, Christie’s, London, March 5–6, 1985, lot 183, to the J. Paul Getty Museum through Robin Symes, Limited\]
+By 1964–1985, Ernst Kofler, 1899–1989 and Marthe Truniger, 1918–1999 (Lucerne, Switzerland); 1985, Private Collection [sold, Ancient Glass: Formerly the Kofler-Truniger Collection, Christie’s, London, March 5–6, 1985, lot 183, to the J. Paul Getty Museum through Robin Symes, Limited]
 
 ## Bibliography
 

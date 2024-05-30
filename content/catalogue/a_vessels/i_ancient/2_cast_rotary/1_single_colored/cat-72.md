@@ -28,7 +28,7 @@ On this form of vessel see {% cat '78.AF.27' %}.
 
 ## Provenance
 
-1908, A. Vogell (Karlsruhe, Germany) \[sold, Griechische Altertümer südrussischen Fundorts aus dem Besitze des Herrn A. Vogell, Karlsruhe (Versteigerung), Max Cramer, Cassel, Germany, May 26–30, 1908, lot 942\]; by 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheritance to his son, Gert Oppenländer, 1988; 1988–2003, Gert Oppenländer (Waiblingen, Germany), sold to the J. Paul Getty Museum, 2003
+1908, A. Vogell (Karlsruhe, Germany) [sold, Griechische Altertümer südrussischen Fundorts aus dem Besitze des Herrn A. Vogell, Karlsruhe (Versteigerung), Max Cramer, Cassel, Germany, May 26–30, 1908, lot 942]; by 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheritance to his son, Gert Oppenländer, 1988; 1988–2003, Gert Oppenländer (Waiblingen, Germany), sold to the J. Paul Getty Museum, 2003
 
 ## Bibliography
 
