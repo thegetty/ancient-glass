@@ -22,7 +22,7 @@ A white thread is wound 33 times around the body from the bottom to the rim. The
 
 ## Comments and Comparanda
 
-On core-formed alabastra of this period, see comments on {% cat '2003.194' %}. For the classification of this particular alabastron see [[Grose 1989]], class III:E, alabastron form III:5: pp. 168–169, nos. 166–167; [[Harden 1981]], form 18, pp. 122–123.
+On core-formed alabastra of this period, see comments on {% cat '2003.194' %}. For the classification of this particular alabastron see {% cite 'Grose 1989' %}, class III:E, alabastron form III:5: pp. 168–169, nos. 166–167; {% cite 'Harden 1981' %}, form 18, pp. 122–123.
 
 ## Provenance
 
@@ -30,7 +30,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-[[von Saldern et al. 1974]], p. 74, no. 192.
+{% cite 'von Saldern et al. 1974' %}, p. 74, no. 192.
 
 ## Exhibitions
 

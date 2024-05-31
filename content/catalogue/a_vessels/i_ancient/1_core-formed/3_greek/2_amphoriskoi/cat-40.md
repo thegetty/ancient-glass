@@ -22,17 +22,17 @@ An unmarvered opaque yellow thread is wound around the rim. A marvered wide thre
 
 ## Comments and Comparanda
 
-On core-formed amphoriskoi of this period see comments on {% cat '2003.178' %}. For the classification of this particular amphoriskos see [[Grose 1989]], class I:F, amphoriskos form I:2: pp. 146–48, nos. 104, 109.
+On core-formed amphoriskoi of this period see comments on {% cat '2003.178' %}. For the classification of this particular amphoriskos see {% cite 'Grose 1989' %}, class I:F, amphoriskos form I:2: pp. 146–48, nos. 104, 109.
 
 ## Provenance
 
-1908, A. Vogell (Karlsruhe, Germany) \[sold, Griechische Altertümer südrussischen Fundorts aus dem Besitze des Herrn A. Vogell, Karlsruhe (Versteigerung), Max Cramer, Cassel, Germany, May 26–30, 1908, lot 1017\]; by 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheritance to his son, Gert Oppenländer, 1988; 1988–2003, Gert Oppenländer (Waiblingen, Germany), sold to the J. Paul Getty Museum, 2003
+1908, A. Vogell (Karlsruhe, Germany) [sold, Griechische Altertümer südrussischen Fundorts aus dem Besitze des Herrn A. Vogell, Karlsruhe (Versteigerung), Max Cramer, Cassel, Germany, May 26–30, 1908, lot 1017]; by 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheritance to his son, Gert Oppenländer, 1988; 1988–2003, Gert Oppenländer (Waiblingen, Germany), sold to the J. Paul Getty Museum, 2003
 
 ## Bibliography
 
-[[Cramer 1908]], lot 1017.
+{% cite 'Cramer 1908' %}, lot 1017.
 
-[[von Saldern et al. 1974]], p. 60, no. 133.
+{% cite 'von Saldern et al. 1974' %}, p. 60, no. 133.
 
 ## Exhibitions
 

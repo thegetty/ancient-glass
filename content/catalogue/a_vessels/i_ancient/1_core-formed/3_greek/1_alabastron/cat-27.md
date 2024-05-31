@@ -34,7 +34,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-[[von Saldern 1974]], p. 73, no. 189; p. 61, plate no. 189.
+{% cite 'von Saldern 1974' %}, p. 73, no. 189; p. 61, plate no. 189.
 
 ## Exhibitions
 

@@ -20,7 +20,7 @@ Hemispherical bowl with vertical, ground rim. Relief rings start at 1.4 cm below
 
 ## Comments and Comparanda
 
-Both the interior and exterior present dense rows of parallel scratches, remains of grinding and polishing. It has been plausibly proposed that the two-colored vessel was cast, and then the outer layer was removed with wheel-cutting, creating the perfectly arranged and executed pattern of relief rings. It is extremely rare, unexpectedly thin, if indeed molded. There is another similar, white, bowl formerly in the Sangiorgi Collection, today at the Corning Museum of Glass ([[Whitehouse 2001a]], p. 16, no. 2) and a third, fragmentary emerald-green bowl from Magdalensberg, Austria ([[Czurda-Ruth 1979]], p. 20, no. 8, plate 1:8).
+Both the interior and exterior present dense rows of parallel scratches, remains of grinding and polishing. It has been plausibly proposed that the two-colored vessel was cast, and then the outer layer was removed with wheel-cutting, creating the perfectly arranged and executed pattern of relief rings. It is extremely rare, unexpectedly thin, if indeed molded. There is another similar, white, bowl formerly in the Sangiorgi Collection, today at the Corning Museum of Glass ({% cite 'Whitehouse 2001a' %}, p. 16, no. 2) and a third, fragmentary emerald-green bowl from Magdalensberg, Austria ({% cite 'Czurda-Ruth 1979' %}, p. 20, no. 8, plate 1:8).
 
 ## Provenance
 
@@ -28,7 +28,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-[[[JGS]{.underline} 1978]], p. 119, no. 4.
+{% cite '*JGS* 1978' %}, p. 119, no. 4.
 
 ## Exhibitions
 

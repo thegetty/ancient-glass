@@ -22,17 +22,17 @@ An unmarvered opaque yellow thread is wound around the rim. A marvered wide yell
 
 ## Comments and Comparanda
 
-See comments on {% cat '2003.174' %}. For the classification of this particular aryballos see [[Grose 1989]], class I:B, aryballos form I:1: p. 151, no. 119.
+See comments on {% cat '2003.174' %}. For the classification of this particular aryballos see {% cite 'Grose 1989' %}, class I:B, aryballos form I:1: p. 151, no. 119.
 
 ## Provenance
 
-1908, A. Vogell (Karlsruhe, Germany) \[sold, Griechische Altertümer südrussischen Fundorts aus dem Besitze des Herrn A. Vogell, Karlsruhe (Versteigerung), Max Cramer, Cassel, Germany, May 26–30, 1908, lot 1041\]; by 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheritance to his son, Gert Oppenländer, 1988; 1988–2003, Gert Oppenländer (Waiblingen, Germany), sold to the J. Paul Getty Museum, 2003
+1908, A. Vogell (Karlsruhe, Germany) [sold, Griechische Altertümer südrussischen Fundorts aus dem Besitze des Herrn A. Vogell, Karlsruhe (Versteigerung), Max Cramer, Cassel, Germany, May 26–30, 1908, lot 1041]; by 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheritance to his son, Gert Oppenländer, 1988; 1988–2003, Gert Oppenländer (Waiblingen, Germany), sold to the J. Paul Getty Museum, 2003
 
 ## Bibliography
 
-[[Cramer 1908]], lot 1041.
+{% cite 'Cramer 1908' %}, lot 1041.
 
-[[von Saldern et al. 1974]], p. 65, no. 151, plate no. 151.
+{% cite 'von Saldern et al. 1974' %}, p. 65, no. 151, plate no. 151.
 
 ## Exhibitions
 

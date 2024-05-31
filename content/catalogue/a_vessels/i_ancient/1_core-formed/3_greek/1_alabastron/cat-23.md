@@ -24,7 +24,7 @@ An unmarvered yellow thread is wound around the rim. A white thread is spirally 
 
 ## Comments and Comparanda
 
-On core-formed alabastra of this period see comments on {% cat '2003.193' %}. For the classification of this particular alabastron see [[Grose 1989]], class II:A, alabastron form II:2: pp. 153–155, nos. 124, 128.
+On core-formed alabastra of this period see comments on {% cat '2003.193' %}. For the classification of this particular alabastron see {% cite 'Grose 1989' %}, class II:A, alabastron form II:2: pp. 153–155, nos. 124, 128.
 
 ## Provenance
 
@@ -32,7 +32,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-[[von Saldern 1974]], p. 70, no. 181; p. 72, plate no. 181.
+{% cite 'von Saldern 1974' %}, p. 70, no. 181; p. 72, plate no. 181.
 
 ## Exhibitions
 

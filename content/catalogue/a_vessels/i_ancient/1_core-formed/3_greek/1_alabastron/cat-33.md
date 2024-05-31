@@ -22,7 +22,7 @@ A marvered white thread is wound 17 times around the body, from the bottom to th
 
 ## Comments and Comparanda
 
-On core-formed alabastra of this period see comments on {% cat '2003.194' %}. For the classification of this particular alabastron see [[Grose 1989]], class III:E, alabastron form III:5. The majority of the alabastra of this form are better proportioned and quite similar among themselves, quite different to the squatter variant of 2003.198, which is very similar to an example from Amathous, Cyprus ([[Harden 1981]], p. 128, no. 340).
+On core-formed alabastra of this period see comments on {% cat '2003.194' %}. For the classification of this particular alabastron see {% cite 'Grose 1989' %}, class III:E, alabastron form III:5. The majority of the alabastra of this form are better proportioned and quite similar among themselves, quite different to the squatter variant of 2003.198, which is very similar to an example from Amathous, Cyprus ({% cite 'Harden 1981' %}, p. 128, no. 340).
 
 ## Provenance
 
@@ -30,7 +30,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-[[von Saldern et al. 1974]], p. 76, no. 200.
+{% cite 'von Saldern et al. 1974' %}, p. 76, no. 200.
 
 ## Exhibitions
 

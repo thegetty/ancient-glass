@@ -28,15 +28,15 @@ The coil of the base is ribbon mosaic comprising parallel layers of yellow and g
 
 ## Comments and Comparanda
 
-For the production technique see [[Dawes 2002]] and comments on {% cat '85.AF.85' %}. On cast, angular vessels see comments on {% cat '78.AF.32' %}.
+For the production technique see {% cite 'Dawes 2002' %} and comments on {% cat '85.AF.85' %}. On cast, angular vessels see comments on {% cat '78.AF.32' %}.
 
 ## Provenance
 
-1929, Baurat Schiller \[sold, Sammlung Baurat Schiller, Rudolph Lepke’s Kunst-Auctions-Haus, Berlin, March 19, 1929, lot 588\]; Pierre Mavrogordato, Greek, 1870–1948 (Berlin, Germany); by 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheritance to his son, Gert Oppenländer, 1988; 1988–2003, Gert Oppenländer (Waiblingen, Germany), sold to the J. Paul Getty Museum, 2003
+1929, Baurat Schiller [sold, Sammlung Baurat Schiller, Rudolph Lepke’s Kunst-Auctions-Haus, Berlin, March 19, 1929, lot 588]; Pierre Mavrogordato, Greek, 1870–1948 (Berlin, Germany); by 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheritance to his son, Gert Oppenländer, 1988; 1988–2003, Gert Oppenländer (Waiblingen, Germany), sold to the J. Paul Getty Museum, 2003
 
 ## Bibliography
 
-[[von Saldern et al. 1974]], p. 118, no. 315; p. 119, plate no. 315.
+{% cite 'von Saldern et al. 1974' %}, p. 118, no. 315; p. 119, plate no. 315.
 
 ## Exhibitions
 

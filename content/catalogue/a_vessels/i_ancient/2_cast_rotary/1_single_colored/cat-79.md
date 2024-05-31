@@ -20,7 +20,7 @@ Flaring, almost horizontal rim delineated from the body with a fine horizontal g
 
 ## Comparanda and Commentary
 
-This shallow bowl belongs to a very rare type of Early Roman cast vessels, mainly carinated plates and bowls and rectangular trays, executed in striking colors of single-colored opaque, translucent, and mosaic glass in the first half of the first century CE ([[Grose 1989]], pp. 254–256). This particular shape though is not included among the principal forms of the group and the closest parallel is of unknown provenance, housed in the Princeton University Art Museum ([[Antonaras 2012]], p. 70, no. 71).
+This shallow bowl belongs to a very rare type of Early Roman cast vessels, mainly carinated plates and bowls and rectangular trays, executed in striking colors of single-colored opaque, translucent, and mosaic glass in the first half of the first century CE ({% cite 'Grose 1989' %}, pp. 254–256). This particular shape though is not included among the principal forms of the group and the closest parallel is of unknown provenance, housed in the Princeton University Art Museum ({% cite 'Antonaras 2012' %}, p. 70, no. 71).
 
 ## Provenance
 
@@ -28,7 +28,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Bibliography
 
-[[von Saldern et al. 1974]], p. 108, no. 291; p. 109, plate no. 291.
+{% cite 'von Saldern et al. 1974' %}, p. 108, no. 291; p. 109, plate no. 291.
 
 ## Exhibitions
 
