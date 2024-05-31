@@ -57,7 +57,7 @@ git clone --recursive https://github.com/thegetty/ancient-glass.git
 
 2. Run `quire build`
 
-3. In the `_site/pdf.html` file, find `<section class="quire-page" data-footer-page-title="A. Vessels" data-footer-section-title="Catalogue" id="page-catalogue-a-vessels">` and right before it, add `<div class="catalogue-entries-wrapper">`. And then find `<section class="quire-page" data-footer-page-title="Appendix 1" id="page-appendix-1">` and right before it, add `</div>`. (This creates a new element that wraps all of the catalogue entry pages into one group so that they can flow together in 2-columns.)
+3. In the `_site/pdf.html` file, find `<section class="quire-page" data-footer-page-title="A. Vessels" data-footer-section-title="Catalogue" id="page-catalogue-a-vessels">` and right before it, add `<div class="catalogue-entries-wrapper">`. And then find `<section class="quire-page quire-essay" data-footer-page-title="Appendix 1. Non-invasive Analytical Strategies" id="page-appendix-1">` and right before it, add `</div>`. (This creates a new element that wraps all of the catalogue entry pages into one group so that they can flow together in 2-columns.) 
 
 3. If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
 
@@ -77,6 +77,9 @@ TK
 **_includes/components/table-of-contents/item/list.js**
 **_includes/components/table-of-contents/item/grid.js**
 Don't render menu or TOC links if page is `landing: false`
+
+**_includes/components/table-of-contents/item/list.js**
+Add a `data-layout` attribute to facilitate CSS hiding of cat. entries
 
 **_layouts/cover.liquid**
 Added publication.cover_title in place of the default title

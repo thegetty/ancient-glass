@@ -1,6 +1,7 @@
 //
 // CUSTOMIZED FILE
 // Don't render TOC link if page is `landing: false`
+// Add a `data-layout` attribute to facilitate CSS hiding of cat. entries
 //
 const { html, oneLine } = require('~lib/common-tags')
 
@@ -76,7 +77,7 @@ module.exports = function (eleventyConfig) {
     }
 
     return html`
-      <li class="${classes.join(' ')}">
+      <li class="${classes.join(' ')}" data-layout="${layout}">
         ${mainElement}
         ${abstractText}
         ${children}
