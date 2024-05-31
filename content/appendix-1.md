@@ -1,7 +1,8 @@
 ---
-title: "Appendix 1"
-sub_title: "Look but Don’t Touch: Non-invasive Analytical Strategies for Archaeological Glass"
-layout: page
+label: "Appendix 1"
+title: "Look but Don’t Touch: Non-invasive Analytical Strategies for Archaeological Glass"
+short_title: 
+layout: essay
 order: 3000
 contributor: 
   - first_name: Monica
