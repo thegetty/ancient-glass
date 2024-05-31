@@ -1,7 +1,7 @@
 ---
 label: "Appendix 2"
 title: "Concordance of Accession and Catalogue Numbers"
-short_title:
+short_title: "Concordance"
 layout: page
 order: 3500
 ---
