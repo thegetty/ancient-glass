@@ -36,10 +36,10 @@ Louis de Clercq, French, 1836–1901 (Paris, France); by 1974–1988, Erwin Oppe
 
 ## Exhibitions
 
--   Molten Color: Glassmaking in Antiquity (Malibu, November 9, 2005, to August 6, 2006; January 11 to April 23, 2007.
+Molten Color: Glassmaking in Antiquity (Malibu, November 9, 2005, to August 6, 2006; January 11 to April 23, 2007.
 
--   Gläser der Antike: Sammlung Erwin Oppenländer
+Gläser der Antike: Sammlung Erwin Oppenländer
 
--   Museum für Kunst und Gewerbe Hamburg (Hamburg, October 4 to November 17, 1974)
+Museum für Kunst und Gewerbe Hamburg (Hamburg, October 4 to November 17, 1974)
 
--   Römisch-Germanisches Museum (Cologne, June 20 to September 14, 1975)
+Römisch-Germanisches Museum (Cologne, June 20 to September 14, 1975)

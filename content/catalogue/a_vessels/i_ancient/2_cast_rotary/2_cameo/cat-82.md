@@ -94,14 +94,14 @@ By 1962–1985, Ernst Kofler, 1899–1989 and Marthe Truniger, 1918–1999 (Luce
 
 ## Exhibitions
 
--   Sammlung E. und M. Kofler-Truniger, Luzern (Zurich, 1964)
+Sammlung E. und M. Kofler-Truniger, Luzern (Zurich, 1964)
 
--   Glass of the Caesars (Corning, 1987; Mainz, 1988)
+Glass of the Caesars (Corning, 1987; Mainz, 1988)
 
--   Cleopatra’s Egypt: Age of the Ptolemies (Brooklyn, 1988–1989; Detroit, 1989; Munich, 1989)
+Cleopatra’s Egypt: Age of the Ptolemies (Brooklyn, 1988–1989; Detroit, 1989; Munich, 1989)
 
--   Ancient Art from the Permanent Collection (Los Angeles, 1999–2004)
+Ancient Art from the Permanent Collection (Los Angeles, 1999–2004)
 
--   Reflecting Antiquity: Modern Glass Inspired by Ancient Rome (Malibu, 2007–2008; Corning, 2008)
+Reflecting Antiquity: Modern Glass Inspired by Ancient Rome (Malibu, 2007–2008; Corning, 2008)
 
--   Beyond the Nile: Egypt and the Classical World (Los Angeles, 2018)
+Beyond the Nile: Egypt and the Classical World (Los Angeles, 2018)

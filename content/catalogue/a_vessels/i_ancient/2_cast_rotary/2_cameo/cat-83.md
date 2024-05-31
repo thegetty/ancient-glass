@@ -32,4 +32,4 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Exhibitions
 
--   Reflecting Antiquity: Modern Glass Inspired by Ancient Rome (Malibu, 2007–2008; Corning, 2008)
+Reflecting Antiquity: Modern Glass Inspired by Ancient Rome (Malibu, 2007–2008; Corning, 2008)

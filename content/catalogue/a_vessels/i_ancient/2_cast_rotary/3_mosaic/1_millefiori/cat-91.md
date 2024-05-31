@@ -40,4 +40,4 @@ For the production technique see {% cite 'Dawes 2002' %} and comments on {% cat 
 
 ## Exhibitions
 
--   Molten Color: Glassmaking in Antiquity (Malibu, 2009–2010)
+Molten Color: Glassmaking in Antiquity (Malibu, 2009–2010)

@@ -48,8 +48,8 @@ By 1964–1985, Ernst Kofler, 1899–1989 and Marthe Truniger, 1918–1999 (Luce
 
 ## Exhibitions
 
--   Sammlung E. und M. Kofler-Truniger, Luzern (Zurich, 1964)
+Sammlung E. und M. Kofler-Truniger, Luzern (Zurich, 1964)
 
--   Reflecting Antiquity: Modern Glass Inspired by Ancient Rome (Malibu, 2007–2008; Corning, 2008)
+Reflecting Antiquity: Modern Glass Inspired by Ancient Rome (Malibu, 2007–2008; Corning, 2008)
 
--   Pompeii and the Roman Villa: Art and Culture around the Bay of Naples (Los Angeles, 2009)
+Pompeii and the Roman Villa: Art and Culture around the Bay of Naples (Los Angeles, 2009)

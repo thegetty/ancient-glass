@@ -54,4 +54,4 @@ By 1972, Gawain McKinley Ltd.; by 1974–1988, Erwin Oppenländer, 1901–1988 (
 
 ## Exhibitions
 
--   Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
+Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
