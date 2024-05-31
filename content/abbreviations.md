@@ -1,6 +1,6 @@
 ---
 title: "Abbreviations and Organization of Catalogue Entries"
-short_title: 
+short_title: "Abbreviations and Organization"
 layout: page
 order: 8 
 ---
