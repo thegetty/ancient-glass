@@ -1,7 +1,7 @@
 ---
 label: "Appendix 1"
 title: "Look but Don’t Touch: Non-invasive Analytical Strategies for Archaeological Glass"
-short_title: 
+short_title: "Non-invasive Analytical Strategies"
 layout: essay
 order: 3000
 contributor: 

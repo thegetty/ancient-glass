@@ -1,6 +1,6 @@
 ---
 title: "Ancient Glass in the Getty Museum: History of the Collection"
-short_title: 
+short_title: "History of the Collection"
 layout: page
 order: 11
 contributor:
