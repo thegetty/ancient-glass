@@ -3,7 +3,7 @@ title: About
 layout: page
 classes: 
   - copyright-page
-order: 503
+order: 5003
 outputs:
   - html
 ---
