@@ -57,6 +57,8 @@ git clone --recursive https://github.com/thegetty/ancient-glass.git
 
 2. Run `quire build`
 
+3. In the `_site/pdf.html` file, find `<section class="quire-page" data-footer-page-title="A. Vessels" data-footer-section-title="Catalogue" id="page-catalogue-a-vessels">` and right before it, add `<div class="catalogue-entries-wrapper">`. And then find `<section class="quire-page" data-footer-page-title="Appendix 1" id="page-appendix-1">` and right before it, add `</div>`. (This creates a new element that wraps all of the catalogue entry pages into one group so that they can flow together in 2-columns.)
+
 3. If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
 
     ```
