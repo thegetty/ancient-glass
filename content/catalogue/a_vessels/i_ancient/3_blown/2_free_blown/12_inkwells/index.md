@@ -2,6 +2,6 @@
 label: 
 title: "Inkwells"
 order: 970
-layout: page
-landing: false
+layout: table-of-contents
+presentation: grid
 ---
