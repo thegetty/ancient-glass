@@ -324,7 +324,7 @@ All of the techniques described above continue in use during the third and fourt
 
 [^63]: {% cite 'Sorokina 1978' %}, pp. 118–119, pl. 4.2; this technique has been traced in a workshop of the second and/or third century at Tanais, on the Black Sea.
 
-[^64]: [[Ignatiadou 2004]], p. 61 [Please add to reference list].
+[^64]: {% cite 'Ignatiadou 2003' %}, p. 61 [Please add to reference list].
 
 [^65]: {% cite 'Martial, *Epigr*' %} 11.11 and 12.74. {% cite 'Clement of Alexandria, *Paedagogus*' %} 2.3.35. For detailed commentary on the passages, see {% cite 'Trowbridge 1930' %}, pp. 109, 166, respectively.
 
