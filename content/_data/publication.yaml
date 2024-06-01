@@ -65,6 +65,8 @@ project_team:
 
 contributor_as_it_appears:
 
+additional_contributors:
+
 contributor:
   - id: aantonaras
     type: primary
