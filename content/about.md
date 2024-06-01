@@ -37,7 +37,7 @@ outputs:
 
 {% for revision in publication.revision_history %}
 
-### {{ revision.date | date: "%B %d, %Y" }}
+### {{ revision.date }}
 
 {% for item in revision.summary %}
 - {{ item | markdownify }}
@@ -65,8 +65,6 @@ outputs:
 
 {% copyright %}
 
-Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions or in the illustration credits at the back of this book. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings.
-
 </div>
 <div class="publisher">
 
@@ -92,12 +90,11 @@ Every effort has been made to contact the owners and photographers of illustrati
 
 Front cover: 
 
+Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions or in the illustration credits at the back of this book. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings.
+
 </div>
 
-## J. Paul Getty Museum
-
-Timothy P. Whalen, *John E. and Louise Bryson Director*
-
-TK
-
 {% endbackmatter %}
+
+
+
