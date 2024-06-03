@@ -298,4 +298,54 @@
   .quire-page__content__references.backmatter {
     display: none;
   }
+
+  #page-abbreviations .quire-page__content {
+    column-count: 2;
+    column-fill: balance;
+    column-gap: 0.1875in;
+    max-width: 100%;
+    margin: 0;
+  }
+  #page-map .quire-page__content {
+    column-count: 2;
+    column-fill: balance;
+    column-gap: 0.1875in;
+    max-width: 100%;
+    margin: 0;
+  }
+  #page-overview .quire-page__content {
+    column-count: 2;
+    column-fill: balance;
+    column-gap: 0.1875in;
+    max-width: 100%;
+    margin: 0;
+  }
+  #page-intro .quire-page__content {
+    column-count: 2;
+    column-fill: balance;
+    column-gap: 0.1875in;
+    max-width: 100%;
+    margin: 0;
+  }
+  #page-appendix-2 .quire-page__content {
+    column-count: 2;
+    column-fill: balance;
+    column-gap: 0.1875in;
+    max-width: 100%;
+    margin: 0;
+  }
+  #page-glossary .quire-page__content {
+    column-count: 2;
+    column-fill: balance;
+    column-gap: 0.1875in;
+    max-width: 100%;
+    margin: 0;
+  }
+  #page-works-cited .quire-page__content {
+    column-count: 2;
+    column-fill: balance;
+    column-gap: 0.1875in;
+    max-width: 100%;
+    margin: 0;
+  }
 }
