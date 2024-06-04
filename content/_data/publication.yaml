@@ -65,10 +65,12 @@ project_team:
 
 contributor_as_it_appears:
 
+additional_contributors:
+
 contributor:
   - id: aantonaras
     type: primary
-    first_name: Anastassios Ch.
+    first_name: Anastassios
     last_name: Antonaras
     title: 
     affiliation: 
