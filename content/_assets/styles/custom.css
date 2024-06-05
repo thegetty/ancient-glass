@@ -310,4 +310,16 @@
     max-width: 100%;
     margin: 0;
   }
+
+  /* Use smaller text an backmatter pages and tighten spacing */
+  #page-glossary .quire-page__content,
+  #page-works-cited .quire-page__content {
+    font-size: .875rem;
+  } 
+  .quire-page__content .content dl {
+    margin-left: 0;
+  }
+  .quire-page__content .container .content dl dd {
+    margin-bottom: .5rem;
+  }
 }
