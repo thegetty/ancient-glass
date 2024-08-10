@@ -4,7 +4,7 @@ short_title: "Ancient Glass Production"
 layout: page
 order: 12
 contributor: 
-  - first_name: Anastasios 
+  - first_name: Anastassios 
     last_name: Antonaras 
 ---
 

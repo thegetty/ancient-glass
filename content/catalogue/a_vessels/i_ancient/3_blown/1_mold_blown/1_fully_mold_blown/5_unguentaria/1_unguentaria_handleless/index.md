@@ -1,6 +1,6 @@
 ---
 label: 
-title: "Unguentaria handleless"
+title: "Handleless Unguentaria"
 order: 580
 layout: table-of-contents
 presentation: grid

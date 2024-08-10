@@ -1,6 +1,6 @@
 ---
 label: 
-title: "Mold Blown"
+title: "Mold-Blown"
 order: 1010
 layout: page
 landing: false

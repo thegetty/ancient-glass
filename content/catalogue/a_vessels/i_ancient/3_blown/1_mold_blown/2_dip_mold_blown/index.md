@@ -1,6 +1,6 @@
 ---
 label: "3.1.2"
-title: "Dip mold blown"
+title: "Dip Mold-Blown"
 order: 630
 layout: page
 landing: false
