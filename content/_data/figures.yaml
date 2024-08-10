@@ -9092,19 +9092,19 @@ figure_list:
     src: figures/fig-3-history.jpg
     #zoom: true
     label: "Figure 3."
-    caption: "Roman Glass display in J. Paul Getty Museum, Los Angeles Times, “Getty Art Bids Viewers,” January 24, 1958, photo by Harry Chase."
+    caption: "Roman Glass display in J. Paul Getty Museum, “Getty Art Bids Viewers,” Los Angeles Times, January 24, 1958, photo by Harry Chase."
     
   - id: fig-4-history
     src: figures/fig-4-history.jpg
     #zoom: true
     label: "Figure 4."
-    caption: "Cat. 133, Ribbed Bowl, 25 BCE–CE 25, 72.AF.37, Photo from the 1907 publication of Le Chateau de Ripaille by Max Bruchet (Paris), p. 20; ill (no plate number, follows p. 14)"
+    caption: "Cat. 133, Ribbed Bowl, 50 BCE–50 CE, 72.AF.37, Photo from the 1907 publication of *Le Chateau de Ripaille* by Max Bruchet (Paris), p. 20; ill."
 
   - id: fig-5-history
     src: figures/fig-5-history.jpg
     #zoom: true
     label: "Figure 5."
-    caption: "Cat. 82, Cameo Glass Skyphos, 25 BCE–CE 25, 84.AF.85"
+    caption: "Cat. 82, Cameo Glass Skyphos, 15 BCE, 84.AF.85"
 
   - id: fig-6-history
     src: figures/fig-6-history.jpg
