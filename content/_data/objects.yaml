@@ -58,8 +58,8 @@ object_list:
     id: cat-1
     accession_number: "2003.146"
     collection_link: <https://www.getty.edu/art/collection/objects/221513>
-    dimensions: "rest. H. 12.6, pres. H. 9.5, Diam. rim 2.5, Diam. base 2.8 cm; Wt. 83.46 g"
-    date: "New Kingdom, Eighteenth Dynasty; Tuthmosis IV to Akhenaten before Amarna period; 1401–1347 BCE"
+    dimensions: "est. H. 12.6, pres. H. 9.5, Diam. rim 2.5, Diam. base 2.8 cm; Wt. 83.46 g"
+    date: "New Kingdom, Eighteenth Dynasty; Tuthmosis IV to Amenhotep IV/Akhenaten before Amarna period; 1401–1347 BCE"
     start_date: "-1401"
     end_date: "-1347"
     attribution: "Production area: Egypt"
@@ -81,7 +81,7 @@ object_list:
     end_date: "-1075"
     attribution: "Production area: Egypt"
     culture: "Egyptian"
-    material: "Dark-colored, probably dark green, turquoise, yellow-white glass"
+    material: "Dark-colored, probably dark green, turquoise, and yellow-white glass"
     modeling_technique_and_decoration: "Core-formed"
     inscription: "No"
     shape: [ "Amphoriskoi", "Flasks" ]
@@ -92,13 +92,13 @@ object_list:
     id: cat-3
     accession_number: "2004.2"
     collection_link: <https://www.getty.edu/art/collection/objects/221453>
-    dimensions: "H. 9.6, Diam. rim 5.0–5.3, max. Diam. 6, Diam. base 4.0–4.1 cm; Wt. 85.52 g"
+    dimensions: "H. 9.6, Diam. rim 5.0–5.3, max. Diam. 6.0, Diam. base 4.0–4.1 cm; Wt. 85.52 g"
     date: "New Kingdom, Eighteenth Dynasty; probably the reigns of Tuthmosis IV [when handles are added to this form] to Amenhotep III; ca. 1397–1353 BCE"
     start_date: "-1397"
     end_date: "-1353"
-    attribution: "Production area: Eastern Mediterranean, Egypt"
+    attribution: "Production area: Egypt"
     culture: "Egyptian"
-    material: "Dark blue; opaque white, yellow, and turquoise glass"
+    material: "Translucent dark blue and opaque white, yellow, and turquoise glass"
     modeling_technique_and_decoration: "Core-formed; applied handles, foot, and threads"
     inscription: "No"
     shape: [ "Kratoriskoi" ]
@@ -115,7 +115,7 @@ object_list:
     end_date: "-1202"
     attribution: "Production area: Egypt"
     culture: "Egyptian"
-    material: "Dark blue; opaque yellow and green glass"
+    material: "Dark blue and opaque yellow and green glass"
     modeling_technique_and_decoration: "Core-formed; applied handles and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Lentoid Flasks" ]
@@ -126,13 +126,13 @@ object_list:
     id: cat-5
     accession_number: "2003.147"
     collection_link: <https://www.getty.edu/art/collection/objects/221514>
-    dimensions: "H. 6, L. 12.5 cm; Wt. 114.08 g (with all fills and restoration material)"
-    date: "About 1403–1347 BCE"
+    dimensions: "H. 6.0, L. 12.5 cm; Wt. 114.08 g (with all fills and restoration material)"
+    date: "ca. 1403–1347 BCE"
     start_date: "-1403"
     end_date: "-1347"
     attribution: "Production area: Egypt"
     culture: "Egyptian"
-    material: "Dark blue (appearing black); opaque yellow and white glass"
+    material: "Dark blue (appearing black) and opaque yellow and white glass"
     modeling_technique_and_decoration: "Core-formed; applied threads"
     inscription: "No"
     shape: [ "Flasks" ]
