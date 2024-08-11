@@ -9181,20 +9181,20 @@ figure_list:
     #zoom: true
     label: "Figure 17."
     caption: "Free-blowing technique <br>
-    Forming an object by blowing into a mass of hot glass. (a) Blowing is done with the blowpipe, on whose lower end the gob (molten glass) has already been picked up. (b) The parison (bubble of glass at the end of the blowpipe) is produced by the initial act of blowing, and the final product is then formed. (c) The neck and the body are finalized while still attached to the blowpipe. (d) Then a metal rod (pontil/pounty) is attached to the bottom of the vessel and the blowpipe is cut off/removed. (e) While still on the pontil, the vessel’s rim is formed/shaped, and additional elements (handles or decorative elements, e.g., blobs or threads) are applied. (f) The vessel is left to cool (anneal) gradually."
+    Forming an object by blowing into a mass of hot glass. (a) Blowing is done with the blowpipe, on whose lower end the gob (molten glass) has already been picked up. (b) The parison (bubble of glass at the end of the blowpipe) is produced by the initial act of blowing, and the final product is then formed. (c) The neck and the body are finalized while still attached to the blowpipe. (d) Then a metal rod (pontil/pounty) is attached to the bottom of the vessel and the blowpipe is cut off/removed. (e) While still on the pontil, the vessel’s rim is shaped, and additional elements (handles or decorative elements, e.g., blobs or threads) are applied. (f) The vessel is left to cool (anneal) gradually."
 
   - id: fig-18-intro
     src: figures/fig-18-intro.jpg
     #zoom: true
     label: "Figure 18."
     caption: "Mold-blowing technique <br>
-    The vessel is formed by blowing into a concave or a specially shaped mold; the vessel is completed with the free blowing of its rim and the attachment of handles."
+    The vessel is formed by blowing into a concave or a specially shaped mold; the vessel is completed with the free-blowing of its rim and the attachment of handles."
 
   - id: fig-19-intro
     src: figures/fig-19-intro.jpg
     #zoom: true
     label: "Figure 19."
-    caption: "Dip-mold blowing technique <br>
+    caption: "Dip mold-blowing technique <br>
     A vessel is partially formed by blowing into an intaglio or specially shaped mold; the vessel then acquires its finished dimensions through free blowing during which the original mold-made decoration is blunted or altered."
 
   - id: fig-20-intro
