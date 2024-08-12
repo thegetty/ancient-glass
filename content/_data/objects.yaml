@@ -857,14 +857,14 @@ object_list:
     id: cat-48
     accession_number: "2003.179"
     collection_link: <https://www.getty.edu/art/collection/objects/221546>
-    dimensions: "H. 8.3, Diam. rim 3.1 × 2.4, max. Diam. 4.6, Diam. base 2.85 cm; Wt. 54.78 g"
+    dimensions: "H. 8.3, Diam. rim 3.1 × 2.4, max. Diam. 4.6, Diam. base 2.8 cm; Wt. 54.78 g"
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
     attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Opaque white and translucent purple glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handle, and base; applied unmarvered and marvered threads; tooling marks on the upper surface of the base. Whitish remains of the core in the interior"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handle, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Oinochoai" ]
     technique: [ "Core-formed" ]
@@ -874,14 +874,14 @@ object_list:
     id: cat-49
     accession_number: "2003.166"
     collection_link: <https://www.getty.edu/art/collection/objects/221533>
-    dimensions: "H. 8, Diam. rim 3 × 2.3, max. Diam. 5.2, Diam. base 2.3 cm; Wt. 57.92 g"
+    dimensions: "H. 8.0, Diam. rim 3.0 × 2.3, max. Diam. 5.2, Diam. base 2.3 cm; Wt. 57.92 g"
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
     attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
-    material: "Dark blue; opaque yellow and turquoise glass"
-    modeling_technique_and_decoration: "Core-formed, applied handle, rim-disk, base, and unmarvered and marvered threads"
+    material: "Translucent dark blue and opaque yellow and turquoise glass"
+    modeling_technique_and_decoration: "Core-formed; applied handle, rim-disk, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Oinochoai" ]
     technique: [ "Core-formed" ]
@@ -895,10 +895,10 @@ object_list:
     date: "Mid-fourth–early third centuries BCE"
     start_date: "-366"
     end_date: "-267"
-    attribution: "Production area: Eastern Mediterranean or Italian"
+    attribution: "Production area: Eastern Mediterranean or Italy"
     culture: "Greek"
-    material: "Translucent dark blue; opaque yellow and white glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim and handles; applied marvered and unmarvered threads and base"
+    material: "Translucent dark blue and opaque yellow, turquoise, and white glass"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and marvered and unmarvered threads"
     inscription: "No"
     shape: [ "Oinochoai" ]
     technique: [ "Core-formed" ]
@@ -914,7 +914,7 @@ object_list:
     end_date: "-267"
     attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
-    material: "Dark blue; opaque white and turquoise glass"
+    material: "Translucent dark blue and opaque white and turquoise glass"
     modeling_technique_and_decoration: "Core-formed; applied handle, rim-disk, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Oinochoai" ]
@@ -925,7 +925,7 @@ object_list:
     id: cat-52
     accession_number: "2003.164"
     collection_link: <https://www.getty.edu/art/collection/objects/221531>
-    dimensions: "H. 8.8, Diam. rim 3.8 × 3.5, max. Diam. 4.4 cm (including handle), 4.2 (body) cm; Wt. 51.00 g"
+    dimensions: "H. 8.8, Diam. rim 3.8 × 3.5, max. Diam. 4.4 (including handle), 4.2 (body) cm; Wt. 51.00 g"
     date: "Mid-seventh–early sixth centuries BCE"
     start_date: "-666"
     end_date: "–567"
