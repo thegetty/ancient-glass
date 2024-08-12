@@ -143,7 +143,7 @@ object_list:
     id: cat-6
     accession_number: "2004.16"
     collection_link: <https://www.getty.edu/art/collection/objects/221474/>
-    dimensions: "H. 14, Diam. rim 3.3, max. Diam. 3.5 cm; Wt. 156.75 g"
+    dimensions: "H. 14.0, Diam. rim 3.3, max. Diam. 3.5 cm; Wt. 156.75 g"
     date: "Seventh–sixth centuries BCE"
     start_date: "-700"
     end_date: "-501"
@@ -160,14 +160,14 @@ object_list:
     id: cat-7
     accession_number: "2003.160"
     collection_link: <https://www.getty.edu/art/collection/objects/221527>
-    dimensions: "H. 7.5, max. W. side 1.7, Th. bottom 1, body walls ca. 0.5 cm; Wt. 29.81 g"
+    dimensions: "H. 7.5, max. W. side 1.7, Th. bottom 1.0, body walls ca. 0.5 cm; Wt. 29.81 g"
     date: "Fifth century BCE"
     start_date: "-500"
     end_date: "-401"
     attribution: "Production area: Western Asiatic, probably northwestern Iran, perhaps Azerbaijan"
     culture: "Near Eastern, Achaemenid (Persian)"
-    material: "Translucent dark blue and greenish; opaque white, orange, and turquoise glass"
-    modeling_technique_and_decoration: "Rod-formed, applied threads"
+    material: "Translucent dark blue and greenish and opaque white, orange, and turquoise glass"
+    modeling_technique_and_decoration: "Rod-formed; applied threads"
     inscription: "No"
     shape: [ "Kohl Tube" ]
     technique: [ "Rod-formed" ]
@@ -177,7 +177,7 @@ object_list:
     id: cat-8
     accession_number: "2003.162"
     collection_link: <https://www.getty.edu/art/collection/objects/221529>
-    dimensions: "H. 9.4, Diam. rim 1.00, max. Diam. 1.4 cm; Wt. 27.51 g"
+    dimensions: "H. 9.4, Diam. rim 1.0, max. Diam. 1.4 cm; Wt. 27.51 g"
     date: "Fifth century BCE"
     start_date: "-500"
     end_date: "-401"
