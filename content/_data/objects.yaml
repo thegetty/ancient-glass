@@ -619,14 +619,14 @@ object_list:
     id: cat-34
     accession_number: "2003.178"
     collection_link: <https://www.getty.edu/art/collection/objects/221545>
-    dimensions: "H. 7, Diam. rim 2.9, max. Diam. 4.9, Diam. base 1.2 cm; Wt. 51.83 g"
+    dimensions: "H. 7.0, Diam. rim 2.9, max. Diam. 4.9, Diam. base 1.2 cm; Wt. 51.83 g"
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
     attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Opaque white and translucent purple glass"
-    modeling_technique_and_decoration: "Core-formed, rim, handles, and base applied; applied unmarvered and marvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Core-formed" ]
@@ -636,14 +636,14 @@ object_list:
     id: cat-35
     accession_number: "2003.168"
     collection_link: <https://www.getty.edu/art/collection/objects/221535>
-    dimensions: "H. 6.0, Diam. rim 2.2, max. Diam. 4.1, Diam. base 1.1 cm; Wt. 33 g"
+    dimensions: "H. 6.0, Diam. rim 2.2, max. Diam. 4.1, Diam. base 1.1 cm; Wt. 33.00 g"
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
     attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
-    material: "Translucent dark blue; opaque yellow and turquoise glass, with bronze chain"
-    modeling_technique_and_decoration: "Core-formed; applied rim and handles; applied marvered and unmarvered threads and base"
+    material: "Translucent dark blue and opaque yellow and turquoise glass, with bronze chain"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and marvered and unmarvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Core-formed" ]
@@ -659,8 +659,8 @@ object_list:
     end_date: "-401"
     attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
-    material: "Translucent dark green; opaque yellow and turquoise glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim and handles; applied marvered and unmarvered threads and base"
+    material: "Translucent dark green and opaque white and turquoise glass"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and marvered and unmarvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Core-formed" ]
@@ -670,14 +670,14 @@ object_list:
     id: cat-37
     accession_number: "2003.171"
     collection_link: <https://www.getty.edu/art/collection/objects/221538>
-    dimensions: "H. 8, Diam. rim 2.9, max. Diam. 4.8, Diam. base 1.0 cm; Wt. 49.66 g"
+    dimensions: "H. 8.0, Diam. rim 2.9, max. Diam. 4.8, Diam. base 1.0 cm; Wt. 49.66 g"
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
     attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
-    material: "Translucent dark blue; opaque yellow and turquoise glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim and handles; applied marvered and unmarvered threads and base"
+    material: "Translucent dark blue and opaque yellow and turquoise glass"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and marvered and unmarvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Core-formed" ]
@@ -687,14 +687,14 @@ object_list:
     id: cat-38
     accession_number: "2003.172"
     collection_link: <https://www.getty.edu/art/collection/objects/221539>
-    dimensions: "H. 11, Diam. rim 3.3, max. Diam. 6.7, Diam. base 1.8 cm; Wt. 130.15 g"
+    dimensions: "H. 11.0, Diam. rim 3.3, max. Diam. 6.7, Diam. base 1.8 cm; Wt. 130.15 g"
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
     attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
-    material: "Translucent dark blue; opaque yellow glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim and handles; applied marvered and unmarvered threads and base. Vertical indentations on the body caused by the tooling of the zigzags"
+    material: "Translucent dark blue and opaque yellow glass"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and marvered and unmarvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Core-formed" ]
@@ -710,8 +710,8 @@ object_list:
     end_date: "-401"
     attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
-    material: "Translucent dark blue; opaque yellow and turquoise glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim and handles; applied marvered and unmarvered threads"
+    material: "Translucent dark blue and opaque yellow and turquoise glass"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, and marvered and unmarvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Core-formed" ]
@@ -727,8 +727,8 @@ object_list:
     end_date: "-401"
     attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
-    material: "Dark red and opaque white glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim and handles; applied marvered and unmarvered threads and base"
+    material: "Opaque dark red and opaque yellow and turquoise glass"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and marvered and unmarvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Core-formed" ]
@@ -738,14 +738,14 @@ object_list:
     id: cat-41
     accession_number: "2003.175"
     collection_link: <https://www.getty.edu/art/collection/objects/221542>
-    dimensions: "H. 7.5, Diam. rim 2.5, max. Diam. 4.3, Diam. base 1 cm; Wt. 39.80g"
+    dimensions: "H. 7.5, Diam. rim 2.5, max. Diam. 4.3, Diam. base 1.0 cm; Wt. 39.80 g"
     date: "Probably late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
     attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent dark green (appearing black) and opaque white glass"
-    modeling_technique_and_decoration: "Core-forming; applied rim and handles; applied unmarvered thread and base-knob"
+    modeling_technique_and_decoration: "Core-form; applied rim, handles, base-knob, and unmarvered thread"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Core-formed" ]
@@ -761,7 +761,7 @@ object_list:
     end_date: "-201"
     attribution: "Production area: Eastern Mediterranean, possibly Syro-Palestinian region"
     culture: "Greek"
-    material: "Dark blue; opaque white and yellow glass"
+    material: "Translucent dark blue and opaque white and yellow glass"
     modeling_technique_and_decoration: "Core-formed; applied handles, base, and marvered threads"
     inscription: "No"
     shape: [ "Unguentaria" ]
@@ -772,7 +772,7 @@ object_list:
     id: cat-43
     accession_number: "2003.200"
     collection_link: <https://www.getty.edu/art/collection/objects/221567>
-    dimensions: "H. 14.6, Diam. rim 3, max. Diam. 4.5 cm; Wt. 129.39 g"
+    dimensions: "H. 14.6, Diam. rim 3.0, max. Diam. 4.5 cm; Wt. 129.39 g"
     date: "Mid-second–mid-first centuries BCE"
     start_date: "-166"
     end_date: "-34"
@@ -795,7 +795,7 @@ object_list:
     end_date: "-34"
     attribution: "Production area: Eastern Mediterranean, probably Syro-Palestinian region or Cyprus"
     culture: "Greek"
-    material: "Translucent dark green; translucent to almost transparent amber-color; opaque white and yellow glass"
+    material: "Translucent dark green; translucent to almost transparent amber-colored; opaque white and yellow glass"
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base-knob, and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
@@ -807,12 +807,12 @@ object_list:
     accession_number: "2003.202"
     collection_link: <https://www.getty.edu/art/collection/objects/221569>
     dimensions: "H. 11.4, Diam. rim 2.1, max. Diam. 5.1 cm; Wt. 118.41 g"
-    date: "Second to mid-first century BCE with modern restorations"
+    date: "Second to mid-first century BCE, with modern restorations"
     start_date: "-200"
     end_date: "-34"
     attribution: "Production area: Eastern Mediterranean, possibly Syro-Palestinian region"
     culture: "Greek"
-    material: "Translucent dark blue-green; transparent greenish; and opaque turquoise and yellow glass"
+    material: "Translucent dark blue-green; transparent greenish; opaque turquoise and yellow glass"
     modeling_technique_and_decoration: "Core-formed; applied handles and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
@@ -823,7 +823,7 @@ object_list:
     id: cat-46
     accession_number: "2003.204"
     collection_link: <https://www.getty.edu/art/collection/objects/221571>
-    dimensions: "H. 16, Diam. rim 2.8, max. Diam. 5.2 cm; Wt. 146.88 g"
+    dimensions: "H. 16.0, Diam. rim 2.8, max. Diam. 5.2 cm; Wt. 146.88 g"
     date: "Second–mid-first centuries BCE"
     start_date: "-200"
     end_date: "-34"
@@ -840,13 +840,13 @@ object_list:
     id: cat-47
     accession_number: "2003.199"
     collection_link: <https://www.getty.edu/art/collection/objects/221566>
-    dimensions: "H. 10, Diam. rim 2.6, max. Diam. 4.6 cm; Wt. 49.93 g (with the fill)"
+    dimensions: "H. 10.0, Diam. rim 2.6, max. Diam. 4.6 cm; Wt. 49.93 g (with the fill)"
     date: "Mid-second–mid-first centuries BCE"
     start_date: "-166"
     end_date: "-34"
     attribution: "Production area: Eastern Mediterranean, possibly Syro-Palestinian region"
     culture: "Greek"
-    material: "Dark blue; opaque yellow and white glass"
+    material: "Translucent dark blue and opaque yellow and white glass"
     modeling_technique_and_decoration: "Core-formed; applied rim-disk and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]

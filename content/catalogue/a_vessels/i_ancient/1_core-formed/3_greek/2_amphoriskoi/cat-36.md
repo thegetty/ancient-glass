@@ -16,7 +16,7 @@ One handle restored. Some minor nicks and scratches. One side of the vessel is d
 
 ## Description
 
-Translucent dark green (appearing black) body, opaque white and turquoise decoration. Broad inward-sloping rim-disk; relatively tall, cylindrical neck; obtuse-angled shoulder; top-shaped body; convex bottom; circular base-knob with a rounded edge. Two dark green vertical strap handles extend from the upper part of the neck to the shoulders.
+Translucent dark green (appearing black) body; opaque white and turquoise decoration. Broad, inward-sloping rim-disk; relatively tall, cylindrical neck; obtuse-angled shoulder; top-shaped body; convex bottom; circular base-knob with a rounded edge. Two dark green vertical strap handles extend from the upper part of the neck to the shoulders.
 
 An unmarvered opaque white thread is wound around the rim. A marvered white thread starts on the shoulder and spirals five times around the shoulders and the upper body, where an opaque turquoise thread is wound twice, and they are both tooled into a zigzag pattern to the middle of the body. Below this a white marvered thread is wound horizontally twice around the body.
 

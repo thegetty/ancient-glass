@@ -16,9 +16,9 @@ Fully preserved; no cracks or breaks. Very few nicks and scratches. Reddish rema
 
 ## Description
 
-Translucent dark green body (appears black), opaque white decoration. Broad, inward-sloping rim-disk; tall, cylindrical neck; obtuse-angled shoulder; top-shaped body; convex bottom; globular base-knob. Two dark green vertical strap handles extend from the shoulders to the upper part of the neck.
+Translucent dark green body (appearing black); opaque white decoration. Broad, inward-sloping rim-disk; tall, cylindrical neck; obtuse-angled shoulder; top-shaped body; convex bottom; globular base-knob. Two dark green vertical strap handles extend from the shoulders to the upper part of the neck.
 
-A thick unmarvered opaque white thread is wound around the rim, and another one around the half of the base-knob.
+A thick unmarvered opaque white thread is wound around the rim, and another one around half of the base-knob.
 
 ## Comments and Comparanda
 

@@ -16,9 +16,9 @@ The vessel is in good condition, with some signs of weathering, pitting, and dis
 
 ## Description
 
-Dark green (appearing brown) ground with opaque white and yellow decoration. Moderately broad, uneven, inward-sloping rim-disk; cylindrical neck with upward taper; obtuse-angled shoulder; broad, uneven ovoid body; convex pointed bottom; short, spherical amber-colored base-knob. Two opposing vertical amber-colored strap handles extend from the shoulder to just below the rim, bend, and attach on the middle of the neck. Irregular depressions on the shoulder and upper body.
+Translucent dark green ground; opaque white and yellow decoration. Moderately broad, uneven, inward-sloping rim-disk; cylindrical neck with upward taper; obtuse-angled shoulder; broad, uneven ovoid body; convex pointed bottom; short, spherical amber-colored base-knob. Two opposing vertical translucent amber-colored strap handles extend from the shoulder to just below the rim, bend, and attach on the middle of the neck. Irregular depressions on the shoulder and upper body.
 
-A marvered opaque yellow thread is wound on the rim and spirals to the bottom 32 times, in horizontal lines to the shoulder and on the lower body, and is dragged upwards 24 times to form a festoon pattern on the body. A marvered white thread is added from shoulder to lower body, mingling with the spiral and festoon pattern of the yellow thread.
+A marvered opaque yellow thread is wound on the rim and spirals to the bottom 32 times, in horizontal lines to the shoulder and on the lower body, and is dragged upward 24 times to form a festoon pattern on the body. A marvered white thread is added from the shoulder to the lower body, mingling with the spiral and festoon pattern of the yellow thread.
 
 ## Comments and Comparanda
 

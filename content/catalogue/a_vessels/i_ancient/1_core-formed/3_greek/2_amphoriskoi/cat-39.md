@@ -16,9 +16,9 @@ Intact, with mild pitting. Reddish remains of the core in the interior.
 
 ## Description
 
-Translucent dark blue body, opaque yellow and turquoise decoration. Broad inward-sloping rim-disk; relatively tall, cylindrical neck; obtuse-angled shoulder; top-shaped body; convex bottom; circular base-knob with a rounded edge. Two dark blue vertical strap handles extend from the shoulders to the upper part of the neck.
+Translucent dark blue body; opaque yellow and turquoise decoration. Broad, inward-sloping rim-disk; relatively tall, cylindrical neck; obtuse-angled shoulder; top-shaped body; convex bottom; circular base-knob with a rounded edge. Two dark blue vertical strap handles extend from the shoulders to the upper part of the neck.
 
-An unmarvered opaque yellow thread and a turquoise thread are wound around the rim. A marvered wide yellow thread starts on the neck as a large flake and spirals eight times around the shoulders and the upper body where an opaque turquoise thread is wound once and they are both dragged up and down, forming a zigzag pattern. Below this a yellow marvered thread is wound horizontally twice around the body.
+An unmarvered opaque yellow thread and a turquoise thread are wound around the rim. A marvered wide yellow thread starts on the neck as a large flake and spirals eight times around the shoulders and the upper body, where an opaque turquoise thread is wound once and they are both dragged up and down, forming a zigzag pattern. Below this a yellow marvered thread is wound horizontally twice around the body.
 
 ## Comments and Comparanda
 
