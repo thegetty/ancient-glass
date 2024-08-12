@@ -12,19 +12,17 @@ object:
 
 ## Condition
 
-Fully preserved; iridescence on the upper surface of the rim, and cracked on the bottom. A fill on the blue lug.
+Fully preserved; iridescence on the upper surface of the rim, and cracked on the bottom. A fill on the blue lug. Dark-colored remains of the core are visible in the interior.
 
 ## Description
 
-Blue ground with turquoise and yellow decoration. Moderately broad horizontal rim-disk, uneven and sloping inward; cylindrical neck; vestigial shoulder; straight-sided fusiform body; convex pointed bottom. Below the shoulder two opposing lugs; one lug is yellow and the other is blue.
+Translucent dark blue ground; turquoise and yellow decoration. Moderately broad, horizontal rim-disk, uneven and sloping inward; cylindrical neck; vestigial shoulder; straight-sided fusiform body; convex pointed bottom. Below the shoulder two opposing lugs; one lug is yellow and the other is blue.
 
 A marvered opaque turquoise thread is spirally wound in almost horizontal lines from the center of the bottom to the rim 37 times, ending in the neck. Along the upper part of the body, from the shoulder down to the point where the body turns inward toward the bottom, it was dragged upward 21 times, forming a festoon pattern.
 
-Dark-colored remains of the core are visible in the interior.
-
 ## Comments and Comparanda
 
-On core-formed alabastra of this period see comments on {% cat '2003.194' %}. For the classification of this particular alabastron see {% cite 'Grose 1989' %}, class III:E, alabastron form III:5: pp. 168–169, nos. 166–167; {% cite 'Harden 1981' %}, form 18; {% cite 'Harden 1981' %}, pp. 122–123.
+On core-formed alabastra of this period see comments on {% cat '2003.194' %}. For the classification of this particular alabastron see {% cite 'Grose 1989' %}, class III:E, alabastron form III:5: pp. 168–169, nos. 166–167; {% cite 'Harden 1981' %}, form 18, pp. 122–123.
 
 ## Provenance
 

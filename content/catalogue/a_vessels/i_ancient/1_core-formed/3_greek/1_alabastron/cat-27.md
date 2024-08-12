@@ -12,19 +12,19 @@ object:
 
 ## Condition
 
-Mended; some fills.
+Mended; some fills. Whitish core remains in the interior.
 
 ## Description
 
-Wide, flaring, almost horizontal rim; long cylindrical neck; almost nonexistent shoulder; cylindrical body; mildly rounded bottom. Two fine coils applied up and attached lower form two opposing ring handles on the shoulders.
+Translucent purple body; opaque yellow and white decoration. Wide, flaring, almost horizontal rim; long cylindrical neck; almost nonexistent shoulder; cylindrical body; mildly rounded bottom. Two fine coils applied first below the shoulders, then bent, and attached lower on the body form two opposing ring handles.
 
-A yellow unmarvered thread around the rim. A white marvered thread is spirally wound from bottom to the rim 25 times and dragged 10 times upward and downward, forming a feather pattern.
+A yellow unmarvered thread is wound around the rim. A white marvered thread is spirally wound from the bottom to the rim 25 times and dragged 10 times upward and downward, forming a feather pattern.
 
 ## Comments and Comparanda
 
-On core-formed alabastra of this period see comments on {% cat '2003.193' %}. No exact parallels have been located. The rim is part of the same mass and not an added-on disk-rim. The handles do not look like the usual ones for form I:3A, and they are made of translucent, bubbly glass. The body fits well with second–first-century BCE products, while the handles seem to imitate duck-shaped handles of the fourth century.
+On core-formed alabastra of this period see comments on {% cat '2003.193' %}. No exact parallels have been located. The rim is part of the same mass and not an added-on disk-rim. The handles do not look like the usual ones for form I:3A, and they are made of translucent, bubbly glass. The body fits well with second–first-century BCE products, while the handles seem to imitate duck-shaped handles of the fourth century BCE.
 
-It is not easy to date this vase precisely; it was difficult for the authors of the 1974 catalogue of the Oppenländer Collection to assign to a narrow date, and rather they dated it more vaguely between the fourth and the first century BCE.
+It is not easy to date this vase precisely; it was difficult for the authors of the 1974 catalogue of the Oppenländer Collection to assign a narrow date, and rather they dated it more vaguely between the fourth and the first century BCE.
 
 Chemical analyses conducted by the GCI scientist Dr. Monica Ganio have shown that the glass of the body does not correspond to other core-formed vessels and it is very rich in zinc, providing another indication that it may have been made in Europe in the nineteenth or twentieth century CE.
 

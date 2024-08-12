@@ -12,15 +12,15 @@ object:
 
 ## Condition
 
-Intact.
+Intact. It is almost entirely weathered, now appearing white.
 
 ## Description
 
-Horizontal rim-disk; short, cylindrical neck; rudimentary shoulder; cylindrical body, curving in toward the almost flat, slightly convex bottom. On the shoulder, two opposing, unevenly placed dark blue ring handles with knobbed tails.
+Translucent dark blue body; opaque turquoise decoration. Horizontal rim-disk; short, cylindrical neck; rudimentary shoulder; cylindrical body, curving in toward the almost flat, slightly convex bottom. On the shoulder, two opposing, unevenly placed dark blue ring handles with knobbed tails.
 
-One unmarvered turquoise thread is wound around the rim. A marvered turquoise thread is spirally wound 27 times from neck to bottom. It is almost entirely weathered, now appearing white. The first six coils, covering the upper third of the body, are straight and the 18 lower, which cover the lower two-thirds of the body, are dragged up and down, forming a zigzag pattern.
+One unmarvered turquoise thread is wound around the rim. A marvered turquoise thread is spirally wound 27 times from neck to bottom. The first six coils, covering the upper third of the body, are straight, and the 18 lower, which cover the lower two-thirds of the body, are dragged up and down, forming a zigzag pattern.
 
-A bronze, m-shaped pin, missing one leg, is placed inside it. This type of double pin appears in the seventh century BCE, probably originating from Macedonia but widespread throughout the Balkans, and continues to appear until the Hellenistic era (fourth–first centuries BCE) mildly altered. For parallels see {% cite 'Michailidou-Despotidou 2011' %}, pp. 92–94, 536, plate 44: 296–297; {% cite 'Vasić 1982' %}, pp. 244–247, fig. 2.
+A bronze, M-shaped pin, missing one leg, is placed inside the vessel. This type of double pin appears in the seventh century BCE, probably originating from Macedonia but widespread throughout the Balkans, and continues to appear until the Hellenistic era (fourth–first centuries BCE) mildly altered. For parallels see {% cite 'Michailidou-Despotidou 2011' %}, pp. 92–94, 536, plate 44: nos. 296–297; {% cite 'Vasić 1982' %}, pp. 244–247, fig. 2.
 
 ## Comments and Comparanda
 

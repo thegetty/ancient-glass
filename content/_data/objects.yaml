@@ -211,14 +211,14 @@ object_list:
     id: cat-10
     accession_number: "2003.180"
     collection_link: <https://www.getty.edu/art/collection/objects/221547>
-    dimensions: "H. 10.3, Diam. rim 3. 9, max. Diam. 3.0 cm; Wt. 94.98 g"
+    dimensions: "H. 10.3, Diam. rim 3.9, max. Diam. 3.0 cm; Wt. 94.98 g"
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
     attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Opaque white and translucent purple glass"
-    modeling_technique_and_decoration: "Core-formed, applied rim-disk, handles, and marvered thread. Remains of whitish core in the interior. Some crust on the handles"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered thread"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -235,7 +235,7 @@ object_list:
     attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Opaque white and translucent purple glass"
-    modeling_technique_and_decoration: "Core-formed, applied rim-disk and handles; applied marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk and handles; applied marvered and unmarvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -252,7 +252,7 @@ object_list:
     attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Opaque green and yellow glass"
-    modeling_technique_and_decoration: "Core-formed, applied rim-disk, handles, and marvered thread. Remains of reddish core in the interior"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered thread"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -262,14 +262,14 @@ object_list:
     id: cat-13
     accession_number: "2004.6"
     collection_link: <https://www.getty.edu/art/collection/objects/221457>
-    dimensions: "H. 9.4, Diam. rim 3.0, max. Diam. 2.6 cm; Wt. 39.0 g"
+    dimensions: "H. 9.4, Diam. rim 3.0, max. Diam. 2.6 cm; Wt. 39.00 g"
     date: "Fifth century BCE"
     start_date: "-500"
     end_date: "-401"
-    attribution: "Production area: Eastern Mediterranean, probably Rhodes"
+    attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
-    material: "Dark purple (seemingly black); opaque white glass"
-    modeling_technique_and_decoration: "Core-formed, applied rim-disk, handles, and marvered thread"
+    material: "Dark purple (seemingly black) and opaque white glass"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered thread"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -283,10 +283,10 @@ object_list:
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
-    attribution: "Production area: Eastern Mediterranean, possibly Syro-Palestinian region"
+    attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
-    material: "Dark blue, opaque white and yellow glass, with bronze"
-    modeling_technique_and_decoration: "Core-formed, applied rim-disk, handles, and marvered thread"
+    material: "Translucent dark blue and opaque white and yellow glass, with bronze"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered thread"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -300,10 +300,10 @@ object_list:
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
-    attribution: "Production area: Eastern Mediterranean, possibly Syro-Palestinian region"
+    attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
-    material: "Dark blue; opaque turquoise and yellow glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk and handles; applied marvered threads"
+    material: "Translucent dark blue and opaque turquoise and yellow glass"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -319,8 +319,8 @@ object_list:
     end_date: "-401"
     attribution: "Production area: Eastern Mediterranean"
     culture: "Greek"
-    material: "Dark blue; opaque turquoise glass, with bronze"
-    modeling_technique_and_decoration: "Core-formed, applied disk-rim, handles, and marvered threads"
+    material: "Translucent dark blue and opaque turquoise glass, with bronze"
+    modeling_technique_and_decoration: "Core-formed; applied disk-rim, handles, and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -336,8 +336,8 @@ object_list:
     end_date: "-401"
     attribution: "Production area: Eastern Mediterranean"
     culture: "Greek"
-    material: "Dark, probably purple; opaque white and yellow glass"
-    modeling_technique_and_decoration: "Core-formed, applied rim-disk, handles, and marvered thread"
+    material: "Translucent dark, probably purple, and opaque white and yellow glass"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered thread"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -347,14 +347,14 @@ object_list:
     id: cat-18
     accession_number: "2003.183"
     collection_link: <https://www.getty.edu/art/collection/objects/221550>
-    dimensions: "H. 9, Diam. rim 2.5, max. Diam. 2.6 cm; Wt. 34.54 g"
+    dimensions: "H. 9.0, Diam. rim 2.5, max. Diam. 2.6 cm; Wt. 34.54 g"
     date: "Fifth century BCE"
     start_date: "-500"
     end_date: "-401"
     attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
-    material: "Brownish-purple and opaque turquoise glass"
-    modeling_technique_and_decoration: "Core-formed, applied disk-rim, handles, and marvered threads"
+    material: "Brownish-purple and opaque white, appearing turquoise, glass"
+    modeling_technique_and_decoration: "Core-formed; applied disk-rim, handles, and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -370,8 +370,8 @@ object_list:
     end_date: "-401"
     attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
-    material: "Purple; opaque yellow, turquoise glass"
-    modeling_technique_and_decoration: "Core-formed, applied disk-rim, handles, and marvered threads"
+    material: "Brown, opaque yellow, and turquoise glass"
+    modeling_technique_and_decoration: "Core-formed; applied disk-rim, handles, and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -387,8 +387,8 @@ object_list:
     end_date: "-401"
     attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
-    material: "Purple; opaque yellow, turquoise glass"
-    modeling_technique_and_decoration: "Core-formed, applied disk-rim, handles, and marvered threads"
+    material: "Translucent brown, and opaque yellow, turquoise glass"
+    modeling_technique_and_decoration: "Core-formed; applied disk-rim, handles, and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -404,8 +404,8 @@ object_list:
     end_date: "-401"
     attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
-    material: "Translucent light green/gray; opaque turquoise and yellow glass"
-    modeling_technique_and_decoration: "Core-formed, applied disk-rim, handles, and marvered threads"
+    material: "Translucent light green/gray and opaque turquoise and yellow glass"
+    modeling_technique_and_decoration: "Core-formed; applied disk-rim, handles, and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -421,8 +421,8 @@ object_list:
     end_date: "-267"
     attribution: "Production area: Eastern Mediterranean"
     culture: "Greek"
-    material: "Translucent blue; opaque yellow, turquoise, and white glass"
-    modeling_technique_and_decoration: "Core-formed, applied rim-disk, handles, and unmarvered and marvered threads. Tooling marks on the upper- and underside of the rim and on the neck. Whitish core remains in the interior"
+    material: "Translucent dark blue and opaque yellow, turquoise, and white glass"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -438,8 +438,8 @@ object_list:
     end_date: "-267"
     attribution: "Production area: Eastern Mediterranean. Allegedly from Olbia, Ukraine"
     culture: "Greek"
-    material: "Dark blue and opaque yellow glass"
-    modeling_technique_and_decoration: "Core-formed, applied rim-disk, handles, and unmarvered and marvered threads"
+    material: "Translucent dark blue and opaque yellow glass"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -455,8 +455,8 @@ object_list:
     end_date: "-301"
     attribution: "Production area: Eastern Mediterranean"
     culture: "Greek"
-    material: "Dark blue; opaque yellow and white glass"
-    modeling_technique_and_decoration: "Core-formed, applied rim-disk, handles, and unmarvered and marvered threads. Tooling marks on the underside of the rim and the neck"
+    material: "Translucent dark blue and opaque yellow and white glass"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -470,10 +470,10 @@ object_list:
     date: "Mid-fourth–early third centuries BCE"
     start_date: "-366"
     end_date: "-267"
-    attribution: "Production area: Eastern Mediterranean or Italian"
+    attribution: "Production area: Eastern Mediterranean or Italy"
     culture: "Greek"
-    material: "Dark blue and opaque yellow glass"
-    modeling_technique_and_decoration: "Core-formed, applied rim, lugs, and decorative threads"
+    material: "Translucent dark blue and opaque yellow glass"
+    modeling_technique_and_decoration: "Core-formed; applied rim, lugs, and decorative threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -487,10 +487,10 @@ object_list:
     date: "Mid-fourth–early third centuries BCE"
     start_date: "-366"
     end_date: "-267"
-    attribution: "Production area: Eastern Mediterranean or Italian"
+    attribution: "Production area: Eastern Mediterranean or Italy"
     culture: "Greek"
-    material: "Dark blue and opaque yellow glass"
-    modeling_technique_and_decoration: "Core-formed, applied rim-disk, handles, and unmarvered and marvered threads"
+    material: "Translucent dark blue and opaque yellow glass"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -506,8 +506,8 @@ object_list:
     end_date: "-1"
     attribution: "Production area: Eastern Mediterranean"
     culture: "Greek"
-    material: "Translucent purple; opaque yellow and white glass"
-    modeling_technique_and_decoration: "Core-formed, applied lugs, and marvered threads. Whitish core remains in the interior"
+    material: "Translucent purple and opaque yellow and white glass"
+    modeling_technique_and_decoration: "Core-formed; applied lugs, and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -518,13 +518,13 @@ object_list:
     accession_number: "2003.188"
     collection_link: <https://www.getty.edu/art/collection/objects/221555>
     dimensions: "H. 13.3, Diam. rim 3.3, max. Diam. 3.4 cm; Wt. 65.42 g"
-    date: "Third through second centuries BCE"
+    date: "Third–second centuries BCE"
     start_date: "-300"
     end_date: "-101"
     attribution: "Production area: Eastern Mediterranean"
     culture: "Greek"
-    material: "Dark blue; opaque white and yellow glass"
-    modeling_technique_and_decoration: "Core-formed, applied disk-rim, lugs, and marvered threads"
+    material: "Translucent dark blue and opaque white and yellow glass"
+    modeling_technique_and_decoration: "Core-formed; applied disk-rim, lugs, and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -541,7 +541,7 @@ object_list:
     attribution: "Production area: Eastern Mediterranean"
     culture: "Greek"
     material: "Dark green and opaque white glass"
-    modeling_technique_and_decoration: "Core-formed, applied lugs, and marvered thread. Remains of whitish core in the interior"
+    modeling_technique_and_decoration: "Core-formed; applied lugs, and marvered thread"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -558,7 +558,7 @@ object_list:
     attribution: "Production area: Eastern Mediterranean or Italy"
     culture: "Greek"
     material: "Opaque light bluish glass with white striations"
-    modeling_technique_and_decoration: "Sagging, or blowing"
+    modeling_technique_and_decoration: "Sagging or blowing"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Probably cast, possibly core-formed" ]
@@ -574,8 +574,8 @@ object_list:
     end_date: "-34"
     attribution: "Production area: Eastern Mediterranean, possibly Syro-Palestinian region"
     culture: "Greek"
-    material: "Dark blue and opaque white glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk and lugs; applied marvered threads"
+    material: "Translucent dark blue and opaque yellow glass"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -591,8 +591,8 @@ object_list:
     end_date: "-34"
     attribution: "Production area: Eastern Mediterranean, possibly Syro-Palestinian region"
     culture: "Greek"
-    material: "Translucent dark blue; opaque turquoise and yellow glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk and lugs; applied marvered threads"
+    material: "Translucent dark blue and opaque turquoise and yellow glass"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -602,14 +602,14 @@ object_list:
     id: cat-33
     accession_number: "2003.198"
     collection_link: <https://www.getty.edu/art/collection/objects/221565>
-    dimensions: "H. 7.9, Diam. rim 2.5, max. Diam. 3.2, Th. 0.3 cm; Wt. 33.9 g"
+    dimensions: "H. 7.9, Diam. rim 2.5, max. Diam. 3.2, Th. 0.3 cm; Wt. 33.90 g"
     date: "Mid-second–mid-first centuries BCE"
     start_date: "-166"
     end_date: "-34"
     attribution: "Production area: Eastern Mediterranean, possibly Syro-Palestinian region"
     culture: "Greek"
     material: "Opaque dark blue and white glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk and lugs; applied marvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]

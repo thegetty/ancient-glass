@@ -12,17 +12,17 @@ object:
 
 ## Condition
 
-Fully preserved. Small cracks and broken bubbles on the surface. A small area of the lip appears to have been restored.
+Fully preserved. Small cracks and broken bubbles on the surface. A small area of the lip appears to have been restored. Remains of reddish core in the interior.
 
 ## Description
 
-Broad horizontal rim-disk; cylindrical neck; rounded shoulder; cylindrical body, tapering toward the neck; shallow, convex bottom. On the shoulders are two opposing ring handles with knobbed tail affixed near the shoulders. One of the handles is lopsided, placed obliquely on the body.
+Opaque green body and handles; opaque yellow decoration. Broad, horizontal rim-disk; cylindrical neck; rounded shoulder; cylindrical body, tapering toward the neck; shallow, convex bottom. On the shoulders are two opposing ring handles with knobbed tail affixed near the shoulders. One of the handles is lopsided, placed obliquely on the body.
 
-An unmarvered yellow thread around the rim.
+An unmarvered yellow thread is wound around the rim.
 
 ## Comments and Comparanda
 
-On core-formed alabastra see comments on {% cat '2003.180' %}. For the classification of this particular alabastron see {% cite 'Grose 1989' %}, class I:F subgroup with dark-colored ground and two horizontal threads, dated to the late sixth century BCE, alabastron form I:3B, dated to the fifth century BCE: p. 137, no. 77. {% cite 'Arveiller-Dulong and Nenna 2000' %}, p. 44, no. 17, p. 24 color plate, from Eretria, Greece.
+On core-formed alabastra see comments on {% cat '2003.180' %}. For the classification of this particular alabastron see {% cite 'Grose 1989' %}, class I:F subgroup with dark-colored ground and two horizontal threads, dated to the late sixth century BCE, alabastron form I:3B, dated to the fifth century BCE: p. 137, no. 77. {% cite 'Arveiller-Dulong and Nenna 2000' %}, p. 44, no. 17; p. 24 color plate, from Eretria, Greece.
 
 ## Provenance
 
