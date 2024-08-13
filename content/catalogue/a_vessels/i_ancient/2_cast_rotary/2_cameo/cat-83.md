@@ -16,7 +16,7 @@ Upper body fragment.
 
 ## Description
 
-Rim slightly flaring, flat at the top; body conical with mildly convex sides. On the interior there is a horizontal groove, 0.3 cm below the rim. On the exterior of the preserved fragment part of a male head can be seen, namely, the left eye, the forehead, and the upper part of the head, which is covered with the short, slightly curved locks of a Julio-Claudian style. The upper part of the head is covered with blue glass which seems as if it was spilled over the relief of the hair. On this area a rectangular, almost square (W. 1.5, H. 1.2 cm) sign of abrasion is visible. This must have been the beginning of the handle of the vessel, which was probably a skyphos. When the handle of the vessel was broken, its stump was ground to the surface of the remaining vessel and then it was reused/repurposed.
+Rim slightly flaring, flat at the top; body conical with mildly convex sides. On the interior there is a horizontal groove, 0.3 cm below the rim. On the exterior of the preserved fragment, part of a male head can be seen, namely, the left eye, the forehead, and the upper part of the head, which is covered with the short, slightly curved locks of a Julio-Claudian style. The upper part of the head is covered with blue glass that seems as if it was spilled over the relief of the hair. On this area a rectangular, almost square (W. 1.5, H. 1.2 cm) sign of abrasion is visible. This must have been the beginning of the handle of the vessel, which was probably a skyphos. When the handle of the vessel was broken, its stump was ground to the surface of the remaining vessel and then it was repurposed.
 
 ## Comments and Comparanda
 

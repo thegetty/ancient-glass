@@ -1442,7 +1442,7 @@ object_list:
     attribution: "Production area: Probably Italy"
     culture: "Roman"
     material: "Opaque white over translucent dark blue glass"
-    modeling_technique_and_decoration: "Cast in a mold, ground and polished"
+    modeling_technique_and_decoration: "Mold cast; ground and polished"
     inscription: "No"
     shape: [ "Skyphoi" ]
     technique: [ "“Cast”-rotary pressed" ]
@@ -1452,14 +1452,14 @@ object_list:
     id: cat-83
     accession_number: "2003.354"
     collection_link: <https://www.getty.edu/art/collection/objects/221744>
-    dimensions: "H. 4.7, L. 3.5, Th. 0.3 cm; Wt. 14.6 g"
+    dimensions: "H. 4.7, L. 3.5, Th. 0.3 cm; Wt. 14.60 g"
     date: "15 BCE–25 CE"
     start_date: "-15"
     end_date: "25"
     attribution: "Production area: Probably Italy"
     culture: "Roman"
     material: "Opaque blue and white glass"
-    modeling_technique_and_decoration: "Cast in a mold, ground and polished"
+    modeling_technique_and_decoration: "Mold cast; ground and polished"
     inscription: "No"
     shape: [ "Unidentified", "Skyphoi" ]
     technique: [ "“Cast”-rotary pressed" ]
@@ -1469,14 +1469,14 @@ object_list:
     id: cat-84
     accession_number: "85.AF.84"
     collection_link: <https://www.getty.edu/art/collection/objects/10940>
-    dimensions: "H. 7.6, W. 4.2, Diam. base 2, Th. 0.3 cm; Wt. 35.27 g"
+    dimensions: "H. 7.6, W. 4.2, Diam. base 2.0, Th. 0.3 cm; Wt. 35.27 g"
     date: "15 BCE–25 CE"
     start_date: "-15"
     end_date: "25"
-    attribution: "Production area: Probably Italy. Said to come from near Eskişehir, Türkiye"
+    attribution: "Production area: Probably Italy. Said to come from near Eskişehir, Turkey"
     culture: "Roman"
     material: "Opaque white and translucent cobalt blue glass"
-    modeling_technique_and_decoration: "Cast in a mold, and free-blown"
+    modeling_technique_and_decoration: "Mold cast and free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
     technique: [ "“Cast”-rotary pressed", "Free-blown" ]
@@ -1486,14 +1486,14 @@ object_list:
     id: cat-85
     accession_number: "96.AF.289"
     collection_link: <https://www.getty.edu/art/collection/objects/103526/>
-    dimensions: "H. 1.6, W.1.2, max. Th. 0.30 [purple layer 0.1, white 0.2] cm; Wt. 0.49 g"
+    dimensions: "H. 1.6, W. 1.2, max. Th. 0.3 [purple layer 0.1, white 0.2] cm; Wt. 0.49 g"
     date: "15 BCE–25 CE"
     start_date: "-15"
     end_date: "25"
     attribution: "Production area: Probably Italy"
     culture: "Roman"
     material: "Translucent purple and opaque white glass"
-    modeling_technique_and_decoration: "Cast in a mold; ground and polished"
+    modeling_technique_and_decoration: "Mold cast; ground and polished"
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "“Cast”-rotary pressed" ]
