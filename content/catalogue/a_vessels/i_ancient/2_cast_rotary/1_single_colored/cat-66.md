@@ -16,7 +16,7 @@ Intact; some encrusted areas.
 
 ## Description
 
-Vertical, smooth, fire-rounded rim. Shallow body decorated with twenty-six long, vertical, slightly oblique, regularly arranged ribs. Ribs start 1 cm below the rim and range in size from 3.9 to 5.2 cm in length. In the interior two fine, horizontal grooves are incised at the bottom.
+Vertical, smooth, fire-rounded rim; shallow body decorated with 26 long, vertical, slightly oblique, regularly arranged ribs. Ribs start 1 cm below the rim and range in size from 3.9 to 5.2 cm in length. In the interior, two fine, horizontal grooves are incised at the bottom.
 
 ## Comments and Comparanda
 

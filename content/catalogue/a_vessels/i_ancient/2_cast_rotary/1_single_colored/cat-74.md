@@ -18,9 +18,9 @@ Intact; covered by devitrified, milky white weathering.
 
 Vertical, smooth, fire-rounded rim; deep convex body; flat bottom. Mid-body decorated with 64 short, vertical, slightly oblique ribs, regularly arranged. Ribs start 1.3 cm below the rim and range in size from 1.5 to 2.3 cm in length. On the interior near the base two horizontal grooves 0.1 cm wide are incised.
 
-## Comparanda
+## Comments and Comparanda
 
-See {% cat '2003.223' %}.
+See {% cat '78.AF.27' %}.
 
 ## Provenance
 

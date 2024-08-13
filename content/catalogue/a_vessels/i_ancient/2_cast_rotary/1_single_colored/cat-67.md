@@ -16,7 +16,7 @@ Intact, with a few abrasions and some scratches. Some weathering, and the surfac
 
 ## Description
 
-Vertical, smooth, fire-rounded rim. Shallow body decorated with 37 slightly slanting ribs that are quite uniform in size and evenly spaced. The ribs begin 1.2 cm below rim. In the interior there is one horizontal groove, 0.5 cm below rim; a pair of grooves at 2.5 cm indicate the beginning of the curved, lower part of the vessel.
+Vertical, smooth, fire-rounded rim; shallow body decorated with 37 slightly slanting ribs that are quite uniform in size and evenly spaced. The ribs begin 1.2 cm below rim. In the interior there is one horizontal groove, 0.5 cm below rim; a pair of grooves at 2.5 cm indicate the beginning of the curved, lower part of the vessel.
 
 ## Comments and Comparanda
 

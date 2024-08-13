@@ -1045,7 +1045,7 @@ object_list:
     accession_number: "2003.217"
     collection_link: <https://www.getty.edu/art/collection/objects/221600>
     dimensions: "H. 8.5, Diam. rim 15.8, Th. 0.5 cm; Wt. 260.62 g"
-    date: "Ca. 150 BCE–ca. 50 BCE"
+    date: "Ca. 150–ca. 50 BCE"
     start_date: "-150"
     end_date: "-50"
     attribution: "Production area: Eastern Mediterranean"
@@ -1061,8 +1061,8 @@ object_list:
     id: cat-60
     accession_number: "2004.17"
     collection_link: <https://www.getty.edu/art/collection/objects/221475>
-    dimensions: "Η. 8.5, Diam. rim 14, Th. 0.5 cm; Wt. 260.91 g"
-    date: "Ca. 150 BCE–ca. 50 BCE"
+    dimensions: "Η. 8.5, Diam. rim 14.0, Th. 0.5 cm; Wt. 260.91 g"
+    date: "Ca. 150–ca. 50 BCE"
     start_date: "-150"
     end_date: "-50"
     attribution: "Production area: Eastern Mediterranean"
@@ -1079,7 +1079,7 @@ object_list:
     accession_number: "2004.18"
     collection_link: <https://www.getty.edu/art/collection/objects/221476>
     dimensions: "H. 5.8, Diam. rim 12.3, Th. 0.4 cm; Wt. 179.60 g"
-    date: "Ca. 150 BCE–ca. 50 BCE"
+    date: "Ca. 150–50 BCE"
     start_date: "-150"
     end_date: "-50"
     attribution: "Production area: Eastern Mediterranean"
@@ -1095,7 +1095,7 @@ object_list:
     id: cat-62
     accession_number: "2003.219"
     collection_link: <https://www.getty.edu/art/collection/objects/221602>
-    dimensions: "H. 4.8, Diam. rim 10.2, Th. 0.25 cm; Wt. 97.3 g"
+    dimensions: "H. 4.8, Diam. rim 10.2, Th. 0.2 cm; Wt. 97.30 g"
     date: "Second–first centuries BCE"
     start_date: "-200"
     end_date: "-1"
@@ -1153,7 +1153,7 @@ object_list:
     attribution: "Production area: Eastern Mediterranean"
     culture: "Roman"
     material: "Translucent yellowish glass"
-    modeling_technique_and_decoration: "Free-blown; probably applied pieces, incised"
+    modeling_technique_and_decoration: "Free-blown; probably applied pieces; incised"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Free-blown" ]
@@ -1180,7 +1180,7 @@ object_list:
     id: cat-67
     accession_number: "2003.222"
     collection_link: <https://www.getty.edu/art/collection/objects/221605>
-    dimensions: "H. 4.5, Diam. rim 12.2, Th. 1 cm; Wt. 125.3 g"
+    dimensions: "H. 4.5, Diam. rim 12.2, Th. 1.0 cm; Wt. 125.30 g"
     date: "Ca. 50 BCE–ca. 50 CE"
     start_date: "-50"
     end_date: "50"
@@ -1197,7 +1197,7 @@ object_list:
     id: cat-68
     accession_number: "2003.223"
     collection_link: <https://www.getty.edu/art/collection/objects/221606/>
-    dimensions: "H. 4.2, Diam. rim 12.6, Diam. base 5, Th. 0.3 cm; Wt. 157.3 g"
+    dimensions: "H. 4.2, Diam. rim 12.6, Diam. base 5.0, Th. 0.3 cm; Wt. 157.30 g"
     date: "Ca. 50 BCE–ca. 50 CE"
     start_date: "-50"
     end_date: "50"
@@ -1248,7 +1248,7 @@ object_list:
     id: cat-71
     accession_number: "78.AF.27"
     collection_link: <https://www.getty.edu/art/collection/objects/8161>
-    dimensions: "H. 6, Diam. rim 11.8, Diam. base 6.1 cm; Wt. 206.25 g"
+    dimensions: "H. 6.0, Diam. rim 11.8, Diam. base 6.1 cm; Wt. 206.25 g"
     date: "Ca. 50 BCE–ca. 50 CE"
     start_date: "-50"
     end_date: "50"
@@ -1322,7 +1322,7 @@ object_list:
     end_date: "49"
     attribution: "Production area: Probably Italy"
     culture: "Roman"
-    material: "Opaque red glass; speckles of green glass are visible on both interior and exterior"
+    material: "Opaque red glass; green speckles are visible on both interior and exterior"
     modeling_technique_and_decoration: "Cast"
     inscription: "No"
     shape: [ "Bowls" ]
@@ -1350,7 +1350,7 @@ object_list:
     id: cat-77
     accession_number: "2003.234"
     collection_link: <https://www.getty.edu/art/collection/objects/221617>
-    dimensions: "H. 4, Diam. rim 7.8, Diam. base 3.1 cm; Wt. 56.47 g"
+    dimensions: "H. 4.0, Diam. rim 7.8, Diam. base 3.1 cm; Wt. 56.47 g"
     date: "First half of the first century CE, probably second quarter of the first century CE"
     start_date: "1"
     end_date: "49"
@@ -1367,7 +1367,7 @@ object_list:
     id: cat-78
     accession_number: "2003.235"
     collection_link: <https://www.getty.edu/art/collection/objects/221618>
-    dimensions: "H. 3.4, Diam. rim 6.1, Diam. base 2.8, Th. 0.2 cm; Wt. 45.5 g"
+    dimensions: "H. 3.4, Diam. rim 6.1, Diam. base 2.8, Th. 0.2 cm; Wt. 45.50 g"
     date: "First half of the first century CE, probably second quarter of the first century CE"
     start_date: "1"
     end_date: "49"
@@ -1384,7 +1384,7 @@ object_list:
     id: cat-79
     accession_number: "2003.236"
     collection_link: <https://www.getty.edu/art/collection/objects/221619>
-    dimensions: "H. 3, Diam. rim 8.6, Diam. base 5.8, Th. 0.2 cm; Wt. 76 g"
+    dimensions: "H. 3.0, Diam. rim 8.6, Diam. base 5.8, Th. 0.2 cm; Wt. 76.00 g"
     date: "First half of the first century CE, probably second quarter of the first century CE"
     start_date: "1"
     end_date: "49"
@@ -1401,7 +1401,7 @@ object_list:
     id: cat-80
     accession_number: "2003.237"
     collection_link: <https://www.getty.edu/art/collection/objects/221620/>
-    dimensions: "H. 4, Diam. rim 7.4, Diam. base 5.4 cm; Wt. 52.40 g"
+    dimensions: "H. 4.0, Diam. rim 7.4, Diam. base 5.4 cm; Wt. 52.40 g"
     date: "End of the first century BCE–first half of the first century CE"
     start_date: "-33"
     end_date: "49"
@@ -1418,7 +1418,7 @@ object_list:
     id: cat-81
     accession_number: "2003.475"
     collection_link: <https://www.getty.edu/art/collection/objects/221864/>
-    dimensions: "H. 5.7, Diam. rim 10.3, Diam. base 3.5 cm; Wt. 65.9 g"
+    dimensions: "H. 5.7, Diam. rim 10.3, Diam. base 3.5 cm; Wt. 65.90 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"

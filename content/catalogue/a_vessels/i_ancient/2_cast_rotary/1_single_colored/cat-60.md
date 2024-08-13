@@ -16,9 +16,9 @@ Fully preserved; mended and filled. Partly covered with weathering.
 
 ## Description
 
-Thick conical/mastoid bowl with rounded rim and convex bottom. In the interior three horizontal grooves 0.5 cm wide: one is 1 cm below the rim and a pair at 3 cm, at mid-body. At the exterior two concentric grooves, 2.8 and 4.2 cm wide and 0.3 cm thick, encircle the bottom.
+Thick conical/mastoid bowl with rounded rim and convex bottom. In the interior, three horizontal grooves 0.5 cm wide: one is 1 cm below the rim and a pair at 3 cm, at mid-body. On the exterior, two concentric grooves, 2.8 and 4.2 cm wide and 0.3 cm thick, encircle the bottom.
 
-## Comparanda
+## Comments and Comparanda
 
 See {% cat '2003.217' %}.
 

@@ -16,11 +16,11 @@ Intact. Some iridescence.
 
 ## Description
 
-Hemispherical bowl with vertical, ground rim. Relief rings start at 1.4 cm below the rim. Three pairs of double rings are separated by two equidistant rows of single rings, forming seven bands, 0.7 wide, in total. A small disk is at the center of the bottom. The rings and the small disc are made of the same amber-colored glass as the body, and they are only covered on the surface with a thin layer of white glass.
+Hemispherical bowl with vertical, ground rim. Relief rings start at 1.4 cm below the rim. Three pairs of double rings are separated by two equidistant rows of single rings, forming seven bands, 0.70 cm wide, in total. A small disk is at the center of the bottom. The rings and the small disk are made of the same amber-colored glass as the body, and they are only covered on the surface with a thin layer of white glass.
 
 ## Comments and Comparanda
 
-Both the interior and exterior present dense rows of parallel scratches, remains of grinding and polishing. It has been plausibly proposed that the two-colored vessel was cast, and then the outer layer was removed with wheel-cutting, creating the perfectly arranged and executed pattern of relief rings. It is extremely rare, unexpectedly thin, if indeed molded. There is another similar, white, bowl formerly in the Sangiorgi Collection, today at the Corning Museum of Glass ({% cite 'Whitehouse 2001a' %}, p. 16, no. 2) and a third, fragmentary emerald-green bowl from Magdalensberg, Austria ({% cite 'Czurda-Ruth 1979' %}, p. 20, no. 8, plate 1:8).
+Both the interior and exterior present dense rows of parallel scratches, remains of grinding and polishing. It has been plausibly proposed that the two-colored vessel was cast, and then the outer layer was removed with wheel-cutting, creating the perfectly arranged and executed pattern of relief rings. The vessel is extremely rare, unexpectedly thin, if indeed molded. There is another similar, white bowl formerly in the Sangiorgi Collection, today at the Corning Museum of Glass ({% cite 'Whitehouse 2001a' %}, p. 16, no. 2), and a third, fragmentary emerald-green bowl from Magdalensberg, Austria ({% cite 'Czurda-Ruth 1979' %}, p. 20, no. 8, plate 1:8).
 
 ## Provenance
 

@@ -16,7 +16,7 @@ Intact; some areas of discoloration on the interior and the exterior.
 
 ## Description
 
-Horizontal rim; carinated body with two convex curves; outward-splayed base-ring, of rectangular cross section. On the interior, a fine groove just below the rim.
+Horizontal rim; carinated body with two convex curves; outward-splayed base-ring, with rectangular cross section. On the interior, a fine groove just below the rim.
 
 ## Comments and Comparanda
 
