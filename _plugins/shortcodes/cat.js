@@ -37,3 +37,4 @@ module.exports = function (eleventyConfig, { page }) {
  
     return renderOneLine`<a href="${catLink}">${catLabel}</a>`
   }
+}
