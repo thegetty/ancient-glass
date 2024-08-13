@@ -169,7 +169,7 @@ object_list:
     material: "Translucent dark blue and greenish and opaque white, orange, and turquoise glass"
     modeling_technique_and_decoration: "Rod-formed; applied threads"
     inscription: "No"
-    shape: [ "Kohl Tube" ]
+    shape: [ "Kohl tubes" ]
     technique: [ "Rod-formed" ]
     figure: [ id: "fig-2003-160-a" ]
     path: /catalogue/a_vessels/i_ancient/1_core-formed/2_achaemenid/2_kohl_tube/cat-7/
@@ -6493,7 +6493,7 @@ object_list:
     material: "Dark green, seemingly black glass"
     modeling_technique_and_decoration: "Rod-formed; applied elements"
     inscription: "No"
-    shape: [ "Kohl tube" ]
+    shape: [ "Kohl tubes" ]
     technique: [ "Rod-formed" ]
     figure: [ id: "fig-2003-463-a", id: "fig-2003-463-b" ]
     path: /catalogue/a_vessels/ii_islamic/blown/1_mold_blown/1_fully_mold_blown_flasks/cat-379/
