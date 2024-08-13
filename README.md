@@ -101,6 +101,9 @@ Display only one pop-up at a time
 **content/_computed/eleventyComputed.js**
 Allow for nextPage and previousPage to be overridden at page level
 
+**_plugins/shortcodes/cat.js**
+Allow for optional display text to override the default link text
+
 ## License
 
 © 2025 J. Paul Getty Trust
