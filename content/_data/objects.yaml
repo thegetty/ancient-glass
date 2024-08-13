@@ -942,14 +942,14 @@ object_list:
     id: cat-53
     accession_number: "2003.174"
     collection_link: <https://www.getty.edu/art/collection/objects/221541>
-    dimensions: "H. 6, Diam. rim 2.6, max. Diam. 4.7 cm; Wt. 48.12 g"
+    dimensions: "H. 6.0, Diam. rim 2.6, max. Diam. 4.7 cm; Wt. 48.12 g"
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
     attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
-    material: "Translucent dark blue; opaque yellow and turquoise glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim and handles; applied marvered and unmarvered threads; vertical indentations on the body caused by the tooling of the zigzags"
+    material: "Translucent dark blue and opaque yellow and turquoise glass"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, and marvered and unmarvered threads"
     inscription: "No"
     shape: [ "Aryballoi" ]
     technique: [ "Core-formed" ]
@@ -959,14 +959,14 @@ object_list:
     id: cat-54
     accession_number: "2003.177"
     collection_link: <https://www.getty.edu/art/collection/objects/221544>
-    dimensions: "H. 6, Diam. rim 2.4, max. Diam. 4.4 cm; Wt. 34.64 g"
+    dimensions: "H. 6.0, Diam. rim 2.4, max. Diam. 4.4 cm; Wt. 34.64 g"
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
     attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
-    material: "Translucent dark blue; opaque yellow and turquoise glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim and handles; applied marvered and unmarvered threads"
+    material: "Translucent dark blue and opaque yellow and turquoise glass"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, and marvered and unmarvered threads"
     inscription: "No"
     shape: [ "Aryballoi" ]
     technique: [ "Core-formed" ]
@@ -982,7 +982,7 @@ object_list:
     end_date: "-401"
     attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
-    material: "Dark blue; opaque yellow and turquoise glass"
+    material: "Translucent dark blue and opaque yellow and turquoise glass"
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, and decorative threads and dots"
     inscription: "No"
     shape: [ "Aryballoi" ]
@@ -993,14 +993,14 @@ object_list:
     id: cat-56
     accession_number: "2003.176"
     collection_link: <https://www.getty.edu/art/collection/objects/221543>
-    dimensions: "H. 6.1, Diam. rim 2.7, max. Diam. 5, Th. 0.3 cm; Wt. 43.66 g"
+    dimensions: "H. 6.1, Diam. rim 2.7, max. Diam. 5.0, Th. 0.3 cm; Wt. 43.66 g"
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
     attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
-    material: "Dark blue body; opaque yellow and white decoration"
-    modeling_technique_and_decoration: "Core-formed; applied rim and handles; applied marvered and unmarvered threads"
+    material: "Translucent dark blue and opaque yellow and white glass"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, and marvered and unmarvered threads"
     inscription: "No"
     shape: [ "Aryballoi" ]
     technique: [ "Core-formed" ]
@@ -1016,7 +1016,7 @@ object_list:
     end_date: "-401"
     attribution: "Production area: Eastern Mediterranean. Aegean?"
     culture: "Greek"
-    material: "Dark blue, white, and turquoise glass"
+    material: "Translucent dark blue and opaque white and turquoise glass"
     modeling_technique_and_decoration: "Core-formed; applied marvered threads"
     inscription: "No"
     shape: [ "Unidentified" ]
@@ -1027,13 +1027,13 @@ object_list:
     id: cat-58
     accession_number: "83.AF.28.2"
     collection_link: <https://www.getty.edu/art/collection/objects/16204>
-    dimensions: "pres. H. 1.2, W. 1.00 cm; Wt. 0.72 g"
+    dimensions: "pres. H. 1.2, W. 1.0 cm; Wt. 0.72 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
     attribution: "Production area: Eastern Mediterranean. Aegean?"
     culture: "Roman"
-    material: "Translucent blue and opaque white glass"
+    material: "Translucent dark blue and opaque white glass"
     modeling_technique_and_decoration: "Core-formed; applied elements"
     inscription: "No"
     shape: [ "Unidentified" ]

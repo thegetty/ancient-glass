@@ -16,9 +16,9 @@ Intact.
 
 ## Description
 
-Blue ground, yellow and turquoise decoration. Broad, inward-sloping turquoise rim-disk; cylindrical neck; convex shoulder; ovoid body; convex pointed bottom. Two “dolphin” ring handles with knobbed tails, one dark blue and one yellow, extend from the middle of the neck to the shoulder.
+Translucent dark blue ground; yellow and turquoise decoration. Broad, inward-sloping turquoise rim-disk; cylindrical neck; convex shoulder; ovoid body; convex pointed bottom. Two “dolphin” ring handles with knobbed tails, one dark blue and one yellow, extend from the middle of the neck to the shoulder.
 
-An unmarvered dark blue thread around the rim. A marvered yellow thread is wound five times around the body as horizontal lines and at the largest diameter a turquoise thread is added, spiraling three times with the yellow thread, dragged to form a zigzag and feathered motif. Below are two yellow threads flanking a turquoise thread. At the center of the bottom is a wider turquoise dot topped at the center by a smaller yellow dot.
+An unmarvered dark blue thread is wound around the rim. A marvered yellow thread is wound five times around the body as horizontal lines and at the largest diameter a turquoise thread is added, spiraling three times with the yellow thread, dragged to form a zigzag and feathered pattern. Below are two yellow threads flanking a turquoise thread. At the center of the bottom is a wider turquoise dot with a smaller yellow dot at the center.
 
 ## Comments and Comparanda
 
