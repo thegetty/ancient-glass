@@ -16,23 +16,13 @@ Fully preserved; mended and filled.
 
 ## Description
 
-The bowl has a flaring lip, conical, cyma recta body, and flat bottom; stands on a tall, circular ring-base, formed by a single revolt of an applied coil of glass.
+The bowl has a flaring lip; conical, cyma recta body; and flat bottom. It stands on a tall, circular ring-base, formed by a single revolution of an applied coil of glass.
 
-The vessel is made of discoid mosaic tesserae, florets mostly of following four types:
+The vessel is made of discoid mosaic tesserae, with florets mostly of the following five types: (1) a central yellow rod surrounded in turn by red, blue, white, and blue layers; (2) a central yellow rod surrounded in turn by blue, red, white, and blue layers; (3) a central white rod set in red, surrounded by a dark blue layer with ten white rods, which in turn is surrounded by a blue layer; (4) a central white rod set in red, surrounded by a dark blue layer with ten yellow rods, which in turn is surrounded by a blue layer; (5) a central red rod surrounded in turn by white, blue, white, and blue layers of glass.
 
-A central yellow rod surrounded in turn by red, blue, white, and blue layers.
+In addition, one tessera of the following type of floret appears: A central green rod surrounded in turn by yellow, red, white, and blue layers of glass.
 
-A central yellow rod surrounded in turn by blue, red, white, and blue layers.
-
-A central white rod set in red, surrounded by a dark blue layer with ten white rods which is surrounded by a blue layer.
-
-A central white rod set in red, surrounded by a dark blue layer with ten yellow rods which is surrounded by a blue layer.
-
-A central red rod set in turn in white, blue, white, and blue layers of glass.
-
-In addition, one tessera of the following type of floret appears: A central green rod set in turn in yellow, red, white, and blue layers of glass.
-
-The coil of the base is ribbon mosaic comprising roughly ten parallel layers of glass, red, white, and blue.
+The coil of the base is ribbon mosaic comprising roughly ten parallel layers of glass in red, white, and blue.
 
 ## Comments and Comparanda
 

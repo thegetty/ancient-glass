@@ -16,17 +16,11 @@ Fully preserved; mended. There is discoloration and weathering on the exterior s
 
 ## Description
 
-The bowl has a flaring lip, conical, cyma recta body, and flat bottom; stands on a tall, circular ring-base, formed by an applied coil of glass.
+The bowl has a flaring lip; conical, cyma recta body; and flat bottom. It stands on a tall, circular ring-base, formed by an applied coil of glass.
 
-The vessel is made of discoid mosaic tesserae of three types:
+The vessel is made of discoid mosaic tesserae of three types: (1) a dark blue central rod surrounded by a currently brownish layer with two rows of yellow rods in it, all set in a translucent blue layer; (2) a red central rod surrounded by a currently brownish, probably originally translucent greenish layer with 10 white rods in it, all set in a translucent blue layer; (3) a red central rod surrounded by a currently brownish, probably originally translucent greenish layer with 10 yellow rods, all set in a translucent blue layer.
 
-A dark blue central rod surrounded by a currently brownish layer with two rows of yellow rods in it, which is set in a translucent blue layer.
-
-A red central rod surrounded by a currently brownish, probably originally translucent greenish layer with 10 white rods which, is set in a translucent blue layer.
-
-A red central rod surrounded by a currently brownish, probably originally translucent greenish layer with 10 yellow rods, which is set in a translucent blue layer.
-
-The coil of the base is ribbon mosaic comprised of 12 parallel layers of glass, in turn six white and six green.
+The coil of the base is ribbon mosaic comprising 12 parallel layers of glass, in turn six white and six green.
 
 ## Comments and Comparanda
 

@@ -16,15 +16,9 @@ Fully preserved; mended and filled.
 
 ## Description
 
-The bowl has a flaring lip, conical, cyma recta body, and flat bottom; stands on a tall, circular ring-base, formed by a single revolt of an applied coil of glass.
+The bowl has a flaring lip; conical, cyma recta body; and flat bottom. It stands on a tall, circular ring-base formed by a single revolution of an applied coil of glass.
 
-The vessel is made of discoid mosaic tesserae, with florets of the following types:
-
-A central red rod surrounded by a layer of translucent green with ten yellow rods in it.
-
-A central red rod surrounded by a spiraling layer of almost two revolts of trapezoidal translucent green compartments outlined in yellow, which is surrounded in a purple layer.
-
-The coil of the base is ribbon mosaic comprising parallel layers of yellow and greenish glass.
+The vessel is made of discoid mosaic tesserae, with florets of the following types: (1) a central red rod surrounded by a layer of translucent green with ten yellow rods in it; (2) a central red rod surrounded by a spiraling layer of almost two revolutions of trapezoidal translucent green compartments outlined in yellow, which is surrounded in turn by a purple layer. The coil of the base is ribbon mosaic comprising parallel layers of yellow and greenish glass.
 
 ## Comments and Comparanda
 

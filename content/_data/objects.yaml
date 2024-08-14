@@ -1503,13 +1503,13 @@ object_list:
     id: cat-86
     accession_number: "85.AF.85"
     collection_link: <https://www.getty.edu/art/collection/objects/10941>
-    dimensions: "H. 2.1, Diam. rim 16, Diam. base 8.8 cm; Wt. 134.68 g"
+    dimensions: "H. 2.1, Diam. rim 16.0, Diam. base 8.8 cm; Wt. 134.68 g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
     attribution: "Production area: Italy or possibly eastern Mediterranean"
     culture: "Roman"
-    material: "Opaque white and yellow; translucent purple and bluish glass"
+    material: "Opaque white and yellow and translucent purple and bluish glass"
     modeling_technique_and_decoration: "Assembled of slices of canes, cast, base-ring applied, rotary-polished"
     inscription: "No"
     shape: [ "Dishes" ]
@@ -1520,13 +1520,13 @@ object_list:
     id: cat-87
     accession_number: "2003.258.1"
     collection_link: <https://www.getty.edu/art/collection/objects/221641/>
-    dimensions: "pres. H. 1.7, W. 5.6, L. 4, Th. 1.8, est. Diam. base ca. 12 cm; Wt. 11.89 g"
+    dimensions: "pres. H. 1.7, W. 5.6, L. 4.0, Th. 1.8, est. Diam. base ca. 12.0 cm; Wt. 11.89 g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
     attribution: "Production area: Probably Italy, or eastern Mediterranean"
     culture: "Greek or Roman"
-    material: "Translucent purple, gray, and yellow glass; opaque white glass"
+    material: "Translucent purple, gray, and yellow and opaque white glass"
     modeling_technique_and_decoration: "Assembled of slices of canes, cast, base-ring applied, rotary-polished"
     inscription: "No"
     shape: [ "Dishes" ]
@@ -1543,7 +1543,7 @@ object_list:
     end_date: "-67"
     attribution: "Production area: Italy or possibly eastern Mediterranean"
     culture: "Roman"
-    material: "Opaque white, yellow, green, turquoise; translucent purple glass"
+    material: "Opaque white, yellow, green, and turquoise and translucent purple glass"
     modeling_technique_and_decoration: "Assembled of slices of canes, slumped, base-ring and rim applied, polished"
     inscription: "No"
     shape: [ "Bowls" ]
@@ -1554,13 +1554,13 @@ object_list:
     id: cat-89
     accession_number: "78.AF.32"
     collection_link: <https://www.getty.edu/art/collection/objects/8166>
-    dimensions: "H. 4.1, Diam. rim 8.9, Diam. base 4 cm; Wt. 41.29 g"
+    dimensions: "H. 4.1, Diam. rim 8.9, Diam. base 4.0 cm; Wt. 41.29 g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
     attribution: "Production area: Italy or possibly eastern Mediterranean"
     culture: "Roman"
-    material: "Opaque white, red, yellow; translucent purple glass"
+    material: "Opaque white, red, and yellow and translucent purple glass"
     modeling_technique_and_decoration: "Assembled of slices of canes, cast, base-ring applied, rotary-polished"
     inscription: "No"
     shape: [ "Bowls" ]
@@ -1571,13 +1571,13 @@ object_list:
     id: cat-90
     accession_number: "2003.248"
     collection_link: <https://www.getty.edu/art/collection/objects/221631>
-    dimensions: "H. 4.2, Diam. rim 9, Diam. base 4 cm; Wt. 59.91 g"
+    dimensions: "H. 4.2, Diam. rim 9.0, Diam. base 4.0 cm; Wt. 59.91 g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
     attribution: "Production area: Italy or possibly eastern Mediterranean"
     culture: "Roman"
-    material: "Opaque red, white, green; translucent blue glass"
+    material: "Opaque red, white, and green and translucent blue glass"
     modeling_technique_and_decoration: "Assembled of slices of canes, cast, base-ring applied, rotary-polished"
     inscription: "No"
     shape: [ "Bowls" ]
@@ -1588,14 +1588,14 @@ object_list:
     id: cat-91
     accession_number: "2003.249"
     collection_link: <https://www.getty.edu/art/collection/objects/221632>
-    dimensions: "H. 4, Diam. rim 9, Diam. base 4.1 cm; Wt. 66.89 g"
+    dimensions: "H. 4.0, Diam. rim 9.0, Diam. base 4.1 cm; Wt. 66.89 g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
     attribution: "Production area: Italy or possibly eastern Mediterranean"
     culture: "Roman"
-    material: "Opaque red, yellow; translucent greenish and purple glass"
-    modeling_technique_and_decoration: "Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; cast, base-ring applied, rotary-polished"
+    material: "Opaque red and yellow and translucent greenish and purple glass"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; cast, base-ring applied, rotary-polished"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Slumped" ]
@@ -1605,14 +1605,14 @@ object_list:
     id: cat-92
     accession_number: "2003.250"
     collection_link: <https://www.getty.edu/art/collection/objects/221633/>
-    dimensions: "H. 3.9, Diam. rim 9, Diam. base 4.2 cm; Wt. 48.83 g"
+    dimensions: "H. 3.9, Diam. rim 9.0, Diam. base 4.2 cm; Wt. 48.83 g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
     attribution: "Production area: Italy or possibly eastern Mediterranean"
     culture: "Roman"
-    material: "Opaque white; translucent grayish and purple glass"
-    modeling_technique_and_decoration: "Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; cast, base-ring applied, rotary-polished"
+    material: "Opaque white and translucent grayish and purple glass"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; cast, base-ring applied, rotary-polished"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Slumped" ]
@@ -1628,8 +1628,8 @@ object_list:
     end_date: "32"
     attribution: "Production area: Italy or possibly eastern Mediterranean. Allegedly found at Kerch"
     culture: "Roman"
-    material: "Opaque red, yellow; translucent greenish and blue glass"
-    modeling_technique_and_decoration: "Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; cast, base-ring applied, rotary-polished"
+    material: "Opaque red and yellow and translucent greenish and blue glass"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; cast, base-ring applied, rotary-polished"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Slumped" ]
@@ -1645,8 +1645,8 @@ object_list:
     end_date: "32"
     attribution: "Production area: Italy or possibly eastern Mediterranean"
     culture: "Roman"
-    material: "Opaque red and white; translucent blue glass"
-    modeling_technique_and_decoration: "Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; cast, rotary-polished"
+    material: "Opaque red and white and translucent blue glass"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; cast, rotary-polished"
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
@@ -1662,8 +1662,8 @@ object_list:
     end_date: "32"
     attribution: "Production area: Italy or Egypt"
     culture: "Roman"
-    material: "Translucent green and blue; opaque white, yellow, and red glass"
-    modeling_technique_and_decoration: "Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished"
+    material: "Translucent green and blue and opaque white, yellow, and red glass"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped, rotary-polished"
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
@@ -1679,8 +1679,8 @@ object_list:
     end_date: "32"
     attribution: "Production area: Italy or Egypt"
     culture: "Roman"
-    material: "Translucent green and blue; opaque white, yellow, and red glass"
-    modeling_technique_and_decoration: "Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished"
+    material: "Translucent green and blue and opaque white, yellow, and red glass"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped, rotary-polished"
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
@@ -1690,14 +1690,14 @@ object_list:
     id: cat-97
     accession_number: "83.AF.28.10"
     collection_link: <https://www.getty.edu/art/collection/objects/16212>
-    dimensions: "pres. H. 1.4, est. Diam. rim ca. 7, Th. 0.4 cm; Wt. 1.85 g"
+    dimensions: "pres. H. 1.4, est. Diam. rim ca. 7.0, Th. 0.4 cm; Wt. 1.85 g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
     attribution: "Production area: Italy or Egypt"
     culture: "Roman"
-    material: "Opaque red, white, green, yellow; translucent blue glass"
-    modeling_technique_and_decoration: "Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished"
+    material: "Opaque red, white, green, and yellow and translucent blue glass"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped, rotary-polished"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Slumped" ]
@@ -1707,14 +1707,14 @@ object_list:
     id: cat-98
     accession_number: "83.AF.28.16"
     collection_link: <https://www.getty.edu/art/collection/objects/16218>
-    dimensions: "3.1 × 3.4, Th. 0.4–0.5 cm; Wt. 6.15 g"
+    dimensions: "L. 3.4, W. 3.1, Th. 0.4–0.5 cm; Wt. 6.15 g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
     attribution: "Production area: Italy or Egypt"
     culture: "Roman"
-    material: "Translucent blue; opaque yellow, white, red, turquoise, orange glass"
-    modeling_technique_and_decoration: "Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished"
+    material: "Translucent blue and opaque yellow, white, red, turquoise, and orange glass"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped, rotary-polished"
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
@@ -1724,14 +1724,14 @@ object_list:
     id: cat-99
     accession_number: "83.AF.28.6"
     collection_link: <https://www.getty.edu/art/collection/objects/16208>
-    dimensions: "1.9 × 1.8, Th. 0.25 cm; Wt. 1.78 g"
+    dimensions: "L. 1.8, W. 1.9, Th. 0.25 cm; Wt. 1.78 g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
     attribution: "Production area: Italy or possibly Egypt"
     culture: "Roman"
-    material: "Translucent purple; opaque turquoise, white, red, and yellow glass"
-    modeling_technique_and_decoration: "Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished"
+    material: "Translucent purple and opaque turquoise, white, red, and yellow glass"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped, rotary-polished"
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
@@ -1741,14 +1741,14 @@ object_list:
     id: cat-100
     accession_number: "83.AF.28.8"
     collection_link: <https://www.getty.edu/art/collection/objects/16210>
-    dimensions: "2.9 × 1.9, Th. 0.3 cm; Wt. 2.88 g"
+    dimensions: "L. 1.9, W. 2.9, Th. 0.3 cm; Wt. 2.88 g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
     attribution: "Production area: Italy or possibly Egypt"
     culture: "Roman"
-    material: "Translucent purple; opaque turquoise, white, red, and yellow glass"
-    modeling_technique_and_decoration: "Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished"
+    material: "Translucent purple and opaque turquoise, white, red, and yellow glass"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped, rotary-polished"
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
@@ -1758,14 +1758,14 @@ object_list:
     id: cat-101
     accession_number: "83.AF.28.18"
     collection_link: <https://www.getty.edu/art/collection/objects/16220>
-    dimensions: " pres. H. 1.8, max. pres. Diam. est. 5, Th. 0.4 cm; Wt. 1.44 g"
+    dimensions: " pres. H. 1.8, est. max. Diam. 5.0, Th. 0.4 cm; Wt. 1.44 g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
     attribution: "Production area: Italy or possibly Egypt"
     culture: "Roman"
-    material: "Translucent purple; opaque white, red, and gray glass"
-    modeling_technique_and_decoration: "Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished"
+    material: "Translucent purple and opaque white, red, and gray glass"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped, rotary-polished"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Slumped" ]
@@ -1775,14 +1775,14 @@ object_list:
     id: cat-102
     accession_number: "83.AF.28.22"
     collection_link: <https://www.getty.edu/art/collection/objects/16224>
-    dimensions: " pres. H. 1.7, est. Diam. rim 8–9, Th. 0.3 cm; Wt. 2.03 g"
+    dimensions: " pres. H. 1.7, est. Diam. rim 8.0–9.0, Th. 0.3 cm; Wt. 2.03 g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
     attribution: "Production area: Italy or possibly Egypt"
     culture: "Roman"
-    material: "Translucent blue; opaque white and red glass"
-    modeling_technique_and_decoration: "Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished"
+    material: "Translucent blue and opaque white and red glass"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped, rotary-polished"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Slumped" ]
@@ -1792,14 +1792,14 @@ object_list:
     id: cat-103
     accession_number: "83.AF.28.11"
     collection_link: <https://www.getty.edu/art/collection/objects/16213>
-    dimensions: " 2.3 × 3.3, Th. 0.25 cm; Wt. 3.48 g"
+    dimensions: "L. 2.3, W. 3.3, Th. 0.2 cm; Wt. 3.48 g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
     attribution: "Production area: Italy or possibly Egypt"
     culture: "Roman"
-    material: "Opaque red, yellow, and white; translucent purple glass"
-    modeling_technique_and_decoration: "Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished"
+    material: "Opaque red, yellow, and white and translucent purple glass"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped, rotary-polished"
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
@@ -1809,14 +1809,14 @@ object_list:
     id: cat-104
     accession_number: "83.AF.28.12"
     collection_link: <https://www.getty.edu/art/collection/objects/16214>
-    dimensions: "3.1 × 2, Diam. base 5, Th. 0.30 cm; Wt. 2.06 g"
+    dimensions: "L. 2.0, W. 3.1, est. Diam. base 5, Th. 0.3 cm; Wt. 2.06 g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
     attribution: "Production area: Italy or possibly Egypt"
     culture: "Roman"
-    material: "Opaque red, yellow, white; translucent purple glass"
-    modeling_technique_and_decoration: "Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished"
+    material: "Opaque red, yellow, and white and translucent purple glass"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped, rotary-polished"
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
@@ -1826,14 +1826,14 @@ object_list:
     id: cat-105
     accession_number: "76.AF.70.36"
     collection_link: <https://www.getty.edu/art/collection/objects/19055>
-    dimensions: "W. 1.2, L. 2.9, Th. 0.22 cm; Wt. 1.36 g"
+    dimensions: "L. 1.2, W. 2.9, Th. 0.22 cm; Wt. 1.36 g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
     attribution: "Production area: Italy or possibly Egypt"
     culture: "Roman"
-    material: "Translucent purple; opaque turquoise, white, yellow, and green glass"
-    modeling_technique_and_decoration: "Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished"
+    material: "Translucent purple and opaque turquoise, white, yellow, and green glass"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped, rotary-polished"
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
@@ -1843,14 +1843,14 @@ object_list:
     id: cat-106
     accession_number: "83.AF.28.17"
     collection_link: <https://www.getty.edu/art/collection/objects/16219>
-    dimensions: "pres. H. 1.1, W. 2.8, Th. 0.40–0.50 cm; Wt. 5.70 g"
+    dimensions: "pres. H. 1.1, W. 2.0, Th. 0.4–0.5 cm; Wt. 5.70 g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
     attribution: "Production area: Italy or possibly Egypt"
     culture: "Roman"
-    material: "Translucent green and purple; opaque white glass"
-    modeling_technique_and_decoration: "Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished"
+    material: "Translucent green and purple and opaque white glass"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped, rotary-polished"
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
@@ -1860,14 +1860,14 @@ object_list:
     id: cat-107
     accession_number: "83.AF.28.4"
     collection_link: <https://www.getty.edu/art/collection/objects/16206>
-    dimensions: "pres. H. 2.00, Diam. rim 9, Th. 0.22 cm; Wt. 2.45 g"
+    dimensions: "pres. H. 2.0, est. Diam. rim 9.0, Th. 0.22 cm; Wt. 2.45 g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
     attribution: "Production area: Italy or possibly Egypt"
     culture: "Roman"
-    material: "Translucent purple and green; opaque white and yellow glass"
-    modeling_technique_and_decoration: "Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished"
+    material: "Translucent purple and green and opaque white and yellow glass"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped, rotary-polished"
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
@@ -1877,14 +1877,14 @@ object_list:
     id: cat-108
     accession_number: "2004.26.3"
     collection_link: <https://www.getty.edu/art/collection/objects/221487>
-    dimensions: "L. 4.1, W. 2.5 cm; Wt. 3.84 g"
+    dimensions: "L. 2.5, W. 4.1 cm; Wt. 3.84 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
     attribution: "Production area: Italy or possibly Egypt"
     culture: "Greek or Roman"
-    material: "Translucent purple; opaque yellow, white, and red glass"
-    modeling_technique_and_decoration: "Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, applied base, rotary-polished"
+    material: "Translucent purple and opaque yellow, white, and red glass"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped, base applied, rotary-polished"
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
@@ -1894,14 +1894,14 @@ object_list:
     id: cat-109
     accession_number: "2003.258.5"
     collection_link: <https://www.getty.edu/art/collection/objects/221645>
-    dimensions: "L 3.9, W. 3.1, Th. 0.10 cm; Wt. 4.17 g"
+    dimensions: "L 3.1, W. 3.9, Th. 0.1 cm; Wt. 4.17 g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
     attribution: "Production area: Italy or possibly Egypt"
     culture: "Greek or Roman"
-    material: "Translucent dark blue, purple; opaque yellow and red glass"
-    modeling_technique_and_decoration: "Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished"
+    material: "Translucent dark blue and purple and opaque yellow and red glass"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped, rotary-polished"
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
@@ -1917,8 +1917,8 @@ object_list:
     end_date: "32"
     attribution: "Production area: Italy or possibly Egypt"
     culture: "Greek or Roman"
-    material: "Translucent blue; opaque pinkish, white, and red glass"
-    modeling_technique_and_decoration: "Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished"
+    material: "Translucent blue and opaque pinkish, white, and red glass"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped, rotary-polished"
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
@@ -1928,14 +1928,14 @@ object_list:
     id: cat-111
     accession_number: "83.AF.28.14"
     collection_link: <https://www.getty.edu/art/collection/objects/16216/>
-    dimensions: "L. 1.8, W. 1.1, Th. 0.40 cm; Wt. 1.25 g"
+    dimensions: "L. 1.1, W. 1.8, Th. 0.4 cm; Wt. 1.25 g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
     attribution: "Production area: Italy or possibly Egypt"
     culture: "Roman"
-    material: "Translucent blue; opaque yellow and white glass"
-    modeling_technique_and_decoration: "Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished"
+    material: "Translucent blue and opaque yellow and white glass"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped, rotary-polished"
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
@@ -1945,14 +1945,14 @@ object_list:
     id: cat-112
     accession_number: "83.AF.28.19"
     collection_link: <https://www.getty.edu/art/collection/objects/16221>
-    dimensions: "pres. H. 3.9, Diam. rim 10, Th. 0.4 cm; Wt. 11.90 g"
+    dimensions: "pres. H. 3.9, est. Diam. rim 10.0, Th. 0.4 cm; Wt. 11.90 g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
     attribution: "Production area: Italy or possibly Egypt"
     culture: "Roman"
-    material: "Translucent blue and green; opaque white, red, and yellowish green glass"
-    modeling_technique_and_decoration: "Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished"
+    material: "Translucent blue and green and opaque white, red, and yellowish green glass"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped, rotary-polished"
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
@@ -1962,14 +1962,14 @@ object_list:
     id: cat-113
     accession_number: "76.AF.70.17"
     collection_link: <https://www.getty.edu/art/collection/objects/19036>
-    dimensions: "L. 1.8, W. 1.1, Th. 0.3 cm; Wt. 0.71 g"
+    dimensions: "L. 1.1, W. 1.8, Th. 0.3 cm; Wt. 0.71 g"
     date: "Ninth–tenth centuries CE"
     start_date: "800"
     end_date: "999"
     attribution: "Production area: Eastern Mediterranean"
     culture: "Islamic"
-    material: "Opaque red, yellow, white, green; translucent blue glass"
-    modeling_technique_and_decoration: "Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished"
+    material: "Opaque red, yellow, white, and green and translucent blue glass"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped, rotary-polished"
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
@@ -1979,14 +1979,14 @@ object_list:
     id: cat-114
     accession_number: "76.AF.70.18"
     collection_link: <https://www.getty.edu/art/collection/objects/19037>
-    dimensions: "L. 2.9, W. 2, Th. 0.5 cm; Wt. 3.80 g"
+    dimensions: "L. 2.9, W. 2.0, Th. 0.5 cm; Wt. 3.80 g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
     attribution: "Production area: Italy or possibly Egypt"
     culture: "Roman"
-    material: "Opaque white, red, yellow; translucent blue glass"
-    modeling_technique_and_decoration: "Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished"
+    material: "Opaque white, red, and yellow and translucent blue glass"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped, rotary-polished"
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
@@ -2002,8 +2002,8 @@ object_list:
     end_date: "32"
     attribution: "Production area: Italy or possibly Egypt"
     culture: "Roman"
-    material: "Translucent dark blue and green; opaque white, red, yellow, and green glass"
-    modeling_technique_and_decoration: "Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished"
+    material: "Translucent dark blue and green and opaque white, red, yellow, and green glass"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped, rotary-polished"
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
@@ -2013,14 +2013,14 @@ object_list:
     id: cat-116
     accession_number: "76.AF.70.24"
     collection_link: <https://www.getty.edu/art/collection/objects/19043>
-    dimensions: "W. 2, L. 1.7, Th. 0.3 cm; Wt. 0.96 g"
+    dimensions: "L. 1.8, W. 2.4, Th. 0.3 cm; Wt. 0.96 g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
     attribution: "Production area: Italy or possibly Egypt"
     culture: "Roman"
-    material: "Opaque white and red; translucent green, blue, and purple glass"
-    modeling_technique_and_decoration: "Made from a polychrome disc-shaped blank assembled from fused together lengths and sections of round mosaic canes; slumped, rotary-polished"
+    material: "Opaque white and red and translucent green, blue, and purple glass"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped, rotary-polished"
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
