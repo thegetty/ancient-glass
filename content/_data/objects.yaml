@@ -2574,13 +2574,13 @@ object_list:
     id: cat-149
     accession_number: "2003.273"
     collection_link: <https://www.getty.edu/art/collection/objects/221662>
-    dimensions: "H. 6.2, Diam. rim 2.4, max. D. 5.5, Diam. base 4 cm; Wt. 42.95 g"
-    date: "Early to mid first century CE"
+    dimensions: "H. 6.2, Diam. rim 2.4, max. Diam. 5.5, Diam. base 4 cm; Wt. 42.95 g"
+    date: "Early to mid-first century CE"
     start_date: "1"
     end_date: "65"
     attribution: "Production area: Probably Italy"
     culture: "Roman"
-    material: "Translucent amber-colored; opaque white glass"
+    material: "Translucent amber-colored and opaque white glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; blown"
     inscription: "No"
     shape: [ "Flasks" ]
@@ -2591,13 +2591,13 @@ object_list:
     id: cat-150
     accession_number: "2003.274"
     collection_link: <https://www.getty.edu/art/collection/objects/221663>
-    dimensions: "H. 6.1, Diam. rim 2, max. Diam. 5.3, Th. 0.15 cm; Wt. 39.7 g"
-    date: "Early to mid first century CE"
+    dimensions: "H. 6.1, Diam. rim 2.0, max. Diam. 5.3, Th. 0.1 cm; Wt. 39.70 g"
+    date: "Early to mid-first century CE"
     start_date: "1"
     end_date: "65"
     attribution: "Production area: Probably Italy"
     culture: "Roman"
-    material: "Translucent dark blue; opaque white glass"
+    material: "Translucent dark blue and opaque white glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; blown"
     inscription: "No"
     shape: [ "Flasks" ]
@@ -2609,7 +2609,7 @@ object_list:
     accession_number: "2003.279"
     collection_link: <https://www.getty.edu/art/collection/objects/221668>
     dimensions: "H. 5.5, Diam. rim 2.2, Diam. base 2.5 cm; Wt. 50.83 g"
-    date: "Early to mid first century CE"
+    date: "Early to mid-first century CE"
     start_date: "1"
     end_date: "65"
     attribution: "Production area: Probably Italy"
@@ -2625,13 +2625,13 @@ object_list:
     id: cat-152
     accession_number: "2003.275"
     collection_link: <https://www.getty.edu/art/collection/objects/221664/>
-    dimensions: "H. 10.5, Diam. rim 2.7, max. Diam. 6 cm; Wt. 95.3 g"
+    dimensions: "H. 10.5, Diam. rim 2.7, max. Diam. 6.0 cm; Wt. 95.3 g"
     date: "Early first century CE"
     start_date: "1"
     end_date: "32"
     attribution: "Production area: Probably Italy"
     culture: "Roman"
-    material: "Opaque white, translucent blue and purple glass"
+    material: "Opaque white and translucent blue and purple glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; blown"
     inscription: "No"
     shape: [ "Flasks" ]
@@ -2659,13 +2659,13 @@ object_list:
     id: cat-154
     accession_number: "2003.276"
     collection_link: <https://www.getty.edu/art/collection/objects/221665>
-    dimensions: "H. 9, Diam. rim 2.5, Diam. base 3.5 cm; Wt. 68.49 g"
+    dimensions: "H. 9.0, Diam. rim 2.5, Diam. base 3.5 cm; Wt. 68.49 g"
     date: "Early first century CE"
     start_date: "1"
     end_date: "32"
     attribution: "Production area: Probably Italy"
     culture: "Roman"
-    material: "Translucent blue and greenish; opaque white and yellow glass"
+    material: "Translucent blue and greenish and opaque white and yellow glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; blown"
     inscription: "No"
     shape: [ "Flasks" ]
@@ -2682,7 +2682,7 @@ object_list:
     end_date: "32"
     attribution: "Production area: Probably Italy"
     culture: "Roman"
-    material: "Translucent blue, purple, and amber-colored; opaque white glass"
+    material: "Translucent blue, purple, and amber-colored and opaque white glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; blown"
     inscription: "No"
     shape: [ "Flasks" ]
@@ -2714,7 +2714,7 @@ object_list:
     date: "Early first century CE"
     start_date: "1"
     end_date: "32"
-    attribution: "Production area: Italy, western Roman Empire"
+    attribution: "Production area: Italy or western Roman Empire"
     culture: "Roman"
     material: "Green, yellow, red, and white glass"
     modeling_technique_and_decoration: "Fused and blown mosaic glass"
