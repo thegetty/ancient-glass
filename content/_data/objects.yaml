@@ -2506,14 +2506,14 @@ object_list:
     id: cat-145
     accession_number: "2003.229"
     collection_link: <https://www.getty.edu/art/collection/objects/221612>
-    dimensions: "H. 13.1, pres. H. body 11, Diam. rim 1.8, max. Diam. 2.6 cm; Wt. 47.80 g"
+    dimensions: "H. 13.1, pres. H. body 11.0, Diam. rim 1.8, max. Diam. 2.6 cm; Wt. 47.80 g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
     attribution: "Production area: Eastern Mediterranean, probably Italy"
     culture: "Roman"
-    material: "Translucent blue, purple, and amber-colored; transparent greenish; and opaque white glass; gold"
-    modeling_technique_and_decoration: "Fusion and rod-forming. Assembled from prefabricated, composite mosaic canes and sandwich gold-glass strips which were applied lengthwise to a dark blue layer/matrix of glass, around a rod, slumped, and dragged sidewise seven times to create a wavy pattern. The inner lining of glass is slightly visible in the break near the bottom of the vessel"
+    material: "Translucent blue, purple, and amber-colored; transparent greenish; opaque white glass; gold"
+    modeling_technique_and_decoration: "Fusion and rod-forming. Assembled from prefabricated, composite mosaic canes and sandwich gold-glass strips which were applied lengthwise to a dark blue layer/matrix of glass, around a rod, slumped, and dragged sidewise seven times to create a wavy pattern"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Slumped" ]
@@ -2529,8 +2529,8 @@ object_list:
     end_date: "32"
     attribution: "Production area: Italy"
     culture: "Roman"
-    material: "Translucent blue, turquoise; transparent greenish, purple; opaque white glass; gold"
-    modeling_technique_and_decoration: "Assembled from lengths of canes and cast; rotary polished, cut on the exterior"
+    material: "Translucent blue and turquoise; transparent greenish and purple; opaque white glass; gold"
+    modeling_technique_and_decoration: "Assembled from lengths of canes and cast; rotary polished; cut on the exterior"
     inscription: "No"
     shape: [ "Flasks" ]
     technique: [ "Slumped" ]
@@ -2540,14 +2540,14 @@ object_list:
     id: cat-147
     accession_number: "2003.231"
     collection_link: <http://www.getty.edu/art/collection/objects/221614>
-    dimensions: "H. 4.2, Diam. rim 5.3, Diam. base 5 cm; Wt. 63.79 g"
+    dimensions: "H. 4.2, Diam. rim 5.3, Diam. base 5.0 cm; Wt. 63.79 g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
     attribution: "Production area: Italy"
     culture: "Roman"
-    material: "Translucent blue, green; transparent greenish; opaque white glass; gold"
-    modeling_technique_and_decoration: "Assembled from fused composite canes, and slumping, ground and polished"
+    material: "Translucent blue and green; transparent greenish; opaque white glass; gold"
+    modeling_technique_and_decoration: "Assembled from fused composite canes; slumped; ground and polished"
     inscription: "No"
     shape: [ "Pyxides" ]
     technique: [ "Slumped" ]
