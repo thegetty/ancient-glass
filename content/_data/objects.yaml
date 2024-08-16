@@ -2727,14 +2727,14 @@ object_list:
     id: cat-158
     accession_number: "2003.293"
     collection_link: <https://www.getty.edu/art/collection/objects/221682/>
-    dimensions: "H. 3, Diam. 8.8, Th. 0.25 cm; Wt. 76 g"
+    dimensions: "H. 3.0, Diam. 8.8, Th. 0.2 cm; Wt. 76.00 g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
     attribution: "Production area: Italy or western Roman Empire"
     culture: "Roman"
-    material: "Translucent dark blue; opaque white and red glass"
-    modeling_technique_and_decoration: "Slumped and applied splashware"
+    material: "Translucent dark blue and opaque white and red glass"
+    modeling_technique_and_decoration: "Slumped; applied splashware"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Slumped" ]
