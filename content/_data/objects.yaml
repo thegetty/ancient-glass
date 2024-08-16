@@ -2071,7 +2071,7 @@ object_list:
     attribution: "Production area: Eastern Mediterranean"
     culture: "Roman"
     material: "Opaque yellow and white, translucent blue, and transparent almost colorless glass"
-    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped over a convex former-mold; applied base and rim; rotary-polished"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped over a convex former mold; applied base and rim; rotary-polished"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Slumped" ]
@@ -2088,7 +2088,7 @@ object_list:
     attribution: "Production area: Italy or Egypt"
     culture: "Roman"
     material: "Translucent amber-colored and purple and opaque light blue, white, green, and yellow glass"
-    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped over a convex former-mold; applied base and rim; rotary-polished"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped over a convex former mold; applied base and rim; rotary-polished"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Slumped" ]
@@ -2122,7 +2122,7 @@ object_list:
     attribution: "Production area: Italy or Egypt"
     culture: "Greek"
     material: "Translucent brownish and opaque white glass"
-    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together sections of round mosaic canes; sagged over a convex former-mold; applied base; rotary-polished"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together sections of round mosaic canes; sagged over a convex former mold; applied base; rotary-polished"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Slumped" ]
@@ -2291,8 +2291,8 @@ object_list:
     end_date: "32"
     attribution: "Production area: Italy or Egypt"
     culture: "Roman"
-    material: "Translucent purple and amber-colored; opaque white glass"
-    modeling_technique_and_decoration: "Slumped, rotary-polished"
+    material: "Translucent purple and amber-colored and opaque white glass"
+    modeling_technique_and_decoration: "Slumped; rotary-polished"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Slumped" ]
