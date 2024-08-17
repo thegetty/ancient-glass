@@ -2751,7 +2751,7 @@ object_list:
     attribution: "Production area: Syro-Palestinian region"
     culture: "Roman"
     material: "Transparent, almost colorless, slightly greenish glass"
-    modeling_technique_and_decoration: "Mold-blown. Blown in a three-part mold consisting of two vertical sections joined to a disk-shaped base section. The vertical seams are hidden in the hair"
+    modeling_technique_and_decoration: "Mold-blown in a three-part mold consisting of two vertical sections joined to a disk-shaped base section; the vertical seams are hidden in the hair"
     inscription: "No"
     shape: [ "Cups" ]
     technique: [ "Mold-blown" ]
@@ -2768,7 +2768,7 @@ object_list:
     attribution: "Production area: Syro-Palestinian coast"
     culture: "Roman"
     material: "Translucent yellowish glass"
-    modeling_technique_and_decoration: "Mold-blown in a three-part mold. Two vertical and one disk-shaped section for the base. Vertical mold seams from rim to base through the stems of two of the palm fronds"
+    modeling_technique_and_decoration: "Mold-blown in a three-part mold: two vertical and one disk-shaped section for the base; vertical mold seams from rim to base through the stems of two of the palm fronds"
     inscription: "Yes"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -2778,14 +2778,14 @@ object_list:
     id: cat-161
     accession_number: "2004.35"
     collection_link: <https://www.getty.edu/art/collection/objects/221502>
-    dimensions: "H. 7.8, Diam. rim 7.3, Diam. base 6.8, Th. 0.12 cm; Wt. 92.00 g"
+    dimensions: "H. 7.8, Diam. rim 7.3, Diam. base 6.8, Th. 0.1 cm; Wt. 92.00 g"
     date: "Second half of the first century CE"
     start_date: "50"
     end_date: "99"
     attribution: "Production area: Syro-Palestinian coast"
     culture: "Roman"
     material: "Transparent greenish glass"
-    modeling_technique_and_decoration: "Blown into a three-part mold; mold marks visible as two lines on sides; separate mold used for bottom. Relief crisp"
+    modeling_technique_and_decoration: "Blown into a three-part mold; mold marks visible as two lines on the sides; separate mold used for bottom. Relief crisp"
     inscription: "Yes"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -2795,14 +2795,14 @@ object_list:
     id: cat-162
     accession_number: "85.AF.91"
     collection_link: <https://www.getty.edu/art/collection/objects/10947/>
-    dimensions: "H. 7.9–8.1, Diam. rim 6.15–6.30, Diam. base 6 cm; Wt. 44.89 g"
+    dimensions: "H. 7.9–8.1, Diam. rim 6.1–6.3, Diam. base 6.0 cm; Wt. 44.89 g"
     date: "Second half of the first century CE"
     start_date: "50"
     end_date: "99"
     attribution: "Production area: Syro-Palestinian coast"
     culture: "Roman"
     material: "Translucent yellow-greenish glass"
-    modeling_technique_and_decoration: "Mold-blown in a three-part mold. Two vertical and one disk-shaped section for the base. Vertical mold seams from rim to base through the stems of two of the plants"
+    modeling_technique_and_decoration: "Mold-blown in a three-part mold: two vertical and one disk-shaped section for the base; vertical mold seams from rim to base through the stems of two of the plants"
     inscription: "No"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -2812,14 +2812,14 @@ object_list:
     id: cat-163
     accession_number: "2003.318"
     collection_link: <https://www.getty.edu/art/collection/objects/221708/>
-    dimensions: "H. 7, Diam. rim 7.0, Diam. base 6.4 cm; Wt. 61.29 g"
+    dimensions: "H. 7.0, Diam. rim 7.0, Diam. base 6.4 cm; Wt. 61.29 g"
     date: "Third quarter of the first century CE"
     start_date: "50"
     end_date: "74"
     attribution: "Production area: Syro-Palestinian coast"
     culture: "Roman"
     material: "Translucent yellowish green glass"
-    modeling_technique_and_decoration: "Mold-blown in a three-part mold. Two vertical and one disk-shaped section for the base. Vertical mold seams from rim to base left uncovered"
+    modeling_technique_and_decoration: "Mold-blown in a three-part mold: two vertical and one disk-shaped section for the base; vertical mold seams from rim to base left uncovered"
     inscription: "No"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -2853,7 +2853,7 @@ object_list:
     attribution: "Production area: Syro-Palestinian coast"
     culture: "Roman"
     material: "Translucent amber-colored and opaque yellow glass"
-    modeling_technique_and_decoration: "Mold-blown in a three-part mold. Two vertical semicircular parts for the body and a discoid for the base. Splashware"
+    modeling_technique_and_decoration: "Mold-blown in a three-part mold: two vertical semicircular parts for the body and a discoid for the base. Splashware accents"
     inscription: "No"
     shape: [ "Pyxides" ]
     technique: [ "Mold-blown" ]
@@ -2869,8 +2869,8 @@ object_list:
     end_date: "65"
     attribution: "Production area: Syro-Palestinian coast"
     culture: "Roman"
-    material: "Transparent colorless, slightly greenish glass"
-    modeling_technique_and_decoration: "Blown into a three-part mold; two vertical sections on either side of EYΦΡAINOΥ from rim to second ridge below inscription, cup-shaped base section. Relief crisp"
+    material: "Transparent, almost colorless, slightly greenish glass"
+    modeling_technique_and_decoration: "Blown into a three-part mold: two vertical sections on either side of EYΦΡAINOΥ from rim to second ridge below inscription, cup-shaped base section. Relief crisp"
     inscription: "Yes"
     shape: [ "Cups" ]
     technique: [ "Mold-blown" ]
@@ -2887,7 +2887,7 @@ object_list:
     attribution: "Production area: Syro-Palestinian coast"
     culture: "Roman"
     material: "Transparent greenish glass"
-    modeling_technique_and_decoration: "Blown into a three-part mold; two vertical sections on either side of ΕΥΦΡΑΙΝΟΥ from rim to second ridge below inscription, cup-shaped base section. Relief crisp"
+    modeling_technique_and_decoration: "Blown into a three-part mold: two vertical sections on either side of ΕΥΦΡΑΙΝΟΥ from rim to second ridge below inscription, cup-shaped base section; relief crisp"
     inscription: "Yes"
     shape: [ "Cups" ]
     technique: [ "Mold-blown" ]
@@ -2897,14 +2897,14 @@ object_list:
     id: cat-168
     accession_number: "2004.34"
     collection_link: <https://www.getty.edu/art/collection/objects/221501/>
-    dimensions: "H. 7.3, Diam. rim 6.5, Diam. base 4 cm; Wt. 104.04 g"
+    dimensions: "H. 7.3, Diam. rim 6.5, Diam. base 4.0 cm; Wt. 104.04 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
     attribution: "Production area: Eastern Mediterranean or Italy"
     culture: "Roman"
-    material: "Translucent bluish glass. Small areas in the motifs are calcinated"
-    modeling_technique_and_decoration: "Mold-blown in a three-part mold, with two vertical sections and one for the base"
+    material: "Translucent bluish glass"
+    modeling_technique_and_decoration: "Mold-blown in a three-part mold: two vertical sections and one for the base"
     inscription: "Yes"
     shape: [ "Cups" ]
     technique: [ "Mold-blown" ]

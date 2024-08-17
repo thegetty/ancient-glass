@@ -22,7 +22,7 @@ A yellow unmarvered thread is wound around the rim. A white marvered thread is s
 
 ## Comments and Comparanda
 
-On core-formed alabastra of this period see comments on {% cat '2003.193' %}. No exact parallels have been located. The rim is part of the same mass and not an added-on disk-rim. The handles do not look like the usual ones for form I:3A, and they are made of translucent, bubbly glass. The body fits well with second–first-century BCE products, while the handles seem to imitate duck-shaped handles of the fourth century BCE.
+On core-formed alabastra of this period see comments on {% cat '2003.193' %}. No exact parallels have been located. The rim is part of the same mass and not an added-on rim-disk. The handles do not look like the usual ones for form I:3A, and they are made of translucent, bubbly glass. The body fits well with second–first-century BCE products, while the handles seem to imitate duck-shaped handles of the fourth century BCE.
 
 It is not easy to date this vase precisely; it was difficult for the authors of the 1974 catalogue of the Oppenländer Collection to assign a narrow date, and rather they dated it more vaguely between the fourth and the first century BCE.
 
