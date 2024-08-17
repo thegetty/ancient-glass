@@ -3017,13 +3017,13 @@ object_list:
     accession_number: "2004.36"
     collection_link: <https://www.getty.edu/art/collection/objects/221503/>
     dimensions: "H. 19.8, max. Diam. 8.8, Diam. rim 2.2, Diam. base 5.4 cm; Wt. 122.42 g"
-    date: "Possibly late first century CE, quite probably third century CE"
+    date: "Possibly late first century CE, more likely third century CE"
     start_date: "66"
     end_date: "299"
     attribution: "Production area: Roman Empire"
     culture: "Roman"
     material: "Translucent greenish glass"
-    modeling_technique_and_decoration: "Mold-blown. Body blown into a four-part mold, neck free-blown and tooled"
+    modeling_technique_and_decoration: "Mold-blown in a four-part mold; neck free-blown and tooled"
     inscription: "No"
     shape: [ "Flasks" ]
     technique: [ "Mold-blown" ]
@@ -3033,11 +3033,11 @@ object_list:
     id: cat-176
     accession_number: "2003.326"
     collection_link: <https://www.getty.edu/art/collection/objects/221716/>
-    dimensions: "H. 19.4, Diam. rim 2.6, Diam. base 3.6 cm; Wt. 166.3 g"
+    dimensions: "H. 19.4, Diam. rim 2.6, Diam. base 3.6 cm; Wt. 166.30 g"
     date: "Second century CE"
     start_date: "100"
     end_date: "199"
-    attribution: "Production area: Eastern Mediterranean, Syro-Palestinian area"
+    attribution: "Production area: Eastern Mediterranean, Syro-Palestinian region"
     culture: "Roman"
     material: "Translucent slightly greenish glass"
     modeling_technique_and_decoration: "Mold-blown; applied elements"
@@ -3050,14 +3050,14 @@ object_list:
     id: cat-177
     accession_number: "2003.327"
     collection_link: <https://www.getty.edu/art/collection/objects/221717/>
-    dimensions: "H. 14, Diam. rim 3.1, Diam. base 3.9 cm; Wt. 55.11 g"
+    dimensions: "H. 14.0, Diam. rim 3.1, Diam. base 3.9 cm; Wt. 55.11 g"
     date: "Ca. second century CE"
     start_date: "100"
     end_date: "199"
     attribution: "Production area: Eastern Mediterranean [Saldern said probably Syrian]"
     culture: "Roman"
-    material: "Translucent bluish glass. Iridescence and large areas with incrustation"
-    modeling_technique_and_decoration: "The neck and rim were free-blown. The body was mold-blown in a two-part mold of two vertical sections, which did not fit well, the seams are visible, and from the ears downward the back side seems to be larger than the front"
+    material: "Translucent bluish glass"
+    modeling_technique_and_decoration: "The neck and rim were free-blown. The body was mold-blown in a two-part mold of two vertical sections, which did not fit well: the seams are visible, and from the ears downward, the back side seems to be larger than the front"
     inscription: "No"
     shape: [ "Head flasks" ]
     technique: [ "Free-blown", "Mold-blown" ]
@@ -3067,7 +3067,7 @@ object_list:
     id: cat-178
     accession_number: "2003.328"
     collection_link: <https://www.getty.edu/art/collection/objects/221718>
-    dimensions: "H. 15.5, Diam. rim 5.3, Diam. base 4.4, Th. 0.22 cm; Wt. 111.7 g"
+    dimensions: "H. 15.5, Diam. rim 5.3, Diam. base 4.4, Th. 0.2 cm; Wt. 111.70 g"
     date: "Ca. second–third centuries CE"
     start_date: "100"
     end_date: "299"
