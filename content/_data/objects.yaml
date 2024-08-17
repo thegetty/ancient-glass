@@ -2914,7 +2914,7 @@ object_list:
     id: cat-169
     accession_number: "85.AF.83"
     collection_link: <https://www.getty.edu/art/collection/objects/10939/>
-    dimensions: "H. 12.55, Diam. rim 7.03, Diam. base 4.86, Th. 0.14–0.18 cm; Wt. 85.93 g"
+    dimensions: "H. 12.5, Diam. rim 7.0, Diam. base 4.8, Th. 0.14–0.18 cm; Wt. 85.93 g"
     date: "Third quarter of the first century CE"
     start_date: "50"
     end_date: "74"
@@ -2938,7 +2938,7 @@ object_list:
     attribution: "Production area: Eastern Mediterranean"
     culture: "Roman"
     material: "Translucent green glass, some iridescence"
-    modeling_technique_and_decoration: "Mold-blown into a four-part mold, three vertical sections and the base"
+    modeling_technique_and_decoration: "Mold-blown into a four-part mold: three vertical sections and the base"
     inscription: "No"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -2948,14 +2948,14 @@ object_list:
     id: cat-171
     accession_number: "85.AF.90"
     collection_link: <https://www.getty.edu/art/collection/objects/10946/>
-    dimensions: "H. 21, Diam. rim 9, Diam. base 5.00, Th. 0.10 cm; Wt. 174.96 g"
+    dimensions: "H. 21.0, Diam. rim 9.0, Diam. base 5.0, Th. 0.1 cm; Wt. 174.96 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
     attribution: "Production area: Roman Empire, probably Italy"
     culture: "Roman"
     material: "Translucent bluish glass"
-    modeling_technique_and_decoration: "Blown in a four-part mold with three vertical sections and a disk-shaped base section. Relief is crisp, from either a not yet worn out or a new mold"
+    modeling_technique_and_decoration: "Blown in a four-part mold: three vertical sections and a disk-shaped base section. Relief is crisp, from either a not yet worn-out or a new mold"
     inscription: "No"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -2972,7 +2972,7 @@ object_list:
     attribution: "Production area: Roman Empire, probably Italy"
     culture: "Roman"
     material: "Translucent amber-colored glass"
-    modeling_technique_and_decoration: "Blown in a four-part mold with three vertical sections and a disk-shaped base section. Relief is crisp, from a not-yet worn out or a new mold"
+    modeling_technique_and_decoration: "Blown in a four-part mold: three vertical sections and a disk-shaped base section; relief is crisp, from a not yet worn-out or a new mold"
     inscription: "No"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -2989,7 +2989,7 @@ object_list:
     attribution: "Production area: Italy"
     culture: "Roman"
     material: "Translucent olive-green glass"
-    modeling_technique_and_decoration: "Mold-blown into a three-part mold with two vertical sections and a disk-shaped base section. The mold starts 1 cm below their rim"
+    modeling_technique_and_decoration: "Mold-blown into a three-part mold: two vertical sections and a disk-shaped base section; the mold starts 1 cm below the rim"
     inscription: "No"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -2999,14 +2999,14 @@ object_list:
     id: cat-174
     accession_number: "2003.323"
     collection_link: <https://www.getty.edu/art/collection/objects/221713>
-    dimensions: "H. 12.5, Diam. rim 6.7, Diam. base 5 cm; Wt. 85.54 g"
+    dimensions: "H. 12.5, Diam. rim 6.7, Diam. base 5.0 cm; Wt. 85.54 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
     attribution: "Production area: Roman Empire"
     culture: "Roman"
-    material: "Translucent bluish glass. Iridescence and area with incrustation"
-    modeling_technique_and_decoration: "Mold-blown in a four-part mold, three vertical sections and the disk base section"
+    material: "Translucent bluish glass"
+    modeling_technique_and_decoration: "Mold-blown in a four-part mold: three vertical sections and the disk-shaped base section"
     inscription: "No"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
