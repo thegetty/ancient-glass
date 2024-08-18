@@ -3101,7 +3101,7 @@ object_list:
     id: cat-180
     accession_number: "2003.343"
     collection_link: <https://www.getty.edu/art/collection/objects/221733/>
-    dimensions: "H. 10.5, Diam. rim 3.4, Diam. base 3.6 cm; Wt. 28.3 g"
+    dimensions: "H. 10.5, Diam. rim 3.4, Diam. base 3.6 cm; Wt. 28.30 g"
     date: "Second half of the fourth century CE"
     start_date: "350"
     end_date: "399"
@@ -3118,13 +3118,13 @@ object_list:
     id: cat-181
     accession_number: "85.AF.320"
     collection_link: <https://www.getty.edu/art/collection/objects/11020/>
-    dimensions: "H. 17.2, Diam. rim 5.4, Diam. base 6.7, max. Diam. 8 cm; Wt. 207 g"
+    dimensions: "H. 17.2, Diam. rim 5.4, Diam. base 6.7, max. Diam. 8.0 cm; Wt. 207.00 g"
     date: "Mid-fourth–mid-fifth centuries CE"
     start_date: "333"
     end_date: "465"
     attribution: "Production area: Eastern Mediterranean"
     culture: "Roman"
-    material: "Large areas with milky incrustation"
+    material: "Translucent dark blue and dark green glass"
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Head jugs" ]
@@ -3135,14 +3135,14 @@ object_list:
     id: cat-182
     accession_number: "2004.44"
     collection_link: <https://www.getty.edu/art/collection/objects/221511/>
-    dimensions: "H. 16.4, Diam. rim 5, Diam. base 5.8, max. Diam. 9.2 cm; Wt. 161.85 g"
+    dimensions: "H. 16.4, Diam. rim 5.0, Diam. base 5.8, max. Diam. 9.2 cm; Wt. 161.85 g"
     date: "Mid-fourth–mid-fifth centuries CE"
     start_date: "333"
     end_date: "465"
     attribution: "Production area: Eastern Mediterranean"
     culture: "Roman"
     material: "Translucent dark blue and dark green glass"
-    modeling_technique_and_decoration: "Mold-blown. Handle and base applied"
+    modeling_technique_and_decoration: "Mold-blown; handle and base applied"
     inscription: "No"
     shape: [ "Head jugs" ]
     technique: [ "Mold-blown" ]
@@ -3152,14 +3152,14 @@ object_list:
     id: cat-183
     accession_number: "2003.324"
     collection_link: <https://www.getty.edu/art/collection/objects/221714/>
-    dimensions: "H. 6.5, Diam. rim 2.2, Diam. base 2.2 cm; Wt. 21.6 g"
+    dimensions: "H. 6.5, Diam. rim 2.2, Diam. base 2.2 cm; Wt. 21.60 g"
     date: "About second century CE"
     start_date: "100"
     end_date: "199"
     attribution: "Production area: Syro-Palestinian region"
     culture: "Roman"
-    material: "Transparent dark purple glass with few pinprick bubbles in it. The handle is made of a dark blue glass, covered by a brownish crust"
-    modeling_technique_and_decoration: "Mold-blown. Blown into a bipartite mold of vertical sections, open at base. Faint vertical seams at the junction of the heads"
+    material: "Transparent dark purple glass with pinprick bubbles. The handle is made of a dark blue glass, covered by a brownish crust"
+    modeling_technique_and_decoration: "Mold-blown into a bipartite mold of vertical sections, open at base; faint vertical seams at the junction of the heads"
     inscription: "No"
     shape: [ "Head jugs" ]
     technique: [ "Mold-blown" ]
@@ -3176,7 +3176,7 @@ object_list:
     attribution: "Production area: Rhine region"
     culture: "Roman"
     material: "Translucent blue and colorless glass"
-    modeling_technique_and_decoration: "Mold-blown. The body is blown in a two-part mold; the neck and rim are free-blown; the handle and the base are applied"
+    modeling_technique_and_decoration: "Mold-blown body in a two-part mold; free-blown neck and rim; applied handle and base"
     inscription: "No"
     shape: [ "Jugs" ]
     technique: [ "Mold-blown" ]
@@ -3193,7 +3193,7 @@ object_list:
     attribution: "Production area: Syro-Palestinian region"
     culture: "Roman"
     material: "Translucent purple and greenish glass"
-    modeling_technique_and_decoration: "Mold-blown; applied element"
+    modeling_technique_and_decoration: "Mold-blown; applied elements"
     inscription: "No"
     shape: [ "Jugs" ]
     technique: [ "Mold-blown" ]
@@ -3210,7 +3210,7 @@ object_list:
     attribution: "Production area: Eastern Mediterranean"
     culture: "Roman"
     material: "Translucent greenish glass"
-    modeling_technique_and_decoration: "Mold-blown; applied element"
+    modeling_technique_and_decoration: "Mold-blown; applied elements"
     inscription: "No"
     shape: [ "Oinochoai" ]
     technique: [ "Mold-blown" ]
@@ -3220,7 +3220,7 @@ object_list:
     id: cat-187
     accession_number: "71.AF.83"
     collection_link: <https://www.getty.edu/art/collection/objects/6570/>
-    dimensions: "H. 14.2, Diam. rim 6, Diam. base 6 cm; Wt. 113.70 g"
+    dimensions: "H. 14.2, Diam. rim 6.0, Diam. base 6.0 cm; Wt. 113.70 g"
     date: "End of fourth–sixth centuries CE"
     start_date: "366"
     end_date: "599"
@@ -3237,7 +3237,7 @@ object_list:
     id: cat-188
     accession_number: "78.AF.24"
     collection_link: <https://www.getty.edu/art/collection/objects/8158/>
-    dimensions: "H. 14, Diam. rim 5.3 × 6, Diam. base 6.1 cm; Wt. 90.77 g"
+    dimensions: "H. 14.0, Diam. rim 5.3 × 6.0, Diam. base 6.1 cm; Wt. 90.77 g"
     date: "Sixth–early seventh centuries CE"
     start_date: "500"
     end_date: "632"
