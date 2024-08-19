@@ -3458,7 +3458,7 @@ object_list:
     id: cat-201
     accession_number: "2003.345"
     collection_link: <https://www.getty.edu/art/collection/objects/221735/>
-    dimensions: "H. 4.8, Diam. rim 1.4, L. side 2, Th. 0.2 cm; Wt. 25.25 g"
+    dimensions: "H. 4.8, Diam. rim 1.4, L. side 2.0, Th. 0.2 cm; Wt. 25.25 g"
     date: "Fifth–seventh or seventh–eighth centuries CE"
     start_date: "400"
     end_date: "799"
@@ -3481,8 +3481,8 @@ object_list:
     end_date: "399"
     attribution: "Production area: Syrian region"
     culture: "Roman"
-    material: "Transparent light greenish yellow glass"
-    modeling_technique_and_decoration: "Mold-blown into a bipartite mold; neck, diaphragm, and rim free tooled"
+    material: "Transparent light greenish-yellow glass"
+    modeling_technique_and_decoration: "Mold-blown into a bipartite mold; neck, diaphragm, and rim free-tooled"
     inscription: "No"
     shape: [ "Sprinklers" ]
     technique: [ "Mold-blown" ]
@@ -3516,7 +3516,7 @@ object_list:
     attribution: "Production area: Syrian region"
     culture: "Roman"
     material: "Translucent purplish glass"
-    modeling_technique_and_decoration: "Mold-blown body; neck and rim are free-blown"
+    modeling_technique_and_decoration: "Mold-blown body; free-blown neck and rim"
     inscription: "No"
     shape: [ "Sprinklers", "Flasks" ]
     technique: [ "Mold-blown" ]
@@ -3526,7 +3526,7 @@ object_list:
     id: cat-205
     accession_number: "2003.302"
     collection_link: <https://www.getty.edu/art/collection/objects/221692>
-    dimensions: "H. 7, Diam. rim 2.7, Diam. base 2, Th. 0.1 cm; Wt. 26.6 g"
+    dimensions: "H. 7.0, Diam. rim 2.7, Diam. base 2.o, Th. 0.1 cm; Wt. 26.60 g"
     date: "Probably second half of the first century CE"
     start_date: "50"
     end_date: "99"
@@ -3543,7 +3543,7 @@ object_list:
     id: cat-206
     accession_number: "2003.303"
     collection_link: <https://www.getty.edu/art/collection/objects/221693/>
-    dimensions: "H. 7.1, Diam. rim 2.7, Diam. base 2.7, Th. 0.1 cm; Wt. 26.3 g"
+    dimensions: "H. 7.1, Diam. rim 2.7, Diam. base 2.7, Th. 0.1 cm; Wt. 26.30 g"
     date: "Probably second half of the first century CE"
     start_date: "50"
     end_date: "99"
@@ -3566,8 +3566,8 @@ object_list:
     end_date: "49"
     attribution: "Production area: Syro-Palestinian coast"
     culture: "Roman"
-    material: "Opaque white and translucent dark blue glass. The surface is weathered and bears an iridescent sheen; brown accretions around the base of the handles"
-    modeling_technique_and_decoration: "Mold-blown. Neck and rim free-blown and tooled. Body blown in a four-part mold of three vertical sections joined to a cup-shaped base section"
+    material: "Opaque white and translucent dark blue glass"
+    modeling_technique_and_decoration: "Body blown in a four-part mold of three vertical sections joined to a cup-shaped base section; neck and rim free-blown and tooled"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Mold-blown" ]
@@ -3577,14 +3577,14 @@ object_list:
     id: cat-208
     accession_number: "2003.314"
     collection_link: <https://www.getty.edu/art/collection/objects/221704>
-    dimensions: "H. 7.2, Diam. rim 2.46, max. Diam. body 4.11, Diam. base 2.4, Th. 0.1 cm; Wt. 30.3 g"
+    dimensions: "H. 7.2, Diam. rim 2.46, max. Diam. body 4.1, Diam. base 2.4, Th. 0.1 cm; Wt. 30.30 g"
     date: "First half of the first century CE"
     start_date: "1"
     end_date: "49"
-    attribution: "Production area: Syro-Palestinian region"
+    attribution: "Production area: Syro-Palestinian coast"
     culture: "Roman"
     material: "Translucent amber-colored; opaque turquoise and dark blue glass"
-    modeling_technique_and_decoration: "Mold-blown. Neck and rim free-blown and tooled. Body blown in a four-part mold of three vertical sections joined to a cup-shaped base section"
+    modeling_technique_and_decoration: "Body blown in a four-part mold of three vertical sections joined to a cup-shaped base section; neck and rim free-blown and tooled"
     inscription: "No"
     shape: [ "Jugs", "Flasks" ]
     technique: [ "Mold-blown" ]
@@ -3594,7 +3594,7 @@ object_list:
     id: cat-209
     accession_number: "2003.312"
     collection_link: <https://www.getty.edu/art/collection/objects/221702>
-    dimensions: "H. 9, Diam. rim 2.35, base 2.1 × 2.4 cm; Wt. 24.70 g"
+    dimensions: "H. 9.0, Diam. rim 2.35, base 2.1 × 2.4 cm; Wt. 24.70 g"
     date: "Second half of the first century CE"
     start_date: "50"
     end_date: "99"
@@ -3611,14 +3611,14 @@ object_list:
     id: cat-210
     accession_number: "2003.304"
     collection_link: <https://www.getty.edu/art/collection/objects/221694/>
-    dimensions: "H. 8.2, Diam. rim 2.4, max. Diam. 4.1, Th. 0.12 cm; Wt. 34.98 g"
+    dimensions: "H. 8.2, Diam. rim 2.4, max. Diam. 4.1, Th. 0.1 cm; Wt. 34.98 g"
     date: "Second half of the first century CE"
     start_date: "50"
     end_date: "99"
     attribution: "Production area: Probably eastern Mediterranean"
     culture: "Roman"
-    material: "Translucent green, purple, and dark blue; opaque white glass"
-    modeling_technique_and_decoration: "Body blown in a two-part mold of two vertical sections. Edges of mold carefully aligned; splashware"
+    material: "Translucent green, purple, and dark blue and opaque white glass"
+    modeling_technique_and_decoration: "Body blown in a two-part mold of two vertical sections; edges of mold carefully aligned; splashware"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Mold-blown" ]
@@ -3635,7 +3635,7 @@ object_list:
     attribution: "Production area: Eastern Mediterranean"
     culture: "Roman"
     material: "Translucent green and blue glass"
-    modeling_technique_and_decoration: "Body blown in a two-part mold of two vertical sections. Edges of mold carefully aligned; the seam is visible along the middle of each side (90° away from the handles)"
+    modeling_technique_and_decoration: "Body blown in a two-part mold of two vertical sections; edges of mold carefully aligned; the seam is visible along the middle of each side (90° away from the handles)"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Mold-blown" ]
@@ -3645,7 +3645,7 @@ object_list:
     id: cat-212
     accession_number: "2003.309"
     collection_link: <https://www.getty.edu/art/collection/objects/221699/>
-    dimensions: "H. 9.2, Diam. rim 2.2, Diam. base 2.5, max. D. [on the seam] 4.9 cm; Wt. 22.20 g"
+    dimensions: "H. 9.2, Diam. rim 2.2, Diam. base 2.5, max. Diam. 4.9 cm; Wt. 22.20 g"
     date: "First half of the first century CE"
     start_date: "1"
     end_date: "49"
@@ -3662,7 +3662,7 @@ object_list:
     id: cat-213
     accession_number: "2003.310"
     collection_link: <https://www.getty.edu/art/collection/objects/221700>
-    dimensions: "H. 8.3, Diam. rim 1.6 × 1.9, Diam. base 2.2, max. D. [on the seam] 3.95 cm; Wt. 25.9 g"
+    dimensions: "H. 8.3, Diam. rim 1.6 × 1.9, Diam. base 2.2, max. Diam. 3.9 cm; Wt. 25.90 g"
     date: "First half of the first century CE"
     start_date: "1"
     end_date: "49"
@@ -3696,7 +3696,7 @@ object_list:
     id: cat-215
     accession_number: "2003.311"
     collection_link: <https://www.getty.edu/art/collection/objects/221701/>
-    dimensions: "H. 7.9, Diam. rim 2.5, base 2.1 × 2, body: 5.9 × 3.7 cm; Wt. 22.15 g"
+    dimensions: "H. 7.9, Diam. rim 2.5, base 2.1 × 2.0, Diam. body 5.9 × 3.7 cm; Wt. 22.15 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -3719,7 +3719,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Eastern Mediterranean"
     culture: "Roman"
-    material: "Translucent purple and opaque white glass. Few pinprick bubbles and no impurities"
+    material: "Translucent purple and opaque white glass"
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Oinochoai", "Bottles" ]
