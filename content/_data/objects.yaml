@@ -320,7 +320,7 @@ object_list:
     attribution: "Production area: Eastern Mediterranean"
     culture: "Greek"
     material: "Translucent dark blue and opaque turquoise glass, with bronze"
-    modeling_technique_and_decoration: "Core-formed; applied disk-rim, handles, and marvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -354,7 +354,7 @@ object_list:
     attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Brownish-purple and opaque white, appearing turquoise, glass"
-    modeling_technique_and_decoration: "Core-formed; applied disk-rim, handles, and marvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -371,7 +371,7 @@ object_list:
     attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Brown, opaque yellow, and turquoise glass"
-    modeling_technique_and_decoration: "Core-formed; applied disk-rim, handles, and marvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -388,7 +388,7 @@ object_list:
     attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent brown, and opaque yellow, turquoise glass"
-    modeling_technique_and_decoration: "Core-formed; applied disk-rim, handles, and marvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -405,7 +405,7 @@ object_list:
     attribution: "Production area: Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent light green/gray and opaque turquoise and yellow glass"
-    modeling_technique_and_decoration: "Core-formed; applied disk-rim, handles, and marvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -524,7 +524,7 @@ object_list:
     attribution: "Production area: Eastern Mediterranean"
     culture: "Greek"
     material: "Translucent dark blue and opaque white and yellow glass"
-    modeling_technique_and_decoration: "Core-formed; applied disk-rim, lugs, and marvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -3790,7 +3790,7 @@ object_list:
     material: "Translucent greenish and turquoise glass"
     modeling_technique_and_decoration: "Dip mold–blown; applied elements"
     inscription: "No"
-    shape: [ "Amphoras" ]
+    shape: [ "Amphorae" ]
     technique: [ "Dip mold–blown" ]
     figure: [ id: "fig-2003-414-a", id: "fig-2003-414-b", id: "fig-2003-414-c", id: "fig-2003-414-d" ]
     path: /catalogue/a_vessels/i_ancient/3_blown/1_mold_blown/2_dip_mold_blown/4_flasks/cat-220/
@@ -3968,7 +3968,7 @@ object_list:
     id: cat-231
     accession_number: "76.AF.29"
     collection_link: <https://www.getty.edu/art/collection/objects/7314/>
-    dimensions: "H. 5, Diam. rim 22.3, Diam. base 10.5 cm; Wt. 286.25 g"
+    dimensions: "H. 5.0, Diam. rim 22.3, Diam. base 10.5 cm; Wt. 286.25 g"
     date: "Fourth century CE"
     start_date: "300"
     end_date: "399"
@@ -4623,7 +4623,7 @@ object_list:
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Free-blown; handles are applied"
     inscription: "No"
-    shape: [ "Amphoras" ]
+    shape: [ "Amphorae" ]
     technique: [ "Free-blown" ]
     figure: [ id: "fig-78-AF-18-a", id: "fig-78-AF-18-b", id: "fig-78-AF-18-c", id: "fig-78-AF-18-d" ]
     path: /catalogue/a_vessels/i_ancient/3_blown/2_free_blown/6_flasks/cat-269/
