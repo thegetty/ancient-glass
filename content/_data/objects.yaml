@@ -3751,7 +3751,7 @@ object_list:
     date: "Fourth century CE"
     start_date: "300"
     end_date: "399"
-    attribution: "Production area: Roman Empire, probably western Europe"
+    attribution: "Production area: Roman Empire, probably western part"
     culture: "Roman"
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Dip mold–blown"
@@ -3764,13 +3764,13 @@ object_list:
     id: cat-219
     accession_number: "2003.435"
     collection_link: <https://www.getty.edu/art/collection/objects/221824/>
-    dimensions: "H. 14.2, Diam. rim 7.6, Diam. base 5 cm; Wt. 67.27 g"
+    dimensions: "H. 14.2, Diam. rim 7.6, Diam. base 5.0 cm; Wt. 67.27 g"
     date: "Fourth century CE"
     start_date: "300"
     end_date: "399"
     attribution: "Production area: Eastern Mediterranean"
     culture: "Roman"
-    material: "Translucent greenish glass. Iridescence and on small areas a white layer of weathering"
+    material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Dip mold–blown"
     inscription: "No"
     shape: [ "Beakers" ]
@@ -3781,14 +3781,14 @@ object_list:
     id: cat-220
     accession_number: "2003.414"
     collection_link: <https://www.getty.edu/art/collection/objects/221803/>
-    dimensions: "H. 19.3, Diam. rim 4.6, max. Diam. 8.5, Diam. base 3.1, Th. ca. 0.25 cm; Wt. 128.21 g"
+    dimensions: "H. 19.3, Diam. rim 4.6, max. Diam. 8.5, Diam. base 3.1, Th. approx. 0.2 cm; Wt. 128.21 g"
     date: "Fourth century CE"
     start_date: "300"
     end_date: "399"
     attribution: "Production area: Palestinian region"
     culture: "Roman"
     material: "Translucent greenish and turquoise glass"
-    modeling_technique_and_decoration: "Dip mold–blown; applied"
+    modeling_technique_and_decoration: "Dip mold–blown; applied elements"
     inscription: "No"
     shape: [ "Amphoras" ]
     technique: [ "Dip mold–blown" ]
@@ -3798,14 +3798,14 @@ object_list:
     id: cat-221
     accession_number: "2003.429"
     collection_link: <https://www.getty.edu/art/collection/objects/221818/>
-    dimensions: "H. 17.1, Diam. rim 4.4, Diam. base 4 cm; Wt. 92.53 g"
+    dimensions: "H. 17.1, Diam. rim 4.4, Diam. base 4.0 cm; Wt. 92.53 g"
     date: "Fourth century CE"
     start_date: "300"
     end_date: "399"
     attribution: "Production area: Eastern Mediterranean"
     culture: "Roman"
-    material: "Translucent bluish glass. Iridescence and on small areas white layer of weathering"
-    modeling_technique_and_decoration: "Dip mold–blown; applied"
+    material: "Translucent bluish glass"
+    modeling_technique_and_decoration: "Dip mold–blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
     technique: [ "Dip mold–blown" ]
@@ -3815,7 +3815,7 @@ object_list:
     id: cat-222
     accession_number: "2003.340"
     collection_link: <https://www.getty.edu/art/collection/objects/221730/>
-    dimensions: "H. 9.7, Diam. rim 6.7, max. Diam. 9.4, Diam. base 5.00 cm; Wt. 165.79 g"
+    dimensions: "H. 9.7, Diam. rim 6.7, max. Diam. 9.4, Diam. base 5.0 cm; Wt. 165.79 g"
     date: "Fourth century CE"
     start_date: "300"
     end_date: "399"
@@ -3853,9 +3853,9 @@ object_list:
     date: "Second half of fourth to early fifth century CE"
     start_date: "350"
     end_date: "432"
-    attribution: "Production area: Syrian"
+    attribution: "Production area: Syrian region"
     culture: "Roman (Syrian)"
-    material: "Translucent greenish glass. Iridescence"
+    material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Dip mold–blown"
     inscription: "No"
     shape: [ "Sprinklers", "Flasks" ]
@@ -3866,7 +3866,7 @@ object_list:
     id: cat-225
     accession_number: "2003.341"
     collection_link: <https://www.getty.edu/art/collection/objects/221731/>
-    dimensions: "H. 13.3, Diam. rim 3.2, Diam. base 4, Th. 0.15 cm; Wt. 45.8 g"
+    dimensions: "H. 13.3, Diam. rim 3.2, Diam. base 4.0, Th. 0.1 cm; Wt. 45.80 g"
     date: "Sixth–seventh centuries CE"
     start_date: "500"
     end_date: "699"
@@ -3883,7 +3883,7 @@ object_list:
     id: cat-226
     accession_number: "78.AF.37"
     collection_link: <https://www.getty.edu/art/collection/objects/8171/>
-    dimensions: "H. 8.5, Diam. rim 5, Diam. base 5.7, Th. 0.25 cm; Wt. 59.60 g"
+    dimensions: "H. 8.5, Diam. rim 5.0, Diam. base 5.7, Th. 0.2 cm; Wt. 59.60 g"
     date: "Fourth–fifth centuries CE"
     start_date: "300"
     end_date: "499"
@@ -3900,7 +3900,7 @@ object_list:
     id: cat-227
     accession_number: "78.AF.20"
     collection_link: <https://www.getty.edu/art/collection/objects/8154/>
-    dimensions: "H. 16.5, Diam. rim 4.8, Diam. base 9.5 × 4 cm; Wt. 161.60 g"
+    dimensions: "H. 16.5, Diam. rim 4.8, Diam. base 9.5 × 4.0 cm; Wt. 161.60 g"
     date: "Fourth–fifth centuries CE"
     start_date: "300"
     end_date: "499"
