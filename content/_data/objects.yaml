@@ -3985,7 +3985,7 @@ object_list:
     id: cat-232
     accession_number: "2003.351"
     collection_link: <https://www.getty.edu/art/collection/objects/221741/>
-    dimensions: "H. 4.5, max. Diam. rim 23, min. Diam. rim 19.2 cm; Wt. 158.86 g"
+    dimensions: "H. 4.5, max. Diam. rim 23.0, min. Diam. rim 19.2 cm; Wt. 158.86 g"
     date: "Fourth century CE"
     start_date: "300"
     end_date: "399"
@@ -4002,13 +4002,13 @@ object_list:
     id: cat-233
     accession_number: "2003.290"
     collection_link: <https://www.getty.edu/art/collection/objects/221679/>
-    dimensions: "H. 12.2, Diam. rim 14.5, Diam. base 6.7, Th. 0.15 cm; Wt. 212.37 g"
+    dimensions: "H. 12.2, Diam. rim 14.5, Diam. base 6.7, Th. 0.1 cm; Wt. 212.37 g"
     date: "Second half of the first century CE"
     start_date: "50"
     end_date: "99"
-    attribution: "Production area: Italy, western provinces of the Roman Empire"
+    attribution: "Production area: Italy, western Roman Empire"
     culture: "Roman"
-    material: "Translucent dark blue; opaque light blue, white, and yellow glass"
+    material: "Translucent dark blue and opaque light blue, white, and yellow glass"
     modeling_technique_and_decoration: "Free-blown; splashware"
     inscription: "No"
     shape: [ "Cups", "Modioli" ]
@@ -4019,7 +4019,7 @@ object_list:
     id: cat-234
     accession_number: "78.AF.31"
     collection_link: <https://www.getty.edu/art/collection/objects/8165/>
-    dimensions: "H. 12.7, Diam. rim 15.6, Diam. base 19 cm; Wt. 236.45 g"
+    dimensions: "H. 12.7, Diam. rim 15.6, Diam. base 19.0 cm; Wt. 236.45 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -4036,7 +4036,7 @@ object_list:
     id: cat-235
     accession_number: "2003.287"
     collection_link: <https://www.getty.edu/art/collection/objects/221676/>
-    dimensions: "H. 7, Diam. rim 6.8–6.5, Diam. base 3.7 cm; Wt. 54.20 g"
+    dimensions: "H. 7.0, Diam. rim 6.8–6.5, Diam. base 3.7 cm; Wt. 54.20 g"
     date: "Late first century CE"
     start_date: "66"
     end_date: "99"
@@ -4059,8 +4059,8 @@ object_list:
     end_date: "49"
     attribution: "Production area: Western Roman Empire"
     culture: "Roman"
-    material: "Translucent blue and opaque white glass, with no impurities and very few pinprick bubbles"
-    modeling_technique_and_decoration: "Free-blown; applied"
+    material: "Translucent blue and opaque white glass"
+    modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Free-blown" ]
@@ -4076,8 +4076,8 @@ object_list:
     end_date: "49"
     attribution: "Production area: Italy"
     culture: "Roman"
-    material: "Translucent purple; opaque white glass, with no impurities and very few pinprick bubbles"
-    modeling_technique_and_decoration: "Free-blown; applied"
+    material: "Translucent purple and opaque white glass"
+    modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Free-blown" ]
@@ -4087,13 +4087,13 @@ object_list:
     id: cat-238
     accession_number: "2003.227"
     collection_link: <https://www.getty.edu/art/collection/objects/221610/>
-    dimensions: "H. 4.4. Diam. rim 6.4, max. Diam. 7.3, Diam. base 3.06, Th. 0.09 cm; Wt. 29.6 g"
+    dimensions: "H. 4.4. Diam. rim 6.4, max. Diam. 7.3, Diam. base 3.0, Th. 0.09 cm; Wt. 29.60 g"
     date: "First half of the first century CE"
     start_date: "1"
     end_date: "49"
     attribution: "Production area: Western Roman Empire"
     culture: "Greek or Roman"
-    material: "Translucent yellow glass, with no impurities and very few pinprick bubbles"
+    material: "Translucent yellow glass"
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bowls" ]
@@ -4104,13 +4104,13 @@ object_list:
     id: cat-239
     accession_number: "2003.294"
     collection_link: <https://www.getty.edu/art/collection/objects/221683/>
-    dimensions: "H. 6.5, Diam. rim 8, max. Diam. 8.5, Th. 0.12 cm; Wt. 93.01 g"
-    date: "Second–third quarter of the first century CE"
+    dimensions: "H. 6.5, Diam. rim 8.0, max. Diam. 8.5, Th. 0.1 cm; Wt. 93.01 g"
+    date: "Second–third quarters of the first century CE"
     start_date: "25"
     end_date: "74"
     attribution: "Production area: Western Roman Empire"
     culture: "Roman"
-    material: "Translucent green; opaque red and yellow glass"
+    material: "Translucent green and opaque red and yellow glass"
     modeling_technique_and_decoration: "Free-blown; painted, enameled"
     inscription: "No"
     shape: [ "Bowls" ]
@@ -4121,14 +4121,14 @@ object_list:
     id: cat-240
     accession_number: "2003.362"
     collection_link: <https://www.getty.edu/art/collection/objects/221752/>
-    dimensions: "H. 6, Diam. rim 6.3, Th. 0.29 cm; Wt. 118.4 g"
+    dimensions: "H. 6.0, Diam. rim 6.3, Th. 0.2 cm; Wt. 118.40 g"
     date: "Second half of the first century CE"
     start_date: "50"
     end_date: "99"
     attribution: "Production area: Italy or northwestern Europe"
     culture: "Roman"
     material: "Translucent dark blue glass"
-    modeling_technique_and_decoration: "Free-blown, engraved"
+    modeling_technique_and_decoration: "Free-blown; engraved"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Free-blown" ]
@@ -4138,14 +4138,14 @@ object_list:
     id: cat-241
     accession_number: "2003.421"
     collection_link: <https://www.getty.edu/art/collection/objects/221810/>
-    dimensions: "H. 6.8, Diam. rim 7, Diam. base 4.2 cm; Wt. 58.91 g"
+    dimensions: "H. 6.8, Diam. rim 7.0, Diam. base 4.2 cm; Wt. 58.91 g"
     date: "First–second centuries CE"
     start_date: "1"
     end_date: "199"
     attribution: "Production area: Roman Empire, eastern Mediterranean, possibly Cyprus"
     culture: "Roman"
     material: "Transparent greenish glass"
-    modeling_technique_and_decoration: "Free-blown; applied"
+    modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Cups" ]
     technique: [ "Free-blown" ]
@@ -4155,7 +4155,7 @@ object_list:
     id: cat-242
     accession_number: "2003.388"
     collection_link: <https://www.getty.edu/art/collection/objects/221777/>
-    dimensions: "H. 4, Diam. rim 8.5, Diam. base 4.5, Th. 0.1 cm; Wt. 33.69 g"
+    dimensions: "H. 4.0, Diam. rim 8.5, Diam. base 4.5, Th. 0.1 cm; Wt. 33.69 g"
     date: "First–early second centuries CE"
     start_date: "1"
     end_date: "132"
@@ -4172,7 +4172,7 @@ object_list:
     id: cat-243
     accession_number: "2003.238"
     collection_link: <https://www.getty.edu/art/collection/objects/221621/>
-    dimensions: "H. 3.5, Diam. rim 7.4, Diam. base 3.7, Th. 0.1 cm; Wt. 49.4 g"
+    dimensions: "H. 3.5, Diam. rim 7.4, Diam. base 3.7, Th. 0.1 cm; Wt. 49.40 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -4223,7 +4223,7 @@ object_list:
     id: cat-246
     accession_number: "2003.363"
     collection_link: <https://www.getty.edu/art/collection/objects/221753/>
-    dimensions: "H. 3.8, Diam. rim 7.7, Diam. base 3.7, Th. 0.1 cm; Wt. 47.3 g"
+    dimensions: "H. 3.8, Diam. rim 7.7, Diam. base 3.7, Th. 0.1 cm; Wt. 47.30 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -4274,14 +4274,14 @@ object_list:
     id: cat-249
     accession_number: "78.AF.22"
     collection_link: <https://www.getty.edu/art/collection/objects/8156/>
-    dimensions: "H. 8.4, Diam. rim 14, Diam. base 6.5 cm; Wt. 183.7 g"
+    dimensions: "H. 8.4, Diam. rim 14.0, Diam. base 6.5 cm; Wt. 183.70 g"
     date: "Fourth–fifth centuries CE"
     start_date: "300"
     end_date: "499"
     attribution: "Production area: Syro-Palestinian region"
     culture: "Roman"
     material: "Transparent greenish glass"
-    modeling_technique_and_decoration: "Free-blown, pinched"
+    modeling_technique_and_decoration: "Free-blown; pinched"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Free-blown" ]
@@ -4298,7 +4298,7 @@ object_list:
     attribution: "Production area: Roman Empire"
     culture: "Roman"
     material: "Transparent, slightly bluish glass"
-    modeling_technique_and_decoration: "Free-blown, wheel-cutting"
+    modeling_technique_and_decoration: "Free-blown; wheel-cut"
     inscription: "No"
     shape: [ "Cups" ]
     technique: [ "Free-blown" ]
@@ -4315,7 +4315,7 @@ object_list:
     attribution: "Production area: Roman Empire"
     culture: "Roman"
     material: "Colorless glass"
-    modeling_technique_and_decoration: "Free-blown and faceted"
+    modeling_technique_and_decoration: "Free-blown; faceted"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Free-blown" ]
@@ -4329,10 +4329,10 @@ object_list:
     date: "Third–fourth centuries CE"
     start_date: "200"
     end_date: "399"
-    attribution: "Production area: Eastern Mediterranean or European"
+    attribution: "Production area: Eastern Mediterranean or Europe"
     culture: "Roman"
     material: "Transparent greenish glass"
-    modeling_technique_and_decoration: "Free-blown and faceted"
+    modeling_technique_and_decoration: "Free-blown; faceted"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Free-blown" ]
@@ -4346,10 +4346,10 @@ object_list:
     date: "Third–fourth centuries CE"
     start_date: "200"
     end_date: "399"
-    attribution: "Production area: Eastern Mediterranean or European"
+    attribution: "Production area: Eastern Mediterranean or Europe"
     culture: "Roman"
     material: "Transparent greenish glass, probably decolorized"
-    modeling_technique_and_decoration: "Free-blown and faceted"
+    modeling_technique_and_decoration: "Free-blown; faceted"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Free-blown" ]
@@ -4363,10 +4363,10 @@ object_list:
     date: "Third–fourth centuries CE"
     start_date: "200"
     end_date: "399"
-    attribution: "Production area: Eastern Mediterranean or European"
+    attribution: "Production area: Eastern Mediterranean or Europe"
     culture: "Roman"
     material: "Transparent greenish and translucent blue glass"
-    modeling_technique_and_decoration: "Free-blown; engraved, applied elements"
+    modeling_technique_and_decoration: "Free-blown; engraved; applied elements"
     inscription: "No"
     shape: [ "Bowls", "Lamps" ]
     technique: [ "Free-blown" ]
@@ -4376,14 +4376,14 @@ object_list:
     id: cat-255
     accession_number: "2003.455"
     collection_link: <https://www.getty.edu/art/collection/objects/221844/>
-    dimensions: "H. 7, Diam. rim 10, Diam. base 2.6 cm; Wt. 131.89 g"
+    dimensions: "H. 7, Diam. rim 10.0, Diam. base 2.6 cm; Wt. 131.89 g"
     date: "Third–fourth centuries CE"
     start_date: "200"
     end_date: "399"
-    attribution: "Production area: Eastern Mediterranean or European"
+    attribution: "Production area: Eastern Mediterranean or Europe"
     culture: "Roman"
     material: "Transparent greenish and translucent blue glass"
-    modeling_technique_and_decoration: "Free-blown; engraved, applied elements"
+    modeling_technique_and_decoration: "Free-blown; engraved; applied elements"
     inscription: "No"
     shape: [ "Bowls", "Lamps" ]
     technique: [ "Free-blown" ]
