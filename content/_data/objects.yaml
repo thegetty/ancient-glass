@@ -6501,13 +6501,13 @@ object_list:
     id: cat-380
     accession_number: "79.AF.184.19"
     collection_link: <https://www.getty.edu/art/collection/objects/8680>
-    dimensions: "H. 5.9, Diam. rim 2, Diam. base 2 × 2 cm; Wt. 30.57 g"
+    dimensions: "H. 5.9, Diam. rim 2.0, Diam. base 2.0 cm; Wt. 30.57 g"
     date: "Ninth–tenth centuries CE"
     start_date: "800"
     end_date: "999"
     attribution: "Production area: Eastern Mediterranean"
     culture: "Islamic"
-    material: "Colorless (the body), slightly greenish glass (the neck)"
+    material: "Colorless (body) and slightly greenish glass (neck)"
     modeling_technique_and_decoration: "Mold-blown; wheel-cutting"
     inscription: "No"
     shape: [ "Flasks" ]
@@ -6586,7 +6586,7 @@ object_list:
     id: cat-385
     accession_number: "79.AF.184.37"
     collection_link: <https://www.getty.edu/art/collection/objects/8698>
-    dimensions: "H. 8, Diam. rim 1.5, Diam. body 1.4 × 1.4 cm; Wt. 30.80 g"
+    dimensions: "H. 8.0, Diam. rim 1.5, Diam. body 1.4 × 1.4 cm; Wt. 30.80 g"
     date: "Ninth–tenth centuries CE"
     start_date: "800"
     end_date: "999"
@@ -6609,7 +6609,7 @@ object_list:
     end_date: "999"
     attribution: "Production area: Eastern Mediterranean, probably Egypt"
     culture: "Islamic"
-    material: "Transparent greenish glass (the neck); Transparent colorless, slightly yellowish glass (the body)"
+    material: "Transparent greenish glass (neck); transparent, almost colorless, slightly yellowish glass (body)"
     modeling_technique_and_decoration: "Molded and cut"
     inscription: "No"
     shape: [ "Flasks" ]
@@ -6643,7 +6643,7 @@ object_list:
     end_date: "999"
     attribution: "Production area: Eastern Mediterranean, probably Egypt"
     culture: "Islamic"
-    material: "Translucent greenish glass (the neck); Colorless, slightly greenish glass (the body)"
+    material: "Translucent greenish glass (neck); colorless, slightly greenish glass (body)"
     modeling_technique_and_decoration: "Molded and cut"
     inscription: "No"
     shape: [ "Flasks" ]
@@ -6660,7 +6660,7 @@ object_list:
     end_date: "999"
     attribution: "Production area: Eastern Mediterranean, probably Egypt"
     culture: "Islamic"
-    material: "Translucent greenish glass (the neck); Colorless, slightly greenish glass (the body)"
+    material: "Translucent greenish glass (neck); colorless, slightly greenish glass (body)"
     modeling_technique_and_decoration: "Molded and cut"
     inscription: "No"
     shape: [ "Flasks" ]
@@ -6739,13 +6739,13 @@ object_list:
     id: cat-394
     accession_number: "2003.471"
     collection_link: <https://www.getty.edu/art/collection/objects/221860/>
-    dimensions: "H. 10, Diam. rim 2.5, Diam. base 3.5 cm; Wt. 26.58 g"
+    dimensions: "H. 10.0, Diam. rim 2.5, Diam. base 3.5 cm; Wt. 26.58 g"
     date: "Ninth–tenth centuries CE"
     start_date: "800"
     end_date: "999"
     attribution: "Production area: Eastern Mediterranean"
     culture: "Byzantine"
-    material: "Translucent purple glass. Heavy weathering, especially on the inside, and iridescence on the exterior"
+    material: "Translucent purple glass"
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Flasks" ]
@@ -6756,7 +6756,7 @@ object_list:
     id: cat-395
     accession_number: "2003.338"
     collection_link: <https://www.getty.edu/art/collection/objects/221728/>
-    dimensions: "H. 11, Diam. rim 3.7, Diam. base 3.6 cm; Wt. 73.98 g"
+    dimensions: "H. 11.0, Diam. rim 3.7, Diam. base 3.6 cm; Wt. 73.98 g"
     date: "Probably ninth–tenth centuries CE"
     start_date: "800"
     end_date: "999"
