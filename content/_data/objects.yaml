@@ -6008,7 +6008,7 @@ object_list:
     id: cat-351
     accession_number: "79.AF.184.8"
     collection_link: <https://www.getty.edu/art/collection/objects/8669>
-    dimensions: "H. 11, Diam. rim 1.9, max. Diam. 5.9 cm; Wt. 19.89 g"
+    dimensions: "H. 11.0, Diam. rim 1.9, max. Diam. 5.9 cm; Wt. 19.89 g"
     date: "Probably second–fourth centuries CE or possibly ninth–eleventh centuries CE"
     start_date: "100"
     end_date: "1099"
@@ -6025,13 +6025,13 @@ object_list:
     id: cat-352
     accession_number: "2003.292"
     collection_link: <https://www.getty.edu/art/collection/objects/221681>
-    dimensions: "H. 7, Diam. rim 3.2, max. Diam. 6.8, Th. 0.2 cm; Wt. 75.50 g"
-    date: "First–second centuries CE, mid-first century CE"
+    dimensions: "H. 7.0, Diam. rim 3.2, max. Diam. 6.8, Th. 0.2 cm; Wt. 75.50 g"
+    date: "First–second centuries CE"
     start_date: "1"
     end_date: "199"
-    attribution: "Production area: Eastern Mediterranean (probably Asia Minor or Pergamon)"
+    attribution: "Production area: Eastern Mediterranean, probably Asia Minor or Pergamon"
     culture: "Roman"
-    material: "Translucent purple and greenish; opaque white, yellow, light blue, turquoise, and dark blue glass"
+    material: "Translucent purple and greenish and opaque white, yellow, light blue, turquoise, and dark blue glass"
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Aryballoi" ]
@@ -6046,7 +6046,7 @@ object_list:
     date: "First–second centuries CE"
     start_date: "1"
     end_date: "199"
-    attribution: "Production area: Eastern Mediterranean (probably Asia Minor or Pergamon)"
+    attribution: "Production area: Eastern Mediterranean, probably Asia Minor or Pergamon"
     culture: "Roman"
     material: "Transparent green glass"
     modeling_technique_and_decoration: "Free-blown"
@@ -6082,7 +6082,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Italy, Ticino"
     culture: "Roman"
-    material: "Translucent purple, opaque white, yellow, light blue, turquoise, and dark blue glass"
+    material: "Translucent purple and opaque white, yellow, light blue, turquoise, and dark blue glass"
     modeling_technique_and_decoration: "Free-blown; splashware"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
@@ -6093,7 +6093,7 @@ object_list:
     id: cat-356
     accession_number: "2003.367"
     collection_link: <https://www.getty.edu/art/collection/objects/221757>
-    dimensions: "H. 10.5, Diam. rim 2.1, Diam. base 2 cm; Wt. 22.8 g"
+    dimensions: "H. 10.5, Diam. rim 2.1, Diam. base 2.0 cm; Wt. 22.80 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -6110,7 +6110,7 @@ object_list:
     id: cat-357
     accession_number: "2003.368"
     collection_link: <https://www.getty.edu/art/collection/objects/221758>
-    dimensions: "H. 6.7, Diam. rim 2.6, Diam. base 1.1, Th. 0.1 cm; Wt. 12.3 g"
+    dimensions: "H. 6.7, Diam. rim 2.6, Diam. base 1.1, Th. 0.1 cm; Wt. 12.30 g"
     date: "First century CE, probably first half of the century"
     start_date: "1"
     end_date: "99"
@@ -6133,7 +6133,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Eastern Mediterranean, probably Cyprus"
     culture: "Roman"
-    material: "Translucent bluish glass with few pinprick bubbles"
+    material: "Translucent bluish glass"
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
@@ -6144,7 +6144,7 @@ object_list:
     id: cat-359
     accession_number: "2003.419"
     collection_link: <https://www.getty.edu/art/collection/objects/221808>
-    dimensions: "H. 8, Diam. rim 2.4, Diam. base 2.5, max. Diam. 5.3, Th. 0.1 cm; Wt. 15.80 g"
+    dimensions: "H. 8.0, Diam. rim 2.4, Diam. base 2.5, max. Diam. 5.3, Th. 0.1 cm; Wt. 15.80 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -6161,7 +6161,7 @@ object_list:
     id: cat-360
     accession_number: "2003.389"
     collection_link: <https://www.getty.edu/art/collection/objects/221778>
-    dimensions: "H. 12, Diam. rim 2.1, max. Diam. 3, Th. 0.1 cm; Wt. 25.65 g"
+    dimensions: "H. 12.0, Diam. rim 2.1, max. Diam. 3.0, Th. 0.1 cm; Wt. 25.65 g"
     date: "Second half of the first century CE"
     start_date: "50"
     end_date: "99"
@@ -6178,7 +6178,7 @@ object_list:
     id: cat-361
     accession_number: "2003.425"
     collection_link: <https://www.getty.edu/art/collection/objects/221814>
-    dimensions: "H. 11, Diam. rim 3.10, Diam. base 2.2, Th. (rim) 0.2 cm; Wt. 58.00 g"
+    dimensions: "H. 11.0, Diam. rim 3.1, Diam. base 2.2, Th. (rim) 0.2 cm; Wt. 58.00 g"
     date: "Third century CE"
     start_date: "200"
     end_date: "299"
@@ -6195,7 +6195,7 @@ object_list:
     id: cat-362
     accession_number: "2003.430"
     collection_link: <https://www.getty.edu/art/collection/objects/221819>
-    dimensions: "H. 5, Diam. rim 3.1, max. Diam. 3.9, Th. 0.1 cm; Wt. 26.2 g"
+    dimensions: "H. 5.0, Diam. rim 3.1, max. Diam. 3.9, Th. 0.1 cm; Wt. 26.20 g"
     date: "Third–fourth centuries CE"
     start_date: "200"
     end_date: "399"
@@ -6212,7 +6212,7 @@ object_list:
     id: cat-363
     accession_number: "2003.350"
     collection_link: <https://www.getty.edu/art/collection/objects/221740>
-    dimensions: "H. 9.9, max. Diam. 8, Diam. neck 1.8 cm; Wt. 85.82 g"
+    dimensions: "H. 9.9, max. Diam. 8.0, Diam. neck 1.8 cm; Wt. 85.82 g"
     date: "Third–fourth centuries CE"
     start_date: "200"
     end_date: "399"
@@ -6229,7 +6229,7 @@ object_list:
     id: cat-364
     accession_number: "78.AF.35"
     collection_link: <https://www.getty.edu/art/collection/objects/8169>
-    dimensions: "H. 25.5, Diam. rim 7.1, Diam. base 8.3, max. Diam. 13, Th. 0.3 cm; Wt. 441.4 g"
+    dimensions: "H. 25.5, Diam. rim 7.1, Diam. base 8.3, max. Diam. 13.0, Th. 0.3 cm; Wt. 441.40 g"
     date: "Third or probably fourth century CE"
     start_date: "200"
     end_date: "399"
@@ -6246,7 +6246,7 @@ object_list:
     id: cat-365
     accession_number: "2003.426"
     collection_link: <https://www.getty.edu/art/collection/objects/221815>
-    dimensions: "H. 10.7, Diam. rim 4.6, Diam. base 4 cm; Wt. 58.76 g"
+    dimensions: "H. 10.7, Diam. rim 4.6, Diam. base 4.0 cm; Wt. 58.76 g"
     date: "Mid-third–mid-fourth centuries CE"
     start_date: "233"
     end_date: "365"
