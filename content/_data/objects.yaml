@@ -5403,7 +5403,7 @@ object_list:
     attribution: "Production area: Syro-Palestinian region"
     culture: "Roman"
     material: "Transparent amber-colored glass"
-    modeling_technique_and_decoration: "Free-blown; pinching"
+    modeling_technique_and_decoration: "Free-blown; pinched"
     inscription: "No"
     shape: [ "Jars" ]
     technique: [ "Free-blown" ]
@@ -5413,7 +5413,7 @@ object_list:
     id: cat-316
     accession_number: "2003.375"
     collection_link: <https://www.getty.edu/art/collection/objects/221765>
-    dimensions: "H. 9, max. Diam. 7.9, Diam. rim 6.4, Diam. base 4.1 cm; Wt. 73.67 g"
+    dimensions: "H. 9.0, max. Diam. 7.9, Diam. rim 6.4, Diam. base 4.1 cm; Wt. 73.67 g"
     date: "Sixth–seventh centuries CE"
     start_date: "500"
     end_date: "699"
@@ -5430,7 +5430,7 @@ object_list:
     id: cat-317
     accession_number: "2003.270"
     collection_link: <https://www.getty.edu/art/collection/objects/221659>
-    dimensions: "H. 5.4, Diam. rim 1.1, max. Diam. 4.1, Th. 0.1 cm; Wt. 16.3 g"
+    dimensions: "H. 5.4, Diam. rim 1.1, max. Diam. 4.1, Th. 0.1 cm; Wt. 16.30 g"
     date: "First half of the first century CE"
     start_date: "1"
     end_date: "49"
@@ -5515,7 +5515,7 @@ object_list:
     id: cat-322
     accession_number: "2003.286"
     collection_link: <https://www.getty.edu/art/collection/object/10967N>
-    dimensions: "H. 12.5, Diam. rim 2, max. Diam. 2.7 cm; Wt. 14.93 g"
+    dimensions: "H. 12.5, Diam. rim 2.0, max. Diam. 2.7 cm; Wt. 14.93 g"
     date: "First half of the first century CE"
     start_date: "1"
     end_date: "49"
@@ -5532,7 +5532,7 @@ object_list:
     id: cat-323
     accession_number: "2003.244"
     collection_link: <https://www.getty.edu/art/collection/objects/221627>
-    dimensions: "H. 7.6, Diam. rim 2.1, Diam. base 1.00, Th. 0.2 cm; Wt. 16.96 g"
+    dimensions: "H. 7.6, Diam. rim 2.1, Diam. base 1.0, Th. 0.2 cm; Wt. 16.96 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -5570,7 +5570,7 @@ object_list:
     date: "First century CE"
     start_date: "1"
     end_date: "99"
-    attribution: "Production area:"
+    attribution: "Production area: Eastern Mediterranean or Italy"
     culture: "Roman"
     material: "Translucent purple and opaque white glass"
     modeling_technique_and_decoration: "Free-blown"
@@ -5590,7 +5590,7 @@ object_list:
     attribution: "Production area: Eastern Mediterranean or Italy"
     culture: "Roman"
     material: "Translucent purple and opaque white glass"
-    modeling_technique_and_decoration: "Free-blown; applied elements, pinched"
+    modeling_technique_and_decoration: "Free-blown; applied elements; pinched"
     inscription: "No"
     shape: [ "Flasks" ]
     technique: [ "Free-blown" ]
@@ -5617,7 +5617,7 @@ object_list:
     id: cat-328
     accession_number: "2003.397"
     collection_link: <https://www.getty.edu/art/collection/objects/221786>
-    dimensions: "H. 3, Diam. rim 1.7 × 2, Diam. base 1.5 cm; Wt. 6.57 g"
+    dimensions: "H. 3.0, Diam. rim 1.7 × 2.0, Diam. base 1.5 cm; Wt. 6.57 g"
     date: "Third–fourth centuries CE"
     start_date: "200"
     end_date: "399"
@@ -5651,7 +5651,7 @@ object_list:
     id: cat-330
     accession_number: "2004.40"
     collection_link: <https://www.getty.edu/art/collection/objects/221507>
-    dimensions: "H. 9.6, max. Diam. 6, Diam. rim 2.00, Diam. base 2.3, Th. 0.2 cm; Wt. 18.29 g"
+    dimensions: "H. 9.6, max. Diam. 6.0, Diam. rim 2.0, Diam. base 2.3, Th. 0.2 cm; Wt. 18.29 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -5668,7 +5668,7 @@ object_list:
     id: cat-331
     accession_number: "2003.418"
     collection_link: <https://www.getty.edu/art/collection/objects/221804>
-    dimensions: "H. 7, Diam. rim 2.1, Diam. base 2.2, max. Diam. 4.5, Th. 0.2 cm; Wt. 18.94 g"
+    dimensions: "H. 7.0, Diam. rim 2.1, Diam. base 2.2, max. Diam. 4.5, Th. 0.2 cm; Wt. 18.94 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -5685,7 +5685,7 @@ object_list:
     id: cat-332
     accession_number: "2003.415"
     collection_link: <https://www.getty.edu/art/collection/objects/221804>
-    dimensions: "H. 12, Diam. rim 1.8, Diam. base 0.4, Th. 0.1 cm; Wt. 30.51 g (it is filled with soil)"
+    dimensions: "H. 12.0, Diam. rim 1.8, Diam. base 0.4, Th. 0.1 cm; Wt. 30.51 g (it is filled with soil)"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -5702,7 +5702,7 @@ object_list:
     id: cat-333
     accession_number: "2003.416"
     collection_link: <https://www.getty.edu/art/collection/objects/221805>
-    dimensions: "H. 15.3, Diam. rim 2.4, max. Diam. 3, Th. 0.1 cm; Wt. 14.80 g"
+    dimensions: "H. 15.3, Diam. rim 2.4, max. Diam. 3.0, Th. 0.1 cm; Wt. 14.80 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -5719,7 +5719,7 @@ object_list:
     id: cat-334
     accession_number: "2003.242"
     collection_link: <https://www.getty.edu/art/collection/objects/221625>
-    dimensions: "H. 6.2, Diam. rim 2.1, Diam. base 2.3, Th. 0.1 cm; Wt. 11 g"
+    dimensions: "H. 6.2, Diam. rim 2.1, Diam. base 2.3, Th. 0.1 cm; Wt. 11.00 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -5736,7 +5736,7 @@ object_list:
     id: cat-335
     accession_number: "2003.243"
     collection_link: <https://www.getty.edu/art/collection/objects/221626>
-    dimensions: "H. 9, Diam. rim 2.3, Diam. base 3.1 cm; Wt. 13.72 g"
+    dimensions: "H. 9.0, Diam. rim 2.3, Diam. base 3.1 cm; Wt. 13.72 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -5753,7 +5753,7 @@ object_list:
     id: cat-336
     accession_number: "2003.365"
     collection_link: <https://www.getty.edu/art/collection/objects/221755>
-    dimensions: "H. 9.8, Diam. rim 2.2, max. Diam. 6.5, Diam. base 3.00 cm; Wt. 31.75 g"
+    dimensions: "H. 9.8, Diam. rim 2.2, max. Diam. 6.5, Diam. base 3.0 cm; Wt. 31.75 g"
     date: "Second half of the first–early second centuries CE"
     start_date: "50"
     end_date: "132"
@@ -5777,7 +5777,7 @@ object_list:
     attribution: "Production area: Eastern Mediterranean, possibly Egypt"
     culture: "Egyptian"
     material: "Transparent greenish glass"
-    modeling_technique_and_decoration: "Free-blown, and pressed"
+    modeling_technique_and_decoration: "Free-blown and pressed"
     inscription: "No"
     shape: [ "Flasks" ]
     technique: [ "Free-blown" ]
@@ -5787,7 +5787,7 @@ object_list:
     id: cat-338
     accession_number: "2003.369"
     collection_link: <https://www.getty.edu/art/collection/object/1096A9>
-    dimensions: "H. 8, Diam. rim 2, Diam. base 2.6 cm; Wt. 56.85 g (contains considerable amount of soil)"
+    dimensions: "H. 8.0, Diam. rim 2.0, Diam. base 2.6 cm; Wt. 56.85 g (contains a considerable amount of soil)"
     date: "First–second centuries CE"
     start_date: "1"
     end_date: "199"
@@ -5804,7 +5804,7 @@ object_list:
     id: cat-339
     accession_number: "2003.370"
     collection_link: <https://www.getty.edu/art/collection/object/1096A8>
-    dimensions: "H. 9.2, Diam. rim 2, Diam. base ca. 2.2 cm; Wt. 11.92 g"
+    dimensions: "H. 9.2, Diam. rim 2.0, Diam. base approx. 2.2 cm; Wt. 11.92 g"
     date: "First–early second centuries CE"
     start_date: "1"
     end_date: "132"
@@ -5821,7 +5821,7 @@ object_list:
     id: cat-340
     accession_number: "79.AF.184.2"
     collection_link: <https://www.getty.edu/art/collection/objects/8663>
-    dimensions: "H. 14.8, Diam. rim 2.3, Diam. base 4 cm; Wt. 21.88 g"
+    dimensions: "H. 14.8, Diam. rim 2.3, Diam. base 4.0 cm; Wt. 21.88 g"
     date: "First–second centuries CE"
     start_date: "1"
     end_date: "199"
@@ -5838,7 +5838,7 @@ object_list:
     id: cat-341
     accession_number: "79.AF.184.3"
     collection_link: <https://www.getty.edu/art/collection/objects/8664>
-    dimensions: "H. 11.6, Diam. rim 2, Diam. base 2.5 cm; Wt. 28 g"
+    dimensions: "H. 11.6, Diam. rim 2.0, Diam. base 2.5 cm; Wt. 28.00 g"
     date: "Late first–second centuries CE"
     start_date: "66"
     end_date: "199"
@@ -5855,7 +5855,7 @@ object_list:
     id: cat-342
     accession_number: "79.AF.184.18"
     collection_link: <https://www.getty.edu/art/collection/objects/8679>
-    dimensions: "H. 4.9, Diam. rim 3, Diam. base 3 cm; Wt. 21.97 g"
+    dimensions: "H. 4.9, Diam. rim 3.0, Diam. base 3.0 cm; Wt. 21.97 g"
     date: "Second–third centuries CE"
     start_date: "100"
     end_date: "299"
@@ -5889,7 +5889,7 @@ object_list:
     id: cat-344
     accession_number: "2003.409"
     collection_link: <https://www.getty.edu/art/collection/objects/221798>
-    dimensions: "H. 9.8, Diam. rim 4.5, Diam. base 4, Th. 0.12 cm; Wt. 62.4 g"
+    dimensions: "H. 9.8, Diam. rim 4.5, Diam. base 4.0, Th. 0.1 cm; Wt. 62.40 g"
     date: "Third–early fourth centuries CE"
     start_date: "200"
     end_date: "332"
@@ -5906,13 +5906,13 @@ object_list:
     id: cat-345
     accession_number: "2003.477"
     collection_link: <https://www.getty.edu/art/collection/objects/221866>
-    dimensions: "H. 5.4, Diam. rim 4.4, max. Diam. 5.4, Diam. base 3.4, Th. 0.12 cm; Wt. 39.69 g"
+    dimensions: "H. 5.4, Diam. rim 4.4, max. Diam. 5.4, Diam. base 3.4, Th. 0.1 cm; Wt. 39.69 g"
     date: "Third century CE"
     start_date: "200"
     end_date: "299"
     attribution: "Production area: Syrian region"
     culture: "Roman"
-    material: "Translucent greenish glass. Black crust and iridescence, cracks"
+    material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Free-blown; applied elements, pinched"
     inscription: "No"
     shape: [ "Sprinklers", "Flasks" ]
@@ -5923,7 +5923,7 @@ object_list:
     id: cat-346
     accession_number: "2003.437"
     collection_link: <https://www.getty.edu/art/collection/objects/221826>
-    dimensions: "H. 7.5, Diam. rim 4.6, Diam. base 2.7, Th. 0.13 cm; Wt. 45.8 g"
+    dimensions: "H. 7.5, Diam. rim 4.6, Diam. base 2.7, Th. 0.1 cm; Wt. 45.80 g"
     date: "Third–early fourth centuries CE"
     start_date: "200"
     end_date: "332"
@@ -5940,7 +5940,7 @@ object_list:
     id: cat-347
     accession_number: "2004.42"
     collection_link: <https://www.getty.edu/art/collection/objects/221509>
-    dimensions: "H. 9.5, Diam. rim 4.7, max. Diam. (with fins) 8, Th. 0.13 cm; Wt. 1.00 g"
+    dimensions: "H. 9.5, Diam. rim 4.7, max. Diam. (with fins) 8.0, Th. 0.1 cm; Wt. 1.00 g"
     date: "Third–fourth centuries CE"
     start_date: "200"
     end_date: "399"
@@ -5974,7 +5974,7 @@ object_list:
     id: cat-349
     accession_number: "2003.438"
     collection_link: <https://www.getty.edu/art/collection/objects/221827>
-    dimensions: "H. 11.4, Diam. rim 5.3, Diam. base 3.4, max. Diam. 7.5 cm; Wt. 85.419 g"
+    dimensions: "H. 11.4, Diam. rim 5.3, Diam. base 3.4, max. Diam. 7.5 cm; Wt. 85.42 g"
     date: "Third–fourth centuries CE"
     start_date: "200"
     end_date: "399"
@@ -5991,7 +5991,7 @@ object_list:
     id: cat-350
     accession_number: "2003.448"
     collection_link: <https://www.getty.edu/art/collection/objects/221837>
-    dimensions: "H. 7.8, Diam. rim 4.2, Diam. base 2.9, max. Diam. 5.00 cm; Wt. 76.79 g"
+    dimensions: "H. 7.8, Diam. rim 4.2, Diam. base 2.9, max. Diam. 5.0 cm; Wt. 76.79 g"
     date: "Third–fourth centuries CE"
     start_date: "200"
     end_date: "399"
