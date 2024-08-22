@@ -6263,7 +6263,7 @@ object_list:
     id: cat-366
     accession_number: "2003.417"
     collection_link: <https://www.getty.edu/art/collection/objects/221806>
-    dimensions: "H. 12, Diam. rim 2.8, max. Diam. 3.67, Th. 0.16 cm; Wt. 26.2 g"
+    dimensions: "H. 12.0, Diam. rim 2.8, max. Diam. 3.6, Th. 0.16 cm; Wt. 26.20 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -6280,7 +6280,7 @@ object_list:
     id: cat-367
     accession_number: "78.AF.19"
     collection_link: <https://www.getty.edu/art/collection/objects/8153>
-    dimensions: "H. 24.7, Diam. rim 4.7, Diam. base 6.6 cm; Wt. 247 g"
+    dimensions: "H. 24.7, Diam. rim 4.7, Diam. base 6.6 cm; Wt. 247.00 g"
     date: "Sixth century CE"
     start_date: "500"
     end_date: "599"
@@ -6314,7 +6314,7 @@ object_list:
     id: cat-369
     accession_number: "2003.431"
     collection_link: <https://www.getty.edu/art/collection/objects/221820>
-    dimensions: "H. 11.5, max. W. with handles 7, Diam. rims 2.7 and 2.4 cm; Wt. 66.66 g"
+    dimensions: "H. 11.5, max. W. with handles 7.0, Diam. rims 2.7 and 2.4 cm; Wt. 66.66 g"
     date: "Fifth century CE"
     start_date: "400"
     end_date: "499"
@@ -6331,7 +6331,7 @@ object_list:
     id: cat-370
     accession_number: "2003.432"
     collection_link: <https://www.getty.edu/art/collection/objects/221821>
-    dimensions: "H. 22.5, with handle, Diam. base 4–6, Diam. rims ca. 2.4 cm; Wt. 327.38 g"
+    dimensions: "H. with handle 22.5, Diam. base 4.0–6.0, Diam. rims approx. 2.4 cm; Wt. 327.38 g"
     date: "Sixth–seventh centuries CE"
     start_date: "500"
     end_date: "699"
@@ -6348,7 +6348,7 @@ object_list:
     id: cat-371
     accession_number: "2003.396"
     collection_link: <https://www.getty.edu/art/collection/objects/221785>
-    dimensions: "H. 9.7, Diam. base… cm; Wt. g"
+    dimensions: "H. 9.7, Diam. base TK cm; Wt. TK g"
     date: "Third–fourth centuries CE or much later"
     start_date: "200"
     end_date: "399"
@@ -6365,7 +6365,7 @@ object_list:
     id: cat-372
     accession_number: "2003.239"
     collection_link: <https://www.getty.edu/art/collection/objects/221622>
-    dimensions: "a. Body: H. 6.3, Diam. rim 2.8, max. Diam. shoulder 6.5, Diam. base 5.7 cm; Wt. 43.34 g; b. L- id: pres. H. 5, max. Diam. 3.2 cm; Wt. 5.44 g"
+    dimensions: "Body: H. 6.3, Diam. rim 2.8, max. Diam. shoulder 6.5, Diam. base 5.7 cm; Wt. 43.34 g. Lid: pres. H. 5.0, max. Diam. 3.2 cm; Wt. 5.44 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -6382,14 +6382,14 @@ object_list:
     id: cat-373
     accession_number: "2003.240"
     collection_link: <https://www.getty.edu/art/collection/objects/223165>
-    dimensions: "Body: H. 6.2, Diam. rim 2.6, max. Diam. 6.1, Diam. body. 5.8 cm; Wt. 35.69 g; L- id: pres. H. 3.8, max. Diam. 4.2 cm; Wt. 9.48 g"
+    dimensions: "Body: H. 6.2, Diam. rim 2.6, max. Diam. 6.1, Diam. body. 5.8 cm; Wt. 35.69 g. Lid: pres. H. 3.8, max. Diam. 4.2 cm; Wt. 9.48 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
     attribution: "Production area: Possibly eastern Mediterranean"
     culture: "Greek or Roman"
     material: "Translucent amber-colored glass"
-    modeling_technique_and_decoration: "Free-blown and tooled"
+    modeling_technique_and_decoration: "Free-blown; tooled"
     inscription: "No"
     shape: [ "Inkwells" ]
     technique: [ "Free-blown" ]
