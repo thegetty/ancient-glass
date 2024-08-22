@@ -6416,13 +6416,13 @@ object_list:
     id: cat-375
     accession_number: "2003.453"
     collection_link: <https://www.getty.edu/art/collection/objects/221842>
-    dimensions: "H. 3.5, Diam. rim 1.56, max. Diam. 5, Diam. base 3.6, Th. 0.15 cm; Wt. 32 g"
+    dimensions: "H. 3.5, Diam. rim 1.5, max. Diam. 5.0, Diam. base 3.6, Th. 0.1 cm; Wt. 32.00 g"
     date: "First–second centuries CE"
     start_date: "1"
     end_date: "199"
     attribution: "Production area: Roman Empire"
     culture: "Byzantine"
-    material: "Translucent greenish glass"
+    material: "Translucent yellow-green glass"
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Inkwells" ]
@@ -6433,11 +6433,11 @@ object_list:
     id: cat-376
     accession_number: "2003.470"
     collection_link: <https://www.getty.edu/art/collection/objects/221859>
-    dimensions: "H. 9.5, Diam. rim 2.04, Diam. base 1.7 cm; Wt. 49.9 g"
+    dimensions: "H. 9.5, Diam. rim 2.0, Diam. base 1.7 cm; Wt. 49.90 g"
     date: "Fourth–fifth centuries CE"
     start_date: "300"
     end_date: "499"
-    attribution: "Production area: Syria"
+    attribution: "Production area: Syrian region"
     culture: "Byzantine"
     material: "Translucent dark green glass"
     modeling_technique_and_decoration: "Rod-formed"
@@ -6450,11 +6450,11 @@ object_list:
     id: cat-377
     accession_number: "2003.469"
     collection_link: <https://www.getty.edu/art/collection/objects/221858>
-    dimensions: "H. 10.8, Diam. rim 2.04, Diam. base 2.0 cm; Wt. 59 g"
+    dimensions: "H. 10.8, Diam. rim 2.0, Diam. base 2.0 cm; Wt. 59.00 g"
     date: "Fourth–fifth centuries CE"
     start_date: "300"
     end_date: "499"
-    attribution: "Production area: Syria"
+    attribution: "Production area: Syrian region"
     culture: "Byzantine"
     material: "Opaque turquoise glass"
     modeling_technique_and_decoration: "Rod-formed; applied elements"
@@ -6467,11 +6467,11 @@ object_list:
     id: cat-378
     accession_number: "2003.468"
     collection_link: <https://www.getty.edu/art/collection/objects/221857>
-    dimensions: "H. 13.8, Diam. rim 2.11, Diam. base 2.37, Th. 0.46 cm; Wt. 49.8 g"
+    dimensions: "H. 13.8, Diam. rim 2.1, Diam. base 2.3, Th. 0.4 cm; Wt. 49.80 g"
     date: "Fourth–fifth centuries CE"
     start_date: "300"
     end_date: "499"
-    attribution: "Production area: Syria"
+    attribution: "Production area: Syrian region"
     culture: "Byzantine"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Rod-formed; applied elements"
@@ -6484,13 +6484,13 @@ object_list:
     id: cat-379
     accession_number: "2003.463"
     collection_link: <https://www.getty.edu/art/collection/objects/221852>
-    dimensions: "H. 10.5, Diam. rim 1.62, Diam. base 1.77, Th. 0.17 cm; Wt. 39.7 g"
+    dimensions: "H. 10.5, Diam. rim 1.6, Diam. base 1.7, Th. 0.1 cm; Wt. 39.70 g"
     date: "Seventh–eighth centuries CE"
     start_date: "600"
     end_date: "799"
     attribution: "Production area: Eastern Mediterranean, probably Syro-Palestinian region"
     culture: "Byzantine or Islamic"
-    material: "Dark green, seemingly black glass"
+    material: "Dark green, seemingly black, glass"
     modeling_technique_and_decoration: "Rod-formed; applied elements"
     inscription: "No"
     shape: [ "Kohl tubes" ]
