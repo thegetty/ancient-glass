@@ -6790,7 +6790,7 @@ object_list:
     id: cat-397
     accession_number: "79.AF.184.47"
     collection_link: <https://www.getty.edu/art/collection/objects/8708>
-    dimensions: "H. 4, Diam. rim 12.6, Diam. base 8.8 cm; Wt. 197.69 g"
+    dimensions: "H. 4.0, Diam. rim 12.6, Diam. base 8.8 cm; Wt. 197.69 g"
     date: "Tenth–eleventh centuries CE"
     start_date: "900"
     end_date: "1099"
@@ -6824,11 +6824,11 @@ object_list:
     id: cat-399
     accession_number: "2003.467"
     collection_link: <https://www.getty.edu/art/collection/objects/221856>
-    dimensions: "Flask: H. 7, Diam. rim 4.2 cm, max. Diam. 4.9, Diam. base ca. 4 cm; Animal: H. 7.5, L. 10 cm; Basket: H. 4.3, Diam. rim 7, Diam. base 5.8 cm; Over-all: H. 9.8, W. (from forehead to tail) 9.8 cm; Wt. 105.26 g"
+    dimensions: "Flask: H. 7.0, Diam. rim 4.2 cm, max. Diam. 4.9, Diam. base approx. 4.0 cm; Animal: H. 7.5, L. 10.0 cm; Basket: H. 4.3, Diam. rim 7.0, Diam. base 5.8 cm; Overall: H. 9.8, W. (from forehead to tail) 9.8 cm; Wt. 105.26 g"
     date: "Seventh–eighth centuries CE"
     start_date: "600"
     end_date: "799"
-    attribution: "Production area: Syria"
+    attribution: "Production area: Syrian region"
     culture: "Byzantine-Islamic"
     material: "Greenish and turquoise glass"
     modeling_technique_and_decoration: "Free-blown; tooled"
@@ -6841,11 +6841,11 @@ object_list:
     id: cat-400
     accession_number: "78.AF.29"
     collection_link: <https://www.getty.edu/art/collection/objects/8163>
-    dimensions: "Flask: H. 8.7, Diam. rim 2.8, max. Diam. 3.9 cm; Basket: H. 5, Diam. rim 5.8, Diam. base 4.9 cm; Pack animal: H. 7.3, L. 8.2, W. 3.4 cm; Over-all: H. 11.8 cm; Wt. 84.1 g"
-    date: "Seventh, or more probably eighth century CE"
+    dimensions: "Flask: H. 8.7, Diam. rim 2.8, max. Diam. 3.9 cm; Basket: H. 5.0, Diam. rim 5.8, Diam. base 4.9 cm; Pack animal: H. 7.3, L. 8.2, W. 3.4 cm; Overall: H. 11.8 cm; Wt. 84.10 g"
+    date: "Seventh or, more probably, eighth century CE"
     start_date: "600"
     end_date: "799"
-    attribution: "Production area: Syria"
+    attribution: "Production area: Syrian region"
     culture: "Byzantine-Islamic"
     material: "Translucent greenish and yellowish glass"
     modeling_technique_and_decoration: "Free-blown and tooled"
@@ -6859,7 +6859,7 @@ object_list:
     accession_number: "79.AF.184.12"
     collection_link: <https://www.getty.edu/art/collection/objects/8673>
     dimensions: "H. 6.6, Diam. rim 1.6 × 1.8, Diam. base 2.1 cm; Wt. 7.38 g"
-    date: "Possibly fourth–fifth, probably ninth-eleventh centuries CE"
+    date: "Possibly fourth–fifth, probably ninth–eleventh centuries CE"
     start_date: "800"
     end_date: "1099"
     attribution: "Production area: Eastern Mediterranean"
@@ -6876,7 +6876,7 @@ object_list:
     accession_number: "79.AF.184.9"
     collection_link: <https://www.getty.edu/art/collection/objects/8670>
     dimensions: "H. 6.3, Diam. rim 1.7, Diam. base 2.2 cm; Wt. 20.75 g"
-    date: "Possibly third–fourth, or probably ninth–eleventh centuries CE"
+    date: "Possibly third–fourth, probably ninth–eleventh centuries CE"
     start_date: "200"
     end_date: "1099"
     attribution: "Production area: Eastern Mediterranean"
@@ -6892,7 +6892,7 @@ object_list:
     id: cat-403
     accession_number: "78.AF.23"
     collection_link: <https://www.getty.edu/art/collection/objects/8157>
-    dimensions: "H. 15.3, Diam. rim 4, max. Diam. 12.5 cm; Wt. 344.2 g"
+    dimensions: "H. 15.3, Diam. rim 4.0, max. Diam. 12.5 cm; Wt. 344.20 g"
     date: "Eighth–tenth centuries CE"
     start_date: "700"
     end_date: "999"
@@ -6926,7 +6926,7 @@ object_list:
     id: cat-405
     accession_number: "2003.465"
     collection_link: <https://www.getty.edu/art/collection/objects/221854>
-    dimensions: "H. 5.5, Diam. rim 2.9, max. Diam. 5.2, Th. 0.25 cm; Wt. 76 g"
+    dimensions: "H. 5.5, Diam. rim 2.9, max. Diam. 5.2, Th. 0.25 cm; Wt. 76.00 g"
     date: "Sixth–eighth centuries CE"
     start_date: "500"
     end_date: "799"
@@ -6947,10 +6947,10 @@ object_list:
     date: "Fourth–fifth centuries CE, or up to eighth century CE"
     start_date: "300"
     end_date: "799"
-    attribution: "Production area: Eastern Mediterranean, Syro-Palestinian coast"
+    attribution: "Production area: Eastern Mediterranean, Syro-Palestinian region"
     culture: "Roman"
     material: "Translucent purple and opaque yellow and red glass"
-    modeling_technique_and_decoration: "Free-blown; applied"
+    modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
     technique: [ "Free-blown" ]
@@ -6966,7 +6966,7 @@ object_list:
     end_date: "999"
     attribution: "Production area: Middle East"
     culture: [ "Islamic", "Modern" ]
-    material: "Transparent, slightly greenish, and translucent dark blue glass"
+    material: "Transparent, slightly greenish and translucent dark blue glass"
     modeling_technique_and_decoration: "Free-blown; cutting"
     inscription: "No"
     shape: [ "Flasks" ]
@@ -7011,7 +7011,7 @@ object_list:
     id: cat-410
     accession_number: "2003.466"
     collection_link: <https://www.getty.edu/art/collection/objects/221855>
-    dimensions: "H. 8.1, Diam. rim 1.5, Diam. base 1 cm; Wt. 15.5 g"
+    dimensions: "H. 8.1, Diam. rim 1.5, Diam. base 1.0 cm; Wt. 15.50 g"
     date: "Ninth–twelfth centuries CE"
     start_date: "800"
     end_date: "1199"
@@ -7068,7 +7068,7 @@ object_list:
     end_date: "999"
     attribution: "Production area: Eastern Mediterranean"
     culture: "Islamic"
-    material: "Colorless glass (the neck); Colorless, slightly greenish glass (the body)"
+    material: "Colorless (neck) and colorless, slightly greenish glass (body)"
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
@@ -7096,7 +7096,7 @@ object_list:
     id: cat-415
     accession_number: "79.AF.184.21"
     collection_link: <https://www.getty.edu/art/collection/objects/8682>
-    dimensions: "H. 5.2, Diam. rim 1.5, Diam. base 1.8 × 2.5 cm; Wt. 32.5 g"
+    dimensions: "H. 5.2, Diam. rim 1.5, Diam. base 1.8 × 2.5 cm; Wt. 32.50 g"
     date: "Ninth–tenth centuries CE"
     start_date: "800"
     end_date: "999"
@@ -7215,7 +7215,7 @@ object_list:
     id: cat-422
     accession_number: "79.AF.184.14"
     collection_link: <https://www.getty.edu/art/collection/objects/8675>
-    dimensions: "H. 7, Diam. rim 1.6, Diam. base 2.2 cm; Wt. 15.32 g"
+    dimensions: "H. 7.0, Diam. rim 1.6, Diam. base 2.2 cm; Wt. 15.32 g"
     date: "Ninth–eleventh centuries CE"
     start_date: "800"
     end_date: "1099"
@@ -7266,8 +7266,8 @@ object_list:
     id: cat-425
     accession_number: "79.AF.184.10"
     collection_link: <https://www.getty.edu/art/collection/objects/8671>
-    dimensions: "H. 6, Diam. rim 3.3, Diam. base 2.7 cm; Wt. 31.29 g"
-    date: "Late first–second centuries CE and Islamic, ca. ninth century CE"
+    dimensions: "H. 6.0, Diam. rim 3.3, Diam. base 2.7 cm; Wt. 31.29 g"
+    date: "Late first–second centuries CE and ca. ninth century CE"
     start_date: "66"
     end_date: "199"
     attribution: "Production area: Eastern Mediterranean, probably Egypt"
@@ -7334,7 +7334,7 @@ object_list:
     id: cat-429
     accession_number: "79.AF.184.38"
     collection_link: <https://www.getty.edu/art/collection/objects/8699>
-    dimensions: "H. 5, Diam. rim 1.6, Diam. base 2.0 cm; Wt. 8.29 g"
+    dimensions: "H. 5.0, Diam. rim 1.6, Diam. base 2.0 cm; Wt. 8.29 g"
     date: "Ninth–tenth centuries CE"
     start_date: "800"
     end_date: "999"
@@ -7374,7 +7374,7 @@ object_list:
     end_date: "899"
     attribution: "Production area: Eastern Mediterranean"
     culture: "Islamic"
-    material: "Translucent purple and opaque green glass, heavily weathered"
+    material: "Translucent purple and opaque green glass"
     modeling_technique_and_decoration: "Free-blown; applied elements, incised"
     inscription: "No"
     shape: [ "Flasks" ]
@@ -7408,7 +7408,7 @@ object_list:
     end_date: "799"
     attribution: "Production area: Syro-Palestinian region"
     culture: "Byzantine"
-    material: "Translucent olive-green, opaque red, turquoise, and white glass"
+    material: "Translucent olive-green and opaque red, turquoise, and white glass"
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Jars" ]
@@ -7425,7 +7425,7 @@ object_list:
     end_date: "1099"
     attribution: "Production area: Eastern Mediterranean"
     culture: "Islamic"
-    material: "Dark blue, appearing opaque black glass"
+    material: "Dark blue glass, appearing opaque black"
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Jars" ]
@@ -7436,7 +7436,7 @@ object_list:
     id: cat-435
     accession_number: "2003.385"
     collection_link: <https://www.getty.edu/art/collection/objects/221774>
-    dimensions: "H. 2.8, Diam. rim 2.8, max. Diam. 3.1, Th. 0.2 cm; Wt. 13.2 g"
+    dimensions: "H. 2.8, Diam. rim 2.8, max. Diam. 3.1, Th. 0.2 cm; Wt. 13.20 g"
     date: "Ninth–eleventh centuries CE"
     start_date: "800"
     end_date: "1099"
@@ -7453,13 +7453,13 @@ object_list:
     id: cat-436
     accession_number: "2003.386"
     collection_link: <https://www.getty.edu/art/collection/objects/221775>
-    dimensions: "H. 3.8, Diam. rim 2.7, Diam. base 2.7, Th. 0.1 cm; Wt. 13.8 g"
+    dimensions: "H. 3.8, Diam. rim 2.7, Diam. base 2.7, Th. 0.1 cm; Wt. 13.80 g"
     date: "Eleventh century CE"
     start_date: "1000"
     end_date: "1099"
     attribution: "Production area: Eastern Mediterranean"
     culture: "Islamic"
-    material: "Translucent amber color glass, few pinprick bubbles, no impurities"
+    material: "Translucent amber-colored glass"
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Jars" ]
