@@ -7470,13 +7470,13 @@ object_list:
     id: cat-437
     accession_number: "2003.254"
     collection_link: <https://www.getty.edu/art/collection/objects/221637>
-    dimensions: "H. 4.4, Diam. 15.7 cm; Wt. 203.6 g"
+    dimensions: "H. 4.4, Diam. 15.7 cm; Wt. 203.60 g"
     date: "1880s"
     start_date: "1880"
     end_date: "1889"
     attribution: "Production area: Venice (possibly), Italy"
     culture: "Modern"
-    material: "Opaque white, yellow, blue; translucent purple; and transparent glass"
+    material: "Opaque white, yellow, and blue; translucent purple; transparent glass"
     modeling_technique_and_decoration: "Mosaic"
     inscription: "No"
     shape: [ "Bowls" ]
@@ -7487,14 +7487,14 @@ object_list:
     id: cat-438
     accession_number: "2003.296"
     collection_link: <https://www.getty.edu/art/collection/objects/221686>
-    dimensions: "Diam. 13.5 cm; Wt. 116.8 g"
+    dimensions: "Diam. 13.5 cm; Wt. 116.80 g"
     date: "Late nineteenth–early twentieth centuries CE"
     start_date: "1866"
     end_date: "1932"
     attribution: "Production area: Italy?"
     culture: "Modern"
     material: "Colorless and blue glass; gold foil"
-    modeling_technique_and_decoration: "Free-blown, gold glass"
+    modeling_technique_and_decoration: "Free-blown; gold glass"
     inscription: "Yes"
     shape: [ "Medallions" ]
     technique: [ "Free-blown" ]
@@ -7511,7 +7511,7 @@ object_list:
     attribution: "Production area: Europe, possibly Italy"
     culture: "Modern"
     material: "Colorless glass; gold foil"
-    modeling_technique_and_decoration: "Blown; gold-glass"
+    modeling_technique_and_decoration: "Free-blown; gold-glass trail"
     inscription: "Yes"
     shape: [ "Unidentified" ]
     technique: [ "Free-blown" ]
@@ -7521,7 +7521,7 @@ object_list:
     id: cat-440
     accession_number: "2003.442"
     collection_link: <https://www.getty.edu/art/collection/objects/221831>
-    dimensions: "H. 4.5, Diam. rim 5.5, Diam. base 3.6 cm; Wt. 31.7 g"
+    dimensions: "H. 4.5, Diam. rim 5.5, Diam. base 3.6 cm; Wt. 31.70 g"
     date: "Ca. fourth century CE and twentieth century"
     start_date: "300"
     end_date: "399"
@@ -7538,11 +7538,11 @@ object_list:
     id: cat-441
     accession_number: "2003.395"
     collection_link: <https://www.getty.edu/art/collection/objects/221784>
-    dimensions: "H. 9, Diam. rim 5.4, Diam. base 4.2, Th. 0.3 cm; Wt. 63.2 g"
+    dimensions: "H. 9.0, Diam. rim 5.4, Diam. base 4.2, Th. 0.3 cm; Wt. 63.20 g"
     date: "Probably nineteenth–twentieth centuries CE"
     start_date: "1800"
     end_date: "1999"
-    attribution: "Production area: Probably Eastern Mediterranean"
+    attribution: "Production area: Probably eastern Mediterranean"
     culture: "Modern"
     material: "Translucent dark green glass"
     modeling_technique_and_decoration: "Free-blown"
