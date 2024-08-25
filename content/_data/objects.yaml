@@ -7555,7 +7555,7 @@ object_list:
     id: cat-442
     accession_number: "2003.149"
     collection_link: <https://www.getty.edu/art/collection/objects/221516>
-    dimensions: "H. 3.1, W. 2.3, Th. 0.9 cm; Wt. 8.8 g"
+    dimensions: "H. 3.1, W. 2.3, Th. 0.9 cm; Wt. 8.80 g"
     date: "Thirtieth Dynasty to early Ptolemaic period, fourth–third centuries BCE"
     start_date: "-400"
     end_date: "-201"
@@ -7589,7 +7589,7 @@ object_list:
     id: cat-444
     accession_number: "2003.151"
     collection_link: <https://www.getty.edu/art/collection/objects/221518>
-    dimensions: "H. 2.7, W. 2, Th. 0.9 cm; Wt. 9.42 g"
+    dimensions: "H. 2.7, W. 2.0, Th. 0.9 cm; Wt. 9.42 g"
     date: "Thirtieth Dynasty to early Ptolemaic period, fourth–third centuries BCE"
     start_date: "-400"
     end_date: "-201"
@@ -7606,7 +7606,7 @@ object_list:
     id: cat-445
     accession_number: "2003.152"
     collection_link: <https://www.getty.edu/art/collection/objects/221519>
-    dimensions: "H. 5.9, W. foot 4.2, W. leg 5.5, Th. 1 cm; Wt. 16.32 g"
+    dimensions: "H. 5.9, W. foot 4.2, W. leg 5.5, Th. 1.0 cm; Wt. 16.32 g"
     date: "Thirtieth Dynasty to early Ptolemaic period, fourth–third centuries BCE"
     start_date: "-400"
     end_date: "-201"
@@ -7640,7 +7640,7 @@ object_list:
     id: cat-447
     accession_number: "2003.158"
     collection_link: <https://www.getty.edu/art/collection/objects/221525>
-    dimensions: "H. 6.3, W. 8 cm; Wt. 67.47 g"
+    dimensions: "H. 6.3, W. 8.0 cm; Wt. 67.47 g"
     date: "Third century BCE–first century CE"
     start_date: "-300"
     end_date: "99"
@@ -7674,7 +7674,7 @@ object_list:
     id: cat-449
     accession_number: "2003.260"
     collection_link: <https://www.getty.edu/art/collection/objects/221649>
-    dimensions: "H. 3, W. 1.1, Th. 0.3 cm; Wt. 1.45 g"
+    dimensions: "H. 3.0, W. 1.1, Th. 0.3 cm; Wt. 1.45 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
@@ -7691,7 +7691,7 @@ object_list:
     id: cat-450
     accession_number: "2004.27"
     collection_link: <https://www.getty.edu/art/collection/objects/221494>
-    dimensions: "H. 3.1, W. 1.2 cm; Wt. 1.2 g"
+    dimensions: "H. 3.1, W. 1.2 cm; Wt. 1.20 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
@@ -7765,7 +7765,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Translucent dark blue; opaque red and white glass"
+    material: "Translucent dark blue and opaque red and white glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -7776,7 +7776,7 @@ object_list:
     id: cat-455
     accession_number: "2003.263"
     collection_link: <https://www.getty.edu/art/collection/objects/221652>
-    dimensions: "H. 5, W. 2, Th. 0.49 cm; Wt. 13.25 g"
+    dimensions: "H. 5.0, W. 2.0, Th. 0.49 cm; Wt. 13.25 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
@@ -7810,7 +7810,7 @@ object_list:
     id: cat-457
     accession_number: "2004.30"
     collection_link: <https://www.getty.edu/art/collection/objects/221497>
-    dimensions: "H. 2.2, W. 2 cm; Wt. 2.48 g"
+    dimensions: "H. 2.2, W. 2.0 cm; Wt. 2.48 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
@@ -7850,7 +7850,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Italy or Egypt"
     culture: "Greek or Roman"
-    material: "Translucent blue; opaque red, white, and yellow glass"
+    material: "Translucent blue and opaque red, white, and yellow glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -7867,7 +7867,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Italy or Egypt"
     culture: "Greek or Roman"
-    material: "Opaque red, yellow, white, and green; translucent green glass"
+    material: "Opaque red, yellow, white, and green and translucent green glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -7884,7 +7884,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Italy or Egypt"
     culture: "Greek or Roman"
-    material: "Translucent light blue; opaque white, yellow, and red glass"
+    material: "Translucent light blue and opaque white, yellow, and red glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -7901,7 +7901,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Translucent green, opaque yellow, red, and white glass"
+    material: "Translucent green and opaque yellow, red, and white glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -7918,7 +7918,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Translucent green and purple; opaque yellow, red, and white glass"
+    material: "Translucent green and purple and opaque yellow, red, and white glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -7929,13 +7929,13 @@ object_list:
     id: cat-464
     accession_number: "76.AF.70.40"
     collection_link: <https://www.getty.edu/art/collection/objects/19059>
-    dimensions: "L. 1.6, W. 2.1, Th. 0.50 cm; Wt. 2.61 g"
+    dimensions: "L. 1.6, W. 2.1, Th. 0.5 cm; Wt. 2.61 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Translucent green; opaque turquoise, yellow, white, and red glass"
+    material: "Translucent green and opaque turquoise, yellow, white, and red glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -7952,7 +7952,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Translucent blue; opaque yellow and red glass"
+    material: "Translucent blue and opaque yellow and red glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -7969,7 +7969,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Translucent blue; opaque yellow, red, and white glass"
+    material: "Translucent blue and opaque yellow, red, and white glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -7980,13 +7980,13 @@ object_list:
     id: cat-467
     accession_number: "76.AF.70.3"
     collection_link: <https://www.getty.edu/art/collection/objects/19022>
-    dimensions: "L. 1.9, W. 1.8, Th. 0.80 cm; Wt. 4.12 g"
+    dimensions: "L. 1.9, W. 1.8, Th. 0.8 cm; Wt. 4.12 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Opaque red, white, yellow, and turquoise; translucent green and purple glass"
+    material: "Opaque red, white, yellow, and turquoise and translucent green and purple glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -7997,13 +7997,13 @@ object_list:
     id: cat-468
     accession_number: "76.AF.70.25"
     collection_link: <https://www.getty.edu/art/collection/objects/19044>
-    dimensions: "L. 2.8, W. 1.00, Th. 0.3 cm; Wt. 1.88 g"
+    dimensions: "L. 2.8, W. 1.0, Th. 0.3 cm; Wt. 1.88 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Opaque purple, red, and white; translucent light blue glass"
+    material: "Opaque purple, red, and white and translucent light blue glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8020,7 +8020,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Translucent blue; opaque yellow, green, and turquoise glass"
+    material: "Translucent blue and opaque yellow, green, and turquoise glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8031,13 +8031,13 @@ object_list:
     id: cat-470
     accession_number: "76.AF.70.41"
     collection_link: <https://www.getty.edu/art/collection/objects/19060>
-    dimensions: "1.3 × 1.7 × 0.50 cm; Wt. 2.37 g"
+    dimensions: "1.3 × 1.7 × 0.5 cm; Wt. 2.37 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Opaque yellow, white, and red; translucent blue glass"
+    material: "Opaque yellow, white, and red and translucent blue glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8054,7 +8054,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Opaque red, white, and yellow; translucent grayish-green and turquoise glass"
+    material: "Opaque red, white, and yellow and translucent grayish-green and turquoise glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8071,7 +8071,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Translucent blue; opaque white, yellow, and green glass"
+    material: "Translucent blue and opaque white, yellow, and green glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8088,7 +8088,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Translucent blue; opaque yellow, green, red, and white glass"
+    material: "Translucent blue and opaque yellow, green, red, and white glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8099,13 +8099,13 @@ object_list:
     id: cat-474
     accession_number: "76.AF.70.30"
     collection_link: <https://www.getty.edu/art/collection/objects/19049>
-    dimensions: "L. 3.1, W. 2.4, Th. 0.5 cm; Wt. 7.0 g"
+    dimensions: "L. 3.1, W. 2.4, Th. 0.5 cm; Wt. 7.00 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Translucent dark blue; opaque green, yellow, turquoise, red, and white glass"
+    material: "Translucent dark blue and opaque green, yellow, turquoise, red, and white glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8122,7 +8122,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Opaque green, red, and yellow; translucent purple and blue"
+    material: "Opaque green, red, and yellow and translucent purple and blue"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8139,7 +8139,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Translucent blue; opaque red and yellow glass"
+    material: "Translucent blue and opaque red and yellow glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8150,13 +8150,13 @@ object_list:
     id: cat-477
     accession_number: "76.AF.70.12"
     collection_link: <https://www.getty.edu/art/collection/objects/19031>
-    dimensions: "L. 3, W. 1.6, Th. 0.6 cm; Wt. 5.87 g"
+    dimensions: "L. 3.0, W. 1.6, Th. 0.6 cm; Wt. 5.87 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Translucent dark blue-green; opaque yellow, white, and red glass"
+    material: "Translucent dark blue-green and opaque yellow, white, and red glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8173,7 +8173,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Opaque yellow and white; translucent bluish and purple glass"
+    material: "Opaque yellow and white and translucent bluish and purple glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8184,13 +8184,13 @@ object_list:
     id: cat-479
     accession_number: "76.AF.70.37"
     collection_link: <https://www.getty.edu/art/collection/objects/19056>
-    dimensions: "1.5 × 1.5 × 0.50 cm; Wt. 2.68 g"
+    dimensions: "1.5 × 1.5 × 0.5 cm; Wt. 2.68 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Translucent dark blue; opaque yellow, turquoise, and green glass"
+    material: "Translucent dark blue and opaque yellow, turquoise, and green glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8199,15 +8199,15 @@ object_list:
     path: /catalogue/b_miscellanea/i_ancient/1_appliques/cat-479/
 -
     id: cat-480
-    accession_number: "83.AF.28.15"
+    accession_number: "83.AF.28.15.a–b"
     collection_link: <https://www.getty.edu/art/collection/objects/258699>
-    dimensions: "Group record for two part records with dimensions: 83.AF.28.15.a: L. 3, W. 2.1 cm; 83.AF.28.15.b: L. 2.7, W. 2.5 cm *measure the combined L × W* W. (of the entire band) 3.8, pres. H. 2.9 cm; Wt. 8.95 g"
+    dimensions: "Group record for two-part records with dimensions: 83.AF.28.15.a: L. 3, W. 2.1 cm; 83.AF.28.15.b: L. 2.7, W. 2.5 cm, W. (of the entire band) 3.8, pres. H. 2.9 cm; Wt. 8.95 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Opaque yellow and green; translucent dark blue and purple glass"
+    material: "Opaque yellow and green and translucent dark blue and purple glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8224,7 +8224,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Opaque white; translucent purple and amber-colored glass"
+    material: "Opaque white and translucent purple and amber-colored glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8235,13 +8235,13 @@ object_list:
     id: cat-482
     accession_number: "76.AF.70.43"
     collection_link: <https://www.getty.edu/art/collection/objects/19062>
-    dimensions: "L. 1.4, W. 1.7, Th. 0.20 cm; Wt. 1.19 g"
+    dimensions: "L. 1.4, W. 1.7, Th. 0.2 cm; Wt. 1.19 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Opaque yellow; translucent green glass"
+    material: "Opaque yellow and translucent green glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8286,7 +8286,7 @@ object_list:
     id: cat-485
     accession_number: "76.AF.70.45"
     collection_link: <https://www.getty.edu/art/collection/objects/102948>
-    dimensions: "1.7 × 1.6 × 0.20 cm; Wt. 1.70 g"
+    dimensions: "1.7 × 1.6 × 0.2 cm; Wt. 1.70 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
@@ -8309,7 +8309,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Translucent green and opaque white"
+    material: "Translucent green and opaque white glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8320,7 +8320,7 @@ object_list:
     id: cat-487
     accession_number: "76.AF.70.7"
     collection_link: <https://www.getty.edu/art/collection/objects/19026>
-    dimensions: "L. 4, W. 2.3, Th. 0.2 cm; Wt. 3.67 g"
+    dimensions: "L. 4.0, W. 2.3, Th. 0.2 cm; Wt. 3.67 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
@@ -8354,13 +8354,13 @@ object_list:
     id: cat-489
     accession_number: "83.AF.28.25"
     collection_link: <https://www.getty.edu/art/collection/objects/16227>
-    dimensions: "1.4 × 1 × 0.5 cm; Wt. 1.01 g"
+    dimensions: "1.4 × 1.0 × 0.5 cm; Wt. 1.01 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Translucent purple and green; opaque yellow glass"
+    material: "Translucent purple and green and opaque yellow glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8377,7 +8377,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Greek or Roman"
-    material: "Translucent light and dark amber-colored; opaque white glass"
+    material: "Translucent light and dark amber-colored and opaque white glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8394,7 +8394,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Greek or Roman"
-    material: "Opaque red, yellow, green, and white; translucent blue glass"
+    material: "Opaque red, yellow, green, and white and translucent blue glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8411,7 +8411,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Translucent purple; opaque green, yellow, white, and red glass"
+    material: "Translucent purple and opaque green, yellow, white, and red glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8422,13 +8422,13 @@ object_list:
     id: cat-493
     accession_number: "2003.265"
     collection_link: <https://www.getty.edu/art/collection/objects/221654>
-    dimensions: "H. 3.6, W. 3.8, Th. 0.14 cm; Wt. 9.2 g"
+    dimensions: "H. 3.6, W. 3.8, Th. 0.14 cm; Wt. 9.20 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Greek or Roman"
-    material: "Opaque red, white, and gray; translucent purple glass"
+    material: "Opaque red, white, and gray and translucent purple glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8445,7 +8445,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Opaque red, yellow, and green; translucent purple glass"
+    material: "Opaque red, yellow, and green and translucent purple glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8456,14 +8456,14 @@ object_list:
     id: cat-495
     accession_number: "2003.257"
     collection_link: <https://www.getty.edu/art/collection/objects/221640>
-    dimensions: "L. 36, avg. W. 2 cm; Wt. 66.82 g"
+    dimensions: "L. 36.0, avg. W. 2.0 cm; Wt. 66.82 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
     material: "Opaque yellow, dark blue, and white glass"
-    modeling_technique_and_decoration: "Free-modeled with tools; applied marvered threads; stress marks on the underside"
+    modeling_technique_and_decoration: "Free-modeled with tools; applied marvered threads"
     inscription: "No"
     shape: [ "Appliqués" ]
     technique: [ "Fusion" ]
@@ -8496,7 +8496,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Translucent purple; opaque green, white, and red glass"
+    material: "Translucent purple and opaque green, white, and red glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8513,7 +8513,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Opaque red and yellow; translucent green glass"
+    material: "Opaque red and yellow and translucent green glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8524,13 +8524,13 @@ object_list:
     id: cat-499
     accession_number: "83.AF.28.9"
     collection_link: <https://www.getty.edu/art/collection/objects/16211>
-    dimensions: "L. 1.5 × W. 2.3 × 0.20 cm; Wt. 1.70 g"
+    dimensions: "L. 1.5, W. 2.3, Th. 0.2 cm; Wt. 1.70 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Opaque red, yellow, green; translucent olive-green glass"
+    material: "Opaque red, yellow, and green and translucent olive-green glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8541,13 +8541,13 @@ object_list:
     id: cat-500
     accession_number: "83.AF.28.26"
     collection_link: <https://www.getty.edu/art/collection/objects/16228>
-    dimensions: "L. 3.1, W. 1.8, Th. 0.40 cm; Wt. 3.12 g"
+    dimensions: "L. 3.1, W. 1.8, Th. 0.4 cm; Wt. 3.12 g"
     date: "Possibly first century BCE–first century CE; more probably third century CE"
     start_date: "-100"
     end_date: "299"
     attribution: "Production area: Egypt or Rome"
     culture: "Roman"
-    material: "Dark blue; opaque green, red, and white glass"
+    material: "Dark blue and opaque green, red, and white glass"
     modeling_technique_and_decoration: "Fused lengths and sections of mosaic canes with details fused on the surface"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8558,13 +8558,13 @@ object_list:
     id: cat-501
     accession_number: "76.AF.70.11"
     collection_link: <https://www.getty.edu/art/collection/objects/19030>
-    dimensions: "L. 3.5, W. 2, Th. 0.3 cm (matrix: 0.2 cm; colored elements: 0.1 cm); Wt. 3.21 g"
+    dimensions: "L. 3.5, W. 2.0, Th. 0.3 cm (matrix: 0.2 cm; colored elements: 0.1 cm); Wt. 3.21 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Opaque white and turquoise; translucent purple glass"
+    material: "Opaque white and turquoise and translucent purple glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8579,7 +8579,7 @@ object_list:
     date: "Perhaps first century CE"
     start_date: "1"
     end_date: "99"
-    attribution: "Production area: Eastern Mediterranean, possibly Italy"
+    attribution: "Production area: Eastern Mediterranean, probbly Italy"
     culture: "Roman"
     material: "Opaque white and green glass"
     modeling_technique_and_decoration: "Cast in a mold, ground and polished"
@@ -8592,7 +8592,7 @@ object_list:
     id: cat-503
     accession_number: "2003.355"
     collection_link: <https://www.getty.edu/art/collection/objects/221745>
-    dimensions: "pres. H. 3.5, pres. W. 2.5, Th. 0.7 cm; Wt. 10 g"
+    dimensions: "pres. H. 3.5, pres. W. 2.5, Th. 0.7 cm; Wt. 10.00 g"
     date: "Early first century CE"
     start_date: "1"
     end_date: "32"
@@ -8616,7 +8616,7 @@ object_list:
     attribution: "Production area: Eastern Mediterranean"
     culture: "Roman"
     material: "Translucent olive-green glass"
-    modeling_technique_and_decoration: "Free-blown (the jug) and mold-pressed (the medallion); applied (the medallion)"
+    modeling_technique_and_decoration: "Free-blown (jug) and mold pressed (medallion); applied elements (medallion)"
     inscription: "No"
     shape: [ "Appliqués" ]
     technique: 
@@ -8632,8 +8632,8 @@ object_list:
     end_date: "399"
     attribution: "Production area: Eastern Mediterranean"
     culture: "Roman"
-    material: "Translucent blue (the medallion) and colorless greenish glass (the vessel)"
-    modeling_technique_and_decoration: "Free-blown (the jug) and mold-pressed (the medallion); applied (the medallion)"
+    material: "Translucent blue (medallion) and colorless greenish glass (vessel)"
+    modeling_technique_and_decoration: "Free-blown (jug) and mold pressed (medallion); applied elements (medallion)"
     inscription: "No"
     shape: [ "Appliqués" ]
     technique: 
@@ -8650,7 +8650,7 @@ object_list:
     attribution: "Production area: Eastern Mediterranean"
     culture: "Roman"
     material: "Translucent greenish glass"
-    modeling_technique_and_decoration: "Vessel free-blown; applied element. The appliqué: molded and applied"
+    modeling_technique_and_decoration: "Vessel: free-blown with applied element; appliqué: molded and applied"
     inscription: "No"
     shape: [ "Appliqués" ]
     technique: 
@@ -8667,7 +8667,7 @@ object_list:
     attribution: "Production area: Eastern Mediterranean"
     culture: "Roman"
     material: "Translucent greenish glass"
-    modeling_technique_and_decoration: "Vessel: free-blown. The appliqué: molded and applied"
+    modeling_technique_and_decoration: "Vessel: free-blown; appliqué: molded and applied"
     inscription: "No"
     shape: [ "Appliqués" ]
     technique: 
