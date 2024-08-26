@@ -7748,7 +7748,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Greek or Roman"
-    material: "Opaque yellow, turquoise, and red; translucent purple glass"
+    material: "Opaque yellow, turquoise, and red and translucent purple glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -7782,7 +7782,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Greek or Roman"
-    material: "Translucent blue; opaque red, white, and yellow glass"
+    material: "Translucent blue and opaque red, white, and yellow glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -7799,7 +7799,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Italy or Egypt"
     culture: "Greek or Roman"
-    material: "Opaque white, red, and yellow; translucent blue glass"
+    material: "Opaque white, red, and yellow and translucent blue glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -7918,7 +7918,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Translucent green and purple and opaque yellow, red, and white glass"
+    material: "Translucent green and purple; opaque yellow, red, and white glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -7986,7 +7986,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Opaque red, white, yellow, and turquoise and translucent green and purple glass"
+    material: "Opaque red, white, yellow, and turquoise; translucent green and purple glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8054,7 +8054,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Opaque red, white, and yellow and translucent grayish-green and turquoise glass"
+    material: "Opaque red, white, and yellow; translucent grayish-green and turquoise glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8122,7 +8122,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Opaque green, red, and yellow and translucent purple and blue"
+    material: "Opaque green, red, and yellow; translucent purple and blue"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -9193,7 +9193,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Egypt or Italy. Reportedly found in Olbia, Ukraine"
     culture: "Greek"
-    material: "Opaque red, white, and yellow and translucent blue and greenish glass"
+    material: "Opaque red, white, and yellow; translucent blue and greenish glass"
     modeling_technique_and_decoration: "Fusion of mosaic tesserae and winding"
     inscription: "No"
     shape: [ "Beads" ]
@@ -9273,7 +9273,7 @@ object_list:
     accession_number: "2003.213"
     collection_link: <https://www.getty.edu/art/collection/objects/221580>
     dimensions: "L. 7.0, W. 2.2, Th. 1.5 cm; Wt. 17.25 g"
-    date: "Late sixteenth to fifteenth century BCE"
+    date: "Late sixteenth–fifteenth centuries BCE"
     start_date: "-1533"
     end_date: "-1401"
     attribution: "Production area: Western Asiatic"
@@ -9293,7 +9293,7 @@ object_list:
     date: "Second half of the fifth–early second centuries BCE"
     start_date: "-450"
     end_date: "-101"
-    attribution: "Production area: Punic, probably Carthage. Find place: Olbia, Ukraine"
+    attribution: "Production area: Punic, probably Carthage. Reportedly found in Olbia, Ukraine"
     culture: "Greek"
     material: "Dark blue, white, and yellowish glass"
     modeling_technique_and_decoration: "Rod-formed"
@@ -9306,7 +9306,7 @@ object_list:
     id: cat-545
     accession_number: "2003.208"
     collection_link: <https://www.getty.edu/art/collection/objects/221575>
-    dimensions: "H. 2.9 cm, max. pres. W. 2, max. Th. 2 cm; Wt. 3.93 g"
+    dimensions: "H. 2.9 cm, max. pres. W. 2.0, max. Th. 2.0 cm; Wt. 3.93 g"
     date: "Mid-fifth–fourth centuries BCE"
     start_date: "-450"
     end_date: "-301"
@@ -9357,13 +9357,13 @@ object_list:
     id: cat-548
     accession_number: "2003.205"
     collection_link: <https://www.getty.edu/art/collection/objects/221572>
-    dimensions: "H. with the loop 3, without the loop 2.4, max. W. 2, max. Th. 2 cm; Wt. 8.84 g"
+    dimensions: "H. with the loop 3.0, without the loop 2.4, max. W. 2.0, max. Th. 2.0 cm; Wt. 8.84 g"
     date: "Third–mid-first centuries BCE"
     start_date: "-300"
     end_date: "-34"
     attribution: "Production area: Punic, probably Carthage"
     culture: "Greek"
-    material: "Opaque white; translucent blue and purple glass"
+    material: "Opaque white and translucent blue and purple glass"
     modeling_technique_and_decoration: "Rod-formed"
     inscription: "No"
     shape: [ "Amulets" ]
@@ -9378,7 +9378,7 @@ object_list:
     date: "Sixth–fourth centuries BCE"
     start_date: "-600"
     end_date: "-401"
-    attribution: "Production area: Punic, probably Carthage. Allegedly from Olbia, Ukraine"
+    attribution: "Production area: Punic, probably Carthage. Reportedly found in Olbia, Ukraine"
     culture: "Greek"
     material: "Blue, yellow, and white glass"
     modeling_technique_and_decoration: "Rod-formed"
@@ -9442,7 +9442,7 @@ object_list:
     id: cat-553
     accession_number: "2004.11"
     collection_link: <https://www.getty.edu/art/collection/objects/221462>
-    dimensions: "H. 3, W. 2.4, max. Th. 1.4 cm; Wt. 6.86 g"
+    dimensions: "H. 3.0, W. 2.4, max. Th. 1.4 cm; Wt. 6.86 g"
     date: "Late fourth–third centuries BCE"
     start_date: "-333"
     end_date: "-201"
@@ -9465,7 +9465,7 @@ object_list:
     end_date: "99"
     attribution: "Production area: Egypt or Italy"
     culture: "Roman"
-    material: "Translucent purple; opaque white, red, yellow, and green glass"
+    material: "Translucent purple and opaque white, red, yellow, and green glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Amulets" ]
@@ -9480,7 +9480,7 @@ object_list:
     date: "Roman, third–fifth centuries CE"
     start_date: "200"
     end_date: "499"
-    attribution: "Production area: Possibly Syro-Palestinian region"
+    attribution: "Production area: Probably Syro-Palestinian region"
     culture: "Roman"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Tooled and rod-pierced"
@@ -9578,13 +9578,13 @@ object_list:
     id: cat-561
     accession_number: "79.AF.184.1"
     collection_link: <https://www.getty.edu/art/collection/objects/8662>
-    dimensions: "Diam. 4.9, H. 0.6 cm; Wt. 5.261 g"
+    dimensions: "Diam. 4.9, Th. 0.6 cm; Wt. 5.26 g"
     date: "Fourth century CE"
     start_date: "300"
     end_date: "399"
     attribution: "Production area: Eastern Mediterranean"
     culture: "Roman"
-    material: "Translucent greenish glass, many pinprick bubbles"
+    material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Tooling"
     inscription: "No"
     shape: 
@@ -9595,13 +9595,13 @@ object_list:
     id: cat-562
     accession_number: "79.AF.184.4"
     collection_link: <https://www.getty.edu/art/collection/objects/8665>
-    dimensions: "Diam. 5, H. 0.6 cm; Wt. 6.17 g"
+    dimensions: "Diam. 5.0, Th. 0.6 cm; Wt. 6.17 g"
     date: "Fourth century CE"
     start_date: "300"
     end_date: "399"
     attribution: "Production area: Eastern Mediterranean"
     culture: "Roman"
-    material: "Translucent purple glass, many pinprick bubbles"
+    material: "Translucent purple glass"
     modeling_technique_and_decoration: "Piercing and tooling"
     inscription: "No"
     shape: [ "Bracelets" ]
@@ -9629,13 +9629,13 @@ object_list:
     id: cat-564
     accession_number: "2003.459"
     collection_link: <https://www.getty.edu/art/collection/objects/221848>
-    dimensions: "Diam. 5, Th. 0.3 cm; Wt. 5.8 g"
+    dimensions: "Diam. 5.0, Th. 0.3 cm; Wt. 5.8 g"
     date: "Fourth century CE"
     start_date: "300"
     end_date: "399"
     attribution: "Production area: Eastern Mediterranean"
     culture: "Byzantine"
-    material: "Semitranslucent dark blue, seemingly black glass"
+    material: "Semitranslucent dark blue (seemingly black) glass"
     modeling_technique_and_decoration: "Tooling"
     inscription: "No"
     shape: [ "Bracelets" ]
@@ -9646,13 +9646,13 @@ object_list:
     id: cat-565
     accession_number: "2003.458"
     collection_link: <https://www.getty.edu/art/collection/objects/221847>
-    dimensions: "Diam. 7, Th. 1 cm; Wt. 25.2 g"
+    dimensions: "Diam. 7.0, Th. 1.0 cm; Wt. 25.2 g"
     date: "Fourth century CE"
     start_date: "300"
     end_date: "301"
     attribution: "Production area: Eastern Mediterranean"
     culture: "Byzantine"
-    material: "Semitranslucent dark blue, seemingly black glass"
+    material: "Semitranslucent dark blue (seemingly black) glass"
     modeling_technique_and_decoration: "Tooling"
     inscription: "No"
     shape: [ "Bracelets" ]
@@ -9664,12 +9664,12 @@ object_list:
     accession_number: "2003.407"
     collection_link: <https://www.getty.edu/art/collection/objects/221796>
     dimensions: "W. 13.7, Th. 2.4 cm; Wt. 320 g"
-    date: "Possibly late Roman or Byzantine period (third–fourth to twelfth century CE)"
+    date: "Possibly late Roman or Byzantine period (third–fourth to twelfth centuries CE)"
     start_date: "200"
     end_date: "1199"
     attribution: "Production area: Roman or Byzantine Empire"
     culture: "Roman or Byzantine"
-    material: "Translucent greenish glass, many pinprick bubbles"
+    material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Tooling"
     inscription: "No"
     shape: [ "Bracelets" ]
@@ -9686,7 +9686,7 @@ object_list:
     end_date: "399"
     attribution: "Production area: Perhaps Italy"
     culture: "Roman"
-    material: "Glass; gold; bronze; iron"
+    material: "Glass, gold, bronze, iron"
     modeling_technique_and_decoration: "Hammering, soldering"
     inscription: "No"
     shape: 
