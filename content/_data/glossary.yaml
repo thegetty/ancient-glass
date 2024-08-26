@@ -1,6 +1,6 @@
 entries:
 
-  - term: "anneal"
+  - term: "annealing"
     definition: "The gradual cooling down of a finished vessel or object. This process took place in a small subsidiary part of the furnace or in an annealing oven."
 
   - term: "blowing spirals"
@@ -16,7 +16,7 @@ entries:
     definition: "A piece of raw glass destined for secondary production."
 
   - term: "coil"
-    definition: "A thick thread of glass, usually circular or oval in section, used as part of a vessel (e.g., a handle or rim), or as embellishment."
+    definition: "A thick thread of glass, usually circular or oval in section, used as part of a vessel (e.g., a handle or rim) or as embellishment."
 
   - term: "composite mosaic"
     definition: "Thin sections or lengths of one or more mosaic canes fused together and embedded in a ground color to create a geometric or floral pattern."
@@ -31,13 +31,13 @@ entries:
     definition: "The smoothing of a vessel or object through exposure to direct heat by inserting it momentarily into the glass furnace. This technique was used particularly often to finish the rims of vessels."
 
   - term: "former mold"
-    definition: "A convex mold of ceramic, plaster, or metal over which a disk of glass was sagged to receive the desired shape."
+    definition: "A convex mold of ceramic, plaster, or metal over which a disk of glass was sagged to achieve the desired shape."
 
   - term: "free-blowing" 
     definition: "The technique of forming an object by blowing air through a mass of hot glass using a blowpipe."
 
   - term: "gather" 
-    definition: "*See* paraison."
+    definition: "*See* paraison"
 
   - term: "groze" 
     definition: "To give shape to a piece of glass by trimming or chipping its circumference."
@@ -66,7 +66,7 @@ entries:
   - term: "pontil mark"
     definition: "The ring-shaped trace of the blowpipe, normally on the bottom of blown vessels and on Byzantine bracelets, caused by the process of cracking off the glass product from the blowpipe or rod after the forming is complete. The mark may have the form of either a pontil scar (concave) or an excess (convex)."
   
-  - term: "scar"
+  - term: "pontil scar"
     definition: "*See* pontil mark"
 
   - term: "raw glass" 
