@@ -16,13 +16,13 @@ Almost fully preserved; one lug is missing. Surface pitted.
 
 ## Description
 
-Dark blue vessel. Horizontal disk-shaped rim; cylindrical neck; rudimentary sloping shoulder; cylindrical body; flat bottom. Two opposing lugs on the body, near the shoulder.
+Translucent dark blue vessel; opaque white and yellow decoration. Horizontal rim-disk; cylindrical neck; rudimentary sloping shoulder; cylindrical body; flat bottom. Two opposing lugs on the body, near the shoulder.
 
-A marvered yellow thread is wound around the disk-rim and spirals loosely three times around the neck, where it is joined by a white thread that begins on the neck. These two threads spiral ten times around the body to the bottom and are dragged up- and down ten times, forming a spaced feather pattern.
+A marvered yellow thread is wound around the rim-disk and spirals loosely three times around the neck, where it is joined by a white thread that begins on the neck. These two threads spiral 10 times around the body to the bottom and are dragged up and down 10 times, forming a spaced feather pattern.
 
 ## Comments and Comparanda
 
-On core-formed alabastra of this period see comments on {% cat '2003.193' %}. For the classification of this particular alabastron see {% cite 'Grose 1989' %}, class III:C, alabastron form III:3: pp. 167–168, no. 164. Further examples include one in Freer Gallery (no. 09.435, ={% cite 'Grose 1989' %}, fig. 88 left) and one from Samothrace ({% cite 'Dusenbery 1967' %}, pp. 37–38, no. 3, fig. 4).
+On core-formed alabastra of this period see comments on {% cat '2003.193' %}. For the classification of this particular alabastron see {% cite 'Grose 1989' %}, class III:C, alabastron form III:3: pp. 167–168, no. 164. Further examples include one in Freer Gallery (no. 09.435 = {% cite 'Grose 1989' %}, fig. 88 left) and one from Samothrace ({% cite 'Dusenbery 1967' %}, pp. 37–38, no. 3, fig. 4).
 
 ## Provenance
 

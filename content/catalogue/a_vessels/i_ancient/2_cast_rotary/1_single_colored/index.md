@@ -1,6 +1,6 @@
 ---
 label: 
-title: "Single-colored" 
+title: "Single-Colored" 
 order: 310
 layout: table-of-contents
 presentation: grid

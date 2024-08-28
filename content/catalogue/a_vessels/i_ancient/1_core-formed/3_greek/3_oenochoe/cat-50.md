@@ -16,11 +16,9 @@ Fully preserved; mended. There is some discoloration; minor nicks and scratches 
 
 ## Description
 
-Dark-blue ground with opaque yellow, white, and turquoise threads. Broad trefoil rim-disk; cylindrical neck, tapering toward the body; rounded sloping shoulder; straight-sided, almost cylindrical body tapering toward the bottom; circular cobalt blue pad base, asymmetrical uneven and slightly concave on its underside. A vertical cobalt-blue strap handle applied on the shoulder and, arching, extends to the edge of the rim-disk.
+Translucent dark blue ground; opaque yellow, white, and turquoise threads. Broad trefoil rim-disk; cylindrical neck, tapering toward the body; rounded sloping shoulder; straight-sided, almost cylindrical body tapering toward the bottom; circular dark blue pad-base, asymmetrical, uneven, and slightly concave on its underside. A vertical translucent dark blue strap handle is applied on the shoulder and, arching, extends to the edge of the rim-disk.
 
-An unmarvered thread is wound around the rim and another is wound spirally three times around the neck. Seven threads are wound spirally around the body. Each one continues and intermingles with the other. A yellow thread starts on the shoulder and spirals four times, followed by a turquoise and a white thread, each spiraling three times. At the middle of the body the same sequence is repeated, and the decoration closes with a yellow thread spiraled four times near the bottom of the vessel. All these threads are dragged up and down 24 times, forming a feather pattern, and some of the finer strands are not visible in every column.
-
-One unmarvered yellow thread is wound around the base.
+An unmarvered yellow thread is wound around the rim and another yellow thread is wound spirally three times around the neck. Seven threads are wound spirally around the body. Each one continues and intermingles with the other. A yellow thread starts on the shoulder and spirals four times, followed by a turquoise and a white thread, each spiraling three times. At the middle of the body the same sequence is repeated, and the decoration closes with a yellow thread spiraled four times near the bottom of the vessel. All these threads are dragged up and down 24 times, forming a feather pattern, and some of the finer strands are not visible in every column. One unmarvered yellow thread is wound around the base.
 
 ## Comments and Comparanda
 

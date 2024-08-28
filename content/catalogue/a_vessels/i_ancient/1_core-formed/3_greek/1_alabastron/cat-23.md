@@ -16,11 +16,11 @@ Fully preserved. There is some discoloration, and the vessel is almost fully cov
 
 ## Description
 
-Broad, horizontal disk-shaped rim; cylindrical neck wider toward; the body; rudimentary shoulder cylindrical body wider toward the bottom; flat bottom with curved edges. Two lugs on the upper part of the body placed unevenly at different heights.
+Translucent dark blue body; opaque yellow decoration. Broad, horizontal rim-disk; cylindrical neck wider toward the body; rudimentary shoulder; cylindrical body wider toward the bottom; flat bottom with curved edges. Two lugs on the upper part of the body placed unevenly at different heights.
 
-On the neck there is a horizontal band, 2.3 cm long and 1 cm wide, that covers a tear in the neck of the vessel. A small horizontal hole is visible below the applied band.
+On the neck there is a horizontal band, 2.3 cm long and 1.0 cm wide, that covers a tear in the neck of the vessel. A small horizontal hole is visible below the applied band.
 
-An unmarvered yellow thread is wound around the rim. A white thread is spirally wound 21 times around the upper and middle body and a yellow thread is wound 13 times around the lower part of the body. The threads are dragged 16 times up and down, forming a feather pattern.
+An unmarvered yellow thread is wound around the rim. A white thread is spirally wound 21 times around the upper and middle body, and a yellow thread is wound 13 times around the lower part of the body. The threads are dragged 16 times up and down, forming a feather pattern.
 
 ## Comments and Comparanda
 

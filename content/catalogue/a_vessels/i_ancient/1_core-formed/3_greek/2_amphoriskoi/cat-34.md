@@ -16,9 +16,9 @@ Intact; some pitting on the surface. Reddish remains of the core in the interior
 
 ## Description
 
-Broad, flaring disk-rim; cylindrical neck; convex shoulder; top-shaped body; conical base-knob. Two vertical strap handles extend from the shoulder to the middle of the neck.
+Broad, flaring rim-disk; cylindrical neck; convex shoulder; top-shaped body; conical base-knob. Two vertical strap handles extend from the shoulder to the middle of the neck.
 
-Opaque white ground, translucent purple decoration. Unmarvered thread wound around the rim and base. A marvered thread wound spirally from shoulders to mid-body, at first in two horizontal lines and from the greatest diameter downward dragged up and down, forming a zigzag pattern. Another marvered thread is wound twice below the zigzags.
+Opaque white ground; translucent purple decoration. Unmarvered thread wound around the rim and base. A marvered thread is wound spirally from shoulders to mid-body, at first in two horizontal lines and from the greatest diameter downward dragged up and down, forming a zigzag pattern. Another marvered thread is wound twice below the zigzags.
 
 ## Comments and Comparanda
 

@@ -16,7 +16,7 @@ Intact. Some weathering and iridescence on the neck and handles.
 
 ## Description
 
-Horizontal disk-shaped rim; short, cylindrical neck; rudimentary shoulder; cylindrical body, curving in toward the flat bottom. Two opposing ring handles with knobbed tails, placed at slightly different heights.
+Translucent light green/gray body; opaque turquoise and yellow decoration. Horizontal rim-disk; short, cylindrical neck; rudimentary shoulder; cylindrical body, curving in toward the flat bottom. Two opposing ring handles with knobbed tails, placed at slightly different heights.
 
 A yellow thread is wound around the rim. A thin turquoise and wide yellow thread are spirally wound in 25 almost horizontal rows. The first seven, covering the upper third of the body, are straight, and the lower 18, covering the lower two-thirds of the body, are dragged up and down, forming a zigzag pattern.
 

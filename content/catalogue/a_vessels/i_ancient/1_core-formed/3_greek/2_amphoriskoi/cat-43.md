@@ -16,13 +16,13 @@ Mended; some fills on neck, with some signs of weathering, pitting, and discolor
 
 ## Description
 
-Dark blue ground with opaque yellow decoration. Moderately broad, inward-sloping rim-disk; cylindrical neck, tapering upward; obtuse-angled shoulder; slim, ovoid body; convex pointed bottom; short, spherical light greenish base-knob. Two opposing vertical greenish strap handles extend from the shoulder to just below the rim, bend, and then attach on the middle of the neck.
+Translucent dark blue ground; opaque yellow decoration. Moderately broad, inward-sloping rim-disk; cylindrical neck, tapering upward; obtuse-angled shoulder; slim, ovoid body; convex pointed bottom; short, spherical light greenish base-knob. Two opposing vertical translucent greenish strap handles extend from the shoulder to just below the rim, bend, and then attach on the middle of the neck.
 
-A marvered opaque yellow thread is wound on the rim and spirals to the bottom twenty-two times, in horizontal lines to the shoulder, tooled to form a carelessly executed feathered pattern on the body and finally in straight-lined spiral on the bottom near the base-knob.
+A marvered opaque yellow thread is wound on the rim and spirals to the bottom 22 times, in horizontal lines to the shoulder, tooled to form a carelessly executed feathered pattern on the body, and finally in a straight-lined spiral on the bottom near the base-knob.
 
 ## Comments and Comparanda
 
-Amphoriskoi are one of the two main vessel forms produced in glass workshops active in the eastern Mediterranean between the middle of the second century BCE and the early first century CE, conventionally referred to as Mediterranean group III, a period of revival of core-forming, after a century-long period of stasis during which no new glass vessel forms were introduced. On Mediterranean group II: {% cite 'Harden 1981' %}, pp. 123–141; {% cite 'McClellan 1984' %}, pp. 127–164; {% cite 'Grose 1989' %}, pp. 122–125; {% cite 'Stern and Schlick-Nolte 1994' %}, p. 39. For the classification of this particular vessel see {% cite 'Grose 1989' %}, class III:E, amphoriskos form III:2B: pp. 169–172, nos. 168–176.
+Amphoriskoi are one of the two main vessel forms produced in glass workshops active in the eastern Mediterranean between the middle of the second century BCE and the early first century CE, conventionally referred to as Mediterranean group III, a period of revival of core-forming, after a century-long period of stasis during which no new glass vessel forms were introduced. On Mediterranean group III: {% cite 'Harden 1981' %}, pp. 123–141; {% cite 'McClellan 1984' %}, pp. 127–164; {% cite 'Grose 1989' %}, pp. 122–125; {% cite 'Stern and Schlick-Nolte 1994' %}, p. 39. For the classification of this particular vessel see {% cite 'Grose 1989' %}, class III:E, amphoriskos form III:2B: pp. 169–172, nos. 168–176.
 
 ## Provenance
 

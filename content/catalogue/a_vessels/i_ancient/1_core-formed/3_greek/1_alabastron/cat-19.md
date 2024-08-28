@@ -12,13 +12,13 @@ object:
 
 ## Condition
 
-Fully preserved; small part of the rim filled; surface pitted, especially on rim, neck, and bottom covered with brown incrustation.
+Fully preserved; small part of the rim filled; surface pitted, especially on rim, neck, and bottom; covered with brown incrustation.
 
 ## Description
 
-Turquoise ground, yellow and dark brown décor. Broad horizontal rim-disk; cylindrical neck, tapering upward; cylindrical body; convex bottom. Two opposing ring handles with knobbed tails are placed over the decoration on the upper body near the shoulder. One of the handles is placed slightly lower than the other.
+Turquoise ground; yellow and dark brown décor. Broad, horizontal rim-disk; cylindrical neck, tapering upward; cylindrical body; convex bottom. Two opposing ring handles with knobbed tails are placed over the decoration on the upper body near the shoulder. One of the handles is placed slightly lower than the other.
 
-A yellow marvered thread, wound around the rim, spirals 22 times around the body to the center of the bottom. A dark brown thread starts on the neck under the rim and spirals 22 times adjacent to the yellow thread to the center of the bottom. The decoration on the upper part of the body is dragged 20 downward, forming a zigzag pattern. On the lower part of the body the threads are dragged up and down, forming a close-set zigzag pattern.
+A yellow marvered thread, wound around the rim, spirals 22 times around the body to the center of the bottom. A dark brown thread starts on the neck under the rim and spirals 22 times adjacent to the yellow thread to the center of the bottom. The decoration on the upper part of the body is dragged downward, forming a zigzag pattern. On the lower part of the body the threads are dragged up and down, forming a close-set zigzag pattern.
 
 ## Comments and Comparanda
 

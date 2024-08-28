@@ -1,6 +1,6 @@
 ---
 label: 
-title: "Fully mold blown Flasks"
+title: "Fully Mold-Blown Flasks"
 order: 1020
 layout: table-of-contents
 presentation: grid

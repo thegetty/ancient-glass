@@ -12,17 +12,15 @@ object:
 
 ## Condition
 
-Intact; some weathering and some incrustation. Some small areas of iridescence. The vessel is intact, with no cracks or breaks, and a few nicks and scratches.
+The vessel is intact, with no cracks or breaks, and only a few nicks and scratches. Some weathering and some incrustation. Some small areas of iridescence. 
 
 ## Description
 
-Vertical, smooth, fire-rounded rim. Deep convex body decorated with 79 short, vertical ribs, slightly slanting to the left, quite evenly spaced, but not uniform in size. Ribs are visible only on the area near the shoulder of the carinated part of the body, starting 1.5 cm below the rim, and range in size from 1.2 to 2.1 cm in length. In the interior, three grooves 0.1 cm thick are visible: one at the center of the bottom and a pair along the circumference of the bottom.
+Vertical, smooth, fire-rounded rim; deep convex body decorated with 79 short, vertical ribs, slightly slanting to the left, quite evenly spaced but not uniform in size. Ribs are visible only on the area near the shoulder of the carinated part of the body, starting 1.5 cm below the rim, and range in size from 1.2 to 2.1 cm in length. In the interior, three grooves 0.1 cm thick are visible: one at the center of the bottom and a pair along the circumference of the bottom.
 
-For comments on the form, see {% cat '78.AF.27' %}.
+## Comments and Comparanda
 
-## Comparanda
-
-{% cite 'Isings 1957' %}, form 3c; {% cite 'Grose 1989' %}, pp. 264–265, nos. 234–237; {% cite 'Israeli 2003' %}, p. 81, no. 71; {% cite 'Antonaras 2012' %}, p. 57, no. 23; {% cite 'Antonaras 2017' %}, pp. 54–56, form 6a.
+See also {% cat '78.AF.27' %}. {% cite 'Isings 1957' %}, form 3c; {% cite 'Grose 1989' %}, pp. 264–265, nos. 234–237; {% cite 'Israeli 2003' %}, p. 81, no. 71; {% cite 'Antonaras 2012' %}, p. 57, no. 23; {% cite 'Antonaras 2017' %}, pp. 54–56, form 6a.
 
 ## Provenance
 

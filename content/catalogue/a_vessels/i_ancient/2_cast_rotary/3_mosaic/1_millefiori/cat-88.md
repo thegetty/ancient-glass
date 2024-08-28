@@ -16,13 +16,13 @@ Mended; fully preserved; small chipping on the rim filled.
 
 ## Description
 
-The bowl has an upright rounded lip; cylindrical body tapering toward the flat bottom. Stands on a tall, conical ring-base, formed by a single revolt of an applied ribbon coil of glass, which consists of at least 10 layers of translucent purple and opaque turquoise and green glass.
+The bowl has an upright rounded lip; cylindrical body tapering toward the flat bottom. Stands on a tall, conical ring-base, formed by a single revolution of an applied ribbon coil of glass, which consists of at least 10 layers of translucent purple and opaque turquoise and green glass.
 
-The rim is a twisted purple and white rope-like cane. The vessel is made of a matrix comprising of four types of circular mosaic sections, florets, fused together.
+The rim is a twisted purple and white rope-like cane. The vessel is made of a matrix comprising four types of circular mosaic sections, florets, fused together.
 
 The first type of floret, which is the most numerous, consists of a yellow central rod surrounded by 17 translucent purple, trapezoidal petals outlined with white.
 
-The second, quite numerous type of floret consists of a purple central rod surrounded by 13 yellow trapezoidal petals outlined in white.
+The second, quite numerous type of floret consists of a purple central rod surrounded by 13 yellow, trapezoidal petals outlined in white.
 
 The third, less numerous type of floret consists of a thin central purple rod set in a thicker layer of white glass, surrounded by 13 translucent green, trapezoidal petals outlined in yellow.
 
@@ -34,17 +34,17 @@ The typology of canes used for the production of the vessel includes two types o
 
 ## Comments and Comparanda
 
-Mosaic vessels, although known from the Hellenistic era (fourth–first centuries BCE), become more numerous in the Early Roman period. They are made by a complex technique in which, first, rods of colored glass were tooled and fused together so that the cross section of the new composite rod would create the desired colorful design, often a floral motif or a spiral. Next, the preformed, composite rods, called canes, were cut into disks or slices, called florets. In order to form a vessel with this motif on it, the glassmaker then arranged the florets in the desired pattern in the bottom of a two-part mold or on a flat surface which was later slumped on a convex form-mold. When heated, the florets fused together to form the vessel. Finally, the rough vessel was released from the mold and the surface was ground to a considerable depth in order to make it smooth and even. The making of a mosaic glass vessel could take a great amount of time, involving great expertise and labor, as well as large quantities of fuel and raw materials (for the production technique see {% cite 'Stern and Schlick-Nolte 1994' %}, pp. 65–66, 68–71; {% cite 'Dawes 2002' %}).
+See comments on {% cat '85.AF.85' %}.
 
 Different forms of Hellenistic mosaic bowls are known, and three different kinds of mosaic (network, striped, or ribbon and composite mosaic) were used for their production ({% cite 'Weinberg 1965' %}; {% cite 'Oliver 1968' %}; {% cite 'Grose 1989' %}, pp. 189–197; and more recently {% cite 'Lightfoot 2019' %}). The production center for mosaic and network mosaic vessels remains unknown, although a proposed location is Alexandria, Egypt ({% cite 'Arveiller-Dulong and Nenna 2000' %}, pp. 18, 140).
 
-This particular bowl belongs to a group of late Hellenistic glass mosaic vessels, non-carinated, convex-sided mosaic bowls with a tall splaying base, examples of which have been recovered from a shipwreck that sank ca. 80 BCE off the island of Antikythera in the Aegean Sea, carrying a diverse cargo traveling from the eastern Mediterranean to Italy ({% cite 'Weinberg 1965' %}; {% cite 'Weinberg and McClellan 1992' %}, pp. 28–33; {% cite 'Avronidaki 2012' %}, pp. 140–145). A few similar non-carinated, convex-sided mosaic bowls, occasionally with a splaying base, have been very scarcely noted among Roman mosaic vessels dating from the late first century BCE to the early first century CE ({% cite 'Grose 1989' %}, pp. 253–254: “composite mosaic vessels with applied rims”).
+This particular bowl belongs to a group of late Hellenistic glass mosaic vessels: non-carinated, convex-sided mosaic bowls with a tall splaying base, examples of which have been recovered from a shipwreck that sank about 80 BCE off the island of Antikythera in the Aegean Sea, carrying a diverse cargo traveling from the eastern Mediterranean to Italy ({% cite 'Weinberg 1965' %}; {% cite 'Weinberg and McClellan 1992' %}, pp. 28–33; {% cite 'Avronidaki 2012' %}, pp. 140–145). A few similar non-carinated, convex-sided mosaic bowls, occasionally with a splayed base, have been very scarcely noted among Roman mosaic vessels dating from the late first century BCE to the early first century CE ({% cite 'Grose 1989' %}, pp. 253–254: “composite mosaic vessels with applied rims”).
 
-For similar in shape but of different type of mosaic (Ribbon Bowls) see comments on {% cat '2004.23' %}.
+For bowls similar in shape but of different type of mosaic (Ribbon Bowls), see {% cat '2004.23' %}.
 
 ## Provenance
 
-By 1981, Private Collection (Switzerland); 1985, Ernst Kofler, 1899–1989 and Marthe Truniger, 1918–1999 (Lucerne, Switzerland); 1985, Private Collection [sold, Ancient Glass: Formerly the Kofler-Truniger Collection, Christie’s, London, March 5–6, 1985, lot 191, to the J. Paul Getty Museum through Robin Symes, Limited]
+By 1981, Private Collection (Switzerland); 1985, Ernst Kofler, 1899–1989, and Marthe Truniger, 1918–1999 (Lucerne, Switzerland); 1985, Private Collection [sold, Ancient Glass: Formerly the Kofler-Truniger Collection, Christie’s, London, March 5–6, 1985, lot 191, to the J. Paul Getty Museum through Robin Symes, Limited]
 
 ## Bibliography
 

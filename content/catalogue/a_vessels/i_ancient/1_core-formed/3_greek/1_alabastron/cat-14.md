@@ -16,7 +16,7 @@ Mended; partly covered with iridescence and whitish weathering.
 
 ## Description
 
-Horizontal, disk-shaped rim; fusiform body; flat bottom. Two blue, small vertical ring handles with knobbed tails, opposite each other, are placed over the decoration on the upper body. A bronze chain is attached to the handles.
+Translucent dark blue body; opaque white and yellow decoration. Horizontal rim-disk; fusiform body; flat bottom. Two blue, small vertical ring handles with knobbed tails, opposite each other, are placed over the decoration on the upper body. A bronze chain is attached to the handles.
 
 An unmarvered white thread lines the rim. A wide yellow thread is wound twice around the middle of the body. A fine white thread is wound from top to bottom, forming almost horizontal rows: at the upper part of the body, it is spirally wound nine times; at the middle, it is spirally wound nine times, overlapping with and going between the yellow bands; and at the lower part, seven more times. The decoration on the middle of the body is dragged twenty-two times up and down, forming a zigzag pattern.
 

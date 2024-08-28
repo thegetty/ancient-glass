@@ -12,13 +12,13 @@ object:
 
 ## Condition
 
-Mended, heavily reconstructed, and filled. Discolorized from weathering.
+Mended, heavily reconstructed, and filled. Discolored from weathering.
 
 ## Description
 
 Short cylindrical neck; ovular body; convex bottom. Two opposing milky yellow vertical loop handles are modern restoration.
 
-A turquoise or translucent gray unmarvered thread around the rim. The dark-colored body is decorated with splashes of turquoise and yellow glass.
+A turquoise or translucent light blue unmarvered thread around the rim. The dark-colored body is decorated with splashes of opaque turquoise and yellow glass.
 
 ## Comments and Comparanda
 

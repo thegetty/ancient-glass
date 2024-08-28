@@ -13,13 +13,13 @@ nextPage: /catalogue/a_vessels/i_ancient/2_cast_rotary/1_single_colored/
 
 ## Condition
 
-Single body fragment.
+Single body fragment. On the interior side is a thick reddish layer from the core.
 
 ## Description
 
-Dark blue, curved body fragment decorated with applied fine white threads, dragged to form a festoon motif. On the interior side is a thick reddish layer from the core.
+Translucent dark blue, curved body fragment decorated with applied fine white threads, dragged to form a festoon motif. 
 
-## Comparanda
+## Comments and Comparanda
 
 See {% cat '83.AF.28.1' %}.
 

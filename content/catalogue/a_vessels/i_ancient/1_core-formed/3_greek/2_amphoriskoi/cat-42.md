@@ -16,7 +16,7 @@ Mended. Pitting on the surface, more visible on the decoration; weathering on th
 
 ## Description
 
-Dark blue ground with white and yellow décor. Flat, horizontal rim; cylindrical neck; oval body; pointed bottom on a tall, conical, outward-splayed base. On the shoulders are two dark blue horizontal loop handles.
+Translucent dark blue ground; white and yellow décor. Flat, horizontal rim; cylindrical neck; oval body; pointed bottom on a tall, conical, outward-splayed base. On the shoulders are two dark blue horizontal loop handles.
 
 A marvered white thread spirally wound four times on the lower part of the neck continues with eight revolutions on the upper part of the body, where it is flanked by five coils of a yellow thread, and ends with five more coils on the lower body. The decoration on the upper body is dragged upward, forming a zigzag pattern. This tooling resulted in vertical ribbing on the body.
 

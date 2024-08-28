@@ -16,7 +16,8 @@ Single body fragment.
 
 ## Description
 
-Rectangular piece of a mildly curved part of a vessel, probably the transition from the bottom to the body, as the reducing thickness toward the curved part indicates. It consists of two types of rectangular tesserae: (A) green eight-petaled rosette outlined in yellow set in red; (B) blue eight-petaled rosette outlined in white set in blue. On the back side irregularly arranged the same two types of tesserae.
+Rectangular piece of a mildly curved part of a vessel, probably the transition from the bottom to the body, as the reducing thickness toward the curved part indicates. It consists of two types of rectangular tesserae: (1) eight-petaled
+green rosette outlined in yellow, set in red; (2) eight-petaled blue rosette outlined in white, set in blue. On the back side, irregularly arranged, are the same two types of tesserae.
 
 ## Comments and Comparanda
 

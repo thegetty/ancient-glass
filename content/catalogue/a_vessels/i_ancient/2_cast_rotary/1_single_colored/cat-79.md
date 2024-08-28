@@ -18,9 +18,9 @@ Intact and in good condition, with very few nicks and scratches. Some brown disc
 
 Flaring, almost horizontal rim delineated from the body with a fine horizontal groove on its interior and a wide groove on its exterior. Body walls curve mildly, tapering toward the flat bottom.
 
-## Comparanda and Commentary
+## Comments and Comparanda
 
-This shallow bowl belongs to a very rare type of Early Roman cast vessels, mainly carinated plates and bowls and rectangular trays, executed in striking colors of single-colored opaque, translucent, and mosaic glass in the first half of the first century CE ({% cite 'Grose 1989' %}, pp. 254–256). This particular shape though is not included among the principal forms of the group and the closest parallel is of unknown provenance, housed in the Princeton University Art Museum ({% cite 'Antonaras 2012' %}, p. 70, no. 71).
+This shallow bowl belongs to a very rare type of Early Roman cast vessels, mainly carinated plates and bowls and rectangular trays, executed in striking colors of single-colored opaque, translucent, and mosaic glass in the first half of the first century CE ({% cite 'Grose 1989' %}, pp. 254–256). This particular shape, though, is not included among the principal forms of the group and the closest parallel is of unknown provenance, housed in the Princeton University Art Museum ({% cite 'Antonaras 2012' %}, p. 70, no. 71).
 
 ## Provenance
 

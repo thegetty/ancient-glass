@@ -1,6 +1,6 @@
 ---
 label: 
-title: "Free Blown Bowl"
+title: "Free-Blown"
 order: 2020
 layout: table-of-contents
 presentation: grid

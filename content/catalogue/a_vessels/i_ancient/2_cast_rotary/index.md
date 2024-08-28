@@ -1,6 +1,6 @@
 ---
 label: "2"
-title: "Cast-rotary pressing"
+title: "Cast-Rotary Pressing"
 order: 300
 layout: page
 landing: false

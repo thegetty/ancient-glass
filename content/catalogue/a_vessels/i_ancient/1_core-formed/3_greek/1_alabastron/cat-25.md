@@ -16,7 +16,7 @@ Almost fully preserved; mended. One lug missing, and most of the decoration has 
 
 ## Description
 
-Horizontal, broad, rim-disk; short, cylindrical neck wider toward the body; cylindrical body wider toward the flat bottom. A thick coil was attached to the shoulder and wound to form the neck. Another coil was attached to the upper side of the neck, wound twice and tooled to form the rim. Two opposing lugs were placed on the upper body near the shoulder; one is missing.
+Translucent dark blue body; opaque yellow decoration. Broad, horizontal rim-disk; short, cylindrical neck wider toward the body; cylindrical body wider toward the flat bottom. A thick coil was attached to the shoulder and wound to form the neck. Another coil was attached to the upper side of the neck, wound twice and tooled to form the rim. Two opposing lugs were placed on the upper body near the shoulder; one is missing.
 
 An unmarvered yellow thread is wound around the rim. A marvered yellow thread is wound spirally 28 times from neck to bottom and dragged upward at 16 points, forming a wide feather pattern. The decoration was probably originally composed of two threads, each wound 14 times; the second thread, likely in a different color, is not preserved at all and only the groove of its path remains visible.
 

@@ -1,6 +1,6 @@
 ---
 label: 
-title: "Plates Bowls"
+title: "Plates and Bowls"
 order: 1060
 layout: table-of-contents
 presentation: grid

@@ -16,7 +16,7 @@ Intact; some encrusted areas.
 
 ## Description
 
-Vertical, slightly everted, smooth, fire-rounded rim. Deep body decorated with 19 vertical, slightly oblique ribs, unequal in size. The upper part of the body is ground; for 1 cm below the rim is totally smooth, and lower down traces of the ribs become visible. Ribs begin from 1.9 to 2.3 cm below the rim and range in size, some of them extending to the bottom. In the interior three horizontal grooves are incised; one wider, 0.4, at 0.7 cm below the rim and two thinner ones, 0.2, at mid-body, that is, 3.9 cm below the rim.
+Vertical, slightly everted, smooth, fire-rounded rim. Deep body decorated with 19 vertical, slightly oblique ribs, unequal in size. The upper part of the body is ground; for 1 cm below the rim the glass is totally smooth, and lower traces of the ribs become visible. Ribs begin 1.9 to 2.3 cm below the rim and range in size, some of them extending to the bottom. In the interior three horizontal grooves are incised; one wider—0.4 cm—at 0.7 cm below the rim, and two thinner ones—0.2 cm—at mid-body, that is, 3.9 cm below the rim.
 
 ## Comments and Comparanda
 

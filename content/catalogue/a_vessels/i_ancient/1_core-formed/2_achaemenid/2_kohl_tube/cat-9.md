@@ -19,7 +19,7 @@ Top of body and rim restored.
 
 Cylindrical body, tapering toward the rim; flat, lopsided bottom.
 
-An unmarvered thread of the same color as the body is spirally wound around the body from shoulder to bottom and dragged upward and downward nine times to form a feather pattern. The ends of the thread are visible, and overall the decoration may have been made by scoring/pressing the still-hot surface with a sharp tool, creating the impression of an applied thread.
+An unmarvered thread of the same color as the body is spirally wound around the body from shoulder to bottom and dragged upward and downward nine times to form a feather pattern. The ends of the thread are visible, and overall the decoration may have been made by scoring, i.e., pressing the still-hot surface with a sharp tool, creating the impression of an applied thread.
 
 ## Comments and Comparanda
 
@@ -33,7 +33,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 {% cite 'von Saldern et al. 1974' %}, pp. 50–51, no. 111.
 
-{% cite 'Barag 1975' %}, pp. 24 n. 4, 35, IIB.3, fig. 34.
+{% cite 'Barag 1975' %}, p. 24 n. 4; p. 35, IIB.3, fig. 34.
 
 ## Exhibitions
 

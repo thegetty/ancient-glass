@@ -12,15 +12,15 @@ object:
 
 ## Condition
 
-Mended. Half of the rim and part of the bottom are added. Τhere is likely overpaint on the surface to disguise the repairs.
+Mended. Half of the rim and part of the bottom are added. Τhere is likely overpaint on the surface to disguise the repairs. Tooling marks on the upper- and underside of the rim and on the neck. Whitish core remains in the interior.
 
 ## Description
 
-Cobalt blue ground, opaque yellow, turquoise, and white decoration. Broad, horizontal rim-disk, slightly sloping to the outside; cylindrical neck, tapering upward; rudimentary shoulder and cylindrical body, slightly tapering toward the shoulder; shallow, convex bottom. Below the shoulder are two opposing ring handles with long straight tails; neither handle is pierced.
+Translucent dark blue ground; opaque yellow, turquoise, and white decoration. Broad, horizontal rim-disk, slightly sloping to the outside; cylindrical neck, tapering upward; rudimentary shoulder and cylindrical body, slightly tapering toward the shoulder; shallow, convex bottom. Below the shoulder are two opposing ring handles with long straight tails; neither handle is pierced.
 
-A yellow unmarvered thread around the rim. The body of the vessel, from the shoulder down, is decorated with spirally wound groups of opaque yellow, white, and turquoise threads; yellow appearing four times, and white and turquoise three times. In total more than 50 lines of colored glass are discernible from bottom to the rim. The threads are dragged 16 times upward and downward, forming a delicate feather pattern.
+A yellow unmarvered thread is wound around the rim. The body of the vessel, from the shoulder down, is decorated with spirally wound groups of opaque yellow, white, and turquoise threads—yellow appearing four times, and white and turquoise three times. In total more than 50 lines of colored glass are discernible from the bottom to the rim. The threads are dragged 16 times upward and downward, forming a delicate feather pattern.
 
-## Comparanda and Comment
+## Comments and Comparanda
 
 On the origins of core-formed alabastra and early examples, see comments on {% cat '2003.180' %}. This object belongs to the second group of core-formed vessels, which appears after the early fourth century BCE and continues to be made until the third century BCE ({% cite 'Harden 1981' %}, pp. 100–121; {% cite 'Grose 1989' %}, pp. 115–122). They were probably produced in more workshops and are found predominantly in mainland Greece, as well as in central and southern Italy. Initially the vessel types of the first group are repeated, differing only in shape and decoration, but later on new shapes appear, like the hydriske, the unguentarium, and the lentoid aryballos. For the classification of this particular alabastron see {% cite 'Grose 1989' %}, class II:A, alabastron form II:2: pp. 154–155, nos. 127–128.
 

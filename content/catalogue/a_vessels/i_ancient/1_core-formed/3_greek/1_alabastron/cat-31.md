@@ -12,11 +12,11 @@ object:
 
 ## Condition
 
-The vessel is almost completely iridescent, with a small area of the original blue colors still visible. There are some minor abrasions, such as a small hole near the bottom, and some nicks and scratches.
+The vessel is almost completely iridescent, with a small area of the original blue color still visible. There are some minor abrasions, such as a small hole near the bottom, and some nicks and scratches.
 
 ## Description
 
-Dark blue ground, opaque white decoration. Broad, horizontal rim; biconical body; convex bottom. Two lugs near the neck.
+Translucent dark blue ground; opaque white decoration. Broad, horizontal rim; biconical body; convex bottom. Two lugs near the neck.
 
 A white thread is wound 33 times around the body from the bottom to the rim. The thread is combed at the upper part of the body from under the rim to the transition to the lower conical part, forming a feathered pattern.
 
