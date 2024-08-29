@@ -9155,7 +9155,7 @@ figure_list:
     #zoom: true
     label: "Figure 13."
     caption: "Cast, lost wax technique <br>
-    (a) Former. (b) Lower part of the mold is placed on the former. (c) Upper part of the mold is placed on top of the lower part and heated. (d) Cullet of glass is poured into the cavity between the two parts of the mold, then heated and fused to form the vessel."
+    (a) Former. (b) Lower part of the mold is placed on the former. &#40;c) Upper part of the mold is placed on top of the lower part and heated. (d) Cullet of glass is poured into the cavity between the two parts of the mold, then heated and fused to form the vessel."
     
   - id: fig-14-intro
     src: figures/fig-14-intro.jpg
@@ -9174,14 +9174,14 @@ figure_list:
     #zoom: true
     label: "Figure 16."
     caption: "Rotary-pressing technique for a Cretan pyxis, 3rd–1st century BCE <br>
-    (a) The vessel is formed on a potter’s wheel. The viscous glass is pressed down with a plunger on the rotating lathe. (c) A paddle shapes the outside."
+    (a) The vessel is formed on a potter’s wheel. The viscous glass is pressed down with a plunger on the rotating lathe. &#40;c) A paddle shapes the outside."
 
   - id: fig-17-intro
     src: figures/fig-17-intro.jpg
     #zoom: true
     label: "Figure 17."
     caption: "Free-blowing technique <br>
-    Forming an object by blowing into a mass of hot glass. (a) Blowing is done with the blowpipe, on whose lower end the gob (molten glass) has already been picked up. (b) The parison (bubble of glass at the end of the blowpipe) is produced by the initial act of blowing, and the final product is then formed. (c) The neck and the body are finalized while still attached to the blowpipe. (d) Then a metal rod (pontil/pounty) is attached to the bottom of the vessel and the blowpipe is cut off/removed. (e) While still on the pontil, the vessel’s rim is shaped, and additional elements (handles or decorative elements, e.g., blobs or threads) are applied. (f) The vessel is left to cool (anneal) gradually."
+    Forming an object by blowing into a mass of hot glass. (a) Blowing is done with the blowpipe, on whose lower end the gob (molten glass) has already been picked up. (b) The parison (bubble of glass at the end of the blowpipe) is produced by the initial act of blowing, and the final product is then formed. &#40;c) The neck and the body are finalized while still attached to the blowpipe. (d) Then a metal rod (pontil/pounty) is attached to the bottom of the vessel and the blowpipe is cut off/removed. (e) While still on the pontil, the vessel’s rim is shaped, and additional elements (handles or decorative elements, e.g., blobs or threads) are applied. (f) The vessel is left to cool (anneal) gradually."
 
   - id: fig-18-intro
     src: figures/fig-18-intro.jpg
@@ -9202,7 +9202,7 @@ figure_list:
     #zoom: true
     label: "Figure 20."
     caption: "Rotary pressing technique for a cameo vessel <br>
-    (a) Wax model with decoration in relief. (b) Plaster mold with spaces. (c) Spaces are filled with glass powder, perhaps also with binders. (d) Glass is pressed in. Hot glass melts the powdered glass that is being pressed in. (e) The plaster mold is turned and broken off. (f) The newly made glass is turned upside down. (g) The new glass sags and the rim flows. (h) The rim on the new glass is constricted. (i) The new glass is turned right side up and annealed (cooled)."
+    (a) Wax model with decoration in relief. (b) Plaster mold with spaces. &#40;c) Spaces are filled with glass powder, perhaps also with binders. (d) Glass is pressed in. Hot glass melts the powdered glass that is being pressed in. (e) The plaster mold is turned and broken off. (f) The newly made glass is turned upside down. (g) The new glass sags and the rim flows. (h) The rim on the new glass is constricted. (i) The new glass is turned right side up and annealed (cooled)."
 
   - id: fig-21-appendix
     src: figures/fig-21-appendix.jpg
