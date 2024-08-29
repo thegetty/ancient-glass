@@ -5,7 +5,7 @@ layout: entry
 order: 203
 presentation: side-by-side
 # toc: false
-menu: false
+#menu: false 
 object:
   - id: "cat-9"
 nextPage: /catalogue/a_vessels/i_ancient/1_core-formed/3_greek/1_alabastron/

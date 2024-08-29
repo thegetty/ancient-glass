@@ -5,7 +5,7 @@ layout: entry
 order: 151
 presentation: side-by-side
 # toc: false
-menu: false
+#menu: false 
 object:
   - id: "cat-3"
 ---

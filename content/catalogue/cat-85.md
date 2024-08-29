@@ -5,7 +5,7 @@ layout: entry
 order: 344
 presentation: side-by-side
 # toc: false
-menu: false
+#menu: false 
 object:
   - id: "cat-85"
 nextPage: /catalogue/a_vessels/i_ancient/2_cast_rotary/3_mosaic/1_millefiori/

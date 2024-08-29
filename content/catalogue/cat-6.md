@@ -5,7 +5,7 @@ layout: entry
 order: 191
 presentation: side-by-side
 # toc: false
-menu: false
+#menu: false 
 object:
   - id: "cat-6"
 previousPage: /catalogue/a_vessels/i_ancient/1_core-formed/1_pharonic/4_flask/cat-5/
