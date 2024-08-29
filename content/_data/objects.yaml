@@ -56,6 +56,7 @@ object_list:
 
 -
     id: cat-1
+    label: "Cat. 1"
     accession_number: "2003.146"
     collection_link: <https://www.getty.edu/art/collection/objects/221513>
     dimensions: "est. H. 12.6, pres. H. 9.5, Diam. rim 2.5, Diam. base 2.8 cm; Wt. 83.46 g"
@@ -73,6 +74,7 @@ object_list:
     path: /catalogue/cat-1/
 -
     id: cat-2
+    label: "Cat. 2"
     accession_number: "2004.3"
     collection_link: <https://www.getty.edu/art/collection/objects/221454>
     dimensions: "H. 8.5, Diam. rim 2.3, max. Diam. 4.2 cm; Wt. 52.20 g"
@@ -90,6 +92,7 @@ object_list:
     path: /catalogue/cat-2/
 -
     id: cat-3
+    label: "Cat. 3"
     accession_number: "2004.2"
     collection_link: <https://www.getty.edu/art/collection/objects/221453>
     dimensions: "H. 9.6, Diam. rim 5.0–5.3, max. Diam. 6.0, Diam. base 4.0–4.1 cm; Wt. 85.52 g"
@@ -107,6 +110,7 @@ object_list:
     path: /catalogue/cat-3/
 -
     id: cat-4
+    label: "Cat. 4"
     accession_number: "2003.148"
     collection_link: <https://www.getty.edu/art/collection/objects/221515>
     dimensions: "H. 6.3, max. W. 5.4 cm; Wt. 45.21 g"
@@ -124,6 +128,7 @@ object_list:
     path: /catalogue/cat-4/
 -
     id: cat-5
+    label: "Cat. 5"
     accession_number: "2003.147"
     collection_link: <https://www.getty.edu/art/collection/objects/221514>
     dimensions: "H. 6.0, L. 12.5 cm; Wt. 114.08 g (with all fills and restoration material)"
@@ -141,6 +146,7 @@ object_list:
     path: /catalogue/cat-5/
 -
     id: cat-6
+    label: "Cat. 6"
     accession_number: "2004.16"
     collection_link: <https://www.getty.edu/art/collection/objects/221474/>
     dimensions: "H. 14.0, Diam. rim 3.3, max. Diam. 3.5 cm; Wt. 156.75 g"
@@ -158,6 +164,7 @@ object_list:
     path: /catalogue/cat-6/
 -
     id: cat-7
+    label: "Cat. 7"
     accession_number: "2003.160"
     collection_link: <https://www.getty.edu/art/collection/objects/221527>
     dimensions: "H. 7.5, max. W. side 1.7, Th. bottom 1.0, body walls ca. 0.5 cm; Wt. 29.81 g"
@@ -175,6 +182,7 @@ object_list:
     path: /catalogue/cat-7/
 -
     id: cat-8
+    label: "Cat. 8"
     accession_number: "2003.162"
     collection_link: <https://www.getty.edu/art/collection/objects/221529>
     dimensions: "H. 9.4, Diam. rim 1.0, max. Diam. 1.4 cm; Wt. 27.51 g"
@@ -192,6 +200,7 @@ object_list:
     path: /catalogue/cat-8/
 -
     id: cat-9
+    label: "Cat. 9"
     accession_number: "2003.163"
     collection_link: <https://www.getty.edu/art/collection/objects/221530>
     dimensions: "H. 6.9, max. Diam. 1.6, Th. 0.2 cm; Wt. 15.30 g"
@@ -209,6 +218,7 @@ object_list:
     path: /catalogue/cat-9/
 -
     id: cat-10
+    label: "Cat. 10"
     accession_number: "2003.180"
     collection_link: <https://www.getty.edu/art/collection/objects/221547>
     dimensions: "H. 10.3, Diam. rim 3.9, max. Diam. 3.0 cm; Wt. 94.98 g"
@@ -226,6 +236,7 @@ object_list:
     path: /catalogue/cat-10/
 -
     id: cat-11
+    label: "Cat. 11"
     accession_number: "2004.5"
     collection_link: <https://www.getty.edu/art/collection/objects/221456>
     dimensions: "H. 13.2, Diam. rim 3.4, max. Diam. 4.2 cm; Wt. 99.43 g"
@@ -243,6 +254,7 @@ object_list:
     path: /catalogue/cat-11/
 -
     id: cat-12
+    label: "Cat. 12"
     accession_number: "2003.181"
     collection_link: <https://www.getty.edu/art/collection/objects/221548>
     dimensions: "H. 10.6, Diam. rim 3.0, max. Diam. 2.5 cm; Wt. 43.38 g"
@@ -260,6 +272,7 @@ object_list:
     path: /catalogue/cat-12/
 -
     id: cat-13
+    label: "Cat. 13"
     accession_number: "2004.6"
     collection_link: <https://www.getty.edu/art/collection/objects/221457>
     dimensions: "H. 9.4, Diam. rim 3.0, max. Diam. 2.6 cm; Wt. 39.00 g"
@@ -277,6 +290,7 @@ object_list:
     path: /catalogue/cat-13/
 -
     id: cat-14
+    label: "Cat. 14"
     accession_number: "2003.190"
     collection_link: <https://www.getty.edu/art/collection/objects/221557>
     dimensions: "H. 12.5, Diam. rim 3.0, max. Diam. 3.2 cm; Wt. 60.16 g"
@@ -294,6 +308,7 @@ object_list:
     path: /catalogue/cat-14/
 -
     id: cat-15
+    label: "Cat. 15"
     accession_number: "2003.196"
     collection_link: <https://www.getty.edu/art/collection/objects/221563>
     dimensions: "H. 6.7, Diam. rim 1.8, max. Diam. 2.2 cm; Wt. 17.73 g"
@@ -311,6 +326,7 @@ object_list:
     path: /catalogue/cat-15/
 -
     id: cat-16
+    label: "Cat. 16"
     accession_number: "2003.185"
     collection_link: <https://www.getty.edu/art/collection/objects/221552>
     dimensions: "H. 9.4, Diam. rim 3.0, max. Diam. 2.9 cm; Wt. 37.24 g"
@@ -328,6 +344,7 @@ object_list:
     path: /catalogue/cat-16/
 -
     id: cat-17
+    label: "Cat. 17"
     accession_number: "2003.182"
     collection_link: <https://www.getty.edu/art/collection/objects/221549>
     dimensions: "H. 8.7, Diam. rim 3.4, max. Diam. 2.8 cm; Wt. 44.54 g"
@@ -345,6 +362,7 @@ object_list:
     path: /catalogue/cat-17/
 -
     id: cat-18
+    label: "Cat. 18"
     accession_number: "2003.183"
     collection_link: <https://www.getty.edu/art/collection/objects/221550>
     dimensions: "H. 9.0, Diam. rim 2.5, max. Diam. 2.6 cm; Wt. 34.54 g"
@@ -362,6 +380,7 @@ object_list:
     path: /catalogue/cat-18/
 -
     id: cat-19
+    label: "Cat. 19"
     accession_number: "2003.184"
     collection_link: <https://www.getty.edu/art/collection/objects/221551>
     dimensions: "H. 9.9, Diam. rim 3.2, max. Diam. 2.5 cm; Wt. 43.59 g"
@@ -379,6 +398,7 @@ object_list:
     path: /catalogue/cat-19/
 -
     id: cat-20
+    label: "Cat. 20"
     accession_number: "2003.189"
     collection_link: <https://www.getty.edu/art/collection/objects/221556>
     dimensions: "H. 10.0, Diam. rim 2.8, max. Diam. 2.6 cm; Wt. 48.54 g"
@@ -396,6 +416,7 @@ object_list:
     path: /catalogue/cat-20/
 -
     id: cat-21
+    label: "Cat. 21"
     accession_number: "2003.186"
     collection_link: <https://www.getty.edu/art/collection/objects/221553>
     dimensions: "H. 10.4, Diam. rim 3.2, Diam. body 2.6 cm; Wt. 44.25 g"
@@ -413,6 +434,7 @@ object_list:
     path: /catalogue/cat-21/
 -
     id: cat-22
+    label: "Cat. 22"
     accession_number: "2003.193"
     collection_link: <https://www.getty.edu/art/collection/objects/221560>
     dimensions: "H. 16.5, Diam. rim 5.9, max. Diam. 4.3 cm; Wt. 137.51 g"
@@ -430,6 +452,7 @@ object_list:
     path: /catalogue/cat-22/
 -
     id: cat-23
+    label: "Cat. 23"
     accession_number: "2003.187"
     collection_link: <https://www.getty.edu/art/collection/objects/221554>
     dimensions: "H. 13.3, Diam. rim 3.6, max. Diam. 3.3 cm; Wt. 78.31 g"
@@ -447,6 +470,7 @@ object_list:
     path: /catalogue/cat-23/
 -
     id: cat-24
+    label: "Cat. 24"
     accession_number: "2003.191"
     collection_link: <https://www.getty.edu/art/collection/objects/221558>
     dimensions: "H. 18.4, Diam. rim 6.1, max. Diam. 4.8 cm; Wt. 281.38 g"
@@ -464,6 +488,7 @@ object_list:
     path: /catalogue/cat-24/
 -
     id: cat-25
+    label: "Cat. 25"
     accession_number: "2004.7"
     collection_link: <https://www.getty.edu/art/collection/objects/221458>
     dimensions: "H. 10.0, Diam. rim 3.5, max. Diam. 3.1 cm; Wt. 52.08 g"
@@ -481,6 +506,7 @@ object_list:
     path: /catalogue/cat-25/
 -
     id: cat-26
+    label: "Cat. 26"
     accession_number: "2004.8"
     collection_link: <https://www.getty.edu/art/collection/objects/221459>
     dimensions: "H. 5.7, Diam. rim 2.2, max. Diam. 1.9 cm; Wt. 16.68 g"
@@ -498,6 +524,7 @@ object_list:
     path: /catalogue/cat-26/
 -
     id: cat-27
+    label: "Cat. 27"
     accession_number: "2003.192"
     collection_link: <https://www.getty.edu/art/collection/objects/221559>
     dimensions: "H. 13.5, Diam. rim 3.0, max. Diam. 2.5 cm; Wt. 67.15 g"
@@ -515,6 +542,7 @@ object_list:
     path: /catalogue/cat-27/
 -
     id: cat-28
+    label: "Cat. 28"
     accession_number: "2003.188"
     collection_link: <https://www.getty.edu/art/collection/objects/221555>
     dimensions: "H. 13.3, Diam. rim 3.3, max. Diam. 3.4 cm; Wt. 65.42 g"
@@ -532,6 +560,7 @@ object_list:
     path: /catalogue/cat-28/
 -
     id: cat-29
+    label: "Cat. 29"
     accession_number: "2003.194"
     collection_link: <https://www.getty.edu/art/collection/objects/221561>
     dimensions: "H. 12.2, Diam. rim 2.1, max. Diam. 2.6 cm; Wt. 38.75 g"
@@ -549,6 +578,7 @@ object_list:
     path: /catalogue/cat-29/
 -
     id: cat-30
+    label: "Cat. 30"
     accession_number: "2004.22"
     collection_link: <https://www.getty.edu/art/collection/objects/221480>
     dimensions: "H. 13.3, Diam. rim 2.5, max. Diam. 2.3 cm; Wt. 24.26 g"
@@ -566,6 +596,7 @@ object_list:
     path: /catalogue/cat-30/
 -
     id: cat-31
+    label: "Cat. 31"
     accession_number: "2003.195"
     collection_link: <https://www.getty.edu/art/collection/objects/221562>
     dimensions: "H. 12.5, Diam. rim 2.4, max. Diam. 3.3, Th. 0.3 cm; Wt. 55.16 g"
@@ -583,6 +614,7 @@ object_list:
     path: /catalogue/cat-31/
 -
     id: cat-32
+    label: "Cat. 32"
     accession_number: "2003.197"
     collection_link: <https://www.getty.edu/art/collection/objects/221564>
     dimensions: "H. 11.4, Diam. rim 2.4, max. Diam. 4.4 cm; Wt. 67.24 g"
@@ -600,6 +632,7 @@ object_list:
     path: /catalogue/cat-32/
 -
     id: cat-33
+    label: "Cat. 33"
     accession_number: "2003.198"
     collection_link: <https://www.getty.edu/art/collection/objects/221565>
     dimensions: "H. 7.9, Diam. rim 2.5, max. Diam. 3.2, Th. 0.3 cm; Wt. 33.90 g"
@@ -617,6 +650,7 @@ object_list:
     path: /catalogue/cat-33/
 -
     id: cat-34
+    label: "Cat. 34"
     accession_number: "2003.178"
     collection_link: <https://www.getty.edu/art/collection/objects/221545>
     dimensions: "H. 7.0, Diam. rim 2.9, max. Diam. 4.9, Diam. base 1.2 cm; Wt. 51.83 g"
@@ -634,6 +668,7 @@ object_list:
     path: /catalogue/cat-34/
 -
     id: cat-35
+    label: "Cat. 35"
     accession_number: "2003.168"
     collection_link: <https://www.getty.edu/art/collection/objects/221535>
     dimensions: "H. 6.0, Diam. rim 2.2, max. Diam. 4.1, Diam. base 1.1 cm; Wt. 33.00 g"
@@ -651,6 +686,7 @@ object_list:
     path: /catalogue/cat-35/
 -
     id: cat-36
+    label: "Cat. 36"
     accession_number: "2003.169"
     collection_link: <https://www.getty.edu/art/collection/objects/221536>
     dimensions: "H. 6.5, Diam. rim 2.6, max. Diam. 4.5, Diam. base 1.0 cm; Wt. 33.74 g"
@@ -668,6 +704,7 @@ object_list:
     path: /catalogue/cat-36/
 -
     id: cat-37
+    label: "Cat. 37"
     accession_number: "2003.171"
     collection_link: <https://www.getty.edu/art/collection/objects/221538>
     dimensions: "H. 8.0, Diam. rim 2.9, max. Diam. 4.8, Diam. base 1.0 cm; Wt. 49.66 g"
@@ -685,6 +722,7 @@ object_list:
     path: /catalogue/cat-37/
 -
     id: cat-38
+    label: "Cat. 38"
     accession_number: "2003.172"
     collection_link: <https://www.getty.edu/art/collection/objects/221539>
     dimensions: "H. 11.0, Diam. rim 3.3, max. Diam. 6.7, Diam. base 1.8 cm; Wt. 130.15 g"
@@ -702,6 +740,7 @@ object_list:
     path: /catalogue/cat-38/
 -
     id: cat-39
+    label: "Cat. 39"
     accession_number: "2003.173"
     collection_link: <https://www.getty.edu/art/collection/objects/221540>
     dimensions: "H. 7.1, Diam. rim 2.4, max. Diam. 4.5 cm; Wt. 44.01 g"
@@ -719,6 +758,7 @@ object_list:
     path: /catalogue/cat-39/
 -
     id: cat-40
+    label: "Cat. 40"
     accession_number: "2003.170"
     collection_link: <https://www.getty.edu/art/collection/objects/221537>
     dimensions: "H. 7.3, Diam. rim 2.6, max. Diam. 4.4, Diam. base 1.2 cm; Wt. 40.10 g"
@@ -736,6 +776,7 @@ object_list:
     path: /catalogue/cat-40/
 -
     id: cat-41
+    label: "Cat. 41"
     accession_number: "2003.175"
     collection_link: <https://www.getty.edu/art/collection/objects/221542>
     dimensions: "H. 7.5, Diam. rim 2.5, max. Diam. 4.3, Diam. base 1.0 cm; Wt. 39.80 g"
@@ -753,6 +794,7 @@ object_list:
     path: /catalogue/cat-41/
 -
     id: cat-42
+    label: "Cat. 42"
     accession_number: "2003.203"
     collection_link: <https://www.getty.edu/art/collection/objects/221570>
     dimensions: "H. 11.4, Diam. rim 2.5, max. Diam. 5.1, Diam. base 2.6 cm; Wt. 71.44 g"
@@ -770,6 +812,7 @@ object_list:
     path: /catalogue/cat-42/
 -
     id: cat-43
+    label: "Cat. 43"
     accession_number: "2003.200"
     collection_link: <https://www.getty.edu/art/collection/objects/221567>
     dimensions: "H. 14.6, Diam. rim 3.0, max. Diam. 4.5 cm; Wt. 129.39 g"
@@ -787,6 +830,7 @@ object_list:
     path: /catalogue/cat-43/
 -
     id: cat-44
+    label: "Cat. 44"
     accession_number: "2003.201"
     collection_link: <https://www.getty.edu/art/collection/objects/221568>
     dimensions: "H. 12.5, Diam. rim 2.5, max. Diam. 5.2 cm; Wt. 117.62 g"
@@ -804,6 +848,7 @@ object_list:
     path: /catalogue/cat-44/
 -
     id: cat-45
+    label: "Cat. 45"
     accession_number: "2003.202"
     collection_link: <https://www.getty.edu/art/collection/objects/221569>
     dimensions: "H. 11.4, Diam. rim 2.1, max. Diam. 5.1 cm; Wt. 118.41 g"
@@ -821,6 +866,7 @@ object_list:
     path: /catalogue/cat-45/
 -
     id: cat-46
+    label: "Cat. 46"
     accession_number: "2003.204"
     collection_link: <https://www.getty.edu/art/collection/objects/221571>
     dimensions: "H. 16.0, Diam. rim 2.8, max. Diam. 5.2 cm; Wt. 146.88 g"
@@ -838,6 +884,7 @@ object_list:
     path: /catalogue/cat-46/
 -
     id: cat-47
+    label: "Cat. 47"
     accession_number: "2003.199"
     collection_link: <https://www.getty.edu/art/collection/objects/221566>
     dimensions: "H. 10.0, Diam. rim 2.6, max. Diam. 4.6 cm; Wt. 49.93 g (with the fill)"
@@ -855,6 +902,7 @@ object_list:
     path: /catalogue/cat-47/
 -
     id: cat-48
+    label: "Cat. 48"
     accession_number: "2003.179"
     collection_link: <https://www.getty.edu/art/collection/objects/221546>
     dimensions: "H. 8.3, Diam. rim 3.1 × 2.4, max. Diam. 4.6, Diam. base 2.8 cm; Wt. 54.78 g"
@@ -872,6 +920,7 @@ object_list:
     path: /catalogue/cat-48/
 -
     id: cat-49
+    label: "Cat. 49"
     accession_number: "2003.166"
     collection_link: <https://www.getty.edu/art/collection/objects/221533>
     dimensions: "H. 8.0, Diam. rim 3.0 × 2.3, max. Diam. 5.2, Diam. base 2.3 cm; Wt. 57.92 g"
@@ -889,6 +938,7 @@ object_list:
     path: /catalogue/cat-49/
 -
     id: cat-50
+    label: "Cat. 50"
     accession_number: "2003.165"
     collection_link: <https://www.getty.edu/art/collection/objects/221532>
     dimensions: "H. 10.2, Diam. rim 4.6, max. Diam. 5.9, Diam. base 4.0 cm; Wt. 157.40 g"
@@ -906,6 +956,7 @@ object_list:
     path: /catalogue/cat-50/
 -
     id: cat-51
+    label: "Cat. 51"
     accession_number: "2003.167"
     collection_link: <https://www.getty.edu/art/collection/objects/221534>
     dimensions: "H. 5.8, Diam. rim 2.8, max. Diam. 3.7 cm; Wt. 32.33 g"
@@ -923,6 +974,7 @@ object_list:
     path: /catalogue/cat-51/
 -
     id: cat-52
+    label: "Cat. 52"
     accession_number: "2003.164"
     collection_link: <https://www.getty.edu/art/collection/objects/221531>
     dimensions: "H. 8.8, Diam. rim 3.8 × 3.5, max. Diam. 4.4 (including handle), 4.2 (body) cm; Wt. 51.00 g"
@@ -940,6 +992,7 @@ object_list:
     path: /catalogue/cat-52/
 -
     id: cat-53
+    label: "Cat. 53"
     accession_number: "2003.174"
     collection_link: <https://www.getty.edu/art/collection/objects/221541>
     dimensions: "H. 6.0, Diam. rim 2.6, max. Diam. 4.7 cm; Wt. 48.12 g"
@@ -957,6 +1010,7 @@ object_list:
     path: /catalogue/cat-53/
 -
     id: cat-54
+    label: "Cat. 54"
     accession_number: "2003.177"
     collection_link: <https://www.getty.edu/art/collection/objects/221544>
     dimensions: "H. 6.0, Diam. rim 2.4, max. Diam. 4.4 cm; Wt. 34.64 g"
@@ -974,6 +1028,7 @@ object_list:
     path: /catalogue/cat-54/
 -
     id: cat-55
+    label: "Cat. 55"
     accession_number: "2004.4"
     collection_link: <https://www.getty.edu/art/collection/objects/221455>
     dimensions: "H. 7.2, Diam. rim 2.8, max. Diam. 6.5 cm; Wt. 146.88 g"
@@ -991,6 +1046,7 @@ object_list:
     path: /catalogue/cat-55/
 -
     id: cat-56
+    label: "Cat. 56"
     accession_number: "2003.176"
     collection_link: <https://www.getty.edu/art/collection/objects/221543>
     dimensions: "H. 6.1, Diam. rim 2.7, max. Diam. 5.0, Th. 0.3 cm; Wt. 43.66 g"
@@ -1008,6 +1064,7 @@ object_list:
     path: /catalogue/cat-56/
 -
     id: cat-57
+    label: "Cat. 57"
     accession_number: "83.AF.28.1"
     collection_link: <https://www.getty.edu/art/collection/objects/16203>
     dimensions: "H. 1.1, W. 1.6 cm; Wt. 0.69 g"
@@ -1025,6 +1082,7 @@ object_list:
     path: /catalogue/cat-57/
 -
     id: cat-58
+    label: "Cat. 58"
     accession_number: "83.AF.28.2"
     collection_link: <https://www.getty.edu/art/collection/objects/16204>
     dimensions: "pres. H. 1.2, W. 1.0 cm; Wt. 0.72 g"
@@ -1042,6 +1100,7 @@ object_list:
     path: /catalogue/cat-58/
 -
     id: cat-59
+    label: "Cat. 59"
     accession_number: "2003.217"
     collection_link: <https://www.getty.edu/art/collection/objects/221600>
     dimensions: "H. 8.5, Diam. rim 15.8, Th. 0.5 cm; Wt. 260.62 g"
@@ -1059,6 +1118,7 @@ object_list:
     path: /catalogue/cat-59/
 -
     id: cat-60
+    label: "Cat. 60"
     accession_number: "2004.17"
     collection_link: <https://www.getty.edu/art/collection/objects/221475>
     dimensions: "Η. 8.5, Diam. rim 14.0, Th. 0.5 cm; Wt. 260.91 g"
@@ -1076,6 +1136,7 @@ object_list:
     path: /catalogue/cat-60/
 -
     id: cat-61
+    label: "Cat. 61"
     accession_number: "2004.18"
     collection_link: <https://www.getty.edu/art/collection/objects/221476>
     dimensions: "H. 5.8, Diam. rim 12.3, Th. 0.4 cm; Wt. 179.60 g"
@@ -1093,6 +1154,7 @@ object_list:
     path: /catalogue/cat-61/
 -
     id: cat-62
+    label: "Cat. 62"
     accession_number: "2003.219"
     collection_link: <https://www.getty.edu/art/collection/objects/221602>
     dimensions: "H. 4.8, Diam. rim 10.2, Th. 0.2 cm; Wt. 97.30 g"
@@ -1110,6 +1172,7 @@ object_list:
     path: /catalogue/cat-62/
 -
     id: cat-63
+    label: "Cat. 63"
     accession_number: "2003.216"
     collection_link: <https://www.getty.edu/art/collection/objects/221599>
     dimensions: "H. 1.9, Diam. rim 8.7, Th. 0.3 cm; Wt. 52.22 g"
@@ -1127,6 +1190,7 @@ object_list:
     path: /catalogue/cat-63/
 -
     id: cat-64
+    label: "Cat. 64"
     accession_number: "2003.215"
     collection_link: <https://www.getty.edu/art/collection/objects/221598>
     dimensions: "H. 6.6, Diam. rim 15.8, Diam. base 3.3 cm; Wt. 325.40 g"
@@ -1144,6 +1208,7 @@ object_list:
     path: /catalogue/cat-64/
 -
     id: cat-65
+    label: "Cat. 65"
     accession_number: "2003.228"
     collection_link: <https://www.getty.edu/art/collection/objects/221611>
     dimensions: "H. 5.6, Diam. rim 9.3, Diam. base 4.3 cm; Wt. 88.24 g"
@@ -1161,6 +1226,7 @@ object_list:
     path: /catalogue/cat-65/
 -
     id: cat-66
+    label: "Cat. 66"
     accession_number: "2003.221"
     collection_link: <https://www.getty.edu/art/collection/objects/221604>
     dimensions: "H. 3.9, Diam. rim 12.8, Diam. base 5.5 cm; Wt. 175.64 g"
@@ -1178,6 +1244,7 @@ object_list:
     path: /catalogue/cat-66/
 -
     id: cat-67
+    label: "Cat. 67"
     accession_number: "2003.222"
     collection_link: <https://www.getty.edu/art/collection/objects/221605>
     dimensions: "H. 4.5, Diam. rim 12.2, Th. 1.0 cm; Wt. 125.30 g"
@@ -1195,6 +1262,7 @@ object_list:
     path: /catalogue/cat-67/
 -
     id: cat-68
+    label: "Cat. 68"
     accession_number: "2003.223"
     collection_link: <https://www.getty.edu/art/collection/objects/221606/>
     dimensions: "H. 4.2, Diam. rim 12.6, Diam. base 5.0, Th. 0.3 cm; Wt. 157.30 g"
@@ -1212,6 +1280,7 @@ object_list:
     path: /catalogue/cat-68/
 -
     id: cat-69
+    label: "Cat. 69"
     accession_number: "2003.224"
     collection_link: <https://www.getty.edu/art/collection/objects/221607>
     dimensions: "H. 4.5, Diam. rim 13.5, Diam. base 5.2, Th. 0.4 cm; Wt. 217.73 g"
@@ -1229,6 +1298,7 @@ object_list:
     path: /catalogue/cat-69/
 -
     id: cat-70
+    label: "Cat. 70"
     accession_number: "2003.220"
     collection_link: <https://www.getty.edu/art/collection/objects/221603>
     dimensions: "H. 5.6, Diam. rim 11.1, Diam. base 5.8 cm; Wt. 166.57 g"
@@ -1246,6 +1316,7 @@ object_list:
     path: /catalogue/cat-70/
 -
     id: cat-71
+    label: "Cat. 71"
     accession_number: "78.AF.27"
     collection_link: <https://www.getty.edu/art/collection/objects/8161>
     dimensions: "H. 6.0, Diam. rim 11.8, Diam. base 6.1 cm; Wt. 206.25 g"
@@ -1263,6 +1334,7 @@ object_list:
     path: /catalogue/cat-71/
 -
     id: cat-72
+    label: "Cat. 72"
     accession_number: "2004.19"
     collection_link: <https://www.getty.edu/art/collection/objects/221477>
     dimensions: "H. 7.7, Diam. rim 15.7, Diam. base 6.3 cm; Wt. 378.95 g"
@@ -1280,6 +1352,7 @@ object_list:
     path: /catalogue/cat-72/
 -
     id: cat-73
+    label: "Cat. 73"
     accession_number: "2003.218"
     collection_link: <https://www.getty.edu/art/collection/objects/221601>
     dimensions: "H. 6.5, Diam. rim 12.9, Diam. base 5.8 cm; Wt. 209.55 g"
@@ -1297,6 +1370,7 @@ object_list:
     path: /catalogue/cat-73/
 -
     id: cat-74
+    label: "Cat. 74"
     accession_number: "2003.225"
     collection_link: <https://www.getty.edu/art/collection/objects/221608>
     dimensions: "H. 5.2, Diam. rim 13.5, Diam. base 3.6, Th. 0.45 cm; Wt. 181.50 g"
@@ -1314,6 +1388,7 @@ object_list:
     path: /catalogue/cat-74/
 -
     id: cat-75
+    label: "Cat. 75"
     accession_number: "2003.232"
     collection_link: <https://www.getty.edu/art/collection/objects/221615>
     dimensions: "H. 3.4, Diam. rim 7.3, Diam. base 2.8 cm; Wt. 48.11 g"
@@ -1331,6 +1406,7 @@ object_list:
     path: /catalogue/cat-75/
 -
     id: cat-76
+    label: "Cat. 76"
     accession_number: "2003.233"
     collection_link: <https://www.getty.edu/art/collection/objects/221616>
     dimensions: "H. 3.3, Diam. rim 7.3, Diam. base 2.7 cm; Wt. 46.09 g"
@@ -1348,6 +1424,7 @@ object_list:
     path: /catalogue/cat-76/
 -
     id: cat-77
+    label: "Cat. 77"
     accession_number: "2003.234"
     collection_link: <https://www.getty.edu/art/collection/objects/221617>
     dimensions: "H. 4.0, Diam. rim 7.8, Diam. base 3.1 cm; Wt. 56.47 g"
@@ -1365,6 +1442,7 @@ object_list:
     path: /catalogue/cat-77/
 -
     id: cat-78
+    label: "Cat. 78"
     accession_number: "2003.235"
     collection_link: <https://www.getty.edu/art/collection/objects/221618>
     dimensions: "H. 3.4, Diam. rim 6.1, Diam. base 2.8, Th. 0.2 cm; Wt. 45.50 g"
@@ -1382,6 +1460,7 @@ object_list:
     path: /catalogue/cat-78/
 -
     id: cat-79
+    label: "Cat. 79"
     accession_number: "2003.236"
     collection_link: <https://www.getty.edu/art/collection/objects/221619>
     dimensions: "H. 3.0, Diam. rim 8.6, Diam. base 5.8, Th. 0.2 cm; Wt. 76.00 g"
@@ -1399,6 +1478,7 @@ object_list:
     path: /catalogue/cat-79/
 -
     id: cat-80
+    label: "Cat. 80"
     accession_number: "2003.237"
     collection_link: <https://www.getty.edu/art/collection/objects/221620/>
     dimensions: "H. 4.0, Diam. rim 7.4, Diam. base 5.4 cm; Wt. 52.40 g"
@@ -1416,6 +1496,7 @@ object_list:
     path: /catalogue/cat-80/
 -
     id: cat-81
+    label: "Cat. 81"
     accession_number: "2003.475"
     collection_link: <https://www.getty.edu/art/collection/objects/221864/>
     dimensions: "H. 5.7, Diam. rim 10.3, Diam. base 3.5 cm; Wt. 65.90 g"
@@ -1433,6 +1514,7 @@ object_list:
     path: /catalogue/cat-81/
 -
     id: cat-82
+    label: "Cat. 82"
     accession_number: "84.AF.85"
     collection_link: <https://www.getty.edu/art/collection/objects/10890>
     dimensions: "H. 10.5, Diam. rim 10.6, Th. 0.7 [blue: 0.5, white: 0.2] cm; Wt. 496.40 g (with the added base)"
@@ -1450,6 +1532,7 @@ object_list:
     path: /catalogue/cat-82/
 -
     id: cat-83
+    label: "Cat. 83"
     accession_number: "2003.354"
     collection_link: <https://www.getty.edu/art/collection/objects/221744>
     dimensions: "H. 4.7, L. 3.5, Th. 0.3 cm; Wt. 14.60 g"
@@ -1467,6 +1550,7 @@ object_list:
     path: /catalogue/cat-83/
 -
     id: cat-84
+    label: "Cat. 84"
     accession_number: "85.AF.84"
     collection_link: <https://www.getty.edu/art/collection/objects/10940>
     dimensions: "H. 7.6, W. 4.2, Diam. base 2.0, Th. 0.3 cm; Wt. 35.27 g"
@@ -1484,6 +1568,7 @@ object_list:
     path: /catalogue/cat-84/
 -
     id: cat-85
+    label: "Cat. 85"
     accession_number: "96.AF.289"
     collection_link: <https://www.getty.edu/art/collection/objects/103526/>
     dimensions: "H. 1.6, W. 1.2, max. Th. 0.3 [purple layer 0.1, white 0.2] cm; Wt. 0.49 g"
@@ -1501,6 +1586,7 @@ object_list:
     path: /catalogue/cat-85/
 -
     id: cat-86
+    label: "Cat. 86"
     accession_number: "85.AF.85"
     collection_link: <https://www.getty.edu/art/collection/objects/10941>
     dimensions: "H. 2.1, Diam. rim 16.0, Diam. base 8.8 cm; Wt. 134.68 g"
@@ -1518,6 +1604,7 @@ object_list:
     path: /catalogue/cat-86/
 -
     id: cat-87
+    label: "Cat. 87"
     accession_number: "2003.258.1"
     collection_link: <https://www.getty.edu/art/collection/objects/221641/>
     dimensions: "pres. H. 1.7, W. 5.6, L. 4.0, Th. 1.8, est. Diam. base ca. 12.0 cm; Wt. 11.89 g"
@@ -1535,6 +1622,7 @@ object_list:
     path: /catalogue/cat-87/
 -
     id: cat-88
+    label: "Cat. 88"
     accession_number: "85.AF.86"
     collection_link: <https://www.getty.edu/art/collection/objects/10942>
     dimensions: "H. 4.4, Diam. rim 8.9, Diam. base 5.6 cm; Wt. 102.68 g"
@@ -1552,6 +1640,7 @@ object_list:
     path: /catalogue/cat-88/
 -
     id: cat-89
+    label: "Cat. 89"
     accession_number: "78.AF.32"
     collection_link: <https://www.getty.edu/art/collection/objects/8166>
     dimensions: "H. 4.1, Diam. rim 8.9, Diam. base 4.0 cm; Wt. 41.29 g"
@@ -1569,6 +1658,7 @@ object_list:
     path: /catalogue/cat-89/
 -
     id: cat-90
+    label: "Cat. 90"
     accession_number: "2003.248"
     collection_link: <https://www.getty.edu/art/collection/objects/221631>
     dimensions: "H. 4.2, Diam. rim 9.0, Diam. base 4.0 cm; Wt. 59.91 g"
@@ -1586,6 +1676,7 @@ object_list:
     path: /catalogue/cat-90/
 -
     id: cat-91
+    label: "Cat. 91"
     accession_number: "2003.249"
     collection_link: <https://www.getty.edu/art/collection/objects/221632>
     dimensions: "H. 4.0, Diam. rim 9.0, Diam. base 4.1 cm; Wt. 66.89 g"
@@ -1603,6 +1694,7 @@ object_list:
     path: /catalogue/cat-91/
 -
     id: cat-92
+    label: "Cat. 92"
     accession_number: "2003.250"
     collection_link: <https://www.getty.edu/art/collection/objects/221633/>
     dimensions: "H. 3.9, Diam. rim 9.0, Diam. base 4.2 cm; Wt. 48.83 g"
@@ -1620,6 +1712,7 @@ object_list:
     path: /catalogue/cat-92/
 -
     id: cat-93
+    label: "Cat. 93"
     accession_number: "96.AF.288"
     collection_link: <https://www.getty.edu/art/collection/objects/103525>
     dimensions: "H. 4.7, Diam. rim 9.7, Diam. base 3.9 cm; Wt. 75.60 g"
@@ -1637,6 +1730,7 @@ object_list:
     path: /catalogue/cat-93/
 -
     id: cat-94
+    label: "Cat. 94"
     accession_number: "76.AF.70.44"
     collection_link: <https://www.getty.edu/art/collection/objects/19063>
     dimensions: "pres. H. 1.5, Th. 0.4 cm; Wt. 2.42 g"
@@ -1654,6 +1748,7 @@ object_list:
     path: /catalogue/cat-94/
 -
     id: cat-95
+    label: "Cat. 95"
     accession_number: "76.AF.70.21"
     collection_link: <https://www.getty.edu/art/collection/objects/19040>
     dimensions: "L. 1.6, W. 1.2, Th. 0.4–0.3 cm; Wt. 1.60 g"
@@ -1671,6 +1766,7 @@ object_list:
     path: /catalogue/cat-95/
 -
     id: cat-96
+    label: "Cat. 96"
     accession_number: "76.AF.70.32"
     collection_link: <https://www.getty.edu/art/collection/objects/19051>
     dimensions: "L. 1.5, W. 1.9, Th. 0.3–0.4 cm; Wt. 2.73 g"
@@ -1688,6 +1784,7 @@ object_list:
     path: /catalogue/cat-96/
 -
     id: cat-97
+    label: "Cat. 97"
     accession_number: "83.AF.28.10"
     collection_link: <https://www.getty.edu/art/collection/objects/16212>
     dimensions: "pres. H. 1.4, est. Diam. rim ca. 7.0, Th. 0.4 cm; Wt. 1.85 g"
@@ -1705,6 +1802,7 @@ object_list:
     path: /catalogue/cat-97/
 -
     id: cat-98
+    label: "Cat. 98"
     accession_number: "83.AF.28.16"
     collection_link: <https://www.getty.edu/art/collection/objects/16218>
     dimensions: "L. 3.4, W. 3.1, Th. 0.4–0.5 cm; Wt. 6.15 g"
@@ -1722,6 +1820,7 @@ object_list:
     path: /catalogue/cat-98/
 -
     id: cat-99
+    label: "Cat. 99"
     accession_number: "83.AF.28.6"
     collection_link: <https://www.getty.edu/art/collection/objects/16208>
     dimensions: "L. 1.8, W. 1.9, Th. 0.25 cm; Wt. 1.78 g"
@@ -1739,6 +1838,7 @@ object_list:
     path: /catalogue/cat-99/
 -
     id: cat-100
+    label: "Cat. 100"
     accession_number: "83.AF.28.8"
     collection_link: <https://www.getty.edu/art/collection/objects/16210>
     dimensions: "L. 1.9, W. 2.9, Th. 0.3 cm; Wt. 2.88 g"
@@ -1756,6 +1856,7 @@ object_list:
     path: /catalogue/cat-100/
 -
     id: cat-101
+    label: "Cat. 101"
     accession_number: "83.AF.28.18"
     collection_link: <https://www.getty.edu/art/collection/objects/16220>
     dimensions: " pres. H. 1.8, est. max. Diam. 5.0, Th. 0.4 cm; Wt. 1.44 g"
@@ -1773,6 +1874,7 @@ object_list:
     path: /catalogue/cat-101/
 -
     id: cat-102
+    label: "Cat. 102"
     accession_number: "83.AF.28.22"
     collection_link: <https://www.getty.edu/art/collection/objects/16224>
     dimensions: " pres. H. 1.7, est. Diam. rim 8.0–9.0, Th. 0.3 cm; Wt. 2.03 g"
@@ -1790,6 +1892,7 @@ object_list:
     path: /catalogue/cat-102/
 -
     id: cat-103
+    label: "Cat. 103"
     accession_number: "83.AF.28.11"
     collection_link: <https://www.getty.edu/art/collection/objects/16213>
     dimensions: "L. 2.3, W. 3.3, Th. 0.2 cm; Wt. 3.48 g"
@@ -1807,6 +1910,7 @@ object_list:
     path: /catalogue/cat-103/
 -
     id: cat-104
+    label: "Cat. 104"
     accession_number: "83.AF.28.12"
     collection_link: <https://www.getty.edu/art/collection/objects/16214>
     dimensions: "L. 2.0, W. 3.1, est. Diam. base 5, Th. 0.3 cm; Wt. 2.06 g"
@@ -1824,6 +1928,7 @@ object_list:
     path: /catalogue/cat-104/
 -
     id: cat-105
+    label: "Cat. 105"
     accession_number: "76.AF.70.36"
     collection_link: <https://www.getty.edu/art/collection/objects/19055>
     dimensions: "L. 1.2, W. 2.9, Th. 0.22 cm; Wt. 1.36 g"
@@ -1841,6 +1946,7 @@ object_list:
     path: /catalogue/cat-105/
 -
     id: cat-106
+    label: "Cat. 106"
     accession_number: "83.AF.28.17"
     collection_link: <https://www.getty.edu/art/collection/objects/16219>
     dimensions: "pres. H. 1.1, W. 2.0, Th. 0.4–0.5 cm; Wt. 5.70 g"
@@ -1858,6 +1964,7 @@ object_list:
     path: /catalogue/cat-106/
 -
     id: cat-107
+    label: "Cat. 107"
     accession_number: "83.AF.28.4"
     collection_link: <https://www.getty.edu/art/collection/objects/16206>
     dimensions: "pres. H. 2.0, est. Diam. rim 9.0, Th. 0.22 cm; Wt. 2.45 g"
@@ -1875,6 +1982,7 @@ object_list:
     path: /catalogue/cat-107/
 -
     id: cat-108
+    label: "Cat. 108"
     accession_number: "2004.26.3"
     collection_link: <https://www.getty.edu/art/collection/objects/221487>
     dimensions: "L. 2.5, W. 4.1 cm; Wt. 3.84 g"
@@ -1892,6 +2000,7 @@ object_list:
     path: /catalogue/cat-108/
 -
     id: cat-109
+    label: "Cat. 109"
     accession_number: "2003.258.5"
     collection_link: <https://www.getty.edu/art/collection/objects/221645>
     dimensions: "L 3.1, W. 3.9, Th. 0.1 cm; Wt. 4.17 g"
@@ -1909,6 +2018,7 @@ object_list:
     path: /catalogue/cat-109/
 -
     id: cat-110
+    label: "Cat. 110"
     accession_number: "2004.26.6"
     collection_link: <https://www.getty.edu/art/collection/objects/221490>
     dimensions: "L. 3.8, W. 3.7 cm; Wt. 4.31 g"
@@ -1926,6 +2036,7 @@ object_list:
     path: /catalogue/cat-110/
 -
     id: cat-111
+    label: "Cat. 111"
     accession_number: "83.AF.28.14"
     collection_link: <https://www.getty.edu/art/collection/objects/16216/>
     dimensions: "L. 1.1, W. 1.8, Th. 0.4 cm; Wt. 1.25 g"
@@ -1943,6 +2054,7 @@ object_list:
     path: /catalogue/cat-111/
 -
     id: cat-112
+    label: "Cat. 112"
     accession_number: "83.AF.28.19"
     collection_link: <https://www.getty.edu/art/collection/objects/16221>
     dimensions: "pres. H. 3.9, est. Diam. rim 10.0, Th. 0.4 cm; Wt. 11.90 g"
@@ -1960,6 +2072,7 @@ object_list:
     path: /catalogue/cat-112/
 -
     id: cat-113
+    label: "Cat. 113"
     accession_number: "76.AF.70.17"
     collection_link: <https://www.getty.edu/art/collection/objects/19036>
     dimensions: "L. 1.1, W. 1.8, Th. 0.3 cm; Wt. 0.71 g"
@@ -1977,6 +2090,7 @@ object_list:
     path: /catalogue/cat-113/
 -
     id: cat-114
+    label: "Cat. 114"
     accession_number: "76.AF.70.18"
     collection_link: <https://www.getty.edu/art/collection/objects/19037>
     dimensions: "L. 2.9, W. 2.0, Th. 0.5 cm; Wt. 3.80 g"
@@ -1994,6 +2108,7 @@ object_list:
     path: /catalogue/cat-114/
 -
     id: cat-115
+    label: "Cat. 115"
     accession_number: "76.AF.70.23"
     collection_link: <https://www.getty.edu/art/collection/objects/19042>
     dimensions: "pres. H. 2.2, W. 1.8, Th. 0.3 cm; Wt. 3.36 g"
@@ -2011,6 +2126,7 @@ object_list:
     path: /catalogue/cat-115/
 -
     id: cat-116
+    label: "Cat. 116"
     accession_number: "76.AF.70.24"
     collection_link: <https://www.getty.edu/art/collection/objects/19043>
     dimensions: "L. 1.8, W. 2.4, Th. 0.3 cm; Wt. 0.96 g"
@@ -2028,6 +2144,7 @@ object_list:
     path: /catalogue/cat-116/
 -
     id: cat-117
+    label: "Cat. 117"
     accession_number: "2004.21"
     collection_link: <https://www.getty.edu/art/collection/objects/221479>
     dimensions: "H. 13.4, Diam. rim 1.1, max. Diam. 2.3, Th. 0.1 cm; Wt. 32.57 g"
@@ -2045,6 +2162,7 @@ object_list:
     path: /catalogue/cat-117/
 -
     id: cat-118
+    label: "Cat. 118"
     accession_number: "2004.23"
     collection_link: <https://www.getty.edu/art/collection/objects/221481>
     dimensions: "H. 4.9, Diam. rim 8.4, Diam. base 5.6 cm; Wt. 110.75 g"
@@ -2062,6 +2180,7 @@ object_list:
     path: /catalogue/cat-118/
 -
     id: cat-119
+    label: "Cat. 119"
     accession_number: "2003.246"
     collection_link: <https://www.getty.edu/art/collection/objects/221629>
     dimensions: "H. 3.8, Diam. rim 10.3, Diam. base 5.2 cm; Wt. 112.44 g"
@@ -2079,6 +2198,7 @@ object_list:
     path: /catalogue/cat-119/
 -
     id: cat-120
+    label: "Cat. 120"
     accession_number: "2003.251"
     collection_link: <https://www.getty.edu/art/collection/objects/221634>
     dimensions: "H. 4.0, Diam. rim 9.4, Diam. base 4.2 cm; Wt. 60.42 g"
@@ -2096,6 +2216,7 @@ object_list:
     path: /catalogue/cat-120/
 -
     id: cat-121
+    label: "Cat. 121"
     accession_number: "2003.252"
     collection_link: <https://www.getty.edu/art/collection/objects/221635>
     dimensions: "H. 3.8, Diam. rim 9.5, Diam. base 4.5 cm; Wt. 69.54 g"
@@ -2113,6 +2234,7 @@ object_list:
     path: /catalogue/cat-121/
 -
     id: cat-122
+    label: "Cat. 122"
     accession_number: "2003.247"
     collection_link: <https://www.getty.edu/art/collection/objects/221630>
     dimensions: "H. 3.2, Diam. rim 10.0, Diam. base 4.4, Th. 0.2 cm; Wt. 53.00 g"
@@ -2130,6 +2252,7 @@ object_list:
     path: /catalogue/cat-122/
 -
     id: cat-123
+    label: "Cat. 123"
     accession_number: "2004.24"
     collection_link: <https://www.getty.edu/art/collection/objects/221482>
     dimensions: "H. 5.2, Diam. rim 10.2, Diam. base 5.5, Th. 0.4 cm; Wt. 211.36 g"
@@ -2147,6 +2270,7 @@ object_list:
     path: /catalogue/cat-123/
 -
     id: cat-124
+    label: "Cat. 124"
     accession_number: "83.AF.28.27"
     collection_link: <https://www.getty.edu/art/collection/objects/16229>
     dimensions: "L. 2.4, W. 3.4, Th. 0.3 cm; Wt. 4.06 g"
@@ -2164,6 +2288,7 @@ object_list:
     path: /catalogue/cat-124/
 -
     id: cat-125
+    label: "Cat. 125"
     accession_number: "2004.26.7"
     collection_link: <https://www.getty.edu/art/collection/objects/221491>
     dimensions: "H. 5.0, W. 4.6, est. Diam. rim 8.0 cm; Wt. 7.27 g"
@@ -2181,6 +2306,7 @@ object_list:
     path: /catalogue/cat-125/
 -
     id: cat-126
+    label: "Cat. 126"
     accession_number: "2003.258.6"
     collection_link: <https://www.getty.edu/art/collection/objects/221646/>
     dimensions: "H. 3.0, W. 5.0, est. Diam. rim 8.0, Th. 0.3 cm; Wt. 7.40 g"
@@ -2198,6 +2324,7 @@ object_list:
     path: /catalogue/cat-126/
 -
     id: cat-127
+    label: "Cat. 127"
     accession_number: "2004.26.9"
     collection_link: <https://www.getty.edu/art/collection/objects/221493>
     dimensions: "H. 3.5, W. 2.5, est. Diam. rim 10.0 cm; Wt. 3.78 g"
@@ -2215,6 +2342,7 @@ object_list:
     path: /catalogue/cat-127/
 -
     id: cat-128
+    label: "Cat. 128"
     accession_number: "2003.258.3"
     collection_link: <https://www.getty.edu/art/collection/objects/221643>
     dimensions: "L. 3.2, W. 3.1, est. Diam. body 8.0 cm; Wt. 4.10 g"
@@ -2232,6 +2360,7 @@ object_list:
     path: /catalogue/cat-128/
 -
     id: cat-129
+    label: "Cat. 129"
     accession_number: "2003.258.4"
     collection_link: <https://www.getty.edu/art/collection/objects/221644>
     dimensions: "pres. H. 2.4, W. 2.7, est. Diam. rim ca. 10.0 cm; Wt. 4.00 g"
@@ -2249,6 +2378,7 @@ object_list:
     path: /catalogue/cat-129/
 -
     id: cat-130
+    label: "Cat. 130"
     accession_number: "2004.26.8"
     collection_link: <https://www.getty.edu/art/collection/objects/221492>
     dimensions: "H. 2.3, W. 4.1, est. Diam. rim 9.2 cm; Wt. 5.68 g"
@@ -2266,6 +2396,7 @@ object_list:
     path: /catalogue/cat-130/
 -
     id: cat-131
+    label: "Cat. 131"
     accession_number: "2003.258.2"
     collection_link: <https://www.getty.edu/art/collection/objects/221642>
     dimensions: "W. 4.2, L. 3.8, Th. 0.6–0.3 (at the notch) cm; Wt. 16.35 g"
@@ -2283,6 +2414,7 @@ object_list:
     path: /catalogue/cat-131/
 -
     id: cat-132
+    label: "Cat. 132"
     accession_number: "2003.253"
     collection_link: <https://www.getty.edu/art/collection/objects/221636>
     dimensions: "H. 2.8, Diam. rim 12.6, Diam. base 7.0 cm; Wt. 125.03 g"
@@ -2300,6 +2432,7 @@ object_list:
     path: /catalogue/cat-132/
 -
     id: cat-133
+    label: "Cat. 133"
     accession_number: "72.AF.37"
     collection_link: <https://www.getty.edu/art/collection/objects/6914>
     dimensions: "H. 7.5, Diam. rim 18.0, Diam. base 8.0 cm; Wt. 509.40 g"
@@ -2317,6 +2450,7 @@ object_list:
     path: /catalogue/cat-133/
 -
     id: cat-134
+    label: "Cat. 134"
     accession_number: "2004.25"
     collection_link: <https://www.getty.edu/art/collection/objects/221483>
     dimensions: "H. 4.9, Diam. rim 17.0, Diam. base 8.1 cm; Wt. 341.50 g"
@@ -2334,6 +2468,7 @@ object_list:
     path: /catalogue/cat-134/
 -
     id: cat-135
+    label: "Cat. 135"
     accession_number: "76.AF.70.15"
     collection_link: <https://www.getty.edu/art/collection/objects/19034>
     dimensions: "L. 1.6, W. 2.6, Th. 0.3–0.5 cm; Wt. 2.65 g"
@@ -2351,6 +2486,7 @@ object_list:
     path: /catalogue/cat-135/
 -
     id: cat-136
+    label: "Cat. 136"
     accession_number: "2003.256"
     collection_link: <https://www.getty.edu/art/collection/objects/221639>
     dimensions: "H. 5.1, Diam. rim 5.7, Diam. base 4.1 cm; Wt. 95.92 g"
@@ -2368,6 +2504,7 @@ object_list:
     path: /catalogue/cat-136/
 -
     id: cat-137
+    label: "Cat. 137"
     accession_number: "76.AF.70.2"
     collection_link: <https://www.getty.edu/art/collection/objects/19021>
     dimensions: "L. 1.8, W. 8.8, Th. 0.4 cm; Wt. 4.52 g"
@@ -2385,6 +2522,7 @@ object_list:
     path: /catalogue/cat-137/
 -
     id: cat-138
+    label: "Cat. 138"
     accession_number: "76.AF.70.4"
     collection_link: <https://www.getty.edu/art/collection/objects/19023>
     dimensions: "L. 1.4, W. 1.7, Th. 0.2 cm; Wt. 0.74 g"
@@ -2402,6 +2540,7 @@ object_list:
     path: /catalogue/cat-138/
 -
     id: cat-139
+    label: "Cat. 139"
     accession_number: "76.AF.70.9"
     collection_link: <https://www.getty.edu/art/collection/objects/19028>
     dimensions: "L. 2.4, W. 3.2, Th. 0.8 cm; Wt. 8.79 g"
@@ -2419,6 +2558,7 @@ object_list:
     path: /catalogue/cat-139/
 -
     id: cat-140
+    label: "Cat. 140"
     accession_number: "76.AF.70.19"
     collection_link: <https://www.getty.edu/art/collection/objects/19038>
     dimensions: "L. 1.6, W. 2.7, Th. 0.4 cm; Wt. 2.89 g"
@@ -2436,6 +2576,7 @@ object_list:
     path: /catalogue/cat-140/
 -
     id: cat-141
+    label: "Cat. 141"
     accession_number: "76.AF.70.39"
     collection_link: <https://www.getty.edu/art/collection/objects/19058>
     dimensions: "L. 2.1, W. 2.4, Th. 0.3 cm; Wt. 3.66 g"
@@ -2453,6 +2594,7 @@ object_list:
     path: /catalogue/cat-141/
 -
     id: cat-142
+    label: "Cat. 142"
     accession_number: "76.AF.70.33"
     collection_link: <https://www.getty.edu/art/collection/objects/19052>
     dimensions: "L. 2.1, W. 1.8, Th. 0.4 cm; Wt. 3.50 g"
@@ -2470,6 +2612,7 @@ object_list:
     path: /catalogue/cat-142/
 -
     id: cat-143
+    label: "Cat. 143"
     accession_number: "83.AF.28.23"
     collection_link: <https://www.getty.edu/art/collection/objects/16225>
     dimensions: "L. 2.4, W. 2.0, Th. 0.35 cm; Wt. 3.00 g"
@@ -2487,6 +2630,7 @@ object_list:
     path: /catalogue/cat-143/
 -
     id: cat-144
+    label: "Cat. 144"
     accession_number: "76.AF.70.22"
     collection_link: <https://www.getty.edu/art/collection/objects/19041>
     dimensions: "L. 1.9, W. 3.5, Th. 0.3 cm; Wt. 2.60 g"
@@ -2504,6 +2648,7 @@ object_list:
     path: /catalogue/cat-144/
 -
     id: cat-145
+    label: "Cat. 145"
     accession_number: "2003.229"
     collection_link: <https://www.getty.edu/art/collection/objects/221612>
     dimensions: "H. 13.1, pres. H. body 11.0, Diam. rim 1.8, max. Diam. 2.6 cm; Wt. 47.80 g"
@@ -2521,6 +2666,7 @@ object_list:
     path: /catalogue/cat-145/
 -
     id: cat-146
+    label: "Cat. 146"
     accession_number: "2003.230"
     collection_link: <https://www.getty.edu/art/collection/objects/221613>
     dimensions: "H. 9.1, Diam. rim 2.2, Diam. base 3.6 cm; Wt. 79.06 g"
@@ -2538,6 +2684,7 @@ object_list:
     path: /catalogue/cat-146/
 -
     id: cat-147
+    label: "Cat. 147"
     accession_number: "2003.231"
     collection_link: <http://www.getty.edu/art/collection/objects/221614>
     dimensions: "H. 4.2, Diam. rim 5.3, Diam. base 5.0 cm; Wt. 63.79 g"
@@ -2555,6 +2702,7 @@ object_list:
     path: /catalogue/cat-147/
 -
     id: cat-148
+    label: "Cat. 148"
     accession_number: "2003.277"
     collection_link: <https://www.getty.edu/art/collection/objects/221666>
     dimensions: "H. 6.2, Diam. rim 4.2, Diam. base 3.3 cm; Wt. 35.35 g"
@@ -2572,6 +2720,7 @@ object_list:
     path: /catalogue/cat-148/
 -
     id: cat-149
+    label: "Cat. 149"
     accession_number: "2003.273"
     collection_link: <https://www.getty.edu/art/collection/objects/221662>
     dimensions: "H. 6.2, Diam. rim 2.4, max. Diam. 5.5, Diam. base 4 cm; Wt. 42.95 g"
@@ -2589,6 +2738,7 @@ object_list:
     path: /catalogue/cat-149/
 -
     id: cat-150
+    label: "Cat. 150"
     accession_number: "2003.274"
     collection_link: <https://www.getty.edu/art/collection/objects/221663>
     dimensions: "H. 6.1, Diam. rim 2.0, max. Diam. 5.3, Th. 0.1 cm; Wt. 39.70 g"
@@ -2606,6 +2756,7 @@ object_list:
     path: /catalogue/cat-150/
 -
     id: cat-151
+    label: "Cat. 151"
     accession_number: "2003.279"
     collection_link: <https://www.getty.edu/art/collection/objects/221668>
     dimensions: "H. 5.5, Diam. rim 2.2, Diam. base 2.5 cm; Wt. 50.83 g"
@@ -2623,6 +2774,7 @@ object_list:
     path: /catalogue/cat-151/
 -
     id: cat-152
+    label: "Cat. 152"
     accession_number: "2003.275"
     collection_link: <https://www.getty.edu/art/collection/objects/221664/>
     dimensions: "H. 10.5, Diam. rim 2.7, max. Diam. 6.0 cm; Wt. 95.3 g"
@@ -2640,6 +2792,7 @@ object_list:
     path: /catalogue/cat-152/
 -
     id: cat-153
+    label: "Cat. 153"
     accession_number: "2003.278"
     collection_link: <https://www.getty.edu/art/collection/objects/221667>
     dimensions: "H. 7.5, Diam. rim 2.2, Diam. base 2.0 cm; Wt. 44.33 g"
@@ -2657,6 +2810,7 @@ object_list:
     path: /catalogue/cat-153/
 -
     id: cat-154
+    label: "Cat. 154"
     accession_number: "2003.276"
     collection_link: <https://www.getty.edu/art/collection/objects/221665>
     dimensions: "H. 9.0, Diam. rim 2.5, Diam. base 3.5 cm; Wt. 68.49 g"
@@ -2674,6 +2828,7 @@ object_list:
     path: /catalogue/cat-154/
 -
     id: cat-155
+    label: "Cat. 155"
     accession_number: "2003.267"
     collection_link: <https://www.getty.edu/art/collection/objects/221656>
     dimensions: "H. 14.2, Diam. rim 2.3, Diam. base 4.2 cm; Wt. 128.04 g"
@@ -2691,6 +2846,7 @@ object_list:
     path: /catalogue/cat-155/
 -
     id: cat-156
+    label: "Cat. 156"
     accession_number: "2003.281"
     collection_link: <https://www.getty.edu/art/collection/objects/221670>
     dimensions: "H. 10.6, Diam. rim 2.3, Diam. base 1.5, Th. 0.2 cm; Wt. 36.78 g"
@@ -2708,6 +2864,7 @@ object_list:
     path: /catalogue/cat-156/
 -
     id: cat-157
+    label: "Cat. 157"
     accession_number: "2003.255"
     collection_link: <https://www.getty.edu/art/collection/objects/221638>
     dimensions: "H. 6.5, Diam. rim 2.5, Diam. base 2.6 cm; Wt. 18.69 g"
@@ -2725,6 +2882,7 @@ object_list:
     path: /catalogue/cat-157/
 -
     id: cat-158
+    label: "Cat. 158"
     accession_number: "2003.293"
     collection_link: <https://www.getty.edu/art/collection/objects/221682/>
     dimensions: "H. 3.0, Diam. 8.8, Th. 0.2 cm; Wt. 76.00 g"
@@ -2742,6 +2900,7 @@ object_list:
     path: /catalogue/cat-158/
 -
     id: cat-159
+    label: "Cat. 159"
     accession_number: "2003.474"
     collection_link: <https://www.getty.edu/art/collection/objects/221863/>
     dimensions: "H. 8.7, Diam. rim 6.9, Diam. base 4.5 cm; Wt. 42.13 g"
@@ -2759,6 +2918,7 @@ object_list:
     path: /catalogue/cat-159/
 -
     id: cat-160
+    label: "Cat. 160"
     accession_number: "2003.319"
     collection_link: <https://www.getty.edu/art/collection/objects/221709/>
     dimensions: "H. 6.8, Diam. rim 6.8, Diam. base 6.3 cm; Wt. 53.94 g"
@@ -2776,6 +2936,7 @@ object_list:
     path: /catalogue/cat-160/
 -
     id: cat-161
+    label: "Cat. 161"
     accession_number: "2004.35"
     collection_link: <https://www.getty.edu/art/collection/objects/221502>
     dimensions: "H. 7.8, Diam. rim 7.3, Diam. base 6.8, Th. 0.1 cm; Wt. 92.00 g"
@@ -2793,6 +2954,7 @@ object_list:
     path: /catalogue/cat-161/
 -
     id: cat-162
+    label: "Cat. 162"
     accession_number: "85.AF.91"
     collection_link: <https://www.getty.edu/art/collection/objects/10947/>
     dimensions: "H. 7.9–8.1, Diam. rim 6.1–6.3, Diam. base 6.0 cm; Wt. 44.89 g"
@@ -2810,6 +2972,7 @@ object_list:
     path: /catalogue/cat-162/
 -
     id: cat-163
+    label: "Cat. 163"
     accession_number: "2003.318"
     collection_link: <https://www.getty.edu/art/collection/objects/221708/>
     dimensions: "H. 7.0, Diam. rim 7.0, Diam. base 6.4 cm; Wt. 61.29 g"
@@ -2827,6 +2990,7 @@ object_list:
     path: /catalogue/cat-163/
 -
     id: cat-164
+    label: "Cat. 164"
     accession_number: "2003.316"
     collection_link: <https://www.getty.edu/art/collection/objects/221706/>
     dimensions: "H. 5.7, Diam. rim 8.3, Diam. base 7.7 cm; Wt. 56.06 g"
@@ -2844,6 +3008,7 @@ object_list:
     path: /catalogue/cat-164/
 -
     id: cat-165
+    label: "Cat. 165"
     accession_number: "2003.315"
     collection_link: <https://www.getty.edu/art/collection/objects/221705>
     dimensions: "H. 5.8, Diam. rim 5.9, Diam. base 5.9 cm; Wt. 35.75 g"
@@ -2861,6 +3026,7 @@ object_list:
     path: /catalogue/cat-165/
 -
     id: cat-166
+    label: "Cat. 166"
     accession_number: "95.AF.60"
     collection_link: <https://www.getty.edu/art/collection/objects/27077/>
     dimensions: "H. 6.9, Diam. rim 7.4, Diam. base 4.5, max. D. 8.7 cm; Wt. 36.93 g"
@@ -2878,6 +3044,7 @@ object_list:
     path: /catalogue/cat-166/
 -
     id: cat-167
+    label: "Cat. 167"
     accession_number: "2003.317"
     collection_link: <https://www.getty.edu/art/collection/objects/221707>
     dimensions: "H. 6.9, Diam. rim 7.4, Diam. base 4.5 cm; Wt. 67.47 g"
@@ -2895,6 +3062,7 @@ object_list:
     path: /catalogue/cat-167/
 -
     id: cat-168
+    label: "Cat. 168"
     accession_number: "2004.34"
     collection_link: <https://www.getty.edu/art/collection/objects/221501/>
     dimensions: "H. 7.3, Diam. rim 6.5, Diam. base 4.0 cm; Wt. 104.04 g"
@@ -2912,6 +3080,7 @@ object_list:
     path: /catalogue/cat-168/
 -
     id: cat-169
+    label: "Cat. 169"
     accession_number: "85.AF.83"
     collection_link: <https://www.getty.edu/art/collection/objects/10939/>
     dimensions: "H. 12.5, Diam. rim 7.0, Diam. base 4.8, Th. 0.14–0.18 cm; Wt. 85.93 g"
@@ -2929,6 +3098,7 @@ object_list:
     path: /catalogue/cat-169/
 -
     id: cat-170
+    label: "Cat. 170"
     accession_number: "2003.322"
     collection_link: <https://www.getty.edu/art/collection/objects/221712/>
     dimensions: "H. 12.5, Diam. rim 6.2, Diam. base 4.2 cm; Wt. 76.08 g"
@@ -2946,6 +3116,7 @@ object_list:
     path: /catalogue/cat-170/
 -
     id: cat-171
+    label: "Cat. 171"
     accession_number: "85.AF.90"
     collection_link: <https://www.getty.edu/art/collection/objects/10946/>
     dimensions: "H. 21.0, Diam. rim 9.0, Diam. base 5.0, Th. 0.1 cm; Wt. 174.96 g"
@@ -2963,6 +3134,7 @@ object_list:
     path: /catalogue/cat-171/
 -
     id: cat-172
+    label: "Cat. 172"
     accession_number: "2003.320"
     collection_link: <https://www.getty.edu/art/collection/objects/221710/>
     dimensions: "H. 21.2, Diam. rim 9.3, Diam. base 4.9, Th. 0.2 cm; Wt. 185.45g"
@@ -2980,6 +3152,7 @@ object_list:
     path: /catalogue/cat-172/
 -
     id: cat-173
+    label: "Cat. 173"
     accession_number: "2003.321"
     collection_link: <https://www.getty.edu/art/collection/objects/221711>
     dimensions: "H. 13.9, Diam. rim 7.1, Diam. base 4.5 cm; Wt. 116.62 g"
@@ -2997,6 +3170,7 @@ object_list:
     path: /catalogue/cat-173/
 -
     id: cat-174
+    label: "Cat. 174"
     accession_number: "2003.323"
     collection_link: <https://www.getty.edu/art/collection/objects/221713>
     dimensions: "H. 12.5, Diam. rim 6.7, Diam. base 5.0 cm; Wt. 85.54 g"
@@ -3014,6 +3188,7 @@ object_list:
     path: /catalogue/cat-174/
 -
     id: cat-175
+    label: "Cat. 175"
     accession_number: "2004.36"
     collection_link: <https://www.getty.edu/art/collection/objects/221503/>
     dimensions: "H. 19.8, max. Diam. 8.8, Diam. rim 2.2, Diam. base 5.4 cm; Wt. 122.42 g"
@@ -3031,6 +3206,7 @@ object_list:
     path: /catalogue/cat-175/
 -
     id: cat-176
+    label: "Cat. 176"
     accession_number: "2003.326"
     collection_link: <https://www.getty.edu/art/collection/objects/221716/>
     dimensions: "H. 19.4, Diam. rim 2.6, Diam. base 3.6 cm; Wt. 166.30 g"
@@ -3048,6 +3224,7 @@ object_list:
     path: /catalogue/cat-176/
 -
     id: cat-177
+    label: "Cat. 177"
     accession_number: "2003.327"
     collection_link: <https://www.getty.edu/art/collection/objects/221717/>
     dimensions: "H. 14.0, Diam. rim 3.1, Diam. base 3.9 cm; Wt. 55.11 g"
@@ -3065,6 +3242,7 @@ object_list:
     path: /catalogue/cat-177/
 -
     id: cat-178
+    label: "Cat. 178"
     accession_number: "2003.328"
     collection_link: <https://www.getty.edu/art/collection/objects/221718>
     dimensions: "H. 15.5, Diam. rim 5.3, Diam. base 4.4, Th. 0.2 cm; Wt. 111.70 g"
@@ -3082,6 +3260,7 @@ object_list:
     path: /catalogue/cat-178/
 -
     id: cat-179
+    label: "Cat. 179"
     accession_number: "78.AF.26"
     collection_link: <https://www.getty.edu/art/collection/objects/8160>
     dimensions: "H. 12.4, Diam. rim 5.2, Diam. body 4.9 cm; Wt. 101.14 g"
@@ -3099,6 +3278,7 @@ object_list:
     path: /catalogue/cat-179/
 -
     id: cat-180
+    label: "Cat. 180"
     accession_number: "2003.343"
     collection_link: <https://www.getty.edu/art/collection/objects/221733/>
     dimensions: "H. 10.5, Diam. rim 3.4, Diam. base 3.6 cm; Wt. 28.30 g"
@@ -3116,6 +3296,7 @@ object_list:
     path: /catalogue/cat-180/
 -
     id: cat-181
+    label: "Cat. 181"
     accession_number: "85.AF.320"
     collection_link: <https://www.getty.edu/art/collection/objects/11020/>
     dimensions: "H. 17.2, Diam. rim 5.4, Diam. base 6.7, max. Diam. 8.0 cm; Wt. 207.00 g"
@@ -3133,6 +3314,7 @@ object_list:
     path: /catalogue/cat-181/
 -
     id: cat-182
+    label: "Cat. 182"
     accession_number: "2004.44"
     collection_link: <https://www.getty.edu/art/collection/objects/221511/>
     dimensions: "H. 16.4, Diam. rim 5.0, Diam. base 5.8, max. Diam. 9.2 cm; Wt. 161.85 g"
@@ -3150,6 +3332,7 @@ object_list:
     path: /catalogue/cat-182/
 -
     id: cat-183
+    label: "Cat. 183"
     accession_number: "2003.324"
     collection_link: <https://www.getty.edu/art/collection/objects/221714/>
     dimensions: "H. 6.5, Diam. rim 2.2, Diam. base 2.2 cm; Wt. 21.60 g"
@@ -3167,6 +3350,7 @@ object_list:
     path: /catalogue/cat-183/
 -
     id: cat-184
+    label: "Cat. 184"
     accession_number: "2003.332"
     collection_link: <https://www.getty.edu/art/collection/objects/221722/>
     dimensions: "H. 12, Diam. rim 3.1 × 3.4, Diam. base 3.2 cm; Wt. 93.50 g"
@@ -3184,6 +3368,7 @@ object_list:
     path: /catalogue/cat-184/
 -
     id: cat-185
+    label: "Cat. 185"
     accession_number: "79.AF.184.13"
     collection_link: <https://www.getty.edu/art/collection/objects/8674/>
     dimensions: "H. 13.4, Diam. rim 4.0, Diam. base 3.8 cm; Wt. 72.25 g"
@@ -3201,6 +3386,7 @@ object_list:
     path: /catalogue/cat-185/
 -
     id: cat-186
+    label: "Cat. 186"
     accession_number: "2003.427"
     collection_link: <https://www.getty.edu/art/collection/objects/221816/>
     dimensions: "H. 11.7, Diam. rim 5.6 × 6.6, max. Diam. 7.3 cm; Wt. 95.81 g"
@@ -3218,6 +3404,7 @@ object_list:
     path: /catalogue/cat-186/
 -
     id: cat-187
+    label: "Cat. 187"
     accession_number: "71.AF.83"
     collection_link: <https://www.getty.edu/art/collection/objects/6570/>
     dimensions: "H. 14.2, Diam. rim 6.0, Diam. base 6.0 cm; Wt. 113.70 g"
@@ -3235,6 +3422,7 @@ object_list:
     path: /catalogue/cat-187/
 -
     id: cat-188
+    label: "Cat. 188"
     accession_number: "78.AF.24"
     collection_link: <https://www.getty.edu/art/collection/objects/8158/>
     dimensions: "H. 14.0, Diam. rim 5.3 × 6.0, Diam. base 6.1 cm; Wt. 90.77 g"
@@ -3252,6 +3440,7 @@ object_list:
     path: /catalogue/cat-188/
 -
     id: cat-189
+    label: "Cat. 189"
     accession_number: "2003.344"
     collection_link: <https://www.getty.edu/art/collection/objects/221734/>
     dimensions: "H. 25.7, Diam. rim 6.0, Diam. base 6.3, max. Diam. 7.5 (at the shoulders) cm; Wt. 235.20 g"
@@ -3269,6 +3458,7 @@ object_list:
     path: /catalogue/cat-189/
 -
     id: cat-190
+    label: "Cat. 190"
     accession_number: "2003.297"
     collection_link: <https://www.getty.edu/art/collection/objects/221687>
     dimensions: "H. 7.3, Diam. rim 2.2, Diam. base 2.0 cm; Wt. 21.76 g"
@@ -3286,6 +3476,7 @@ object_list:
     path: /catalogue/cat-190/
 -
     id: cat-191
+    label: "Cat. 191"
     accession_number: "2003.298"
     collection_link: <https://www.getty.edu/art/collection/objects/221688>
     dimensions: "H. 7.0, Diam. rim 2.0–2.2, Diam. base 2.4 cm; Wt. 15.50 g"
@@ -3303,6 +3494,7 @@ object_list:
     path: /catalogue/cat-191/
 -
     id: cat-192
+    label: "Cat. 192"
     accession_number: "2003.299"
     collection_link: <https://www.getty.edu/art/collection/objects/221689>
     dimensions: "H. 8.5, Diam. rim 1.8, Diam. base 1.9 cm; Wt. 26.13 g"
@@ -3320,6 +3512,7 @@ object_list:
     path: /catalogue/cat-192/
 -
     id: cat-193
+    label: "Cat. 193"
     accession_number: "2003.300"
     collection_link: <http://www.getty.edu/art/collection/objects/221690/>
     dimensions: "H. 9.2, Diam. rim 2.5, Diam. base 2.5, body 3.7 × 3.7, Th. 0.1 cm; Wt. 48.51 g (with the Plexiglas base)"
@@ -3337,6 +3530,7 @@ object_list:
     path: /catalogue/cat-193/
 -
     id: cat-194
+    label: "Cat. 194"
     accession_number: "2003.301"
     collection_link: <http://www.getty.edu/art/collection/objects/221691>
     dimensions: "H. 8.0, Diam. rim 2.5, max. Diam. 3.8, Th. 0.1 cm; Wt. 29.6 g"
@@ -3354,6 +3548,7 @@ object_list:
     path: /catalogue/cat-194/
 -
     id: cat-195
+    label: "Cat. 195"
     accession_number: "2003.333"
     collection_link: <https://www.getty.edu/art/collection/objects/221723/>
     dimensions: "H. 7.1, Diam. rim 2.5, max. Diam. 3.2 cm; Wt. 19.89 g"
@@ -3371,6 +3566,7 @@ object_list:
     path: /catalogue/cat-195/
 -
     id: cat-196
+    label: "Cat. 196"
     accession_number: "2003.334"
     collection_link: <https://www.getty.edu/art/collection/objects/221724/>
     dimensions: "H. 7.1, Diam. rim 1.9, max. Diam. 3.2 cm; Wt. 16.42 g"
@@ -3388,6 +3584,7 @@ object_list:
     path: /catalogue/cat-196/
 -
     id: cat-197
+    label: "Cat. 197"
     accession_number: "2003.331"
     collection_link: <https://www.getty.edu/art/collection/objects/221721/>
     dimensions: "H. 10.3, Diam. rim 3.1, max. Diam. 5.4 × 4.1, Diam. base 2.8 cm; Wt. 25.72 g"
@@ -3405,6 +3602,7 @@ object_list:
     path: /catalogue/cat-197/
 -
     id: cat-198
+    label: "Cat. 198"
     accession_number: "2003.330"
     collection_link: <https://www.getty.edu/art/collection/objects/221720>
     dimensions: "H. 13.7, Diam. rim 3.6, max. body Diam. 6.0 × 6.0 cm; Wt. 72.30 g"
@@ -3422,6 +3620,7 @@ object_list:
     path: /catalogue/cat-198/
 -
     id: cat-199
+    label: "Cat. 199"
     accession_number: "2003.329"
     collection_link: <https://www.getty.edu/art/collection/objects/221719/>
     dimensions: "H. 10.0, Diam. rim 3.4, max. Diam. 7.4 cm; Wt. 41.82 g"
@@ -3439,6 +3638,7 @@ object_list:
     path: /catalogue/cat-199/
 -
     id: cat-200
+    label: "Cat. 200"
     accession_number: "2003.325"
     collection_link: <https://www.getty.edu/art/collection/objects/221715/>
     dimensions: "H. 9.8, Diam. rim 4.0, Diam. base 3.7 cm; Wt. 42.43 g"
@@ -3456,6 +3656,7 @@ object_list:
     path: /catalogue/cat-200/
 -
     id: cat-201
+    label: "Cat. 201"
     accession_number: "2003.345"
     collection_link: <https://www.getty.edu/art/collection/objects/221735/>
     dimensions: "H. 4.8, Diam. rim 1.4, L. side 2.0, Th. 0.2 cm; Wt. 25.25 g"
@@ -3473,6 +3674,7 @@ object_list:
     path: /catalogue/cat-201/
 -
     id: cat-202
+    label: "Cat. 202"
     accession_number: "2003.336"
     collection_link: <https://www.getty.edu/art/collection/objects/221726/>
     dimensions: "H. 8.3, Diam. rim 5.4, Diam. base 2.6 cm; Wt. 49.96 g"
@@ -3490,6 +3692,7 @@ object_list:
     path: /catalogue/cat-202/
 -
     id: cat-203
+    label: "Cat. 203"
     accession_number: "2003.337"
     collection_link: <https://www.getty.edu/art/collection/objects/221727/>
     dimensions: "H. 7.3, Diam. rim 4.2, max. Diam. 5.2 cm; Wt. 31.10 g"
@@ -3507,6 +3710,7 @@ object_list:
     path: /catalogue/cat-203/
 -
     id: cat-204
+    label: "Cat. 204"
     accession_number: "2003.335"
     collection_link: <https://www.getty.edu/art/collection/objects/221725/>
     dimensions: "H. 12.2, Diam. rim 6.2, max. Diam. 9.5 cm; Wt. 99.59 g"
@@ -3524,6 +3728,7 @@ object_list:
     path: /catalogue/cat-204/
 -
     id: cat-205
+    label: "Cat. 205"
     accession_number: "2003.302"
     collection_link: <https://www.getty.edu/art/collection/objects/221692>
     dimensions: "H. 7.0, Diam. rim 2.7, Diam. base 2.o, Th. 0.1 cm; Wt. 26.60 g"
@@ -3541,6 +3746,7 @@ object_list:
     path: /catalogue/cat-205/
 -
     id: cat-206
+    label: "Cat. 206"
     accession_number: "2003.303"
     collection_link: <https://www.getty.edu/art/collection/objects/221693/>
     dimensions: "H. 7.1, Diam. rim 2.7, Diam. base 2.7, Th. 0.1 cm; Wt. 26.30 g"
@@ -3558,6 +3764,7 @@ object_list:
     path: /catalogue/cat-206/
 -
     id: cat-207
+    label: "Cat. 207"
     accession_number: "2003.313"
     collection_link: <https://www.getty.edu/art/collection/objects/221703>
     dimensions: "H. 9.4, Diam. rim 2.7, Diam. base 3.0 cm; Wt. 39.50 g"
@@ -3575,6 +3782,7 @@ object_list:
     path: /catalogue/cat-207/
 -
     id: cat-208
+    label: "Cat. 208"
     accession_number: "2003.314"
     collection_link: <https://www.getty.edu/art/collection/objects/221704>
     dimensions: "H. 7.2, Diam. rim 2.46, max. Diam. body 4.1, Diam. base 2.4, Th. 0.1 cm; Wt. 30.30 g"
@@ -3592,6 +3800,7 @@ object_list:
     path: /catalogue/cat-208/
 -
     id: cat-209
+    label: "Cat. 209"
     accession_number: "2003.312"
     collection_link: <https://www.getty.edu/art/collection/objects/221702>
     dimensions: "H. 9.0, Diam. rim 2.35, base 2.1 × 2.4 cm; Wt. 24.70 g"
@@ -3609,6 +3818,7 @@ object_list:
     path: /catalogue/cat-209/
 -
     id: cat-210
+    label: "Cat. 210"
     accession_number: "2003.304"
     collection_link: <https://www.getty.edu/art/collection/objects/221694/>
     dimensions: "H. 8.2, Diam. rim 2.4, max. Diam. 4.1, Th. 0.1 cm; Wt. 34.98 g"
@@ -3626,6 +3836,7 @@ object_list:
     path: /catalogue/cat-210/
 -
     id: cat-211
+    label: "Cat. 211"
     accession_number: "2003.305"
     collection_link: <https://www.getty.edu/art/collection/objects/221695/>
     dimensions: "H. 10.5, Diam. rim 2.7, max. Diam. 4.5 cm; Wt. 35.20 g"
@@ -3643,6 +3854,7 @@ object_list:
     path: /catalogue/cat-211/
 -
     id: cat-212
+    label: "Cat. 212"
     accession_number: "2003.309"
     collection_link: <https://www.getty.edu/art/collection/objects/221699/>
     dimensions: "H. 9.2, Diam. rim 2.2, Diam. base 2.5, max. Diam. 4.9 cm; Wt. 22.20 g"
@@ -3660,6 +3872,7 @@ object_list:
     path: /catalogue/cat-212/
 -
     id: cat-213
+    label: "Cat. 213"
     accession_number: "2003.310"
     collection_link: <https://www.getty.edu/art/collection/objects/221700>
     dimensions: "H. 8.3, Diam. rim 1.6 × 1.9, Diam. base 2.2, max. Diam. 3.9 cm; Wt. 25.90 g"
@@ -3677,6 +3890,7 @@ object_list:
     path: /catalogue/cat-213/
 -
     id: cat-214
+    label: "Cat. 214"
     accession_number: "2003.308"
     collection_link: <https://www.getty.edu/art/collection/objects/221698/>
     dimensions: "H. 10.5, Diam. rim 2.8, Diam. base 2.6 cm; Wt. 46.65 g"
@@ -3694,6 +3908,7 @@ object_list:
     path: /catalogue/cat-214/
 -
     id: cat-215
+    label: "Cat. 215"
     accession_number: "2003.311"
     collection_link: <https://www.getty.edu/art/collection/objects/221701/>
     dimensions: "H. 7.9, Diam. rim 2.5, base 2.1 × 2.0, Diam. body 5.9 × 3.7 cm; Wt. 22.15 g"
@@ -3711,6 +3926,7 @@ object_list:
     path: /catalogue/cat-215/
 -
     id: cat-216
+    label: "Cat. 216"
     accession_number: "2003.307"
     collection_link: <https://www.getty.edu/art/collection/objects/221697/>
     dimensions: "H. 7.8, Diam. rim 2.5, Diam. base 3.5, Th. 0.2 cm; Wt. 19.92 g"
@@ -3728,6 +3944,7 @@ object_list:
     path: /catalogue/cat-216/
 -
     id: cat-217
+    label: "Cat. 217"
     accession_number: "2003.306"
     collection_link: <https://www.getty.edu/art/collection/objects/221696/>
     dimensions: "H. 7.5, Diam. rim 2.5, Diam. base 2.9 cm; Wt. 20.14 g"
@@ -3745,6 +3962,7 @@ object_list:
     path: /catalogue/cat-217/
 -
     id: cat-218
+    label: "Cat. 218"
     accession_number: "2003.339"
     collection_link: <https://www.getty.edu/art/collection/objects/221729>
     dimensions: "H. 9.3, Diam. rim 10.4, Diam. base 3.3 cm; Wt. 145.40 g"
@@ -3762,6 +3980,7 @@ object_list:
     path: /catalogue/cat-218/
 -
     id: cat-219
+    label: "Cat. 219"
     accession_number: "2003.435"
     collection_link: <https://www.getty.edu/art/collection/objects/221824/>
     dimensions: "H. 14.2, Diam. rim 7.6, Diam. base 5.0 cm; Wt. 67.27 g"
@@ -3779,6 +3998,7 @@ object_list:
     path: /catalogue/cat-219/
 -
     id: cat-220
+    label: "Cat. 220"
     accession_number: "2003.414"
     collection_link: <https://www.getty.edu/art/collection/objects/221803/>
     dimensions: "H. 19.3, Diam. rim 4.6, max. Diam. 8.5, Diam. base 3.1, Th. approx. 0.2 cm; Wt. 128.21 g"
@@ -3796,6 +4016,7 @@ object_list:
     path: /catalogue/cat-220/
 -
     id: cat-221
+    label: "Cat. 221"
     accession_number: "2003.429"
     collection_link: <https://www.getty.edu/art/collection/objects/221818/>
     dimensions: "H. 17.1, Diam. rim 4.4, Diam. base 4.0 cm; Wt. 92.53 g"
@@ -3813,6 +4034,7 @@ object_list:
     path: /catalogue/cat-221/
 -
     id: cat-222
+    label: "Cat. 222"
     accession_number: "2003.340"
     collection_link: <https://www.getty.edu/art/collection/objects/221730/>
     dimensions: "H. 9.7, Diam. rim 6.7, max. Diam. 9.4, Diam. base 5.0 cm; Wt. 165.79 g"
@@ -3830,6 +4052,7 @@ object_list:
     path: /catalogue/cat-222/
 -
     id: cat-223
+    label: "Cat. 223"
     accession_number: "71.AF.81"
     collection_link: <https://www.getty.edu/art/collection/objects/6568/>
     dimensions: "H. 13.5, Diam. rim 5.5, Diam. base 5.2 cm; Wt. 151.30 g"
@@ -3847,6 +4070,7 @@ object_list:
     path: /catalogue/cat-223/
 -
     id: cat-224
+    label: "Cat. 224"
     accession_number: "71.AF.82"
     collection_link: <https://www.getty.edu/art/collection/objects/6569/>
     dimensions: "H. 9.5, Diam. rim 6.1, Diam. base 3.1 cm; Wt. 54.65 g"
@@ -3864,6 +4088,7 @@ object_list:
     path: /catalogue/cat-224/
 -
     id: cat-225
+    label: "Cat. 225"
     accession_number: "2003.341"
     collection_link: <https://www.getty.edu/art/collection/objects/221731/>
     dimensions: "H. 13.3, Diam. rim 3.2, Diam. base 4.0, Th. 0.1 cm; Wt. 45.80 g"
@@ -3881,6 +4106,7 @@ object_list:
     path: /catalogue/cat-225/
 -
     id: cat-226
+    label: "Cat. 226"
     accession_number: "78.AF.37"
     collection_link: <https://www.getty.edu/art/collection/objects/8171/>
     dimensions: "H. 8.5, Diam. rim 5.0, Diam. base 5.7, Th. 0.2 cm; Wt. 59.60 g"
@@ -3898,6 +4124,7 @@ object_list:
     path: /catalogue/cat-226/
 -
     id: cat-227
+    label: "Cat. 227"
     accession_number: "78.AF.20"
     collection_link: <https://www.getty.edu/art/collection/objects/8154/>
     dimensions: "H. 16.5, Diam. rim 4.8, Diam. base 9.5 × 4.0 cm; Wt. 161.60 g"
@@ -3915,6 +4142,7 @@ object_list:
     path: /catalogue/cat-227/
 -
     id: cat-228
+    label: "Cat. 228"
     accession_number: "2003.342"
     collection_link: <https://www.getty.edu/art/collection/objects/221732/>
     dimensions: "H. 14.5, Diam. rim 3.8, Diam. base 1.5 cm; Wt. 55.01 g"
@@ -3932,6 +4160,7 @@ object_list:
     path: /catalogue/cat-228/
 -
     id: cat-229
+    label: "Cat. 229"
     accession_number: "2003.387"
     collection_link: <https://www.getty.edu/art/collection/objects/221776/>
     dimensions: "H. 1.7, Diam. rim 14.7, Diam. base 13.2 cm; Wt. 140.09 g"
@@ -3949,6 +4178,7 @@ object_list:
     path: /catalogue/cat-229/
 -
     id: cat-230
+    label: "Cat. 230"
     accession_number: "78.AF.33"
     collection_link: <https://www.getty.edu/art/collection/objects/8167/>
     dimensions: "H. 4.2, Diam. rim 15.4, Diam. base 5.6 cm; Wt. 98.25 g"
@@ -3966,6 +4196,7 @@ object_list:
     path: /catalogue/cat-230/
 -
     id: cat-231
+    label: "Cat. 231"
     accession_number: "76.AF.29"
     collection_link: <https://www.getty.edu/art/collection/objects/7314/>
     dimensions: "H. 5.0, Diam. rim 22.3, Diam. base 10.5 cm; Wt. 286.25 g"
@@ -3983,6 +4214,7 @@ object_list:
     path: /catalogue/cat-231/
 -
     id: cat-232
+    label: "Cat. 232"
     accession_number: "2003.351"
     collection_link: <https://www.getty.edu/art/collection/objects/221741/>
     dimensions: "H. 4.5, max. Diam. rim 23.0, min. Diam. rim 19.2 cm; Wt. 158.86 g"
@@ -4000,6 +4232,7 @@ object_list:
     path: /catalogue/cat-232/
 -
     id: cat-233
+    label: "Cat. 233"
     accession_number: "2003.290"
     collection_link: <https://www.getty.edu/art/collection/objects/221679/>
     dimensions: "H. 12.2, Diam. rim 14.5, Diam. base 6.7, Th. 0.1 cm; Wt. 212.37 g"
@@ -4017,6 +4250,7 @@ object_list:
     path: /catalogue/cat-233/
 -
     id: cat-234
+    label: "Cat. 234"
     accession_number: "78.AF.31"
     collection_link: <https://www.getty.edu/art/collection/objects/8165/>
     dimensions: "H. 12.7, Diam. rim 15.6, Diam. base 19.0 cm; Wt. 236.45 g"
@@ -4034,6 +4268,7 @@ object_list:
     path: /catalogue/cat-234/
 -
     id: cat-235
+    label: "Cat. 235"
     accession_number: "2003.287"
     collection_link: <https://www.getty.edu/art/collection/objects/221676/>
     dimensions: "H. 7.0, Diam. rim 6.8–6.5, Diam. base 3.7 cm; Wt. 54.20 g"
@@ -4051,6 +4286,7 @@ object_list:
     path: /catalogue/cat-235/
 -
     id: cat-236
+    label: "Cat. 236"
     accession_number: "2003.226"
     collection_link: <https://www.getty.edu/art/collection/objects/221609/>
     dimensions: "H. 4.8, Diam. rim 8.5, Diam. base 5.5 cm; Wt. 91.05 g"
@@ -4068,6 +4304,7 @@ object_list:
     path: /catalogue/cat-236/
 -
     id: cat-237
+    label: "Cat. 237"
     accession_number: "2004.20"
     collection_link: <https://www.getty.edu/art/collection/objects/221478/>
     dimensions: "H. 6.5, Diam. rim 8.1, Diam. base 4.5 cm; Wt. 110.38 g"
@@ -4085,6 +4322,7 @@ object_list:
     path: /catalogue/cat-237/
 -
     id: cat-238
+    label: "Cat. 238"
     accession_number: "2003.227"
     collection_link: <https://www.getty.edu/art/collection/objects/221610/>
     dimensions: "H. 4.4. Diam. rim 6.4, max. Diam. 7.3, Diam. base 3.0, Th. 0.09 cm; Wt. 29.60 g"
@@ -4102,6 +4340,7 @@ object_list:
     path: /catalogue/cat-238/
 -
     id: cat-239
+    label: "Cat. 239"
     accession_number: "2003.294"
     collection_link: <https://www.getty.edu/art/collection/objects/221683/>
     dimensions: "H. 6.5, Diam. rim 8.0, max. Diam. 8.5, Th. 0.1 cm; Wt. 93.01 g"
@@ -4119,6 +4358,7 @@ object_list:
     path: /catalogue/cat-239/
 -
     id: cat-240
+    label: "Cat. 240"
     accession_number: "2003.362"
     collection_link: <https://www.getty.edu/art/collection/objects/221752/>
     dimensions: "H. 6.0, Diam. rim 6.3, Th. 0.2 cm; Wt. 118.40 g"
@@ -4136,6 +4376,7 @@ object_list:
     path: /catalogue/cat-240/
 -
     id: cat-241
+    label: "Cat. 241"
     accession_number: "2003.421"
     collection_link: <https://www.getty.edu/art/collection/objects/221810/>
     dimensions: "H. 6.8, Diam. rim 7.0, Diam. base 4.2 cm; Wt. 58.91 g"
@@ -4153,6 +4394,7 @@ object_list:
     path: /catalogue/cat-241/
 -
     id: cat-242
+    label: "Cat. 242"
     accession_number: "2003.388"
     collection_link: <https://www.getty.edu/art/collection/objects/221777/>
     dimensions: "H. 4.0, Diam. rim 8.5, Diam. base 4.5, Th. 0.1 cm; Wt. 33.69 g"
@@ -4170,6 +4412,7 @@ object_list:
     path: /catalogue/cat-242/
 -
     id: cat-243
+    label: "Cat. 243"
     accession_number: "2003.238"
     collection_link: <https://www.getty.edu/art/collection/objects/221621/>
     dimensions: "H. 3.5, Diam. rim 7.4, Diam. base 3.7, Th. 0.1 cm; Wt. 49.40 g"
@@ -4187,6 +4430,7 @@ object_list:
     path: /catalogue/cat-243/
 -
     id: cat-244
+    label: "Cat. 244"
     accession_number: "2003.372"
     collection_link: <https://www.getty.edu/art/collection/objects/221762/>
     dimensions: "H. 3.3, Diam. rim 7.2, Diam. base 5.3, Th. 0.1 cm; Wt. 43.75 g"
@@ -4204,6 +4448,7 @@ object_list:
     path: /catalogue/cat-244/
 -
     id: cat-245
+    label: "Cat. 245"
     accession_number: "79.AF.184.5"
     collection_link: <https://www.getty.edu/art/collection/objects/8666/>
     dimensions: "H. 4.9, Diam. rim 8.3, Diam. base 5.2 cm; Wt. 94.05 g"
@@ -4221,6 +4466,7 @@ object_list:
     path: /catalogue/cat-245/
 -
     id: cat-246
+    label: "Cat. 246"
     accession_number: "2003.363"
     collection_link: <https://www.getty.edu/art/collection/objects/221753/>
     dimensions: "H. 3.8, Diam. rim 7.7, Diam. base 3.7, Th. 0.1 cm; Wt. 47.30 g"
@@ -4238,6 +4484,7 @@ object_list:
     path: /catalogue/cat-246/
 -
     id: cat-247
+    label: "Cat. 247"
     accession_number: "2003.379.2"
     collection_link: <https://www.getty.edu/art/collection/object/1096AJ>
     dimensions: "H. 4.6, Diam. rim 7.7, Diam. base 4.5 cm; Wt. 19.41 g"
@@ -4255,6 +4502,7 @@ object_list:
     path: /catalogue/cat-247/
 -
     id: cat-248
+    label: "Cat. 248"
     accession_number: "78.AF.21"
     collection_link: <https://www.getty.edu/art/collection/objects/8155/>
     dimensions: "H. 6.4, Diam. rim 13.1, Diam. base 4.8 cm; Wt. 72.91 g"
@@ -4272,6 +4520,7 @@ object_list:
     path: /catalogue/cat-248/
 -
     id: cat-249
+    label: "Cat. 249"
     accession_number: "78.AF.22"
     collection_link: <https://www.getty.edu/art/collection/objects/8156/>
     dimensions: "H. 8.4, Diam. rim 14.0, Diam. base 6.5 cm; Wt. 183.70 g"
@@ -4289,6 +4538,7 @@ object_list:
     path: /catalogue/cat-249/
 -
     id: cat-250
+    label: "Cat. 250"
     accession_number: "2003.348"
     collection_link: <https://www.getty.edu/art/collection/objects/221738/>
     dimensions: "H. 6.8, Diam. rim 9.8, Diam. base 4.3 cm; Wt. 136.78 g"
@@ -4306,6 +4556,7 @@ object_list:
     path: /catalogue/cat-250/
 -
     id: cat-251
+    label: "Cat. 251"
     accession_number: "2003.349"
     collection_link: <https://www.getty.edu/art/collection/objects/221739/>
     dimensions: "H. 3.8, Diam. rim 8.1, Diam. base 3.8 cm; Wt. 51.26 g"
@@ -4323,6 +4574,7 @@ object_list:
     path: /catalogue/cat-251/
 -
     id: cat-252
+    label: "Cat. 252"
     accession_number: "2004.38"
     collection_link: <https://www.getty.edu/art/collection/objects/221505/>
     dimensions: "H. 8.1, Diam. rim 11.2, Diam. base , Th. 0.2 cm; Wt. 200.35 g"
@@ -4340,6 +4592,7 @@ object_list:
     path: /catalogue/cat-252/
 -
     id: cat-253
+    label: "Cat. 253"
     accession_number: "2004.37"
     collection_link: <https://www.getty.edu/art/collection/objects/221504/>
     dimensions: "H. 8.3, Diam. rim 8.7, max. Diam. 9.7 cm; Wt. 96.96 g"
@@ -4357,6 +4610,7 @@ object_list:
     path: /catalogue/cat-253/
 -
     id: cat-254
+    label: "Cat. 254"
     accession_number: "2003.454"
     collection_link: <https://www.getty.edu/art/collection/objects/221843/>
     dimensions: "Diam. rim 10.2, Diam. base 3.2 cm; Wt. 114.54 g"
@@ -4374,6 +4628,7 @@ object_list:
     path: /catalogue/cat-254/
 -
     id: cat-255
+    label: "Cat. 255"
     accession_number: "2003.455"
     collection_link: <https://www.getty.edu/art/collection/objects/221844/>
     dimensions: "H. 7.0, Diam. rim 10.0, Diam. base 2.6 cm; Wt. 131.89 g"
@@ -4391,6 +4646,7 @@ object_list:
     path: /catalogue/cat-255/
 -
     id: cat-256
+    label: "Cat. 256"
     accession_number: "96.AF.320"
     collection_link: <https://www.getty.edu/art/collection/objects/102597/>
     dimensions: "H. 8.1, Diam. rim 6.5, Diam. base 3.9, Th. 0.3 cm; Wt. 95.33 g"
@@ -4408,6 +4664,7 @@ object_list:
     path: /catalogue/cat-256/
 -
     id: cat-257
+    label: "Cat. 257"
     accession_number: "2003.347"
     collection_link: <https://www.getty.edu/art/collection/objects/221737>
     dimensions: "H. 10.1, Diam. rim 7.2, Diam. base 4.0, Th. 0.09 cm; Wt. 77.12 g"
@@ -4425,6 +4682,7 @@ object_list:
     path: /catalogue/cat-257/
 -
     id: cat-258
+    label: "Cat. 258"
     accession_number: "2003.379.1"
     collection_link: <https://www.getty.edu/art/collection/objects/223162>
     dimensions: "H. 8.2, Diam. rim 8.3, Diam. base 4.3 cm; Wt. 52.21 g"
@@ -4442,6 +4700,7 @@ object_list:
     path: /catalogue/cat-258/
 -
     id: cat-259
+    label: "Cat. 259"
     accession_number: "71.AF.84"
     collection_link: <https://www.getty.edu/art/collection/objects/6571/>
     dimensions: "H. 8.5, Diam. rim 7.1, Diam. base 3.4, max. Diam. 7.3 cm; Wt. 88.25 g"
@@ -4459,6 +4718,7 @@ object_list:
     path: /catalogue/cat-259/
 -
     id: cat-260
+    label: "Cat. 260"
     accession_number: "78.AF.28"
     collection_link: <https://www.getty.edu/art/collection/objects/8162/>
     dimensions: "H. 14.0, Diam. rim 9.9, Diam. base 5.5 cm; Wt. 111.98 g"
@@ -4476,6 +4736,7 @@ object_list:
     path: /catalogue/cat-260/
 -
     id: cat-261
+    label: "Cat. 261"
     accession_number: "2003.412"
     collection_link: <https://www.getty.edu/art/collection/objects/221801/>
     dimensions: "H. 11.8, Diam. rim 6.0, Diam. base 4.6 cm; Wt. 27.83 g"
@@ -4493,6 +4754,7 @@ object_list:
     path: /catalogue/cat-261/
 -
     id: cat-262
+    label: "Cat. 262"
     accession_number: "2004.41"
     collection_link: <https://www.getty.edu/art/collection/objects/221508>
     dimensions: "H. 9.8, Diam. rim 8.3, Diam. base 4.1 cm; Wt. 63.73 g"
@@ -4510,6 +4772,7 @@ object_list:
     path: /catalogue/cat-262/
 -
     id: cat-263
+    label: "Cat. 263"
     accession_number: "2003.423"
     collection_link: <https://www.getty.edu/art/collection/objects/221812/>
     dimensions: "H. 12.5, Diam. rim 7.7, Diam. base 4.2, Th. 0.2 cm; Wt. 67.45 g"
@@ -4527,6 +4790,7 @@ object_list:
     path: /catalogue/cat-263/
 -
     id: cat-264
+    label: "Cat. 264"
     accession_number: "2003.443"
     collection_link: <https://www.getty.edu/art/collection/objects/221832/>
     dimensions: "H. 9.0, Diam. rim 7.6, Diam. base 3.9 cm; Wt. 47.02 g"
@@ -4544,6 +4808,7 @@ object_list:
     path: /catalogue/cat-264/
 -
     id: cat-265
+    label: "Cat. 265"
     accession_number: "2003.444"
     collection_link: <https://www.getty.edu/art/collection/objects/221833>
     dimensions: "H. 8.3, Diam. rim 8.3, Diam. base 4.7 cm; Wt. 44.86 g"
@@ -4561,6 +4826,7 @@ object_list:
     path: /catalogue/cat-265/
 -
     id: cat-266
+    label: "Cat. 266"
     accession_number: "2003.361"
     collection_link: <https://www.getty.edu/art/collection/objects/221751/>
     dimensions: "H. 8.3, Diam. rim 7.0, Diam. base 4.5, max. Diam. 8.5 cm; Wt. 93.67 g"
@@ -4578,6 +4844,7 @@ object_list:
     path: /catalogue/cat-266/
 -
     id: cat-267
+    label: "Cat. 267"
     accession_number: "84.AF.30"
     collection_link: <https://www.getty.edu/art/collection/objects/10884/>
     dimensions: "H. 10.0, Diam. rim 5.0, Diam. base 5.0 cm; Wt. 151.51 g"
@@ -4595,6 +4862,7 @@ object_list:
     path: /catalogue/cat-267/
 -
     id: cat-268
+    label: "Cat. 268"
     accession_number: "2003.402"
     collection_link: <https://www.getty.edu/art/collection/objects/221791>
     dimensions: "H. 18.5, Diam. rim 2.3, max. Diam. 7.5 cm; Wt. 89.80 g"
@@ -4612,6 +4880,7 @@ object_list:
     path: /catalogue/cat-268/
 -
     id: cat-269
+    label: "Cat. 269"
     accession_number: "78.AF.18"
     collection_link: <https://www.getty.edu/art/collection/objects/8152/>
     dimensions: "H. 36.2, Diam. rim 6.3, max. Diam. 8.3 cm; Wt. 281.00 g"
@@ -4629,6 +4898,7 @@ object_list:
     path: /catalogue/cat-269/
 -
     id: cat-270
+    label: "Cat. 270"
     accession_number: "96.AF.56"
     collection_link: <https://www.getty.edu/art/collection/objects/29664>
     dimensions: "H. 14.2, Diam. rim 3.6, max. Diam. 11.6, Diam. base 5.7, Th. 0.4 cm; Wt. 193.56 g"
@@ -4646,6 +4916,7 @@ object_list:
     path: /catalogue/cat-270/
 -
     id: cat-271
+    label: "Cat. 271"
     accession_number: "2003.408"
     collection_link: <https://www.getty.edu/art/collection/objects/221797>
     dimensions: "H. 10.5, Diam. rim 1.7, max. Diam. 9.5, Th. 0.1 cm; Wt. 70.20 g"
@@ -4663,6 +4934,7 @@ object_list:
     path: /catalogue/cat-271/
 -
     id: cat-272
+    label: "Cat. 272"
     accession_number: "2003.390"
     collection_link: <https://www.getty.edu/art/collection/objects/221779>
     dimensions: "H. 9.7, Diam. rim 2.3, max. Diam. 11.0, Th. 0.1 cm; Wt. 68.52 g"
@@ -4680,6 +4952,7 @@ object_list:
     path: /catalogue/cat-272/
 -
     id: cat-273
+    label: "Cat. 273"
     accession_number: "2004.39"
     collection_link: <https://www.getty.edu/art/collection/objects/221506>
     dimensions: "H. 12.0, Diam. rim 2.1, Diam. base 2.5, Th. 0.2–0.3 cm; Wt. 163.55 g"
@@ -4697,6 +4970,7 @@ object_list:
     path: /catalogue/cat-273/
 -
     id: cat-274
+    label: "Cat. 274"
     accession_number: "2003.352"
     collection_link: <https://www.getty.edu/art/collection/objects/221742>
     dimensions: "H. 10.5, Diam. rim 3.2, Diam. base 3.5 cm; Wt. 64.24 g"
@@ -4714,6 +4988,7 @@ object_list:
     path: /catalogue/cat-274/
 -
     id: cat-275
+    label: "Cat. 275"
     accession_number: "2003.424"
     collection_link: <https://www.getty.edu/art/collection/objects/221813>
     dimensions: "H. 16.5, Diam. rim 3.2, Diam. base 6.0 cm; Wt. 75.41 g"
@@ -4731,6 +5006,7 @@ object_list:
     path: /catalogue/cat-275/
 -
     id: cat-276
+    label: "Cat. 276"
     accession_number: "2003.439"
     collection_link: <https://www.getty.edu/art/collection/objects/221828>
     dimensions: "L. 21.0, H. 8.0, Diam. rim 2.5 × 2.9 cm; Wt. 86.90 g"
@@ -4748,6 +5024,7 @@ object_list:
     path: /catalogue/cat-276/
 -
     id: cat-277
+    label: "Cat. 277"
     accession_number: "2004.43"
     collection_link: <https://www.getty.edu/art/collection/objects/221510>
     dimensions: "L. 14.0, Diam. rim 2.2, max. Diam. 5.2 cm; Wt. 76.60 g"
@@ -4765,6 +5042,7 @@ object_list:
     path: /catalogue/cat-277/
 -
     id: cat-278
+    label: "Cat. 278"
     accession_number: "2003.440"
     collection_link: <https://www.getty.edu/art/collection/objects/221829>
     dimensions: "H. 14.5, Diam. rim 5.3, max. Diam. 4.2 cm; Wt. 145.82 g"
@@ -4782,6 +5060,7 @@ object_list:
     path: /catalogue/cat-278/
 -
     id: cat-279
+    label: "Cat. 279"
     accession_number: "2003.445"
     collection_link: <https://www.getty.edu/art/collection/objects/221834>
     dimensions: "H. 5.4, Diam. rim 3.1, Diam. base 7.0, Th. 0.1 cm; Wt. 31.80 g"
@@ -4799,6 +5078,7 @@ object_list:
     path: /catalogue/cat-279/
 -
     id: cat-280
+    label: "Cat. 280"
     accession_number: "2003.366"
     collection_link: <https://www.getty.edu/art/collection/objects/221756>
     dimensions: "H. 9.4, Diam. rim 2.2, Diam. base 4.2 cm; Wt. 60.83 g"
@@ -4816,6 +5096,7 @@ object_list:
     path: /catalogue/cat-280/
 -
     id: cat-281
+    label: "Cat. 281"
     accession_number: "71.AF.85"
     collection_link: <https://www.getty.edu/art/collection/objects/6572>
     dimensions: "H. 13.6, Diam. rim 3.2, Diam. base 4.3 cm; Wt. 88.27 g"
@@ -4833,6 +5114,7 @@ object_list:
     path: /catalogue/cat-281/
 -
     id: cat-282
+    label: "Cat. 282"
     accession_number: "2003.436"
     collection_link: <https://www.getty.edu/art/collection/objects/221825>
     dimensions: "H. 7.0, Diam. rim 1.2, max. Diam. 3.7, Diam. base 2.0, Th. (rim) 0.3 cm; Wt. 18.95 g"
@@ -4850,6 +5132,7 @@ object_list:
     path: /catalogue/cat-282/
 -
     id: cat-283
+    label: "Cat. 283"
     accession_number: "2003.449"
     collection_link: <https://www.getty.edu/art/collection/objects/221838>
     dimensions: "H. 7.0, Diam. rim 3.8, Diam. base 3.8, max. Diam. 7.0 cm; Wt. 36.40 g"
@@ -4867,6 +5150,7 @@ object_list:
     path: /catalogue/cat-283/
 -
     id: cat-284
+    label: "Cat. 284"
     accession_number: "2003.245"
     collection_link: <https://www.getty.edu/art/collection/objects/221628>
     dimensions: "H. 7.8, Diam. rim 1.3, Diam. base 3.4 cm; Wt. 27.99 g"
@@ -4884,6 +5168,7 @@ object_list:
     path: /catalogue/cat-284/
 -
     id: cat-285
+    label: "Cat. 285"
     accession_number: "2003.381"
     collection_link: <https://www.getty.edu/art/collection/objects/221770>
     dimensions: "H. 7.8, Diam. rim 3.3 × 3.6, L. 9.0, Th. 0.1 cm; Wt. 25.71 g"
@@ -4901,6 +5186,7 @@ object_list:
     path: /catalogue/cat-285/
 -
     id: cat-286
+    label: "Cat. 286"
     accession_number: "2003.382"
     collection_link: <https://www.getty.edu/art/collection/objects/221771>
     dimensions: "H. 5.2, L. (body) 8.4, Th. 0.1 cm; Wt. 13.60 g (with the resin)"
@@ -4918,6 +5204,7 @@ object_list:
     path: /catalogue/cat-286/
 -
     id: cat-287
+    label: "Cat. 287"
     accession_number: "2003.383"
     collection_link: <https://www.getty.edu/art/collection/objects/221772>
     dimensions: "H. 8.3, L. 14.0, Diam. rim 4.8, Diam. base 4.5 × 2.5 cm; Wt. 71.44 g"
@@ -4935,6 +5222,7 @@ object_list:
     path: /catalogue/cat-287/
 -
     id: cat-288
+    label: "Cat. 288"
     accession_number: "2003.447"
     collection_link: <https://www.getty.edu/art/collection/objects/221836>
     dimensions: "H. 15.8, Diam. rim 3.7, Diam. base 4.2 cm; Wt. 40.49 g"
@@ -4952,6 +5240,7 @@ object_list:
     path: /catalogue/cat-288/
 -
     id: cat-289
+    label: "Cat. 289"
     accession_number: "2003.476"
     collection_link: <https://www.getty.edu/art/collection/objects/221865/>
     dimensions: "H. 17.0, Diam. rim 7.5, Diam. base 5.8 cm; Wt. 194.50 g"
@@ -4969,6 +5258,7 @@ object_list:
     path: /catalogue/cat-289/
 -
     id: cat-290
+    label: "Cat. 290"
     accession_number: "2003.346"
     collection_link: <https://www.getty.edu/art/collection/objects/221736>
     dimensions: "H. 10.2, Diam. rim 7.0, Diam. base 4.5, Th. 0.3 cm; Wt. 210.86 g"
@@ -4986,6 +5276,7 @@ object_list:
     path: /catalogue/cat-290/
 -
     id: cat-291
+    label: "Cat. 291"
     accession_number: "2003.377"
     collection_link: <https://www.getty.edu/art/collection/objects/221767>
     dimensions: "H. 9.4, Diam. rim 3.2, Diam. base 2.8 cm; Wt. 55.89 g"
@@ -5003,6 +5294,7 @@ object_list:
     path: /catalogue/cat-291/
 -
     id: cat-292
+    label: "Cat. 292"
     accession_number: "2003.373"
     collection_link: <https://www.getty.edu/art/collection/objects/221763>
     dimensions: "H. 6.0, Diam. rim 2.4 × 2.6, max. Diam. 5.7, Diam. base 3.2 cm; Wt. 12.28 g"
@@ -5020,6 +5312,7 @@ object_list:
     path: /catalogue/cat-292/
 -
     id: cat-293
+    label: "Cat. 293"
     accession_number: "2003.391"
     collection_link: <https://www.getty.edu/art/collection/objects/22178>0
     dimensions: "H. 6.5, Diam. rim 2.0, Diam. base 1.9, Th. 0.1 cm; Wt. 7.40 g"
@@ -5037,6 +5330,7 @@ object_list:
     path: /catalogue/cat-293/
 -
     id: cat-294
+    label: "Cat. 294"
     accession_number: "78.AF.34"
     collection_link: <https://www.getty.edu/art/collection/objects/8168>
     dimensions: "H. 13.3, Diam. rim 3.1, Diam. base 5.0 cm; Wt. 68.66 g"
@@ -5054,6 +5348,7 @@ object_list:
     path: /catalogue/cat-294/
 -
     id: cat-295
+    label: "Cat. 295"
     accession_number: "2003.284"
     collection_link: <https://www.getty.edu/art/collection/objects/221673/>
     dimensions: "H. 12.2, Diam. rim 2.8, max. Diam. 3.9, Diam. base 2.4, Th. 0.1 cm; Wt. 39.40 g (including Plexiglass base)"
@@ -5071,6 +5366,7 @@ object_list:
     path: /catalogue/cat-295/
 -
     id: cat-296
+    label: "Cat. 296"
     accession_number: "2003.376"
     collection_link: <https://www.getty.edu/art/collection/objects/221766/>
     dimensions: "H. 14.5, Diam. rim 3.9, Diam. base 3.5, Th. 0.1 cm; Wt. 70.20 g"
@@ -5088,6 +5384,7 @@ object_list:
     path: /catalogue/cat-296/
 -
     id: cat-297
+    label: "Cat. 297"
     accession_number: "2003.393"
     collection_link: <https://www.getty.edu/art/collection/objects/221782>
     dimensions: "H. 21.0, Diam. rim 6.8–7.1, max. Diam. 12.3, Diam. base 8.7 cm; Wt. 330.50 g"
@@ -5105,6 +5402,7 @@ object_list:
     path: /catalogue/cat-297/
 -
     id: cat-298
+    label: "Cat. 298"
     accession_number: "2003.428"
     collection_link: <https://www.getty.edu/art/collection/objects/221817>
     dimensions: "H. 11.0, Diam. rim 5.0 × 4.5, Diam. base 4.5, Th. 0.1 cm; Wt. 58.10 g"
@@ -5122,6 +5420,7 @@ object_list:
     path: /catalogue/cat-298/
 -
     id: cat-299
+    label: "Cat. 299"
     accession_number: "2003.422"
     collection_link: <https://www.getty.edu/art/collection/objects/221811>
     dimensions: "H. 9.0, Diam. rim 3.8, Diam. base 4.5 cm; Wt. 46.93 g"
@@ -5139,6 +5438,7 @@ object_list:
     path: /catalogue/cat-299/
 -
     id: cat-300
+    label: "Cat. 300"
     accession_number: "2003.410"
     collection_link: <https://www.getty.edu/art/collection/objects/221799>
     dimensions: "H. 8.8, Diam. rim 5.0, Diam. base 4.4 cm; Wt. 39.96 g"
@@ -5156,6 +5456,7 @@ object_list:
     path: /catalogue/cat-300/
 -
     id: cat-301
+    label: "Cat. 301"
     accession_number: "2003.413"
     collection_link: <https://www.getty.edu/art/collection/objects/221802>
     dimensions: "H. 13.0, Diam. rim 4.0–4.2, Diam. base 1.7, Th. 0.1 cm; Wt. 48.41 g"
@@ -5173,6 +5474,7 @@ object_list:
     path: /catalogue/cat-301/
 -
     id: cat-302
+    label: "Cat. 302"
     accession_number: "2003.433"
     collection_link: <https://www.getty.edu/art/collection/objects/221822>
     dimensions: "H. 18.0, Diam. rim 6.4, max. Diam. 9.0, Diam. base 6.0, Th. 0.2 cm; Wt. 227.40 g"
@@ -5190,6 +5492,7 @@ object_list:
     path: /catalogue/cat-302/
 -
     id: cat-303
+    label: "Cat. 303"
     accession_number: "2003.434"
     collection_link: <https://www.getty.edu/art/collection/objects/221823>
     dimensions: "H. 17.5, Diam. rim 5.3–5.6, max. Diam. 6.3, Diam. base 4.4 cm; Wt. 62.48 g"
@@ -5207,6 +5510,7 @@ object_list:
     path: /catalogue/cat-303/
 -
     id: cat-304
+    label: "Cat. 304"
     accession_number: "2003.452"
     collection_link: <https://www.getty.edu/art/collection/objects/221841>
     dimensions: "H. 9.0, Diam. rim 3.0, Diam. base 4.0 cm; Wt. 45.06 g"
@@ -5224,6 +5528,7 @@ object_list:
     path: /catalogue/cat-304/
 -
     id: cat-305
+    label: "Cat. 305"
     accession_number: "2003.450"
     collection_link: <https://www.getty.edu/art/collection/objects/221839>
     dimensions: "H. 10.5, Diam. rim 3.0, Diam. base 3.8 cm; Wt. 31.53 g"
@@ -5241,6 +5546,7 @@ object_list:
     path: /catalogue/cat-305/
 -
     id: cat-306
+    label: "Cat. 306"
     accession_number: "2003.288"
     collection_link: <https://www.getty.edu/art/collection/objects/221677>
     dimensions: "H. 12.8, Diam. rim 7.1, max. Diam. 10.0, Diam. base 4.5, Th. 0.2 cm; Wt. 259.00 g"
@@ -5258,6 +5564,7 @@ object_list:
     path: /catalogue/cat-306/
 -
     id: cat-307
+    label: "Cat. 307"
     accession_number: "71.AF.79"
     collection_link: <https://www.getty.edu/art/collection/objects/6566>
     dimensions: "H. 18.0, Diam. rim 5.0, Diam. base 9.0 × 9.0 cm; Wt. 428.52 g"
@@ -5275,6 +5582,7 @@ object_list:
     path: /catalogue/cat-307/
 -
     id: cat-308
+    label: "Cat. 308"
     accession_number: "80.AF.125"
     collection_link: <https://www.getty.edu/art/collection/objects/9320>
     dimensions: "H. 26.0, Diam. rim 17.6, max. Diam. 13.2, Diam. base 13.2 cm; Wt. 1,194.73 g"
@@ -5292,6 +5600,7 @@ object_list:
     path: /catalogue/cat-308/
 -
     id: cat-309
+    label: "Cat. 309"
     accession_number: "2003.392"
     collection_link: <https://www.getty.edu/art/collection/object/1096AX>
     dimensions: "H. 7.0, Diam. rim 4.6, Diam. base 2.6, max. Diam. 6.0 cm; Wt. 37.50 g"
@@ -5309,6 +5618,7 @@ object_list:
     path: /catalogue/cat-309/
 -
     id: cat-310
+    label: "Cat. 310"
     accession_number: "2003.394"
     collection_link: <https://www.getty.edu/art/collection/objects/221783>
     dimensions: "H. 16.0, Diam. rim 11.5, Diam. base 6.1 cm; Wt. 182.00 g"
@@ -5326,6 +5636,7 @@ object_list:
     path: /catalogue/cat-310/
 -
     id: cat-311
+    label: "Cat. 311"
     accession_number: "2003.400"
     collection_link: <https://www.getty.edu/art/collection/objects/221789>
     dimensions: "H. 7.0, max. Diam. 6.5, Diam. rim 5.7, Diam. base 3.0 cm; Wt. 58.13 g"
@@ -5343,6 +5654,7 @@ object_list:
     path: /catalogue/cat-311/
 -
     id: cat-312
+    label: "Cat. 312"
     accession_number: "2003.398"
     collection_link: <https://www.getty.edu/art/collection/objects/221787>
     dimensions: "H. 8.2, Diam. rim 7.8, Diam. base 5.4, Th. 0.3 cm; Wt. 153.54 g"
@@ -5360,6 +5672,7 @@ object_list:
     path: /catalogue/cat-312/
 -
     id: cat-313
+    label: "Cat. 313"
     accession_number: "2003.399"
     collection_link: <https://www.getty.edu/art/collection/objects/221788>
     dimensions: "H. 7.0, Diam. rim 5.8, Diam. base 3.7, Th. 0.2 cm; Wt. 79.20 g"
@@ -5377,6 +5690,7 @@ object_list:
     path: /catalogue/cat-313/
 -
     id: cat-314
+    label: "Cat. 314"
     accession_number: "2003.411"
     collection_link: <https://www.getty.edu/art/collection/objects/221800>
     dimensions: "H. 8.0, Diam. rim 6.3, Diam. base 4.4 cm; Wt. 69.19 g"
@@ -5394,6 +5708,7 @@ object_list:
     path: /catalogue/cat-314/
 -
     id: cat-315
+    label: "Cat. 315"
     accession_number: "78.AF.25"
     collection_link: <https://www.getty.edu/art/collection/objects/8159>
     dimensions: "H. 13.3, Diam. rim 9.4, Diam. base 4.4 cm; Wt. 163.00 g"
@@ -5411,6 +5726,7 @@ object_list:
     path: /catalogue/cat-315/
 -
     id: cat-316
+    label: "Cat. 316"
     accession_number: "2003.375"
     collection_link: <https://www.getty.edu/art/collection/objects/221765>
     dimensions: "H. 9.0, max. Diam. 7.9, Diam. rim 6.4, Diam. base 4.1 cm; Wt. 73.67 g"
@@ -5428,6 +5744,7 @@ object_list:
     path: /catalogue/cat-316/
 -
     id: cat-317
+    label: "Cat. 317"
     accession_number: "2003.270"
     collection_link: <https://www.getty.edu/art/collection/objects/221659>
     dimensions: "H. 5.4, Diam. rim 1.1, max. Diam. 4.1, Th. 0.1 cm; Wt. 16.30 g"
@@ -5445,6 +5762,7 @@ object_list:
     path: /catalogue/cat-317/
 -
     id: cat-318
+    label: "Cat. 318"
     accession_number: "2003.269"
     collection_link: <https://www.getty.edu/art/collection/objects/221658>
     dimensions: "H. 7.8, Diam. rim 2.4, Diam. base 3.5, Th. 0.1 cm; Wt. 32.75 g"
@@ -5462,6 +5780,7 @@ object_list:
     path: /catalogue/cat-318/
 -
     id: cat-319
+    label: "Cat. 319"
     accession_number: "2003.271"
     collection_link: <https://www.getty.edu/art/collection/objects/221660>
     dimensions: "H. 11.2, Diam. rim 1.9, max. Diam. 6.5, Diam. base 6.5, Th. 0.1 cm; Wt. 75.96 g"
@@ -5479,6 +5798,7 @@ object_list:
     path: /catalogue/cat-319/
 -
     id: cat-320
+    label: "Cat. 320"
     accession_number: "2003.272"
     collection_link: <https://www.getty.edu/art/collection/objects/221661>
     dimensions: "H. 6.5, Diam. rim 1.8, max. Diam. 4.5, Diam. base 1.8 cm; Wt. 18.93 g"
@@ -5496,6 +5816,7 @@ object_list:
     path: /catalogue/cat-320/
 -
     id: cat-321
+    label: "Cat. 321"
     accession_number: "2003.282"
     collection_link: <https://www.getty.edu/art/collection/objects/221671>
     dimensions: "H. 8.3, Diam. rim 2.3, max. Diam. 3.7, Diam. base 2.4 cm; Wt. 22.20 g"
@@ -5513,6 +5834,7 @@ object_list:
     path: /catalogue/cat-321/
 -
     id: cat-322
+    label: "Cat. 322"
     accession_number: "2003.286"
     collection_link: <https://www.getty.edu/art/collection/object/10967N>
     dimensions: "H. 12.5, Diam. rim 2.0, max. Diam. 2.7 cm; Wt. 14.93 g"
@@ -5530,6 +5852,7 @@ object_list:
     path: /catalogue/cat-322/
 -
     id: cat-323
+    label: "Cat. 323"
     accession_number: "2003.244"
     collection_link: <https://www.getty.edu/art/collection/objects/221627>
     dimensions: "H. 7.6, Diam. rim 2.1, Diam. base 1.0, Th. 0.2 cm; Wt. 16.96 g"
@@ -5547,6 +5870,7 @@ object_list:
     path: /catalogue/cat-323/
 -
     id: cat-324
+    label: "Cat. 324"
     accession_number: "2003.285"
     collection_link: <https://www.getty.edu/art/collection/objects/22167>4
     dimensions: "H. 11.3, Diam. rim 2.2, max. Diam. 4.4 cm; Wt. 47.88 g"
@@ -5564,6 +5888,7 @@ object_list:
     path: /catalogue/cat-324/
 -
     id: cat-325
+    label: "Cat. 325"
     accession_number: "2003.268"
     collection_link: <https://www.getty.edu/art/collection/objects/221657>
     dimensions: "H. 10.3, Diam. rim 2.5, Diam. base 3.8, Th. 0.1 cm; Wt. 89.91 g"
@@ -5581,6 +5906,7 @@ object_list:
     path: /catalogue/cat-325/
 -
     id: cat-326
+    label: "Cat. 326"
     accession_number: "2003.280"
     collection_link: <https://www.getty.edu/art/collection/objects/221669>
     dimensions: "H. 7.2, Diam. rim 1.7, max. Diam. 6.2 cm; Wt. 43.70 g"
@@ -5598,6 +5924,7 @@ object_list:
     path: /catalogue/cat-326/
 -
     id: cat-327
+    label: "Cat. 327"
     accession_number: "2003.283"
     collection_link: <https://www.getty.edu/art/collection/objects/221672>
     dimensions: "H. 22.7, Diam. rim 4.3, Diam. base 7.2 cm; Wt. 171.00 g"
@@ -5615,6 +5942,7 @@ object_list:
     path: /catalogue/cat-327/
 -
     id: cat-328
+    label: "Cat. 328"
     accession_number: "2003.397"
     collection_link: <https://www.getty.edu/art/collection/objects/221786>
     dimensions: "H. 3.0, Diam. rim 1.7 × 2.0, Diam. base 1.5 cm; Wt. 6.57 g"
@@ -5632,6 +5960,7 @@ object_list:
     path: /catalogue/cat-328/
 -
     id: cat-329
+    label: "Cat. 329"
     accession_number: "2003.420"
     collection_link: <https://www.getty.edu/art/collection/objects/221809>
     dimensions: "H. 7.8, Diam. rim 2.2, Diam. base 2.3, Th. 0.2 cm; Wt. 23.77 g"
@@ -5649,6 +5978,7 @@ object_list:
     path: /catalogue/cat-329/
 -
     id: cat-330
+    label: "Cat. 330"
     accession_number: "2004.40"
     collection_link: <https://www.getty.edu/art/collection/objects/221507>
     dimensions: "H. 9.6, max. Diam. 6.0, Diam. rim 2.0, Diam. base 2.3, Th. 0.2 cm; Wt. 18.29 g"
@@ -5666,6 +5996,7 @@ object_list:
     path: /catalogue/cat-330/
 -
     id: cat-331
+    label: "Cat. 331"
     accession_number: "2003.418"
     collection_link: <https://www.getty.edu/art/collection/objects/221804>
     dimensions: "H. 7.0, Diam. rim 2.1, Diam. base 2.2, max. Diam. 4.5, Th. 0.2 cm; Wt. 18.94 g"
@@ -5683,6 +6014,7 @@ object_list:
     path: /catalogue/cat-331/
 -
     id: cat-332
+    label: "Cat. 332"
     accession_number: "2003.415"
     collection_link: <https://www.getty.edu/art/collection/objects/221804>
     dimensions: "H. 12.0, Diam. rim 1.8, Diam. base 0.4, Th. 0.1 cm; Wt. 30.51 g (it is filled with soil)"
@@ -5700,6 +6032,7 @@ object_list:
     path: /catalogue/cat-332/
 -
     id: cat-333
+    label: "Cat. 333"
     accession_number: "2003.416"
     collection_link: <https://www.getty.edu/art/collection/objects/221805>
     dimensions: "H. 15.3, Diam. rim 2.4, max. Diam. 3.0, Th. 0.1 cm; Wt. 14.80 g"
@@ -5717,6 +6050,7 @@ object_list:
     path: /catalogue/cat-333/
 -
     id: cat-334
+    label: "Cat. 334"
     accession_number: "2003.242"
     collection_link: <https://www.getty.edu/art/collection/objects/221625>
     dimensions: "H. 6.2, Diam. rim 2.1, Diam. base 2.3, Th. 0.1 cm; Wt. 11.00 g"
@@ -5734,6 +6068,7 @@ object_list:
     path: /catalogue/cat-334/
 -
     id: cat-335
+    label: "Cat. 335"
     accession_number: "2003.243"
     collection_link: <https://www.getty.edu/art/collection/objects/221626>
     dimensions: "H. 9.0, Diam. rim 2.3, Diam. base 3.1 cm; Wt. 13.72 g"
@@ -5751,6 +6086,7 @@ object_list:
     path: /catalogue/cat-335/
 -
     id: cat-336
+    label: "Cat. 336"
     accession_number: "2003.365"
     collection_link: <https://www.getty.edu/art/collection/objects/221755>
     dimensions: "H. 9.8, Diam. rim 2.2, max. Diam. 6.5, Diam. base 3.0 cm; Wt. 31.75 g"
@@ -5768,6 +6104,7 @@ object_list:
     path: /catalogue/cat-336/
 -
     id: cat-337
+    label: "Cat. 337"
     accession_number: "82.AI.76.21"
     collection_link: <https://www.getty.edu/art/collection/objects/21209>
     dimensions: "H. 9.1, Diam. rim 3.7, Diam. base 3.6 cm; Wt. 26.20 g"
@@ -5785,6 +6122,7 @@ object_list:
     path: /catalogue/cat-337/
 -
     id: cat-338
+    label: "Cat. 338"
     accession_number: "2003.369"
     collection_link: <https://www.getty.edu/art/collection/object/1096A9>
     dimensions: "H. 8.0, Diam. rim 2.0, Diam. base 2.6 cm; Wt. 56.85 g (contains a considerable amount of soil)"
@@ -5802,6 +6140,7 @@ object_list:
     path: /catalogue/cat-338/
 -
     id: cat-339
+    label: "Cat. 339"
     accession_number: "2003.370"
     collection_link: <https://www.getty.edu/art/collection/object/1096A8>
     dimensions: "H. 9.2, Diam. rim 2.0, Diam. base approx. 2.2 cm; Wt. 11.92 g"
@@ -5819,6 +6158,7 @@ object_list:
     path: /catalogue/cat-339/
 -
     id: cat-340
+    label: "Cat. 340"
     accession_number: "79.AF.184.2"
     collection_link: <https://www.getty.edu/art/collection/objects/8663>
     dimensions: "H. 14.8, Diam. rim 2.3, Diam. base 4.0 cm; Wt. 21.88 g"
@@ -5836,6 +6176,7 @@ object_list:
     path: /catalogue/cat-340/
 -
     id: cat-341
+    label: "Cat. 341"
     accession_number: "79.AF.184.3"
     collection_link: <https://www.getty.edu/art/collection/objects/8664>
     dimensions: "H. 11.6, Diam. rim 2.0, Diam. base 2.5 cm; Wt. 28.00 g"
@@ -5853,6 +6194,7 @@ object_list:
     path: /catalogue/cat-341/
 -
     id: cat-342
+    label: "Cat. 342"
     accession_number: "79.AF.184.18"
     collection_link: <https://www.getty.edu/art/collection/objects/8679>
     dimensions: "H. 4.9, Diam. rim 3.0, Diam. base 3.0 cm; Wt. 21.97 g"
@@ -5870,6 +6212,7 @@ object_list:
     path: /catalogue/cat-342/
 -
     id: cat-343
+    label: "Cat. 343"
     accession_number: "98.AF.56"
     collection_link: <https://www.getty.edu/art/collection/object/108D6W>
     dimensions: "H. 7.5, Diam. rim 2.2, Diam. base 2.5 cm; Wt. 5.00 g"
@@ -5887,6 +6230,7 @@ object_list:
     path: /catalogue/cat-343/
 -
     id: cat-344
+    label: "Cat. 344"
     accession_number: "2003.409"
     collection_link: <https://www.getty.edu/art/collection/objects/221798>
     dimensions: "H. 9.8, Diam. rim 4.5, Diam. base 4.0, Th. 0.1 cm; Wt. 62.40 g"
@@ -5904,6 +6248,7 @@ object_list:
     path: /catalogue/cat-344/
 -
     id: cat-345
+    label: "Cat. 345"
     accession_number: "2003.477"
     collection_link: <https://www.getty.edu/art/collection/objects/221866>
     dimensions: "H. 5.4, Diam. rim 4.4, max. Diam. 5.4, Diam. base 3.4, Th. 0.1 cm; Wt. 39.69 g"
@@ -5921,6 +6266,7 @@ object_list:
     path: /catalogue/cat-345/
 -
     id: cat-346
+    label: "Cat. 346"
     accession_number: "2003.437"
     collection_link: <https://www.getty.edu/art/collection/objects/221826>
     dimensions: "H. 7.5, Diam. rim 4.6, Diam. base 2.7, Th. 0.1 cm; Wt. 45.80 g"
@@ -5938,6 +6284,7 @@ object_list:
     path: /catalogue/cat-346/
 -
     id: cat-347
+    label: "Cat. 347"
     accession_number: "2004.42"
     collection_link: <https://www.getty.edu/art/collection/objects/221509>
     dimensions: "H. 9.5, Diam. rim 4.7, max. Diam. (with fins) 8.0, Th. 0.1 cm; Wt. 1.00 g"
@@ -5955,6 +6302,7 @@ object_list:
     path: /catalogue/cat-347/
 -
     id: cat-348
+    label: "Cat. 348"
     accession_number: "2003.289"
     collection_link: <https://www.getty.edu/art/collection/objects/221678>
     dimensions: "H. 11.2, Diam. rim 6.7, Diam. base 3.6 cm; Wt. 129.37 g"
@@ -5972,6 +6320,7 @@ object_list:
     path: /catalogue/cat-348/
 -
     id: cat-349
+    label: "Cat. 349"
     accession_number: "2003.438"
     collection_link: <https://www.getty.edu/art/collection/objects/221827>
     dimensions: "H. 11.4, Diam. rim 5.3, Diam. base 3.4, max. Diam. 7.5 cm; Wt. 85.42 g"
@@ -5989,6 +6338,7 @@ object_list:
     path: /catalogue/cat-349/
 -
     id: cat-350
+    label: "Cat. 350"
     accession_number: "2003.448"
     collection_link: <https://www.getty.edu/art/collection/objects/221837>
     dimensions: "H. 7.8, Diam. rim 4.2, Diam. base 2.9, max. Diam. 5.0 cm; Wt. 76.79 g"
@@ -6006,6 +6356,7 @@ object_list:
     path: /catalogue/cat-350/
 -
     id: cat-351
+    label: "Cat. 351"
     accession_number: "79.AF.184.8"
     collection_link: <https://www.getty.edu/art/collection/objects/8669>
     dimensions: "H. 11.0, Diam. rim 1.9, max. Diam. 5.9 cm; Wt. 19.89 g"
@@ -6023,6 +6374,7 @@ object_list:
     path: /catalogue/cat-351/
 -
     id: cat-352
+    label: "Cat. 352"
     accession_number: "2003.292"
     collection_link: <https://www.getty.edu/art/collection/objects/221681>
     dimensions: "H. 7.0, Diam. rim 3.2, max. Diam. 6.8, Th. 0.2 cm; Wt. 75.50 g"
@@ -6040,6 +6392,7 @@ object_list:
     path: /catalogue/cat-352/
 -
     id: cat-353
+    label: "Cat. 353"
     accession_number: "2003.374"
     collection_link: <https://www.getty.edu/art/collection/objects/221764>
     dimensions: "H. 7.5, Diam. rim 3.8, Diam. base 2.4 cm; Wt. 81.74 g"
@@ -6057,6 +6410,7 @@ object_list:
     path: /catalogue/cat-353/
 -
     id: cat-354
+    label: "Cat. 354"
     accession_number: "2003.241"
     collection_link: <https://www.getty.edu/art/collection/objects/221624>
     dimensions: "H. 7.8, Diam. rim 3.0, Diam. base 2.0 cm; Wt. 39.45 g"
@@ -6074,6 +6428,7 @@ object_list:
     path: /catalogue/cat-354/
 -
     id: cat-355
+    label: "Cat. 355"
     accession_number: "2003.291"
     collection_link: <https://www.getty.edu/art/collection/objects/221680>
     dimensions: "H. 12.8, Diam. rim 3.2, Diam. base 3.4, Th. 0.2 cm; Wt. 80.44 g"
@@ -6091,6 +6446,7 @@ object_list:
     path: /catalogue/cat-355/
 -
     id: cat-356
+    label: "Cat. 356"
     accession_number: "2003.367"
     collection_link: <https://www.getty.edu/art/collection/objects/221757>
     dimensions: "H. 10.5, Diam. rim 2.1, Diam. base 2.0 cm; Wt. 22.80 g"
@@ -6108,6 +6464,7 @@ object_list:
     path: /catalogue/cat-356/
 -
     id: cat-357
+    label: "Cat. 357"
     accession_number: "2003.368"
     collection_link: <https://www.getty.edu/art/collection/objects/221758>
     dimensions: "H. 6.7, Diam. rim 2.6, Diam. base 1.1, Th. 0.1 cm; Wt. 12.30 g"
@@ -6125,6 +6482,7 @@ object_list:
     path: /catalogue/cat-357/
 -
     id: cat-358
+    label: "Cat. 358"
     accession_number: "2003.364"
     collection_link: <https://www.getty.edu/art/collection/objects/221754>
     dimensions: "H. 11.5, Diam. rim 2.9, Diam. base 3.4 cm; Wt. 53.83 g"
@@ -6142,6 +6500,7 @@ object_list:
     path: /catalogue/cat-358/
 -
     id: cat-359
+    label: "Cat. 359"
     accession_number: "2003.419"
     collection_link: <https://www.getty.edu/art/collection/objects/221808>
     dimensions: "H. 8.0, Diam. rim 2.4, Diam. base 2.5, max. Diam. 5.3, Th. 0.1 cm; Wt. 15.80 g"
@@ -6159,6 +6518,7 @@ object_list:
     path: /catalogue/cat-359/
 -
     id: cat-360
+    label: "Cat. 360"
     accession_number: "2003.389"
     collection_link: <https://www.getty.edu/art/collection/objects/221778>
     dimensions: "H. 12.0, Diam. rim 2.1, max. Diam. 3.0, Th. 0.1 cm; Wt. 25.65 g"
@@ -6176,6 +6536,7 @@ object_list:
     path: /catalogue/cat-360/
 -
     id: cat-361
+    label: "Cat. 361"
     accession_number: "2003.425"
     collection_link: <https://www.getty.edu/art/collection/objects/221814>
     dimensions: "H. 11.0, Diam. rim 3.1, Diam. base 2.2, Th. (rim) 0.2 cm; Wt. 58.00 g"
@@ -6193,6 +6554,7 @@ object_list:
     path: /catalogue/cat-361/
 -
     id: cat-362
+    label: "Cat. 362"
     accession_number: "2003.430"
     collection_link: <https://www.getty.edu/art/collection/objects/221819>
     dimensions: "H. 5.0, Diam. rim 3.1, max. Diam. 3.9, Th. 0.1 cm; Wt. 26.20 g"
@@ -6210,6 +6572,7 @@ object_list:
     path: /catalogue/cat-362/
 -
     id: cat-363
+    label: "Cat. 363"
     accession_number: "2003.350"
     collection_link: <https://www.getty.edu/art/collection/objects/221740>
     dimensions: "H. 9.9, max. Diam. 8.0, Diam. neck 1.8 cm; Wt. 85.82 g"
@@ -6227,6 +6590,7 @@ object_list:
     path: /catalogue/cat-363/
 -
     id: cat-364
+    label: "Cat. 364"
     accession_number: "78.AF.35"
     collection_link: <https://www.getty.edu/art/collection/objects/8169>
     dimensions: "H. 25.5, Diam. rim 7.1, Diam. base 8.3, max. Diam. 13.0, Th. 0.3 cm; Wt. 441.40 g"
@@ -6244,6 +6608,7 @@ object_list:
     path: /catalogue/cat-364/
 -
     id: cat-365
+    label: "Cat. 365"
     accession_number: "2003.426"
     collection_link: <https://www.getty.edu/art/collection/objects/221815>
     dimensions: "H. 10.7, Diam. rim 4.6, Diam. base 4.0 cm; Wt. 58.76 g"
@@ -6261,6 +6626,7 @@ object_list:
     path: /catalogue/cat-365/
 -
     id: cat-366
+    label: "Cat. 366"
     accession_number: "2003.417"
     collection_link: <https://www.getty.edu/art/collection/objects/221806>
     dimensions: "H. 12.0, Diam. rim 2.8, max. Diam. 3.6, Th. 0.16 cm; Wt. 26.20 g"
@@ -6278,6 +6644,7 @@ object_list:
     path: /catalogue/cat-366/
 -
     id: cat-367
+    label: "Cat. 367"
     accession_number: "78.AF.19"
     collection_link: <https://www.getty.edu/art/collection/objects/8153>
     dimensions: "H. 24.7, Diam. rim 4.7, Diam. base 6.6 cm; Wt. 247.00 g"
@@ -6295,6 +6662,7 @@ object_list:
     path: /catalogue/cat-367/
 -
     id: cat-368
+    label: "Cat. 368"
     accession_number: "71.AF.80"
     collection_link: <https://www.getty.edu/art/collection/objects/6567>
     dimensions: "H. 8.5, Diam. rim 5.1, Diam. base 3.8 cm; Wt. 117.83 g"
@@ -6312,6 +6680,7 @@ object_list:
     path: /catalogue/cat-368/
 -
     id: cat-369
+    label: "Cat. 369"
     accession_number: "2003.431"
     collection_link: <https://www.getty.edu/art/collection/objects/221820>
     dimensions: "H. 11.5, max. W. with handles 7.0, Diam. rims 2.7 and 2.4 cm; Wt. 66.66 g"
@@ -6329,6 +6698,7 @@ object_list:
     path: /catalogue/cat-369/
 -
     id: cat-370
+    label: "Cat. 370"
     accession_number: "2003.432"
     collection_link: <https://www.getty.edu/art/collection/objects/221821>
     dimensions: "H. with handle 22.5, Diam. base 4.0–6.0, Diam. rims approx. 2.4 cm; Wt. 327.38 g"
@@ -6346,6 +6716,7 @@ object_list:
     path: /catalogue/cat-370/
 -
     id: cat-371
+    label: "Cat. 371"
     accession_number: "2003.396"
     collection_link: <https://www.getty.edu/art/collection/objects/221785>
     dimensions: "H. 9.7, Diam. base TK cm; Wt. TK g"
@@ -6363,6 +6734,7 @@ object_list:
     path: /catalogue/cat-371/
 -
     id: cat-372
+    label: "Cat. 372"
     accession_number: "2003.239"
     collection_link: <https://www.getty.edu/art/collection/objects/221622>
     dimensions: "Body: H. 6.3, Diam. rim 2.8, max. Diam. shoulder 6.5, Diam. base 5.7 cm; Wt. 43.34 g. Lid: pres. H. 5.0, max. Diam. 3.2 cm; Wt. 5.44 g"
@@ -6380,6 +6752,7 @@ object_list:
     path: /catalogue/cat-372/
 -
     id: cat-373
+    label: "Cat. 373"
     accession_number: "2003.240"
     collection_link: <https://www.getty.edu/art/collection/objects/223165>
     dimensions: "Body: H. 6.2, Diam. rim 2.6, max. Diam. 6.1, Diam. body. 5.8 cm; Wt. 35.69 g. Lid: pres. H. 3.8, max. Diam. 4.2 cm; Wt. 9.48 g"
@@ -6397,6 +6770,7 @@ object_list:
     path: /catalogue/cat-373/
 -
     id: cat-374
+    label: "Cat. 374"
     accession_number: "2003.378"
     collection_link: <https://www.getty.edu/art/collection/objects/221768>
     dimensions: "H. 3.3, Diam. opening 2.1, Diam. rim 6.3, Diam. base 2.8 cm; Wt. 39.28 g"
@@ -6414,6 +6788,7 @@ object_list:
     path: /catalogue/cat-374/
 -
     id: cat-375
+    label: "Cat. 375"
     accession_number: "2003.453"
     collection_link: <https://www.getty.edu/art/collection/objects/221842>
     dimensions: "H. 3.5, Diam. rim 1.5, max. Diam. 5.0, Diam. base 3.6, Th. 0.1 cm; Wt. 32.00 g"
@@ -6431,6 +6806,7 @@ object_list:
     path: /catalogue/cat-375/
 -
     id: cat-376
+    label: "Cat. 376"
     accession_number: "2003.470"
     collection_link: <https://www.getty.edu/art/collection/objects/221859>
     dimensions: "H. 9.5, Diam. rim 2.0, Diam. base 1.7 cm; Wt. 49.90 g"
@@ -6448,6 +6824,7 @@ object_list:
     path: /catalogue/cat-376/
 -
     id: cat-377
+    label: "Cat. 377"
     accession_number: "2003.469"
     collection_link: <https://www.getty.edu/art/collection/objects/221858>
     dimensions: "H. 10.8, Diam. rim 2.0, Diam. base 2.0 cm; Wt. 59.00 g"
@@ -6465,6 +6842,7 @@ object_list:
     path: /catalogue/cat-377/
 -
     id: cat-378
+    label: "Cat. 378"
     accession_number: "2003.468"
     collection_link: <https://www.getty.edu/art/collection/objects/221857>
     dimensions: "H. 13.8, Diam. rim 2.1, Diam. base 2.3, Th. 0.4 cm; Wt. 49.80 g"
@@ -6482,6 +6860,7 @@ object_list:
     path: /catalogue/cat-378/
 -
     id: cat-379
+    label: "Cat. 379"
     accession_number: "2003.463"
     collection_link: <https://www.getty.edu/art/collection/objects/221852>
     dimensions: "H. 10.5, Diam. rim 1.6, Diam. base 1.7, Th. 0.1 cm; Wt. 39.70 g"
@@ -6499,6 +6878,7 @@ object_list:
     path: /catalogue/cat-379/
 -
     id: cat-380
+    label: "Cat. 380"
     accession_number: "79.AF.184.19"
     collection_link: <https://www.getty.edu/art/collection/objects/8680>
     dimensions: "H. 5.9, Diam. rim 2.0, Diam. base 2.0 cm; Wt. 30.57 g"
@@ -6516,6 +6896,7 @@ object_list:
     path: /catalogue/cat-380/
 -
     id: cat-381
+    label: "Cat. 381"
     accession_number: "79.AF.184.33"
     collection_link: <https://www.getty.edu/art/collection/objects/8694>
     dimensions: "H. 5.2, Diam. rim 1.2, Diam. body 1.9 × 1.9 cm; Wt. 21.45 g"
@@ -6533,6 +6914,7 @@ object_list:
     path: /catalogue/cat-381/
 -
     id: cat-382
+    label: "Cat. 382"
     accession_number: "79.AF.184.43"
     collection_link: <https://www.getty.edu/art/collection/objects/8704>
     dimensions: "H. 5.7, Diam. rim 1.7, Diam. base 2.5 × 2.5 cm; Wt. 22.90 g"
@@ -6550,6 +6932,7 @@ object_list:
     path: /catalogue/cat-382/
 -
     id: cat-383
+    label: "Cat. 383"
     accession_number: "2003.472"
     collection_link: <https://www.getty.edu/art/collection/objects/221861>
     dimensions: "H. 5.1, Diam. rim 3.1, Diam. base 3.2, max. Diam. 4.5, Th. 0.2 cm; Wt. 41.81 g"
@@ -6567,6 +6950,7 @@ object_list:
     path: /catalogue/cat-383/
 -
     id: cat-384
+    label: "Cat. 384"
     accession_number: "79.AF.184.39"
     collection_link: <https://www.getty.edu/art/collection/objects/32178>
     dimensions: "H. body 3.4, H. neck 2.3, Diam. rim 1.2, Diam. base 2.5 cm; Wt. 29.00 g"
@@ -6584,6 +6968,7 @@ object_list:
     path: /catalogue/cat-384/
 -
     id: cat-385
+    label: "Cat. 385"
     accession_number: "79.AF.184.37"
     collection_link: <https://www.getty.edu/art/collection/objects/8698>
     dimensions: "H. 8.0, Diam. rim 1.5, Diam. body 1.4 × 1.4 cm; Wt. 30.80 g"
@@ -6601,6 +6986,7 @@ object_list:
     path: /catalogue/cat-385/
 -
     id: cat-386
+    label: "Cat. 386"
     accession_number: "79.AF.184.35"
     collection_link: <https://www.getty.edu/art/collection/objects/8696>
     dimensions: "H. 6.2, Diam. rim 1.1, Diam. body 2 × 2 cm; Wt. 22.23 g"
@@ -6618,6 +7004,7 @@ object_list:
     path: /catalogue/cat-386/
 -
     id: cat-387
+    label: "Cat. 387"
     accession_number: "79.AF.184.36"
     collection_link: <https://www.getty.edu/art/collection/objects/8697>
     dimensions: "H. 5.6, Diam. rim 1.8, Diam. body 2.4 × 2.4 cm; Wt. 40.50 g"
@@ -6635,6 +7022,7 @@ object_list:
     path: /catalogue/cat-387/
 -
     id: cat-388
+    label: "Cat. 388"
     accession_number: "79.AF.184.44"
     collection_link: <https://www.getty.edu/art/collection/objects/8705>
     dimensions: "H. 5.9, Diam. rim 1.8, Diam. base 2.8 × 2.8 cm; Wt. 30.20 g"
@@ -6652,6 +7040,7 @@ object_list:
     path: /catalogue/cat-388/
 -
     id: cat-389
+    label: "Cat. 389"
     accession_number: "79.AF.184.45"
     collection_link: <https://www.getty.edu/art/collection/objects/8706>
     dimensions: "H. 6.3, Diam. rim 2.3, Diam. base 2 × 2 cm; Wt. 33.38 g"
@@ -6669,6 +7058,7 @@ object_list:
     path: /catalogue/cat-389/
 -
     id: cat-390
+    label: "Cat. 390"
     accession_number: "79.AF.184.28"
     collection_link: <https://www.getty.edu/art/collection/objects/8689>
     dimensions: "H. 5.8, Diam. rim 1.5, Diam. base 2.2 × 2.2 cm; Wt. 42.00 g"
@@ -6686,6 +7076,7 @@ object_list:
     path: /catalogue/cat-390/
 -
     id: cat-391
+    label: "Cat. 391"
     accession_number: "79.AF.184.40"
     collection_link: <https://www.getty.edu/art/collection/objects/8701>
     dimensions: "H. 6.2, Diam. rim 1.6, Diam. base 2.5 cm; Wt. 32.43 g"
@@ -6703,6 +7094,7 @@ object_list:
     path: /catalogue/cat-391/
 -
     id: cat-392
+    label: "Cat. 392"
     accession_number: "79.AF.184.42"
     collection_link: <https://www.getty.edu/art/collection/objects/8703>
     dimensions: "H. 5.7, Diam. rim 1.5, Diam. base 2.1 × 2.2 cm; Wt. 30.03 g"
@@ -6720,6 +7112,7 @@ object_list:
     path: /catalogue/cat-392/
 -
     id: cat-393
+    label: "Cat. 393"
     accession_number: "79.AF.184.7"
     collection_link: <https://www.getty.edu/art/collection/object/105Y8N>
     dimensions: "H. body 4.1, H. neck-rim 1.6, Diam. rim 2.6, Diam. body 2.0, max. Diam. 4.3 cm; Wt. 42.38 g"
@@ -6737,6 +7130,7 @@ object_list:
     path: /catalogue/cat-393/
 -
     id: cat-394
+    label: "Cat. 394"
     accession_number: "2003.471"
     collection_link: <https://www.getty.edu/art/collection/objects/221860/>
     dimensions: "H. 10.0, Diam. rim 2.5, Diam. base 3.5 cm; Wt. 26.58 g"
@@ -6754,6 +7148,7 @@ object_list:
     path: /catalogue/cat-394/
 -
     id: cat-395
+    label: "Cat. 395"
     accession_number: "2003.338"
     collection_link: <https://www.getty.edu/art/collection/objects/221728/>
     dimensions: "H. 11.0, Diam. rim 3.7, Diam. base 3.6 cm; Wt. 73.98 g"
@@ -6771,6 +7166,7 @@ object_list:
     path: /catalogue/cat-395/
 -
     id: cat-396
+    label: "Cat. 396"
     accession_number: "78.AF.36"
     collection_link: <https://www.getty.edu/art/collection/objects/8170>
     dimensions: "H. 8.8, Diam. rim 3.6, Diam. base 2.8 cm; Wt. 88.31 g"
@@ -6788,6 +7184,7 @@ object_list:
     path: /catalogue/cat-396/
 -
     id: cat-397
+    label: "Cat. 397"
     accession_number: "79.AF.184.47"
     collection_link: <https://www.getty.edu/art/collection/objects/8708>
     dimensions: "H. 4.0, Diam. rim 12.6, Diam. base 8.8 cm; Wt. 197.69 g"
@@ -6805,6 +7202,7 @@ object_list:
     path: /catalogue/cat-397/
 -
     id: cat-398
+    label: "Cat. 398"
     accession_number: "2003.478"
     collection_link: <https://www.getty.edu/art/collection/objects/221867/>
     dimensions: "H. 4.5, Diam. rim 14.6, Diam. base 4.8–4.9 cm; Wt. 89.90g"
@@ -6822,6 +7220,7 @@ object_list:
     path: /catalogue/cat-398/
 -
     id: cat-399
+    label: "Cat. 399"
     accession_number: "2003.467"
     collection_link: <https://www.getty.edu/art/collection/objects/221856>
     dimensions: "Flask: H. 7.0, Diam. rim 4.2 cm, max. Diam. 4.9, Diam. base approx. 4.0 cm; Animal: H. 7.5, L. 10.0 cm; Basket: H. 4.3, Diam. rim 7.0, Diam. base 5.8 cm; Overall: H. 9.8, W. (from forehead to tail) 9.8 cm; Wt. 105.26 g"
@@ -6839,6 +7238,7 @@ object_list:
     path: /catalogue/cat-399/
 -
     id: cat-400
+    label: "Cat. 400"
     accession_number: "78.AF.29"
     collection_link: <https://www.getty.edu/art/collection/objects/8163>
     dimensions: "Flask: H. 8.7, Diam. rim 2.8, max. Diam. 3.9 cm; Basket: H. 5.0, Diam. rim 5.8, Diam. base 4.9 cm; Pack animal: H. 7.3, L. 8.2, W. 3.4 cm; Overall: H. 11.8 cm; Wt. 84.10 g"
@@ -6856,6 +7256,7 @@ object_list:
     path: /catalogue/cat-400/
 -
     id: cat-401
+    label: "Cat. 401"
     accession_number: "79.AF.184.12"
     collection_link: <https://www.getty.edu/art/collection/objects/8673>
     dimensions: "H. 6.6, Diam. rim 1.6 × 1.8, Diam. base 2.1 cm; Wt. 7.38 g"
@@ -6873,6 +7274,7 @@ object_list:
     path: /catalogue/cat-401/
 -
     id: cat-402
+    label: "Cat. 402"
     accession_number: "79.AF.184.9"
     collection_link: <https://www.getty.edu/art/collection/objects/8670>
     dimensions: "H. 6.3, Diam. rim 1.7, Diam. base 2.2 cm; Wt. 20.75 g"
@@ -6890,6 +7292,7 @@ object_list:
     path: /catalogue/cat-402/
 -
     id: cat-403
+    label: "Cat. 403"
     accession_number: "78.AF.23"
     collection_link: <https://www.getty.edu/art/collection/objects/8157>
     dimensions: "H. 15.3, Diam. rim 4.0, max. Diam. 12.5 cm; Wt. 344.20 g"
@@ -6907,6 +7310,7 @@ object_list:
     path: /catalogue/cat-403/
 -
     id: cat-404
+    label: "Cat. 404"
     accession_number: "2003.464"
     collection_link: <https://www.getty.edu/art/collection/objects/221853>
     dimensions: "H. 12, Diam. rim 0.6, max. Diam. 8.2, Diam. base 1.1 cm; Wt. 211.80 g"
@@ -6924,6 +7328,7 @@ object_list:
     path: /catalogue/cat-404/
 -
     id: cat-405
+    label: "Cat. 405"
     accession_number: "2003.465"
     collection_link: <https://www.getty.edu/art/collection/objects/221854>
     dimensions: "H. 5.5, Diam. rim 2.9, max. Diam. 5.2, Th. 0.25 cm; Wt. 76.00 g"
@@ -6941,6 +7346,7 @@ object_list:
     path: /catalogue/cat-405/
 -
     id: cat-406
+    label: "Cat. 406"
     accession_number: "2004.33"
     collection_link: <https://www.getty.edu/art/collection/objects/221500>
     dimensions: "H. 8.3, Diam. rim 3.9, Diam. body 4.2 cm; Wt. 83.31 g"
@@ -6958,6 +7364,7 @@ object_list:
     path: /catalogue/cat-406/
 -
     id: cat-407
+    label: "Cat. 407"
     accession_number: "78.AK.30"
     collection_link: <https://www.getty.edu/art/collection/objects/8164>
     dimensions: "H. 12.1, Diam. rim 2.3, max. Diam. 4.4, Diam. base 2.5 cm; Wt. 53.50 g"
@@ -6975,6 +7382,7 @@ object_list:
     path: /catalogue/cat-407/
 -
     id: cat-408
+    label: "Cat. 408"
     accession_number: "79.AF.184.11"
     collection_link: <https://www.getty.edu/art/collection/objects/8672>
     dimensions: "H. 18.5, Diam. rim 1.0, Diam. base 2.1 cm; Wt. 37.30 g"
@@ -6992,6 +7400,7 @@ object_list:
     path: /catalogue/cat-408/
 -
     id: cat-409
+    label: "Cat. 409"
     accession_number: "2003.446"
     collection_link: <https://www.getty.edu/art/collection/objects/221835>
     dimensions: "H. 13.5, Diam. rim 1.9, Diam. base 0.9 cm; Wt. 26.05 g"
@@ -7009,6 +7418,7 @@ object_list:
     path: /catalogue/cat-409/
 -
     id: cat-410
+    label: "Cat. 410"
     accession_number: "2003.466"
     collection_link: <https://www.getty.edu/art/collection/objects/221855>
     dimensions: "H. 8.1, Diam. rim 1.5, Diam. base 1.0 cm; Wt. 15.50 g"
@@ -7026,6 +7436,7 @@ object_list:
     path: /catalogue/cat-410/
 -
     id: cat-411
+    label: "Cat. 411"
     accession_number: "2003.461"
     collection_link: <https://www.getty.edu/art/collection/objects/221850>
     dimensions: "H. 9.3, Diam. rim 1.9–2.1, Diam. base 1.6, Th. 0.25 cm; Wt. 22.67 g"
@@ -7043,6 +7454,7 @@ object_list:
     path: /catalogue/cat-411/
 -
     id: cat-412
+    label: "Cat. 412"
     accession_number: "79.AF.184.23"
     collection_link: <https://www.getty.edu/art/collection/objects/8684>
     dimensions: "H. 8.4, Diam. rim 1.7, Diam. base 2.1 × 2.2 cm; Wt. 56.63 g"
@@ -7060,6 +7472,7 @@ object_list:
     path: /catalogue/cat-412/
 -
     id: cat-413
+    label: "Cat. 413"
     accession_number: "79.AF.184.46"
     collection_link: <https://www.getty.edu/art/collection/objects/8707>
     dimensions: "H. 6.9, Diam. rim 1.7, Diam. base 2.1 × 2.1 cm; Wt. 27.96 g"
@@ -7077,6 +7490,7 @@ object_list:
     path: /catalogue/cat-413/
 -
     id: cat-414
+    label: "Cat. 414"
     accession_number: "79.AF.184.27"
     collection_link: <https://www.getty.edu/art/collection/objects/8688>
     dimensions: "H. [with restoration] 4.8, Diam. rim 1.6, Diam. base 1.9 × 1.9 cm; Wt. 13.22 g"
@@ -7094,6 +7508,7 @@ object_list:
     path: /catalogue/cat-414/
 -
     id: cat-415
+    label: "Cat. 415"
     accession_number: "79.AF.184.21"
     collection_link: <https://www.getty.edu/art/collection/objects/8682>
     dimensions: "H. 5.2, Diam. rim 1.5, Diam. base 1.8 × 2.5 cm; Wt. 32.50 g"
@@ -7111,6 +7526,7 @@ object_list:
     path: /catalogue/cat-415/
 -
     id: cat-416
+    label: "Cat. 416"
     accession_number: "79.AF.184.41"
     collection_link: <https://www.getty.edu/art/collection/objects/8702>
     dimensions: "pres. H. 3.6, Diam. rim 1.3, Diam. base 2.1 cm; Wt. 14.85 g"
@@ -7128,6 +7544,7 @@ object_list:
     path: /catalogue/cat-416/
 -
     id: cat-417
+    label: "Cat. 417"
     accession_number: "2003.473"
     collection_link: <https://www.getty.edu/art/collection/objects/221862>
     dimensions: "H. 2.8, Diam. rim 1.6, Diam. base 2.2, Th. 0.1–0.2 cm; Wt. 10.65 g"
@@ -7145,6 +7562,7 @@ object_list:
     path: /catalogue/cat-417/
 -
     id: cat-418
+    label: "Cat. 418"
     accession_number: "79.AF.184.24"
     collection_link: <https://www.getty.edu/art/collection/objects/8685>
     dimensions: "H. 5.2, Diam. rim 1.6, Diam. base 2.2 × 2.3 cm; Wt. 181.8 g"
@@ -7162,6 +7580,7 @@ object_list:
     path: /catalogue/cat-418/
 -
     id: cat-419
+    label: "Cat. 419"
     accession_number: "79.AF.184.15"
     collection_link: <https://www.getty.edu/art/collection/objects/8676>
     dimensions: "H. 11, Diam. rim 1.8, Diam. base 2.6 cm; Wt. 54.26 g"
@@ -7179,6 +7598,7 @@ object_list:
     path: /catalogue/cat-419/
 -
     id: cat-420
+    label: "Cat. 420"
     accession_number: "79.AF.184.25"
     collection_link: <https://www.getty.edu/art/collection/objects/8686>
     dimensions: "H. 8.6, Diam. rim 1.6, Diam. base 2.5 cm; Wt. 38.09 g"
@@ -7196,6 +7616,7 @@ object_list:
     path: /catalogue/cat-420/
 -
     id: cat-421
+    label: "Cat. 421"
     accession_number: "79.AF.184.29"
     collection_link: <https://www.getty.edu/art/collection/objects/8690>
     dimensions: "H. 9.4, Diam. rim 2.1, Diam. base 2.6 cm; Wt. 45.47 g"
@@ -7213,6 +7634,7 @@ object_list:
     path: /catalogue/cat-421/
 -
     id: cat-422
+    label: "Cat. 422"
     accession_number: "79.AF.184.14"
     collection_link: <https://www.getty.edu/art/collection/objects/8675>
     dimensions: "H. 7.0, Diam. rim 1.6, Diam. base 2.2 cm; Wt. 15.32 g"
@@ -7230,6 +7652,7 @@ object_list:
     path: /catalogue/cat-422/
 -
     id: cat-423
+    label: "Cat. 423"
     accession_number: "79.AF.184.16"
     collection_link: <https://www.getty.edu/art/collection/objects/8677>
     dimensions: "H. 6.3, Diam. rim 1.7, Diam. base 2.7 cm; Wt. 17.58 g"
@@ -7247,6 +7670,7 @@ object_list:
     path: /catalogue/cat-423/
 -
     id: cat-424
+    label: "Cat. 424"
     accession_number: "79.AF.184.6"
     collection_link: <https://www.getty.edu/art/collection/objects/8667>
     dimensions: "H. 4.9, Diam. rim 1.9, Diam. body 2.5, Th. 0.4 cm; Wt. 20.22 g"
@@ -7264,6 +7688,7 @@ object_list:
     path: /catalogue/cat-424/
 -
     id: cat-425
+    label: "Cat. 425"
     accession_number: "79.AF.184.10"
     collection_link: <https://www.getty.edu/art/collection/objects/8671>
     dimensions: "H. 6.0, Diam. rim 3.3, Diam. base 2.7 cm; Wt. 31.29 g"
@@ -7281,6 +7706,7 @@ object_list:
     path: /catalogue/cat-425/
 -
     id: cat-426
+    label: "Cat. 426"
     accession_number: "79.AF.184.31"
     collection_link: <https://www.getty.edu/art/collection/objects/8692>
     dimensions: "pres. H. 3.8, Diam. rim 1.9, Diam. base 2.3 cm; Wt. 8.89 g"
@@ -7298,6 +7724,7 @@ object_list:
     path: /catalogue/cat-426/
 -
     id: cat-427
+    label: "Cat. 427"
     accession_number: "79.AF.184.32"
     collection_link: <https://www.getty.edu/art/collection/object/105Y9E>
     dimensions: "H. 4.9, Diam. rim 1.9, Diam. base 3.2 cm; Wt. …. g"
@@ -7315,6 +7742,7 @@ object_list:
     path: /catalogue/cat-427/
 -
     id: cat-428
+    label: "Cat. 428"
     accession_number: "79.AF.184.34"
     collection_link: <https://www.getty.edu/art/collection/objects/8695>
     dimensions: "H. 6.1, Diam. rim 2.1, Diam. base 3.7 cm; Wt. 15.10 g"
@@ -7332,6 +7760,7 @@ object_list:
     path: /catalogue/cat-428/
 -
     id: cat-429
+    label: "Cat. 429"
     accession_number: "79.AF.184.38"
     collection_link: <https://www.getty.edu/art/collection/objects/8699>
     dimensions: "H. 5.0, Diam. rim 1.6, Diam. base 2.0 cm; Wt. 8.29 g"
@@ -7349,6 +7778,7 @@ object_list:
     path: /catalogue/cat-429/
 -
     id: cat-430
+    label: "Cat. 430"
     accession_number: "79.AF.184.26"
     collection_link: <https://www.getty.edu/art/collection/objects/8687>
     dimensions: "H. 4.8, Diam. rim 2.4, Diam. base 3.0 cm; Wt. 13.40 g"
@@ -7366,6 +7796,7 @@ object_list:
     path: /catalogue/cat-430/
 -
     id: cat-431
+    label: "Cat. 431"
     accession_number: "81.AF.1"
     collection_link: <https://www.getty.edu/art/collection/objects/9365>
     dimensions: "H. 14.6, Diam. rim 5.1, Diam. base 4.1 cm; Wt. 88.80 g"
@@ -7383,6 +7814,7 @@ object_list:
     path: /catalogue/cat-431/
 -
     id: cat-432
+    label: "Cat. 432"
     accession_number: "79.AF.184.17"
     collection_link: <https://www.getty.edu/art/collection/objects/8678>
     dimensions: "L. 10.5, W. 5.1 cm; Wt. 61.10 g"
@@ -7400,6 +7832,7 @@ object_list:
     path: /catalogue/cat-432/
 -
     id: cat-433
+    label: "Cat. 433"
     accession_number: "2003.451"
     collection_link: <https://www.getty.edu/art/collection/objects/221840>
     dimensions: "H. 3.5, max. Diam. 4.1, Diam. rim 2.6, Diam. base 1.5 cm; Wt. 18.37 g"
@@ -7417,6 +7850,7 @@ object_list:
     path: /catalogue/cat-433/
 -
     id: cat-434
+    label: "Cat. 434"
     accession_number: "2003.384"
     collection_link: <https://www.getty.edu/art/collection/objects/221773>
     dimensions: "H. 2.7, Diam. rim 2.5, Diam. base 2.6 cm; Wt. 24.82 g"
@@ -7434,6 +7868,7 @@ object_list:
     path: /catalogue/cat-434/
 -
     id: cat-435
+    label: "Cat. 435"
     accession_number: "2003.385"
     collection_link: <https://www.getty.edu/art/collection/objects/221774>
     dimensions: "H. 2.8, Diam. rim 2.8, max. Diam. 3.1, Th. 0.2 cm; Wt. 13.20 g"
@@ -7451,6 +7886,7 @@ object_list:
     path: /catalogue/cat-435/
 -
     id: cat-436
+    label: "Cat. 436"
     accession_number: "2003.386"
     collection_link: <https://www.getty.edu/art/collection/objects/221775>
     dimensions: "H. 3.8, Diam. rim 2.7, Diam. base 2.7, Th. 0.1 cm; Wt. 13.80 g"
@@ -7468,6 +7904,7 @@ object_list:
     path: /catalogue/cat-436/
 -
     id: cat-437
+    label: "Cat. 437"
     accession_number: "2003.254"
     collection_link: <https://www.getty.edu/art/collection/objects/221637>
     dimensions: "H. 4.4, Diam. 15.7 cm; Wt. 203.60 g"
@@ -7485,6 +7922,7 @@ object_list:
     path: /catalogue/cat-437/
 -
     id: cat-438
+    label: "Cat. 438"
     accession_number: "2003.296"
     collection_link: <https://www.getty.edu/art/collection/objects/221686>
     dimensions: "Diam. 13.5 cm; Wt. 116.80 g"
@@ -7502,6 +7940,7 @@ object_list:
     path: /catalogue/cat-438/
 -
     id: cat-439
+    label: "Cat. 439"
     accession_number: "83.AK.29"
     collection_link: <https://www.getty.edu/art/collection/objects/10394>
     dimensions: "pres. H. 1.8, Diam. base 5.2, max. pres. Diam. 8.2 cm; Wt. 45.50 g"
@@ -7519,6 +7958,7 @@ object_list:
     path: /catalogue/cat-439/
 -
     id: cat-440
+    label: "Cat. 440"
     accession_number: "2003.442"
     collection_link: <https://www.getty.edu/art/collection/objects/221831>
     dimensions: "H. 4.5, Diam. rim 5.5, Diam. base 3.6 cm; Wt. 31.70 g"
@@ -7536,6 +7976,7 @@ object_list:
     path: /catalogue/cat-440/
 -
     id: cat-441
+    label: "Cat. 441"
     accession_number: "2003.395"
     collection_link: <https://www.getty.edu/art/collection/objects/221784>
     dimensions: "H. 9.0, Diam. rim 5.4, Diam. base 4.2, Th. 0.3 cm; Wt. 63.20 g"
@@ -7553,6 +7994,7 @@ object_list:
     path: /catalogue/cat-441/
 -
     id: cat-442
+    label: "Cat. 442"
     accession_number: "2003.149"
     collection_link: <https://www.getty.edu/art/collection/objects/221516>
     dimensions: "H. 3.1, W. 2.3, Th. 0.9 cm; Wt. 8.80 g"
@@ -7570,6 +8012,7 @@ object_list:
     path: /catalogue/cat-442/
 -
     id: cat-443
+    label: "Cat. 443"
     accession_number: "2003.150"
     collection_link: <https://www.getty.edu/art/collection/objects/221517>
     dimensions: "H. 1.7, W. 1.3, Th. 0.8 cm; Wt. 2.86 g"
@@ -7587,6 +8030,7 @@ object_list:
     path: /catalogue/cat-443/
 -
     id: cat-444
+    label: "Cat. 444"
     accession_number: "2003.151"
     collection_link: <https://www.getty.edu/art/collection/objects/221518>
     dimensions: "H. 2.7, W. 2.0, Th. 0.9 cm; Wt. 9.42 g"
@@ -7604,6 +8048,7 @@ object_list:
     path: /catalogue/cat-444/
 -
     id: cat-445
+    label: "Cat. 445"
     accession_number: "2003.152"
     collection_link: <https://www.getty.edu/art/collection/objects/221519>
     dimensions: "H. 5.9, W. foot 4.2, W. leg 5.5, Th. 1.0 cm; Wt. 16.32 g"
@@ -7621,6 +8066,7 @@ object_list:
     path: /catalogue/cat-445/
 -
     id: cat-446
+    label: "Cat. 446"
     accession_number: "2003.153"
     collection_link: <https://www.getty.edu/art/collection/objects/221520>
     dimensions: "H. 4.1, W. foot 2.1, W. leg 3.9, Th. 0.8 cm; Wt. 4.93 g"
@@ -7638,6 +8084,7 @@ object_list:
     path: /catalogue/cat-446/
 -
     id: cat-447
+    label: "Cat. 447"
     accession_number: "2003.158"
     collection_link: <https://www.getty.edu/art/collection/objects/221525>
     dimensions: "H. 6.3, W. 8.0 cm; Wt. 67.47 g"
@@ -7655,6 +8102,7 @@ object_list:
     path: /catalogue/cat-447/
 -
     id: cat-448
+    label: "Cat. 448"
     accession_number: "2003.154"
     collection_link: <https://www.getty.edu/art/collection/objects/221521>
     dimensions: "L. 1.6, W. 4.7, Th. 0.8 cm; Wt. 6.22 g"
@@ -7672,6 +8120,7 @@ object_list:
     path: /catalogue/cat-448/
 -
     id: cat-449
+    label: "Cat. 449"
     accession_number: "2003.260"
     collection_link: <https://www.getty.edu/art/collection/objects/221649>
     dimensions: "H. 3.0, W. 1.1, Th. 0.3 cm; Wt. 1.45 g"
@@ -7689,6 +8138,7 @@ object_list:
     path: /catalogue/cat-449/
 -
     id: cat-450
+    label: "Cat. 450"
     accession_number: "2004.27"
     collection_link: <https://www.getty.edu/art/collection/objects/221494>
     dimensions: "H. 3.1, W. 1.2 cm; Wt. 1.20 g"
@@ -7706,6 +8156,7 @@ object_list:
     path: /catalogue/cat-450/
 -
     id: cat-451
+    label: "Cat. 451"
     accession_number: "2004.28"
     collection_link: <https://www.getty.edu/art/collection/objects/221495>
     dimensions: "H. 3.5, W. 1.4, Th. 0.2–0.3 cm; Wt. 2.30 g"
@@ -7723,6 +8174,7 @@ object_list:
     path: /catalogue/cat-451/
 -
     id: cat-452
+    label: "Cat. 452"
     accession_number: "2003.264"
     collection_link: <https://www.getty.edu/art/collection/objects/221653>
     dimensions: "H. 0.9, W. 1.4 cm; Wt. 1.76 g"
@@ -7740,6 +8192,7 @@ object_list:
     path: /catalogue/cat-452/
 -
     id: cat-453
+    label: "Cat. 453"
     accession_number: "2003.261"
     collection_link: <https://www.getty.edu/art/collection/objects/221650>
     dimensions: "H. 4.7, W. 2.9, Th. 0.5 cm; Wt. 14.19 g"
@@ -7757,6 +8210,7 @@ object_list:
     path: /catalogue/cat-453/
 -
     id: cat-454
+    label: "Cat. 454"
     accession_number: "2003.262"
     collection_link: <https://www.getty.edu/art/collection/objects/221651>
     dimensions: "L. 2.0, W. 1.6, Th. 0.2 cm; Wt. 1.77 g"
@@ -7774,6 +8228,7 @@ object_list:
     path: /catalogue/cat-454/
 -
     id: cat-455
+    label: "Cat. 455"
     accession_number: "2003.263"
     collection_link: <https://www.getty.edu/art/collection/objects/221652>
     dimensions: "H. 5.0, W. 2.0, Th. 0.49 cm; Wt. 13.25 g"
@@ -7791,6 +8246,7 @@ object_list:
     path: /catalogue/cat-455/
 -
     id: cat-456
+    label: "Cat. 456"
     accession_number: "2004.29"
     collection_link: <https://www.getty.edu/art/collection/objects/221496>
     dimensions: "H. 2.2, W. 1.3 cm; Wt. 2.38 g"
@@ -7808,6 +8264,7 @@ object_list:
     path: /catalogue/cat-456/
 -
     id: cat-457
+    label: "Cat. 457"
     accession_number: "2004.30"
     collection_link: <https://www.getty.edu/art/collection/objects/221497>
     dimensions: "H. 2.2, W. 2.0 cm; Wt. 2.48 g"
@@ -7825,6 +8282,7 @@ object_list:
     path: /catalogue/cat-457/
 -
     id: cat-458
+    label: "Cat. 458"
     accession_number: "2004.31"
     collection_link: <https://www.getty.edu/art/collection/objects/221498>
     dimensions: "H. 2.8, W. 2.4 cm; Wt. 8.18 g"
@@ -7842,6 +8300,7 @@ object_list:
     path: /catalogue/cat-458/
 -
     id: cat-459
+    label: "Cat. 459"
     accession_number: "2004.32"
     collection_link: <https://www.getty.edu/art/collection/objects/221499>
     dimensions: "L. 2.7, W. 1.9 cm; Wt. 8.06 g"
@@ -7859,6 +8318,7 @@ object_list:
     path: /catalogue/cat-459/
 -
     id: cat-460
+    label: "Cat. 460"
     accession_number: "2004.26.2"
     collection_link: <https://www.getty.edu/art/collection/objects/221486>
     dimensions: "L. 4.4, W. 2.5 cm; Wt. 6.13 g"
@@ -7876,6 +8336,7 @@ object_list:
     path: /catalogue/cat-460/
 -
     id: cat-461
+    label: "Cat. 461"
     accession_number: "2004.26.5"
     collection_link: <https://www.getty.edu/art/collection/objects/221489>
     dimensions: "L. 4.0, W. 2.0 cm; Wt. 5.77 g"
@@ -7893,6 +8354,7 @@ object_list:
     path: /catalogue/cat-461/
 -
     id: cat-462
+    label: "Cat. 462"
     accession_number: "83.AF.28.21"
     collection_link: <https://www.getty.edu/art/collection/objects/16223>
     dimensions: "3.4 × 2.9 cm; Wt. g"
@@ -7910,6 +8372,7 @@ object_list:
     path: /catalogue/cat-462/
 -
     id: cat-463
+    label: "Cat. 463"
     accession_number: "83.AF.28.24"
     collection_link: <https://www.getty.edu/art/collection/objects/16226>
     dimensions: "1.9 × 1 × 0.5 cm; Wt. 7.28 g"
@@ -7927,6 +8390,7 @@ object_list:
     path: /catalogue/cat-463/
 -
     id: cat-464
+    label: "Cat. 464"
     accession_number: "76.AF.70.40"
     collection_link: <https://www.getty.edu/art/collection/objects/19059>
     dimensions: "L. 1.6, W. 2.1, Th. 0.5 cm; Wt. 2.61 g"
@@ -7944,6 +8408,7 @@ object_list:
     path: /catalogue/cat-464/
 -
     id: cat-465
+    label: "Cat. 465"
     accession_number: "76.AF.70.38"
     collection_link: <https://www.getty.edu/art/collection/objects/19057>
     dimensions: "2.4 × 2.2 × 0.3–0.5 cm; Wt. 3.76 g"
@@ -7961,6 +8426,7 @@ object_list:
     path: /catalogue/cat-465/
 -
     id: cat-466
+    label: "Cat. 466"
     accession_number: "76.AF.70.42"
     collection_link: <https://www.getty.edu/art/collection/objects/19061>
     dimensions: "L. 1.2, W. 2, Th. 0.3 cm; Wt. 1.54 g"
@@ -7978,6 +8444,7 @@ object_list:
     path: /catalogue/cat-466/
 -
     id: cat-467
+    label: "Cat. 467"
     accession_number: "76.AF.70.3"
     collection_link: <https://www.getty.edu/art/collection/objects/19022>
     dimensions: "L. 1.9, W. 1.8, Th. 0.8 cm; Wt. 4.12 g"
@@ -7995,6 +8462,7 @@ object_list:
     path: /catalogue/cat-467/
 -
     id: cat-468
+    label: "Cat. 468"
     accession_number: "76.AF.70.25"
     collection_link: <https://www.getty.edu/art/collection/objects/19044>
     dimensions: "L. 2.8, W. 1.0, Th. 0.3 cm; Wt. 1.88 g"
@@ -8012,6 +8480,7 @@ object_list:
     path: /catalogue/cat-468/
 -
     id: cat-469
+    label: "Cat. 469"
     accession_number: "76.AF.70.29"
     collection_link: <https://www.getty.edu/art/collection/objects/19048>
     dimensions: "L. 1.2, W. 1.1, Th. 0.3–0.2 cm; Wt. 2.44 g"
@@ -8029,6 +8498,7 @@ object_list:
     path: /catalogue/cat-469/
 -
     id: cat-470
+    label: "Cat. 470"
     accession_number: "76.AF.70.41"
     collection_link: <https://www.getty.edu/art/collection/objects/19060>
     dimensions: "1.3 × 1.7 × 0.5 cm; Wt. 2.37 g"
@@ -8046,6 +8516,7 @@ object_list:
     path: /catalogue/cat-470/
 -
     id: cat-471
+    label: "Cat. 471"
     accession_number: "76.AF.70.1"
     collection_link: <https://www.getty.edu/art/collection/objects/19020>
     dimensions: "L. 5, W. 2.6, Th. 0.6 cm; Wt. 10.40 g"
@@ -8063,6 +8534,7 @@ object_list:
     path: /catalogue/cat-471/
 -
     id: cat-472
+    label: "Cat. 472"
     accession_number: "76.AF.70.6"
     collection_link: <https://www.getty.edu/art/collection/objects/19025>
     dimensions: "L. 3.1, W. 2, Th. 0.3 cm; Wt. 3.21 g"
@@ -8080,6 +8552,7 @@ object_list:
     path: /catalogue/cat-472/
 -
     id: cat-473
+    label: "Cat. 473"
     accession_number: "76.AF.70.28"
     collection_link: <https://www.getty.edu/art/collection/objects/19047>
     dimensions: "L. 2.2, W. 1.7, Th. 0.5 cm; Wt. 4.38 g"
@@ -8097,6 +8570,7 @@ object_list:
     path: /catalogue/cat-473/
 -
     id: cat-474
+    label: "Cat. 474"
     accession_number: "76.AF.70.30"
     collection_link: <https://www.getty.edu/art/collection/objects/19049>
     dimensions: "L. 3.1, W. 2.4, Th. 0.5 cm; Wt. 7.00 g"
@@ -8114,6 +8588,7 @@ object_list:
     path: /catalogue/cat-474/
 -
     id: cat-475
+    label: "Cat. 475"
     accession_number: "76.AF.70.34"
     collection_link: <https://www.getty.edu/art/collection/objects/19053>
     dimensions: "L. 3.4, W. 2.2, Th. 0.5 cm; Wt. 6.29 g"
@@ -8131,6 +8606,7 @@ object_list:
     path: /catalogue/cat-475/
 -
     id: cat-476
+    label: "Cat. 476"
     accession_number: "76.AF.70.5"
     collection_link: <https://www.getty.edu/art/collection/objects/19024>
     dimensions: "L. 3.4, W. 2.2, Th. 0.6 cm; Wt. 5.38 g"
@@ -8148,6 +8624,7 @@ object_list:
     path: /catalogue/cat-476/
 -
     id: cat-477
+    label: "Cat. 477"
     accession_number: "76.AF.70.12"
     collection_link: <https://www.getty.edu/art/collection/objects/19031>
     dimensions: "L. 3.0, W. 1.6, Th. 0.6 cm; Wt. 5.87 g"
@@ -8165,6 +8642,7 @@ object_list:
     path: /catalogue/cat-477/
 -
     id: cat-478
+    label: "Cat. 478"
     accession_number: "76.AF.70.20"
     collection_link: <https://www.getty.edu/art/collection/objects/19039>
     dimensions: "L. 2.7, W. 1.8, Th. 0.3 cm; Wt. 3.23 g"
@@ -8182,6 +8660,7 @@ object_list:
     path: /catalogue/cat-478/
 -
     id: cat-479
+    label: "Cat. 479"
     accession_number: "76.AF.70.37"
     collection_link: <https://www.getty.edu/art/collection/objects/19056>
     dimensions: "1.5 × 1.5 × 0.5 cm; Wt. 2.68 g"
@@ -8199,6 +8678,7 @@ object_list:
     path: /catalogue/cat-479/
 -
     id: cat-480
+    label: "Cat. 480"
     accession_number: "83.AF.28.15.a–b"
     collection_link: <https://www.getty.edu/art/collection/objects/258699>
     dimensions: "Group record for two-part records with dimensions: 83.AF.28.15.a: L. 3, W. 2.1 cm; 83.AF.28.15.b: L. 2.7, W. 2.5 cm, W. (of the entire band) 3.8, pres. H. 2.9 cm; Wt. 8.95 g"
@@ -8216,6 +8696,7 @@ object_list:
     path: /catalogue/cat-480/
 -
     id: cat-481
+    label: "Cat. 481"
     accession_number: "76.AF.70.8"
     collection_link: <https://www.getty.edu/art/collection/objects/19027>
     dimensions: "W. 4.3, L. 2.2, Th. 0.5 cm; Wt. 6.59 g"
@@ -8233,6 +8714,7 @@ object_list:
     path: /catalogue/cat-481/
 -
     id: cat-482
+    label: "Cat. 482"
     accession_number: "76.AF.70.43"
     collection_link: <https://www.getty.edu/art/collection/objects/19062>
     dimensions: "L. 1.4, W. 1.7, Th. 0.2 cm; Wt. 1.19 g"
@@ -8250,6 +8732,7 @@ object_list:
     path: /catalogue/cat-482/
 -
     id: cat-483
+    label: "Cat. 483"
     accession_number: "76.AF.70.26"
     collection_link: <https://www.getty.edu/art/collection/objects/19045>
     dimensions: "L. 3.3, W. 2.4, Th. 0.7 cm; Wt. 7.00 g"
@@ -8267,6 +8750,7 @@ object_list:
     path: /catalogue/cat-483/
 -
     id: cat-484
+    label: "Cat. 484"
     accession_number: "76.AF.70.13"
     collection_link: <https://www.getty.edu/art/collection/objects/19032>
     dimensions: "L. 2.1, W. 1.6, Th. 0.2 cm; Wt. 1.84 g"
@@ -8284,6 +8768,7 @@ object_list:
     path: /catalogue/cat-484/
 -
     id: cat-485
+    label: "Cat. 485"
     accession_number: "76.AF.70.45"
     collection_link: <https://www.getty.edu/art/collection/objects/102948>
     dimensions: "1.7 × 1.6 × 0.2 cm; Wt. 1.70 g"
@@ -8301,6 +8786,7 @@ object_list:
     path: /catalogue/cat-485/
 -
     id: cat-486
+    label: "Cat. 486"
     accession_number: "76.AF.70.27"
     collection_link: <https://www.getty.edu/art/collection/objects/19046>
     dimensions: "L. 2.4, W. 2.4, Th. 0.2 cm; Wt. 3.36 g"
@@ -8318,6 +8804,7 @@ object_list:
     path: /catalogue/cat-486/
 -
     id: cat-487
+    label: "Cat. 487"
     accession_number: "76.AF.70.7"
     collection_link: <https://www.getty.edu/art/collection/objects/19026>
     dimensions: "L. 4.0, W. 2.3, Th. 0.2 cm; Wt. 3.67 g"
@@ -8335,6 +8822,7 @@ object_list:
     path: /catalogue/cat-487/
 -
     id: cat-488
+    label: "Cat. 488"
     accession_number: "76.AF.70.35"
     collection_link: <https://www.getty.edu/art/collection/objects/19054>
     dimensions: "L. 1.5, W. 1.5, Th. 0.3 cm; Wt. 1.60 g"
@@ -8352,6 +8840,7 @@ object_list:
     path: /catalogue/cat-488/
 -
     id: cat-489
+    label: "Cat. 489"
     accession_number: "83.AF.28.25"
     collection_link: <https://www.getty.edu/art/collection/objects/16227>
     dimensions: "1.4 × 1.0 × 0.5 cm; Wt. 1.01 g"
@@ -8369,6 +8858,7 @@ object_list:
     path: /catalogue/cat-489/
 -
     id: cat-490
+    label: "Cat. 490"
     accession_number: "2004.26.1"
     collection_link: <https://www.getty.edu/art/collection/objects/221485>
     dimensions: "L. 4.5, W. 3.9 cm; Wt. 6.13 g"
@@ -8386,6 +8876,7 @@ object_list:
     path: /catalogue/cat-490/
 -
     id: cat-491
+    label: "Cat. 491"
     accession_number: "2004.26.4"
     collection_link: <https://www.getty.edu/art/collection/objects/221488>
     dimensions: "L. 3.2, W. 2.9 cm; Wt. 6.00 g"
@@ -8403,6 +8894,7 @@ object_list:
     path: /catalogue/cat-491/
 -
     id: cat-492
+    label: "Cat. 492"
     accession_number: "2003.258.7"
     collection_link: <https://www.getty.edu/art/collection/objects/221647>
     dimensions: "W. 3.3, L. 4.0 cm; Wt. 9.78 g"
@@ -8420,6 +8912,7 @@ object_list:
     path: /catalogue/cat-492/
 -
     id: cat-493
+    label: "Cat. 493"
     accession_number: "2003.265"
     collection_link: <https://www.getty.edu/art/collection/objects/221654>
     dimensions: "H. 3.6, W. 3.8, Th. 0.14 cm; Wt. 9.20 g"
@@ -8437,6 +8930,7 @@ object_list:
     path: /catalogue/cat-493/
 -
     id: cat-494
+    label: "Cat. 494"
     accession_number: "76.AF.70.31"
     collection_link: <https://www.getty.edu/art/collection/objects/19050>
     dimensions: "L. 1.9, W. 1.6, Th. 0.5 cm; Wt. 3.90 g"
@@ -8454,6 +8948,7 @@ object_list:
     path: /catalogue/cat-494/
 -
     id: cat-495
+    label: "Cat. 495"
     accession_number: "2003.257"
     collection_link: <https://www.getty.edu/art/collection/objects/221640>
     dimensions: "L. 36.0, avg. W. 2.0 cm; Wt. 66.82 g"
@@ -8471,6 +8966,7 @@ object_list:
     path: /catalogue/cat-495/
 -
     id: cat-496
+    label: "Cat. 496"
     accession_number: "2003.266"
     collection_link: <https://www.getty.edu/art/collection/objects/221655>
     dimensions: "L. 4.5, W. 2.6, Th. 0.4–0.3 cm; Wt. 7.21 g"
@@ -8488,6 +8984,7 @@ object_list:
     path: /catalogue/cat-496/
 -
     id: cat-497
+    label: "Cat. 497"
     accession_number: "76.AF.70.14"
     collection_link: <https://www.getty.edu/art/collection/objects/19033>
     dimensions: "L. 3.5, W. 1.9, Th. 0.2 cm; Wt. 3.05 g"
@@ -8505,6 +9002,7 @@ object_list:
     path: /catalogue/cat-497/
 -
     id: cat-498
+    label: "Cat. 498"
     accession_number: "76.AF.70.16"
     collection_link: <https://www.getty.edu/art/collection/objects/19035>
     dimensions: "L. 2.5, W. 1.9, Th. 0.5 cm; Wt. 3.87 g"
@@ -8522,6 +9020,7 @@ object_list:
     path: /catalogue/cat-498/
 -
     id: cat-499
+    label: "Cat. 499"
     accession_number: "83.AF.28.9"
     collection_link: <https://www.getty.edu/art/collection/objects/16211>
     dimensions: "L. 1.5, W. 2.3, Th. 0.2 cm; Wt. 1.70 g"
@@ -8539,6 +9038,7 @@ object_list:
     path: /catalogue/cat-499/
 -
     id: cat-500
+    label: "Cat. 500"
     accession_number: "83.AF.28.26"
     collection_link: <https://www.getty.edu/art/collection/objects/16228>
     dimensions: "L. 3.1, W. 1.8, Th. 0.4 cm; Wt. 3.12 g"
@@ -8556,6 +9056,7 @@ object_list:
     path: /catalogue/cat-500/
 -
     id: cat-501
+    label: "Cat. 501"
     accession_number: "76.AF.70.11"
     collection_link: <https://www.getty.edu/art/collection/objects/19030>
     dimensions: "L. 3.5, W. 2.0, Th. 0.3 cm (matrix: 0.2 cm; colored elements: 0.1 cm); Wt. 3.21 g"
@@ -8573,6 +9074,7 @@ object_list:
     path: /catalogue/cat-501/
 -
     id: cat-502
+    label: "Cat. 502"
     accession_number: "2003.353"
     collection_link: <https://www.getty.edu/art/collection/objects/221743>
     dimensions: "pres. H. 2.8, Th. 0.4 [green 0.3; white 0.1] cm; Wt. 4.15 g"
@@ -8590,6 +9092,7 @@ object_list:
     path: /catalogue/cat-502/
 -
     id: cat-503
+    label: "Cat. 503"
     accession_number: "2003.355"
     collection_link: <https://www.getty.edu/art/collection/objects/221745>
     dimensions: "pres. H. 3.5, pres. W. 2.5, Th. 0.7 cm; Wt. 10.00 g"
@@ -8607,6 +9110,7 @@ object_list:
     path: /catalogue/cat-503/
 -
     id: cat-504
+    label: "Cat. 504"
     accession_number: "2003.358"
     collection_link: <https://www.getty.edu/art/collection/objects/221748>
     dimensions: "H. 3.5 × W. 3.9 cm; Wt. 29.44 g"
@@ -8624,6 +9128,7 @@ object_list:
     path: /catalogue/cat-504/
 -
     id: cat-505
+    label: "Cat. 505"
     accession_number: "2003.359"
     collection_link: <https://www.getty.edu/art/collection/objects/221749>
     dimensions: "H. 3.3 × W. 3.1 cm; Wt. 17.96 g"
@@ -8641,6 +9146,7 @@ object_list:
     path: /catalogue/cat-505/
 -
     id: cat-506
+    label: "Cat. 506"
     accession_number: "2003.360"
     collection_link: <https://www.getty.edu/art/collection/objects/221750>
     dimensions: "pres. H. 2.1, pres. W. 2.4, max. Th. 1.9 cm; Wt. 8.10 g"
@@ -8658,6 +9164,7 @@ object_list:
     path: /catalogue/cat-506/
 -
     id: cat-507
+    label: "Cat. 507"
     accession_number: "80.AF.76"
     collection_link: <https://www.getty.edu/art/collection/objects/9238>
     dimensions: "L. 2.5, W. 2.2 cm; Wt. 6.83 g"
@@ -8675,6 +9182,7 @@ object_list:
     path: /catalogue/cat-507/
 -
     id: cat-508
+    label: "Cat. 508"
     accession_number: "2003.405"
     collection_link: <https://www.getty.edu/art/collection/objects/221794>
     dimensions: "L. 3.5, W. 1.1 cm; Wt. 4.92 g"
@@ -8692,6 +9200,7 @@ object_list:
     path: /catalogue/cat-508/
 -
     id: cat-509
+    label: "Cat. 509"
     accession_number: "2003.214.1"
     collection_link: <https://www.getty.edu/art/collection/objects/221581>
     dimensions: "L. 4.2, W. 1.8, Th. 1.0 cm"
@@ -8709,6 +9218,7 @@ object_list:
     path: /catalogue/cat-509/
 -
     id: cat-510
+    label: "Cat. 510"
     accession_number: "2003.214.2"
     collection_link: <https://www.getty.edu/art/collection/objects/221582>
     dimensions: "4.4 × 1.7 × 1 cm"
@@ -8726,6 +9236,7 @@ object_list:
     path: /catalogue/cat-510/
 -
     id: cat-511
+    label: "Cat. 511"
     accession_number: "2003.214.3"
     collection_link: <https://www.getty.edu/art/collection/objects/221583>
     dimensions: "H. 2.7, W. 1.0, Th. 0.5 cm"
@@ -8743,6 +9254,7 @@ object_list:
     path: /catalogue/cat-511/
 -
     id: cat-512
+    label: "Cat. 512"
     accession_number: "2003.214.4"
     collection_link: <https://www.getty.edu/art/collection/objects/221584>
     dimensions: "H. 2.6, W. 1.0, Th. 0.5 cm"
@@ -8760,6 +9272,7 @@ object_list:
     path: /catalogue/cat-512/
 -
     id: cat-513
+    label: "Cat. 513"
     accession_number: "2003.214.5"
     collection_link: <https://www.getty.edu/art/collection/objects/221585>
     dimensions: "H. 1.9, W. 1.1, Th. 0.5 cm"
@@ -8777,6 +9290,7 @@ object_list:
     path: /catalogue/cat-513/
 -
     id: cat-514
+    label: "Cat. 514"
     accession_number: "2003.214.6"
     collection_link: <https://www.getty.edu/art/collection/objects/221586>
     dimensions: "H. 2, W. 1.2, Th. 0.5 cm"
@@ -8794,6 +9308,7 @@ object_list:
     path: /catalogue/cat-514/
 -
     id: cat-515
+    label: "Cat. 515"
     accession_number: "2003.214.7"
     collection_link: <https://www.getty.edu/art/collection/objects/221587>
     dimensions: "H. 2.5 cm"
@@ -8811,6 +9326,7 @@ object_list:
     path: /catalogue/cat-515/
 -
     id: cat-516
+    label: "Cat. 516"
     accession_number: "2003.214.8"
     collection_link: <https://www.getty.edu/art/collection/objects/221588>
     dimensions: "H. 3.1, W. 1.2, Th. 0.5 cm"
@@ -8828,6 +9344,7 @@ object_list:
     path: /catalogue/cat-516/
 -
     id: cat-517
+    label: "Cat. 517"
     accession_number: "2003.214.9"
     collection_link: <https://www.getty.edu/art/collection/objects/221589>
     dimensions: "H. 3.0, W. 1.4, Th. 0.5 cm"
@@ -8845,6 +9362,7 @@ object_list:
     path: /catalogue/cat-517/
 -
     id: cat-518
+    label: "Cat. 518"
     accession_number: "2003.214.10"
     collection_link: <https://www.getty.edu/art/collection/objects/221590>
     dimensions: "H. 3.0, W. 1.6, Th. 0.5 cm"
@@ -8862,6 +9380,7 @@ object_list:
     path: /catalogue/cat-518/
 -
     id: cat-519
+    label: "Cat. 519"
     accession_number: "2003.214.11"
     collection_link: <https://www.getty.edu/art/collection/objects/221591>
     dimensions: "H. 2.5 cm"
@@ -8879,6 +9398,7 @@ object_list:
     path: /catalogue/cat-519/
 -
     id: cat-520
+    label: "Cat. 520"
     accession_number: "2003.214.12"
     collection_link: <https://www.getty.edu/art/collection/objects/221592>
     dimensions: "H. 2.5, W. 1.3, Th. 0.5 cm"
@@ -8896,6 +9416,7 @@ object_list:
     path: /catalogue/cat-520/
 -
     id: cat-521
+    label: "Cat. 521"
     accession_number: "2003.214.13"
     collection_link: <https://www.getty.edu/art/collection/objects/221593>
     dimensions: "H. 2.5 cm"
@@ -8913,6 +9434,7 @@ object_list:
     path: /catalogue/cat-521/
 -
     id: cat-522
+    label: "Cat. 522"
     accession_number: "2003.214.14"
     collection_link: <https://www.getty.edu/art/collection/objects/221594>
     dimensions: "H. 2.5 cm"
@@ -8930,6 +9452,7 @@ object_list:
     path: /catalogue/cat-522/
 -
     id: cat-523
+    label: "Cat. 523"
     accession_number: "2003.214.15"
     collection_link: <https://www.getty.edu/art/collection/objects/221595>
     dimensions: "H. 2.5 cm"
@@ -8947,6 +9470,7 @@ object_list:
     path: /catalogue/cat-523/
 -
     id: cat-524
+    label: "Cat. 524"
     accession_number: "2003.214.16"
     collection_link: <https://www.getty.edu/art/collection/objects/221596>
     dimensions: "H. 2.5, W. 1.2, Th. 0.5 cm"
@@ -8964,6 +9488,7 @@ object_list:
     path: /catalogue/cat-524/
 -
     id: cat-525
+    label: "Cat. 525"
     accession_number: "2003.214.17"
     collection_link: <https://www.getty.edu/art/collection/objects/221597>
     dimensions: "H. 2.9, W. 1.3, Th. 0.5 cm"
@@ -8981,6 +9506,7 @@ object_list:
     path: /catalogue/cat-525/
 -
     id: cat-526
+    label: "Cat. 526"
     accession_number: "2004.15.1"
     collection_link: <https://www.getty.edu/art/collection/objects/221467>
     dimensions: "H. 3.1, W. 1.1 cm; Wt. 1.62 g"
@@ -8998,6 +9524,7 @@ object_list:
     path: /catalogue/cat-526/
 -
     id: cat-527
+    label: "Cat. 527"
     accession_number: "2004.15.2"
     collection_link: <https://www.getty.edu/art/collection/objects/221468>
     dimensions: "H. 3.1, W. 1.2 cm; Wt. 1.86 g"
@@ -9015,6 +9542,7 @@ object_list:
     path: /catalogue/cat-527/
 -
     id: cat-528
+    label: "Cat. 528"
     accession_number: "2004.15.3"
     collection_link: <https://www.getty.edu/art/collection/objects/221469>
     dimensions: "H. 3.1, W. 1.3 cm; Wt. 1.76 g"
@@ -9032,6 +9560,7 @@ object_list:
     path: /catalogue/cat-528/
 -
     id: cat-529
+    label: "Cat. 529"
     accession_number: "2004.15.4"
     collection_link: <https://www.getty.edu/art/collection/objects/221470>
     dimensions: "H. 3.2, W. 1.3 cm; Wt. 1.98 g"
@@ -9049,6 +9578,7 @@ object_list:
     path: /catalogue/cat-529/
 -
     id: cat-530
+    label: "Cat. 530"
     accession_number: "2004.15.5"
     collection_link: <https://www.getty.edu/art/collection/objects/221471>
     dimensions: "H. 2, W. 1.1 cm; Wt. 1.66 g"
@@ -9066,6 +9596,7 @@ object_list:
     path: /catalogue/cat-530/
 -
     id: cat-531
+    label: "Cat. 531"
     accession_number: "2004.15.6"
     collection_link: <https://www.getty.edu/art/collection/objects/221472>
     dimensions: "H. 2, W. 1.2 cm; Wt. 1.46 g"
@@ -9083,6 +9614,7 @@ object_list:
     path: /catalogue/cat-531/
 -
     id: cat-532
+    label: "Cat. 532"
     accession_number: "2004.15.7"
     collection_link: <https://www.getty.edu/art/collection/objects/221473>
     dimensions: "H. 3.1, W. 2 cm; Wt. 6.45 g"
@@ -9100,6 +9632,7 @@ object_list:
     path: /catalogue/cat-532/
 -
     id: cat-533
+    label: "Cat. 533"
     accession_number: "2003.209"
     collection_link: <https://www.getty.edu/art/collection/objects/221576>
     dimensions: "H. 2.7, W. 1.0 cm; Wt. 1.10 g"
@@ -9116,7 +9649,8 @@ object_list:
     figure: [ id: "fig-2003-209-a", id: "fig-2003-209-b" ]
     path: /catalogue/cat-533/
 -
-    id: cat-534.1–30
+    id: cat-534
+    label: "Cat. 534"
     accession_number: "2003.259"
     collection_link: <https://www.getty.edu/art/collection/objects/221648>
     dimensions: ""
@@ -9134,6 +9668,7 @@ object_list:
     path: /catalogue/cat-534/
 -
     id: cat-535
+    label: "Cat. 535"
     accession_number: "78.AF.324.1"
     collection_link: <https://www.getty.edu/art/collection/objects/8426>
     dimensions: "H. 1.3, W. 1.1, Th. 0.5 cm; Wt. 1.42 g"
@@ -9151,6 +9686,7 @@ object_list:
     path: /catalogue/cat-535/
 -
     id: cat-536
+    label: "Cat. 536"
     accession_number: "76.AM.61.15"
     collection_link: <https://www.getty.edu/art/collection/objects/7358>
     dimensions: "H. 1.3, W. 0.8, Th. 0.4 cm; Wt. 1.18 g"
@@ -9168,6 +9704,7 @@ object_list:
     path: /catalogue/cat-536/
 -
     id: cat-537
+    label: "Cat. 537"
     accession_number: "2004.12"
     collection_link: <https://www.getty.edu/art/collection/objects/221463>
     dimensions: "H. 1.3, W. 1.4 cm; Wt. 3.83 g"
@@ -9185,6 +9722,7 @@ object_list:
     path: /catalogue/cat-537/
 -
     id: cat-538
+    label: "Cat. 538"
     accession_number: "2003.210"
     collection_link: <https://www.getty.edu/art/collection/objects/221577/>
     dimensions: "H. 2.1, max. Diam. 1.8 cm; Wt. 10.6 g"
@@ -9202,6 +9740,7 @@ object_list:
     path: /catalogue/cat-538/
 -
     id: cat-539
+    label: "Cat. 539"
     accession_number: "2004.13"
     collection_link: <https://www.getty.edu/art/collection/objects/221464>
     dimensions: "H. 2.0, W. 2.3 cm; Wt. 13.70 g"
@@ -9219,6 +9758,7 @@ object_list:
     path: /catalogue/cat-539/
 -
     id: cat-540
+    label: "Cat. 540"
     accession_number: "2003.212"
     collection_link: <https://www.getty.edu/art/collection/objects/221579>
     dimensions: "H. 2.3, max. Diam. 2.0 cm; Wt. 5.70 g"
@@ -9236,6 +9776,7 @@ object_list:
     path: /catalogue/cat-540/
 -
     id: cat-541
+    label: "Cat. 541"
     accession_number: "2003.211"
     collection_link: <https://www.getty.edu/art/collection/objects/221578>
     dimensions: "L. 2.1, Diam. 1.7 cm; Wt. 12.40 g"
@@ -9253,6 +9794,7 @@ object_list:
     path: /catalogue/cat-541/
 -
     id: cat-542
+    label: "Cat. 542"
     accession_number: "80.AH.20.850"
     collection_link: <https://www.getty.edu/art/collection/objects/20935>
     dimensions: "H. 1.1, max. Diam. 1.1 cm; Wt. 1.13 g"
@@ -9270,6 +9812,7 @@ object_list:
     path: /catalogue/cat-542/
 -
     id: cat-543
+    label: "Cat. 543"
     accession_number: "2003.213"
     collection_link: <https://www.getty.edu/art/collection/objects/221580>
     dimensions: "L. 7.0, W. 2.2, Th. 1.5 cm; Wt. 17.25 g"
@@ -9287,6 +9830,7 @@ object_list:
     path: /catalogue/cat-543/
 -
     id: cat-544
+    label: "Cat. 544"
     accession_number: "2003.206"
     collection_link: <https://www.getty.edu/art/collection/objects/221573>
     dimensions: "H. 2.4, W. 1.7 cm; Wt. 6.27 g"
@@ -9304,6 +9848,7 @@ object_list:
     path: /catalogue/cat-544/
 -
     id: cat-545
+    label: "Cat. 545"
     accession_number: "2003.208"
     collection_link: <https://www.getty.edu/art/collection/objects/221575>
     dimensions: "H. 2.9 cm, max. pres. W. 2.0, max. Th. 2.0 cm; Wt. 3.93 g"
@@ -9321,6 +9866,7 @@ object_list:
     path: /catalogue/cat-545/
 -
     id: cat-546
+    label: "Cat. 546"
     accession_number: "2004.9"
     collection_link: <https://www.getty.edu/art/collection/objects/221460>
     dimensions: "H. 1.4, W. 1.2 cm; Wt. 2.18 g"
@@ -9338,6 +9884,7 @@ object_list:
     path: /catalogue/cat-546/
 -
     id: cat-547
+    label: "Cat. 547"
     accession_number: "2004.10"
     collection_link: <https://www.getty.edu/art/collection/objects/221461>
     dimensions: "H. 2.1, W. 1.8 cm; Wt. 6.36 g"
@@ -9355,6 +9902,7 @@ object_list:
     path: /catalogue/cat-547/
 -
     id: cat-548
+    label: "Cat. 548"
     accession_number: "2003.205"
     collection_link: <https://www.getty.edu/art/collection/objects/221572>
     dimensions: "H. with the loop 3.0, without the loop 2.4, max. W. 2.0, max. Th. 2.0 cm; Wt. 8.84 g"
@@ -9372,6 +9920,7 @@ object_list:
     path: /catalogue/cat-548/
 -
     id: cat-549
+    label: "Cat. 549"
     accession_number: "2003.207"
     collection_link: <https://www.getty.edu/art/collection/objects/221574>
     dimensions: "H. 1.8, W. 1.3 cm; Wt. 1.96 g"
@@ -9389,6 +9938,7 @@ object_list:
     path: /catalogue/cat-549/
 -
     id: cat-550
+    label: "Cat. 550"
     accession_number: "83.AM.1.1"
     collection_link: <https://www.getty.edu/art/collection/object/103XZ0>
     dimensions: "H. 3.5, W. 2.2 cm"
@@ -9406,6 +9956,7 @@ object_list:
     path: /catalogue/cat-550/
 -
     id: cat-551
+    label: "Cat. 551"
     accession_number: "83.AM.1.2"
     collection_link: <https://www.getty.edu/art/collection/object/103XZ1>
     dimensions: "H. 2.5 cm [with the suspension loop, which is 0.7 cm high], W. 1.5 cm"
@@ -9423,6 +9974,7 @@ object_list:
     path: /catalogue/cat-551/
 -
     id: cat-552
+    label: "Cat. 552"
     accession_number: "78.AF.324.3"
     collection_link: <https://www.getty.edu/art/collection/objects/8428>
     dimensions: "H. 2.2, W. 1.9, Th. 0.09 cm; Wt. 1.97 g"
@@ -9440,6 +9992,7 @@ object_list:
     path: /catalogue/cat-552/
 -
     id: cat-553
+    label: "Cat. 553"
     accession_number: "2004.11"
     collection_link: <https://www.getty.edu/art/collection/objects/221462>
     dimensions: "H. 3.0, W. 2.4, max. Th. 1.4 cm; Wt. 6.86 g"
@@ -9457,6 +10010,7 @@ object_list:
     path: /catalogue/cat-553/
 -
     id: cat-554
+    label: "Cat. 554"
     accession_number: "76.AF.70.46"
     collection_link: <https://www.getty.edu/art/collection/objects/102950>
     dimensions: "L. 2.2, W. 0.8 cm; Wt. 0.91 g"
@@ -9474,6 +10028,7 @@ object_list:
     path: /catalogue/cat-554/
 -
     id: cat-555
+    label: "Cat. 555"
     accession_number: "2003.456"
     collection_link: <https://www.getty.edu/art/collection/objects/221845>
     dimensions: "L. 2.4, W. 1.3 cm; Wt. 0.9 g"
@@ -9491,6 +10046,7 @@ object_list:
     path: /catalogue/cat-555/
 -
     id: cat-556
+    label: "Cat. 556"
     accession_number: "78.AF.321.1"
     collection_link: <https://www.getty.edu/art/collection/objects/8411>
     dimensions: "H. 2.2, D. 1.6, Th. 0.3–0.4 cm; Wt. 1.46 g"
@@ -9508,6 +10064,7 @@ object_list:
     path: /catalogue/cat-556/
 -
     id: cat-557
+    label: "Cat. 557"
     accession_number: "78.AF.321.2"
     collection_link: <https://www.getty.edu/art/collection/objects/8412>
     dimensions: "H. 2.3, D. 1.7, Th. 0.3–0.4 cm; Wt. 1.46 g"
@@ -9525,6 +10082,7 @@ object_list:
     path: /catalogue/cat-557/
 -
     id: cat-558
+    label: "Cat. 558"
     accession_number: "78.AF.321.3"
     collection_link: <https://www.getty.edu/art/collection/objects/8413>
     dimensions: "H. 2.3, D. 1.5, Th. 0.3–0.4 cm; Wt. 1.32 g"
@@ -9542,6 +10100,7 @@ object_list:
     path: /catalogue/cat-558/
 -
     id: cat-559
+    label: "Cat. 559"
     accession_number: "78.AF.321.4"
     collection_link: <https://www.getty.edu/art/collection/objects/8414>
     dimensions: "H. 2.5, Diam. 1.8, Th. 0.3–0.4 cm; Wt. 1.90 g"
@@ -9559,6 +10118,7 @@ object_list:
     path: /catalogue/cat-559/
 -
     id: cat-560
+    label: "Cat. 560"
     accession_number: "78.AF.321.5"
     collection_link: <https://www.getty.edu/art/collection/objects/8415>
     dimensions: "H. 2.3, Diam. 1.8, Th. 0.3–0.4 cm; Wt. 1.85 g"
@@ -9576,6 +10136,7 @@ object_list:
     path: /catalogue/cat-560/
 -
     id: cat-561
+    label: "Cat. 561"
     accession_number: "79.AF.184.1"
     collection_link: <https://www.getty.edu/art/collection/objects/8662>
     dimensions: "Diam. 4.9, Th. 0.6 cm; Wt. 5.26 g"
@@ -9593,6 +10154,7 @@ object_list:
     path: /catalogue/cat-561/
 -
     id: cat-562
+    label: "Cat. 562"
     accession_number: "79.AF.184.4"
     collection_link: <https://www.getty.edu/art/collection/objects/8665>
     dimensions: "Diam. 5.0, Th. 0.6 cm; Wt. 6.17 g"
@@ -9610,6 +10172,7 @@ object_list:
     path: /catalogue/cat-562/
 -
     id: cat-563
+    label: "Cat. 563"
     accession_number: "2003.457"
     collection_link: <https://www.getty.edu/art/collection/objects/221846>
     dimensions: "Diam. 8.5, Th. 0.4 cm; Wt. 28.2 g"
@@ -9627,6 +10190,7 @@ object_list:
     path: /catalogue/cat-563/
 -
     id: cat-564
+    label: "Cat. 564"
     accession_number: "2003.459"
     collection_link: <https://www.getty.edu/art/collection/objects/221848>
     dimensions: "Diam. 5.0, Th. 0.3 cm; Wt. 5.8 g"
@@ -9644,6 +10208,7 @@ object_list:
     path: /catalogue/cat-564/
 -
     id: cat-565
+    label: "Cat. 565"
     accession_number: "2003.458"
     collection_link: <https://www.getty.edu/art/collection/objects/221847>
     dimensions: "Diam. 7.0, Th. 1.0 cm; Wt. 25.2 g"
@@ -9661,6 +10226,7 @@ object_list:
     path: /catalogue/cat-565/
 -
     id: cat-566
+    label: "Cat. 566"
     accession_number: "2003.407"
     collection_link: <https://www.getty.edu/art/collection/objects/221796>
     dimensions: "W. 13.7, Th. 2.4 cm; Wt. 320 g"
@@ -9678,6 +10244,7 @@ object_list:
     path: /catalogue/cat-566/
 -
     id: cat-567
+    label: "Cat. 567"
     accession_number: "2003.295.1–2"
     collection_link: <https://www.getty.edu/art/collection/objects/221685>
     dimensions: "2003.295.1: H. 0.5, Diam 1.5 cm; Wt. 2.48 g; 2003.295.2: H. 0.5, Diam. 1.44 cm; Wt. 2.14 g"
@@ -9695,6 +10262,7 @@ object_list:
     path: /catalogue/cat-567/
 -
     id: cat-568
+    label: "Cat. 568"
     accession_number: "2003.460"
     collection_link: <https://www.getty.edu/art/collection/object/1096D1>
     dimensions: "H. 1.6, Diam. 4.5 cm; Wt. 40.1 g"
@@ -9712,6 +10280,7 @@ object_list:
     path: /catalogue/cat-568/
 -
     id: cat-569
+    label: "Cat. 569"
     accession_number: "79.AF.171"
     collection_link: <https://www.getty.edu/art/collection/objects/8655>
     dimensions: "1.8 × 1.1 × 1.0 cm; Wt. 2.86 g"
@@ -9729,6 +10298,7 @@ object_list:
     path: /catalogue/cat-569/
 -
     id: cat-570
+    label: "Cat. 570"
     accession_number: "2003.403"
     collection_link: <https://www.getty.edu/art/collection/objects/221792>
     dimensions: "L. 18.5, Diam. 0.6 cm; Wt. 12.11 g"
@@ -9746,6 +10316,7 @@ object_list:
     path: /catalogue/cat-570/
 -
     id: cat-571
+    label: "Cat. 571"
     accession_number: "82.AC.22.315"
     collection_link: <https://www.getty.edu/art/collection/objects/25980>
     dimensions: "pres. L. 3.8, Th. 0.5 cm; Wt. 1.91 g"
@@ -9763,6 +10334,7 @@ object_list:
     path: /catalogue/cat-571/
 -
     id: cat-572
+    label: "Cat. 572"
     accession_number: "2003.404"
     collection_link: <https://www.getty.edu/art/collection/objects/221793>
     dimensions: "L. 13.4, max. Diam. 1.1 cm; Wt. 6.03 g"
@@ -9780,6 +10352,7 @@ object_list:
     path: /catalogue/cat-572/
 -
     id: cat-573
+    label: "Cat. 573"
     accession_number: "2003.401"
     collection_link: <https://www.getty.edu/art/collection/objects/221790>
     dimensions: "L. 12.3, Diam. rim 2.5, max. Diam. 2.6 cm; Wt. 14.12 g"
@@ -9797,6 +10370,7 @@ object_list:
     path: /catalogue/cat-573/
 -
     id: cat-574
+    label: "Cat. 574"
     accession_number: "2003.356"
     collection_link: <https://www.getty.edu/art/collection/objects/221746>
     dimensions: "H. 6.0, W. 5.6 cm; Wt. 245.6 g"
@@ -9814,6 +10388,7 @@ object_list:
     path: /catalogue/cat-574/
 -
     id: cat-575
+    label: "Cat. 575"
     accession_number: "2003.357"
     collection_link: <https://www.getty.edu/art/collection/objects/221747>
     dimensions: "H. 3.8, Th. 4.0 cm; Wt. 96.4 g"
@@ -9831,6 +10406,7 @@ object_list:
     path: /catalogue/cat-575/
 -
     id: cat-576
+    label: "Cat. 576"
     accession_number: "2003.155"
     collection_link: <https://www.getty.edu/art/collection/objects/221522>
     dimensions: "H. 14.7, Diam. rim 1.6, D. body max. 0.7 cm; Wt. 9.34 g"
@@ -9848,6 +10424,7 @@ object_list:
     path: /catalogue/cat-576/
 -
     id: cat-577
+    label: "Cat. 577"
     accession_number: "2003.156"
     collection_link: <https://www.getty.edu/art/collection/objects/221523>
     dimensions: "H. 2.6, Diam. rim 1.3 cm; Wt. 2.44 g"
@@ -9865,6 +10442,7 @@ object_list:
     path: /catalogue/cat-577/
 -
     id: cat-578
+    label: "Cat. 578"
     accession_number: "2003.371"
     collection_link: <https://www.getty.edu/art/collection/objects/221761/>
     dimensions: "H. 2.0, Diam. 18.3, Th. 0.2 cm; Wt. 171 g"
@@ -9882,6 +10460,7 @@ object_list:
     path: /catalogue/cat-578/
 -
     id: cat-579
+    label: "Cat. 579"
     accession_number: "78.AC.381.77"
     collection_link: <https://www.getty.edu/art/collection/objects/105003>
     dimensions: "2.4 × 2.2 cm; Wt. 9.63 g"
@@ -9899,6 +10478,7 @@ object_list:
     path: /catalogue/cat-579/
 -
     id: cat-580
+    label: "Cat. 580"
     accession_number: "79.AF.184.20"
     collection_link: <https://www.getty.edu/art/collection/objects/8681>
     dimensions: "H. 4.4, Diam. rim 3.2, Diam. base 1.0 cm; Wt. 13.68 g"
@@ -9916,6 +10496,7 @@ object_list:
     path: /catalogue/cat-580/
 -
     id: cat-581
+    label: "Cat. 581"
     accession_number: "79.AF.184.22"
     collection_link: <https://www.getty.edu/art/collection/objects/8683>
     dimensions: "H. 4.7, Diam. rim 4.0, Diam. base 2.2 cm; Wt. 33.72 g"
@@ -9933,6 +10514,7 @@ object_list:
     path: /catalogue/cat-581/
 -
     id: cat-582
+    label: "Cat. 582"
     accession_number: "79.AF.184.30"
     collection_link: <https://www.getty.edu/art/collection/objects/8691>
     dimensions: "H. 5.3, Diam. rim 4.7, Diam. base 1.4 cm; Wt. 46.35 g"
@@ -9950,6 +10532,7 @@ object_list:
     path: /catalogue/cat-582/
 -
     id: cat-583
+    label: "Cat. 583"
     accession_number: "2003.462"
     collection_link: <https://www.getty.edu/art/collection/objects/221851/>
     dimensions: "L. 8.8, W. 5.4 cm; Wt. 89.5 g"
@@ -9967,6 +10550,7 @@ object_list:
     path: /catalogue/cat-583/
 -
     id: cat-584
+    label: "Cat. 584"
     accession_number: "2003.406"
     collection_link: <https://www.getty.edu/art/collection/objects/221795>
     dimensions: "L. 6.9, W. max. (with handles) 2.9 cm; Wt. 6.97 g"
