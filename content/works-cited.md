@@ -1,6 +1,6 @@
 ---
 title: "Works Cited"
-layout: bibliography
+layout: page
 order: 5000
 ---
 
