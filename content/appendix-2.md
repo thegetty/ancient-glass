@@ -6,7 +6,7 @@ layout: page
 order: 3500
 ---
 
-| **Accession Number Label** | **Catalogue Number**|
+| **Accession Number** | **Catalogue Number**|
 |-----------------------------|----------------------|  
 {%- assign objects_by_accession_number = objects.object_list | sort: "accession_number" -%}
 {%- for obj in objects_by_accession_number %}
