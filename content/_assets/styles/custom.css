@@ -30,6 +30,20 @@
   }
 }
 
+/* Temporary for thumbnails in Typological classification */
+figure.cat-thumbnail {
+  display: inline-block;
+  max-width: 150px;
+  text-align: left;
+  margin-top: 0;
+  margin-left: 0;
+  margin-bottom: 1rem;
+  margin-right: .5rem;
+}
+figure.cat-thumbnail a {
+  border-bottom-width: 0 !important;
+}
+
 /* COVER
 ============================================================================= */
 /* Cover customization to match previous collection catalogues */
