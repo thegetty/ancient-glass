@@ -9225,9 +9225,7 @@ figure_list:
   - id: table-1
     src: tables/appendix-table.html
     media_type: table
-    label: "Table 1."
-    caption: "Core-formed vessels investigated in the study, including their accession number, typology, attributed date, and colors analyzed."
-
+    
   - id: table-cat-534
     src: tables/cat-534-table.html
     media_type: table
