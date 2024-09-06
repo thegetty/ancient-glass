@@ -5,7 +5,8 @@ object_display_order:
   - production_area
   - find_area
   - material
-  - modeling_technique_and_decoration
+  - field: modeling_technique_and_decoration
+    label: Modeling Technique and Decoration
 
 object_filters:
   - culture
