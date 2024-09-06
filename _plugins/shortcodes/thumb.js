@@ -43,7 +43,7 @@ module.exports = function (eleventyConfig, { page }) {
       <figure class="cat-thumbnail">
         <a href="${catLink}">
         <img src="/iiif/${figPath}/thumbnail.jpg" />
-        <figcaption><strong>${catNumber}</strong>&nbsp;(${catAccNo})</figcaption>
+        <figcaption><strong>Cat. ${catNumber}</strong>&nbsp;(${catAccNo})</figcaption>
         </a>
       </figure>
       `
