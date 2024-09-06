@@ -95,6 +95,10 @@ Add custom def shortcode for glossary pop-ups
 **_plugins/shortcodes/index.js**
 Add custom def shortcode for accession number catalogue links
 
+**_plugins/shortcodes/thumb.js**
+**_plugins/shortcodes/index.js**
+Add custom thumb shortcode to create thumbnails based on cat numbers
+
 **_plugins/shortcodes/tombstone.js**
 Allow for optional custom labels with `field` and `label` attributes
 

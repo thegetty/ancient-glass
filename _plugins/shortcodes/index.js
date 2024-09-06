@@ -14,6 +14,7 @@ const figure = require('./figure')
 const figureGroup = require('./figureGroup')
 const ref = require('./ref')
 const shortcodeFactory = require('../components/shortcodeFactory')
+const thumb = require('./thumb')
 const title = require('./title')
 const tombstone = require('./tombstone')
 
@@ -31,5 +32,6 @@ module.exports = function(eleventyConfig, collections, options) {
   addShortcode('figure', figure)
   addShortcode('figuregroup', figureGroup)
   addShortcode('title', title)
+  addShortcode('thumb', thumb)
   addShortcode('tombstone', tombstone)
 }
