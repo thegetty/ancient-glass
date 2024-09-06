@@ -1,3 +1,8 @@
+//
+// CUSTOMIZED FILE
+// Object properties can have a defined `field` and `label` to 
+// allow for custom label naming. Markdown is supported on the labels.
+//
 const { html, oneLine } = require('~lib/common-tags')
 const path = require('path')
 
@@ -14,15 +19,26 @@ module.exports = function(eleventyConfig, { page }) {
     const markdownify = eleventyConfig.getFilter('markdownify')
     const properties = objects.object_display_order
 
-    const tableRow = (object, property) => {
-      if (!object || !property || !object[property]) return ''
+    const tableRow = (object, propField, propLabel) => {
+      if (!object[propField]) return ''
 
       return html`
         <tr>
-          <td>${titleCase(property)}</td>
-          <td>${markdownify(object[property].toString())}</td>
+          <td>${propLabel}</td>
+          <td>${markdownify(object[propField].toString())}</td>
         </tr>
-      `
+      ` 
+    }
+
+    const tableRowGroup = (object) => {
+      let rows = ''
+      for (const prop of properties) {
+        const propField = prop.field ? prop.field : prop
+        const propLabel = prop.label ? markdownify(prop.label) : titleCase(prop)
+
+        rows += tableRow(object, propField, propLabel)
+      }
+      return rows
     }
 
     const objectLink = (object) => object.link
@@ -37,7 +53,7 @@ module.exports = function(eleventyConfig, { page }) {
         <div class="container">
           <table class="table is-fullwidth">
             <tbody>
-              ${properties.map((property) => tableRow(object, property)).join('')}
+              ${tableRowGroup(object)}
             </tbody>
           </table>
           ${objectLink(object)}
