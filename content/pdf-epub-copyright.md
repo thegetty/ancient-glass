@@ -18,8 +18,8 @@ The free online edition of this publication is available at [getty.edu/publicati
 {% copyright %}
 
 First edition, {{ publication.pub_date | date: "%Y" }}
-[{{ publication.repository_url | replace: "https://", "" }}]({{ publication.repository_url }})
 
+{{ publication.revision_statement | markdownify }}
 
 <div class="publisher no-break-container">
 
