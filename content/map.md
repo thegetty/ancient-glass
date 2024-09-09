@@ -1,7 +1,7 @@
 ---
 title: "Map"
 layout: page
-order: 9 
+order: 10 
 ---
 
 **[Pleiades geo. system - online ed. only]**
