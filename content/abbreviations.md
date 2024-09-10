@@ -2,7 +2,7 @@
 title: "Abbreviations and Organization of Catalogue Entries"
 short_title: "Abbreviations and Organization"
 layout: page
-order: 8 
+order: 9 
 ---
 
 The catalogue entries of vessel and non-vessel glass objects presented in this publication adhere to the following format:
