@@ -13,7 +13,7 @@ menu: false
 
 {{ config.quire_credit_line }}
 
-The free online edition of this publication is available at [getty.edu/publications/ancient-glass/](https://getty.edu/publications/ancient-glass/) and includes 360-degree views and zoomable high-resolution photography. Also available are free PDF and EPUB downloads of the book.
+{{ publication.description.online_edition }}
 
 {% copyright %}
 
