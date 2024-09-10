@@ -1,7 +1,7 @@
 ---
 title: "Typological Classification"
 layout: page
-order: 8
+order: 9
 search: false
 ---
 
