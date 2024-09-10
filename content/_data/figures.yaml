@@ -9220,14 +9220,12 @@ figure_list:
     src: figures/fig-23-appendix.jpg
     #zoom: true
     label: "Figure 23."
-    caption: "Three-dimensional Principal Component Analysis (PCA) plot reporting data for the most abundant colors: blue, white, turquoise, and yellow. Each circle represents a data point for each color of glass found on an individual vessel; the data point color corresponds to the vessel’s color. Individual points corresponding to the blue, white, and turquoise analyzed in vessel 2003.203 (cat. 42) are highlighted with a red outline. Circled data points correspond to the identified groups White 1 (W1 – purple) and White 2 (W2a, W2b, W2c in incrementally darker shades of green respectively). Representative vessels for each group discussed in the text: White 1 (W1), White 2 (including W2a, W2b, W2c), Turquoise 1 (T1), Turquoise 2 (T2), and yellow, are shown: a. 2003.180 (W1), b. 2003.203 (W2a), c. 2003.198 (W2b), d. 2003.199 (W3c), e. 2003.197 (T1), f. 2003.196 (T2), g. 2003.172 (Y)."
+    caption: "Three-dimensional Principal Component Analysis (PCA) plot reporting data for the most abundant colors: blue, white, turquoise, and yellow. Each circle represents a data point for each color of glass found on an individual vessel; the data point color corresponds to the vessel’s color. Individual points corresponding to the blue, white, and turquoise analyzed in vessel 2003.203 ([cat. 42](/catalogue/cat-42/)) are highlighted with a red outline. Circled data points correspond to the identified groups White 1 (W1 – purple) and White 2 (W2a, W2b, W2c in incrementally darker shades of green respectively). Representative vessels for each group discussed in the text: White 1 (W1), White 2 (including W2a, W2b, W2c), Turquoise 1 (T1), Turquoise 2 (T2), and yellow, are shown: a. [2003.180](/catalogue/cat-10/) (W1), b. [2003.203](/catalogue/cat-42/) (W2a), c. [2003.198](/catalogue/cat-33/) (W2b), d. [2003.199](/catalogue/cat-47/) (W3c), e. [2003.197](/catalogue/cat-32/) (T1), f. [2003.196](/catalogue/cat-15/) (T2), g. [2003.172](/catalogue/cat-38/) (Y)."
 
   - id: table-1
     src: tables/appendix-table.html
     media_type: table
-    label: "Table 1."
-    caption: "Core-formed vessels investigated in the study, including their accession number, typology, attributed date, and colors analyzed."
-
+    
   - id: table-cat-534
     src: tables/cat-534-table.html
     media_type: table

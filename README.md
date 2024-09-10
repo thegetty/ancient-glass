@@ -81,6 +81,9 @@ Don't render menu or TOC links if page is `landing: false`
 **_includes/components/table-of-contents/item/list.js**
 Add a `data-layout` attribute to facilitate CSS hiding of cat. entries
 
+**_includes/components/copyright/licensing.js** 
+Updated licensing language
+
 **_layouts/cover.liquid**
 Added publication.cover_title in place of the default title
 
