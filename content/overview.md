@@ -1,7 +1,7 @@
 ---
 title: "Overview of Contents"
 layout: page
-order: 10
+order: 11
 ---
 
 An important aspect of a museum’s mission is to share its collections with the public. Along with its exhibitions, publishing the content of its collections in scholarly organized catalogues is the most efficient way to achieve that goal. The thorough, scholarly publication of the Getty Museum’s ancient glass collection aims to be beneficial not only to specialists, students, and professional art historians and archaeologists, but also to amateurs of ancient and Roman art and technology, studio artists, designers, and glassblowers, who will now gain access to a diverse and understudied corpus of artifacts. Furthermore, it is aimed toward the wider public, who will gain insight into one of the more intriguing genres of ancient art. Visitors to the Getty Villa’s galleries of ancient glass are almost inevitably intrigued by the impressive variety of shapes and colors, as well as the remarkable survival of such delicate objects over the centuries. This publication is also intended to serve as an extended guide with the hope that school groups and educators in the local communities might use information from it for their curricula, as an aid for their visits to the museum, and for deepening their knowledge of an ancient craft that in many ways continues to rely on the same techniques and aesthetics even today.
