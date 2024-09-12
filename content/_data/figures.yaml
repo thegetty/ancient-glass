@@ -7011,12 +7011,12 @@ figure_list:
     label: "Back"
     accession_number: 76-AF-70-30
   - id: fig-76-AF-70-31-a
-    src: figures/gm_02351101.jpg
+    src: figures/gm_023511F1V1.jpg
     zoom: true
     label: "Front"
     accession_number: 76-AF-70-31
   - id: fig-76-AF-70-31-b
-    src: figures/gm_023511F1V1.jpg
+    src: figures/gm_02351101.jpg
     zoom: true
     label: "Back"
     accession_number: 76-AF-70-31
