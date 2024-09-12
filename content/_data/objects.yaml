@@ -10531,7 +10531,7 @@ object_list:
     inscription: "No"
     shape: 
     technique: 
-    figure: [ id: "fig-79-AF-184-22-a", id: "fig-79-AF-184-22-b", id: "fig-79-AF-184-22-c", id: "fig-79-AF-184-22-d" ]
+    figure: [ id: "fig-79-AF-184-22-c", id: "fig-79-AF-184-22-a", id: "fig-79-AF-184-22-d", id: "fig-79-AF-184-22-b" ]
     path: /catalogue/cat-581/
 -
     id: cat-582
