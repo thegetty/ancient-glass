@@ -9665,7 +9665,7 @@ object_list:
     inscription: "No"
     shape: [ "Beads" ]
     technique: 
-    figure: [ id: "fig-2003-259-1-a", id: "fig-2003-259-1-b", id: "fig-2003-259-1-c", id: "fig-2003-259-1-d", id: "fig-2003-259-2-a", id: "fig-2003-259-2-b", id: "fig-2003-259-2-c", id: "fig-2003-259-2-d", id: "fig-2003-259-2-e", id: "fig-2003-259-2-f", id: "fig-2003-259-3-a", id: "fig-2003-259-3-b", id: "fig-2003-259-3-c", id: "fig-2003-259-3-d", id: "fig-2003-259-3-e", id: "fig-2003-259-3-f", id: "fig-2003-259-3-g", id: "fig-2003-259-4-a", id: "fig-2003-259-4-b", id: "fig-2003-259-4-c", id: "fig-2003-259-4-d", id: "fig-2003-259-5-a", id: "fig-2003-259-5-b", id: "fig-2003-259-5-c", id: "fig-2003-259-5-d", id: "fig-2003-259-5-e", id: "fig-2003-259-6-a", id: "fig-2003-259-6-b", id: "fig-2003-259-6-c", id: "fig-2003-259-6-d", id: "fig-2003-259-6-e", id: "fig-2003-259-7-a", id: "fig-2003-259-7-b", id: "fig-2003-259-7-c", id: "fig-2003-259-7-d", id: "fig-2003-259-8-a", id: "fig-2003-259-8-b", id: "fig-2003-259-8-c", id: "fig-2003-259-8-d", id: "fig-2003-259-8-e", id: "fig-2003-259-8-f", id: "fig-2003-259-9-a", id: "fig-2003-259-9-b", id: "fig-2003-259-9-c", id: "fig-2003-259-9-d", id: "fig-2003-259-10-a", id: "fig-2003-259-10-b", id: "fig-2003-259-10-c", id: "fig-2003-259-10-d", id: "fig-2003-259-10-e", id: "fig-2003-259-10-f", id: "fig-2003-259-11-a", id: "fig-2003-259-11-b", id: "fig-2003-259-11-c", id: "fig-2003-259-11-d", id: "fig-2003-259-12-a", id: "fig-2003-259-12-b", id: "fig-2003-259-12-c", id: "fig-2003-259-12-d", id: "fig-2003-259-12-e", id: "fig-2003-259-12-f", id: "fig-2003-259-13-a", id: "fig-2003-259-13-b", id: "fig-2003-259-13-c", id: "fig-2003-259-13-d", id: "fig-2003-259-13-e", id: "fig-2003-259-13-f", id: "fig-2003-259-14-a", id: "fig-2003-259-14-b", id: "fig-2003-259-14-c", id: "fig-2003-259-14-d", id: "fig-2003-259-14-e", id: "fig-2003-259-14-f", id: "fig-2003-259-15-a", id: "fig-2003-259-15-b", id: "fig-2003-259-15-c", id: "fig-2003-259-15-d", id: "fig-2003-259-15-e", id: "fig-2003-259-15-f", id: "fig-2003-259-16-a", id: "fig-2003-259-16-b", id: "fig-2003-259-16-c", id: "fig-2003-259-16-d", id: "fig-2003-259-16-e", id: "fig-2003-259-16-f", id: "fig-2003-259-16-g", id: "fig-2003-259-17-a", id: "fig-2003-259-17-b", id: "fig-2003-259-17-c", id: "fig-2003-259-17-d", id: "fig-2003-259-17-e", id: "fig-2003-259-17-f", id: "fig-2003-259-18-a", id: "fig-2003-259-18-b", id: "fig-2003-259-18-c", id: "fig-2003-259-18-d", id: "fig-2003-259-19-a", id: "fig-2003-259-19-b", id: "fig-2003-259-19-c", id: "fig-2003-259-19-d", id: "fig-2003-259-20-a", id: "fig-2003-259-20-b", id: "fig-2003-259-20-c", id: "fig-2003-259-20-d", id: "fig-2003-259-20-e", id: "fig-2003-259-20-f", id: "fig-2003-259-21-a", id: "fig-2003-259-21-b", id: "fig-2003-259-21-c", id: "fig-2003-259-21-d", id: "fig-2003-259-22-a", id: "fig-2003-259-22-b", id: "fig-2003-259-22-c", id: "fig-2003-259-22-d", id: "fig-2003-259-22-e", id: "fig-2003-259-22-f", id: "fig-2003-259-23-a", id: "fig-2003-259-23-b", id: "fig-2003-259-23-c", id: "fig-2003-259-23-d", id: "fig-2003-259-23-e", id: "fig-2003-259-24-a", id: "fig-2003-259-24-b", id: "fig-2003-259-24-c", id: "fig-2003-259-24-d", id: "fig-2003-259-25-a", id: "fig-2003-259-25-b", id: "fig-2003-259-25-c", id: "fig-2003-259-25-d", id: "fig-2003-259-26-a", id: "fig-2003-259-26-b", id: "fig-2003-259-26-c", id: "fig-2003-259-26-d", id: "fig-2003-259-26-e", id: "fig-2003-259-26-f", id: "fig-2003-259-27-a", id: "fig-2003-259-27-b", id: "fig-2003-259-27-c", id: "fig-2003-259-27-d", id: "fig-2003-259-27-e", id: "fig-2003-259-28-a", id: "fig-2003-259-28-b", id: "fig-2003-259-28-c", id: "fig-2003-259-28-d", id: "fig-2003-259-28-e", id: "fig-2003-259-28-f", id: "fig-2003-259-28-g", id: "fig-2003-259-29-a", id: "fig-2003-259-29-b", id: "fig-2003-259-29-c", id: "fig-2003-259-29-d", id: "fig-2003-259-29-e", id: "fig-2003-259-29-f", id: "fig-2003-259-30-a", id: "fig-2003-259-30-b", id: "fig-2003-259-30-c", id: "fig-2003-259-30-d", id: "fig-2003-259-30-e", id: "fig-2003-259-30-f" ]
+    figure: [ id: "fig-2003-259-1-a" ]
     path: /catalogue/cat-534/
 
 -
@@ -9686,6 +9686,557 @@ object_list:
     technique: 
     figure: [ id: "fig-2003-259-1-a", id: "fig-2003-259-1-b", id: "fig-2003-259-1-c", id: "fig-2003-259-1-d" ]
     path: /catalogue/cat-534-1/
+
+-
+    id: cat-534-2
+    label: "Cat. 534.2"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.2, max. Diam. 1.4 cm, Wt. 2.79 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-2-a", id: "fig-2003-259-2-b", id: "fig-2003-259-2-c", id: "fig-2003-259-2-d", id: "fig-2003-259-2-e", id: "fig-2003-259-2-f" ]
+    path: /catalogue/cat-534-2/
+
+-
+    id: cat-534-3
+    label: "Cat. 534.3"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.2, max. Diam. 1.4 cm, Wt. 2.34 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-3-a", id: "fig-2003-259-3-b", id: "fig-2003-259-3-c", id: "fig-2003-259-3-d", id: "fig-2003-259-3-e", id: "fig-2003-259-3-f", id: "fig-2003-259-3-g" ]
+    path: /catalogue/cat-534-3/
+
+-
+    id: cat-534-4
+    label: "Cat. 534.4"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.2, max. Diam. 1.35 cm, Wt. 2.70 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-4-a", id: "fig-2003-259-4-b", id: "fig-2003-259-4-c", id: "fig-2003-259-4-d" ]
+    path: /catalogue/cat-534-4/
+
+-
+    id: cat-534-5
+    label: "Cat. 534.5"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.3, max. Diam. 1.3 cm, Wt. 3.16 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-5-a", id: "fig-2003-259-5-b", id: "fig-2003-259-5-c", id: "fig-2003-259-5-d", id: "fig-2003-259-5-e" ]
+    path: /catalogue/cat-534-5/
+
+-
+    id: cat-534-6
+    label: "Cat. 534.6"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.2, max. Diam. 1.4 cm, Wt. 3.7 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-6-a", id: "fig-2003-259-6-b", id: "fig-2003-259-6-c", id: "fig-2003-259-6-d", id: "fig-2003-259-6-e" ]
+    path: /catalogue/cat-534-6/
+
+-
+    id: cat-534-7
+    label: "Cat. 534.7"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.2, max. Diam. 1.4 cm, Wt. 3.18 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-7-a", id: "fig-2003-259-7-b", id: "fig-2003-259-7-c", id: "fig-2003-259-7-d" ]
+    path: /catalogue/cat-534-7/
+
+-
+    id: cat-534-8
+    label: "Cat. 534.8"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.2, max. Diam. 1.7 cm, Wt. 3.46 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-8-a", id: "fig-2003-259-8-b", id: "fig-2003-259-8-c", id: "fig-2003-259-8-d", id: "fig-2003-259-8-e", id: "fig-2003-259-8-f" ]
+    path: /catalogue/cat-534-8/
+
+-
+    id: cat-534-9
+    label: "Cat. 534.9"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.3, max. Diam. 1.4 cm, Wt. 3.70 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-9-a", id: "fig-2003-259-9-b", id: "fig-2003-259-9-c", id: "fig-2003-259-9-d" ]
+    path: /catalogue/cat-534-9/
+
+-
+    id: cat-534-10
+    label: "Cat. 534.10"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.2, max. Diam. 1.7 cm, Wt. 3.60 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-10-a", id: "fig-2003-259-10-b", id: "fig-2003-259-10-c", id: "fig-2003-259-10-d", id: "fig-2003-259-10-e", id: "fig-2003-259-10-f" ]
+    path: /catalogue/cat-534-10/
+
+-
+    id: cat-534-11
+    label: "Cat. 534.11"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.3, max. Diam. 1.5 cm, Wt. 3.96 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-11-a", id: "fig-2003-259-11-b", id: "fig-2003-259-11-c", id: "fig-2003-259-11-d" ]
+    path: /catalogue/cat-534-11/
+
+-
+    id: cat-534-12
+    label: "Cat. 534.12"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.4, max. Diam. 1.4 cm, Wt. 3.62 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-12-a", id: "fig-2003-259-12-b", id: "fig-2003-259-12-c", id: "fig-2003-259-12-d", id: "fig-2003-259-12-e", id: "fig-2003-259-12-f" ]
+    path: /catalogue/cat-534-12/
+
+-
+    id: cat-534-13
+    label: "Cat. 534.13"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.4, max. Diam. 1.3 cm, Wt. 4.10 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-13-a", id: "fig-2003-259-13-b", id: "fig-2003-259-13-c", id: "fig-2003-259-13-d", id: "fig-2003-259-13-e", id: "fig-2003-259-13-f" ]
+    path: /catalogue/cat-534-13/
+
+-
+    id: cat-534-14
+    label: "Cat. 534.14"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.4, max. Diam. 1.4 cm, Wt. 4.05 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-14-a", id: "fig-2003-259-14-b", id: "fig-2003-259-14-c", id: "fig-2003-259-14-d", id: "fig-2003-259-14-e", id: "fig-2003-259-14-f" ]
+    path: /catalogue/cat-534-14/
+
+-
+    id: cat-534-15
+    label: "Cat. 534.15"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.6, max. Diam. 1.5 cm, Wt. 5.27 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-15-a", id: "fig-2003-259-15-b", id: "fig-2003-259-15-c", id: "fig-2003-259-15-d", id: "fig-2003-259-15-e", id: "fig-2003-259-15-f" ]
+    path: /catalogue/cat-534-15/
+
+-
+    id: cat-534-16
+    label: "Cat. 534.16"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.5, max. Diam. 1.2 cm, Wt. 3.23 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-16-a", id: "fig-2003-259-16-b", id: "fig-2003-259-16-c", id: "fig-2003-259-16-d", id: "fig-2003-259-16-e", id: "fig-2003-259-16-f", id: "fig-2003-259-16-g" ]
+    path: /catalogue/cat-534-16/
+
+-
+    id: cat-534-17
+    label: "Cat. 534.17"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.5, max. Diam. 1.7 cm, Wt. 5.45 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-17-a", id: "fig-2003-259-17-b", id: "fig-2003-259-17-c", id: "fig-2003-259-17-d", id: "fig-2003-259-17-e", id: "fig-2003-259-17-f" ]
+    path: /catalogue/cat-534-17/
+
+-
+    id: cat-534-18
+    label: "Cat. 534.18"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.5, max. Diam. 1.5 cm, Wt. 4.86 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-18-a", id: "fig-2003-259-18-b", id: "fig-2003-259-18-c", id: "fig-2003-259-18-d" ]
+    path: /catalogue/cat-534-18/
+
+-
+    id: cat-534-19
+    label: "Cat. 534.19"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.4, max. Diam. 1.4 cm, Wt. 4.22 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-19-a", id: "fig-2003-259-19-b", id: "fig-2003-259-19-c", id: "fig-2003-259-19-d" ]
+    path: /catalogue/cat-534-19/
+
+-
+    id: cat-534-20
+    label: "Cat. 534.20"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.5, max. Diam. 1.4 cm, Wt. 3.62 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-20-a", id: "fig-2003-259-20-b", id: "fig-2003-259-20-c", id: "fig-2003-259-20-d", id: "fig-2003-259-20-e", id: "fig-2003-259-20-f" ]
+    path: /catalogue/cat-534-20/
+
+-
+    id: cat-534-21
+    label: "Cat. 534.21"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.4, max. Diam. 1.5 cm, Wt. 3.45 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-21-a", id: "fig-2003-259-21-b", id: "fig-2003-259-21-c", id: "fig-2003-259-21-d" ]
+    path: /catalogue/cat-534-21/
+
+-
+    id: cat-534-22
+    label: "Cat. 534.22"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.4, max. Diam. 1.5 cm, Wt. 3.42 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-22-a", id: "fig-2003-259-22-b", id: "fig-2003-259-22-c", id: "fig-2003-259-22-d", id: "fig-2003-259-22-e", id: "fig-2003-259-22-f" ]
+    path: /catalogue/cat-534-22/
+
+-
+    id: cat-534-23
+    label: "Cat. 534.23"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.4, max. Diam. 1.5 cm, Wt. 4.00 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-23-a", id: "fig-2003-259-23-b", id: "fig-2003-259-23-c", id: "fig-2003-259-23-d", id: "fig-2003-259-23-e" ]
+    path: /catalogue/cat-534-23/
+
+-
+    id: cat-534-24
+    label: "Cat. 534.24"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.3, max. Diam. 1.3 cm, Wt. 3.48 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-24-a", id: "fig-2003-259-24-b", id: "fig-2003-259-24-c", id: "fig-2003-259-24-d" ]
+    path: /catalogue/cat-534-24/
+
+-
+    id: cat-534-25
+    label: "Cat. 534.25"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.3, max. Diam. 1.3 cm, Wt. 3.02 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-25-a", id: "fig-2003-259-25-b", id: "fig-2003-259-25-c", id: "fig-2003-259-25-d" ]
+    path: /catalogue/cat-534-25/
+
+-
+    id: cat-534-26
+    label: "Cat. 534.26"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.2, max. Diam. 1.3 cm, Wt. 2.97 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-26-a", id: "fig-2003-259-26-b", id: "fig-2003-259-26-c", id: "fig-2003-259-26-d", id: "fig-2003-259-26-e", id: "fig-2003-259-26-f" ]
+    path: /catalogue/cat-534-26/
+
+-
+    id: cat-534-27
+    label: "Cat. 534.27"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.2, max. Diam. 1.3 cm, Wt. 2.46 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-27-a", id: "fig-2003-259-27-b", id: "fig-2003-259-27-c", id: "fig-2003-259-27-d", id: "fig-2003-259-27-e" ]
+    path: /catalogue/cat-534-27/
+
+-
+    id: cat-534-28
+    label: "Cat. 534.28"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.2, max. Diam. 1.3 cm, Wt. 3.00 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-28-a", id: "fig-2003-259-28-b", id: "fig-2003-259-28-c", id: "fig-2003-259-28-d", id: "fig-2003-259-28-e", id: "fig-2003-259-28-f", id: "fig-2003-259-28-g" ]
+    path: /catalogue/cat-534-28/
+
+-
+    id: cat-534-29
+    label: "Cat. 534.29"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.3, max. Diam. 1.2 cm, Wt. 2.55 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-29-a", id: "fig-2003-259-29-b", id: "fig-2003-259-29-c", id: "fig-2003-259-29-d", id: "fig-2003-259-29-e", id: "fig-2003-259-29-f" ]
+    path: /catalogue/cat-534-29/
+
+-
+    id: cat-534-30
+    label: "Cat. 534.30"
+    accession_number: "2003.259"
+    collection_link: <https://www.getty.edu/art/collection/objects/221648>
+    dimensions: "H. 1.3, max. Diam. 1.4 cm, Wt. 2.80 g"
+    date: "First century CE"
+    start_date: "1"
+    end_date: "99"
+    production_area: "Eastern Mediterranean, probably Egypt"
+    culture: "Greek or Roman"
+    material: ""
+    modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
+    inscription: "No"
+    shape: [ "Beads" ]
+    technique: 
+    figure: [ id: "fig-2003-259-30-a", id: "fig-2003-259-30-b", id: "fig-2003-259-30-c", id: "fig-2003-259-30-d", id: "fig-2003-259-30-e", id: "fig-2003-259-30-f" ]
+    path: /catalogue/cat-534-30/
 
 -
     id: cat-535
