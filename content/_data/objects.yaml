@@ -5255,7 +5255,7 @@ object_list:
     inscription: "No"
     shape: [ "Jugs" ]
     technique: [ "Free-blown" ]
-    figure: [ id: "fig-2003-476-a", id: "fig-2003-476-b", id: "fig-2003-476-c", id: "fig-2003-476-d" ]
+    figure: [ id: "fig-2003-476-b", id: "fig-2003-476-a", id: "fig-2003-476-c", id: "fig-2003-476-d" ]
     path: /catalogue/cat-289/
 -
     id: cat-290
@@ -5291,7 +5291,7 @@ object_list:
     inscription: "No"
     shape: [ "Jugs" ]
     technique: [ "Free-blown" ]
-    figure: [ id: "fig-2003-377-a", id: "fig-2003-377-b", id: "fig-2003-377-c", id: "fig-2003-377-d" ]
+    figure: [ id: "fig-2003-377-b", id: "fig-2003-377-d", id: "fig-2003-377-c", id: "fig-2003-377-a" ]
     path: /catalogue/cat-291/
 -
     id: cat-292
@@ -5363,7 +5363,7 @@ object_list:
     inscription: "No"
     shape: [ "Jugs" ]
     technique: [ "Free-blown" ]
-    figure: [ id: "fig-2003-284-a", id: "fig-2003-284-b", id: "fig-2003-284-c", id: "fig-2003-284-d" ]
+    figure: [ id: "fig-2003-284-d", id: "fig-2003-284-a", id: "fig-2003-284-c", id: "fig-2003-284-b" ]
     path: /catalogue/cat-295/
 -
     id: cat-296
@@ -5381,7 +5381,7 @@ object_list:
     inscription: "No"
     shape: [ "Jugs" ]
     technique: [ "Free-blown" ]
-    figure: [ id: "fig-2003-376-a", id: "fig-2003-376-b", id: "fig-2003-376-c", id: "fig-2003-376-d" ]
+    figure: [ id: "fig-2003-376-c", id: "fig-2003-376-b", id: "fig-2003-376-d", id: "fig-2003-376-a" ]
     path: /catalogue/cat-296/
 -
     id: cat-297
@@ -5417,7 +5417,7 @@ object_list:
     inscription: "No"
     shape: [ "Jugs" ]
     technique: [ "Free-blown" ]
-    figure: [ id: "fig-2003-428-a", id: "fig-2003-428-b", id: "fig-2003-428-c", id: "fig-2003-428-d" ]
+    figure: [ id: "fig-2003-428-d", id: "fig-2003-428-a", id: "fig-2003-428-c", id: "fig-2003-428-b" ]
     path: /catalogue/cat-298/
 -
     id: cat-299
@@ -5435,7 +5435,7 @@ object_list:
     inscription: "No"
     shape: [ "Jugs" ]
     technique: [ "Free-blown" ]
-    figure: [ id: "fig-2003-422-a", id: "fig-2003-422-b" ]
+    figure: [ id: "fig-2003-422-b", id: "fig-2003-422-a" ]
     path: /catalogue/cat-299/
 -
     id: cat-300
@@ -5453,7 +5453,7 @@ object_list:
     inscription: "No"
     shape: [ "Oinochoai" ]
     technique: [ "Free-blown" ]
-    figure: [ id: "fig-2003-410-a", id: "fig-2003-410-b", id: "fig-2003-410-c", id: "fig-2003-410-d" ]
+    figure: [ id: "fig-2003-410-c", id: "fig-2003-410-b", id: "fig-2003-410-d", id: "fig-2003-410-a" ]
     path: /catalogue/cat-300/
 -
     id: cat-301
@@ -5471,7 +5471,7 @@ object_list:
     inscription: "No"
     shape: [ "Jugs" ]
     technique: [ "Free-blown" ]
-    figure: [ id: "fig-2003-413-a", id: "fig-2003-413-b", id: "fig-2003-413-c", id: "fig-2003-413-d" ]
+    figure: [ id: "fig-2003-413-d", id: "fig-2003-413-a", id: "fig-2003-413-c", id: "fig-2003-413-b" ]
     path: /catalogue/cat-301/
 -
     id: cat-302
@@ -10511,7 +10511,7 @@ object_list:
     inscription: "No"
     shape: 
     technique: 
-    figure: [ id: "fig-79-AF-184-22-a", id: "fig-79-AF-184-22-b", id: "fig-79-AF-184-22-c", id: "fig-79-AF-184-22-d" ]
+    figure: [ id: "fig-79-AF-184-22-c", id: "fig-79-AF-184-22-a", id: "fig-79-AF-184-22-d", id: "fig-79-AF-184-22-b" ]
     path: /catalogue/cat-581/
 -
     id: cat-582

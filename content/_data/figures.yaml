@@ -2228,7 +2228,7 @@ figure_list:
   - id: fig-2003-284-a
     src: figures/gm_24881301.jpg
     zoom: true
-    label: "Main View"
+    label: "Side A"
     accession_number: 2003-284
   - id: fig-2003-284-b
     src: figures/gm_248813F1V1.jpg
@@ -2243,7 +2243,7 @@ figure_list:
   - id: fig-2003-284-d
     src: figures/gm_248813F3V1.jpg
     zoom: true
-    label: "Side B/A"
+    label: "Main view"
     accession_number: 2003-284
   - id: fig-2003-288-a
     src: figures/gm_24881701.jpg
@@ -2293,7 +2293,7 @@ figure_list:
   - id: fig-2003-376-c
     src: figures/gm_248906F2V1.jpg
     zoom: true
-    label: "Side A/B"
+    label: "Main view"
     accession_number: 2003-376
   - id: fig-2003-376-d
     src: figures/gm_248906F3V1.jpg
@@ -2303,12 +2303,12 @@ figure_list:
   - id: fig-2003-377-a
     src: figures/gm_24890701.jpg
     zoom: true
-    label: "Main view"
+    label: "Side A"
     accession_number: 2003-377
   - id: fig-2003-377-b
     src: figures/gm_248907F1V1.jpg
     zoom: true
-    label: "Side A/B"
+    label: "Main View"
     accession_number: 2003-377
   - id: fig-2003-377-c
     src: figures/gm_248907F2V1.jpg
@@ -2348,7 +2348,7 @@ figure_list:
   - id: fig-2003-410-a
     src: figures/gm_24894001.jpg
     zoom: true
-    label: "Main view"
+    label: "Side A"
     accession_number: 2003-410
   - id: fig-2003-410-b
     src: figures/gm_248940F1V1.jpg
@@ -2358,7 +2358,7 @@ figure_list:
   - id: fig-2003-410-c
     src: figures/gm_248940F2V1.jpg
     zoom: true
-    label: "Side A/B"
+    label: "Main view"
     accession_number: 2003-410
   - id: fig-2003-410-d
     src: figures/gm_248940F3V1.jpg
@@ -2388,12 +2388,12 @@ figure_list:
   - id: fig-2003-422-a
     src: figures/gm_24895201.jpg
     zoom: true
-    label: "Main view"
+    label: "Front"
     accession_number: 2003-422
   - id: fig-2003-422-b
     src: figures/gm_248952F1V1.jpg
     zoom: true
-    label: "Side A/B"
+    label: "Main view"
     accession_number: 2003-422
   - id: fig-2003-428-a
     src: figures/gm_24895801.jpg
@@ -2473,12 +2473,12 @@ figure_list:
   - id: fig-2003-476-a
     src: figures/gm_24900601.jpg
     zoom: true
-    label: "Main view"
+    label: "Front"
     accession_number: 2003-476
   - id: fig-2003-476-b
     src: figures/gm_249006F1V1.jpg
     zoom: true
-    label: "Right side"
+    label: "Main View"
     accession_number: 2003-476
   - id: fig-2003-476-c
     src: figures/gm_249006F2V1.jpg
