@@ -10259,7 +10259,7 @@ object_list:
     inscription: "No"
     shape: 
     technique: 
-    figure: [ id: "fig-2003-295-1-a", id: "fig-2003-295-1-b", id: "fig-2003-295-1-c", id: "fig-2003-295-2-a", id: "fig-2003-295-2-b", id: "fig-2003-295-2-c" ]
+    figure: [ id: "fig-2003-295-1-a", id: "fig-2003-295-1-b", id: "fig-2003-295-1-c", id: "fig-2003-295-2-b", id: "fig-2003-295-2-c" ]
     path: /catalogue/cat-567/
 -
     id: cat-568
