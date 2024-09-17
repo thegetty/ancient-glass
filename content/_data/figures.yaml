@@ -9232,3 +9232,8 @@ figure_list:
     media_type: table
     label: 
     caption: 
+
+  - id: cat-534
+    src: figures/cat-534.jpg
+    zoom: true
+    label: "Main view"
