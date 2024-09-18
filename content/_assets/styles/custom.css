@@ -182,6 +182,10 @@ figure.cat-thumbnail a {
 /* PRINT
 ============================================================================= */
 @media print {
+  /*  Title page */
+  .title-page * {
+    max-width: 4.52in;
+  }
   /* Hide objects grid */
   objects-catalog {
     display: none;
@@ -194,27 +198,6 @@ figure.cat-thumbnail a {
     max-width: 100%;
     margin: 0;
   }
-  /* TEMP: for testing TOC alignment */
-  .quire-contents-list .page-item {
-    /* background-color: pink; */
-  }
-  .quire-contents-list .menu-list a {
-    /* border: 1px solid red; */
-  }
-  .quire-contents-list .page-item, 
-  .quire-contents-list .section-item {
-    /* background-color: honeydew; */
-    /* max-width: 90%; */
-  }
-  .quire-contents-list .menu-list .section-item ol a {
-    /* border-width: 1px; */
-  }
-  .quire-contents-list .menu-list .section-item ol {
-    /* border: 1px solid blue; */
-  }
-  .quire-contents-list .menu-list .section-item ol .section-item {
-    /* max-width: 90%; */
-  } 
   /* Make catalogue entries run together and tighten spacing and image size to minimize page count*/
   .catalogue-entries-wrapper {
     column-count: 2;
