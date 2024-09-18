@@ -338,3 +338,9 @@ figure.cat-thumbnail a {
     margin-bottom: .5rem;
   }
 }
+
+@media print {
+  #page-appendix-2 .container {
+    column-count: 2;
+  }
+}
