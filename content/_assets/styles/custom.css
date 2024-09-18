@@ -18,13 +18,13 @@
     padding-top: 1rem;
   }
   .quire::before {
-    content: "PROTOTYPE";
+    content: "SECOND";
     background-color: cyan;
     bottom: -115px;
     right: -115px;
   }
   .quire::after {
-    content: "";
+    content: "PAGES";
     bottom: -130px;
     right: -130px;
   }
