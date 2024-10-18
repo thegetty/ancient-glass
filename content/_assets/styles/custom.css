@@ -177,7 +177,38 @@ figure.cat-thumbnail a {
   }
 }
  
-
+/* MAP
+============================================================================= */
+.quire-page.map .quire-page__header {
+  z-index: 1;
+  position: relative;
+  background-color: transparent;
+}
+.quire-page.map .quire-page__content:nth-child(2) {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: calc(100vh - 3rem);
+  z-index: 0;
+}
+.quire-page.map .quire-page__content:nth-child(2) .content,
+.quire-page.map .quire-page__content:nth-child(2) .container {
+  padding: 0;
+  margin: 0;
+  max-width: none;
+  width: 100%;
+}
+#leafletmap {
+  width: 100%;
+  height: calc(100vh - 3rem);
+}
+.quire-page.map .quire-page__content:last-child {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
 
 /* PRINT
 ============================================================================= */
@@ -328,3 +359,4 @@ figure.cat-thumbnail a {
     margin: 0;
   }
 }
+
