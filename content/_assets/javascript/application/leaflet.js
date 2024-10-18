@@ -26,7 +26,7 @@ function createCustomIcon (feature, latlng) {
     iconUrl:      iconType,
     iconSize:     [30, 55], // width and height of the image in pixels
     iconAnchor:   [15, 55], // point of the icon which will correspond to marker's location
-    popupAnchor:  [0, -60] // point from which the popup should open relative to the iconAnchor
+    popupAnchor:  [0, -40] // point from which the popup should open relative to the iconAnchor
   })
   return L.marker(latlng, { icon: myIcon })
 }
@@ -34,19 +34,22 @@ function createCustomIcon (feature, latlng) {
 // https://savaslabs.com/blog/mapping-external-geojson-data
 L.geoJSON(geojsonFeature, {
   onEachFeature: function(feature, layer) {
-    const address = feature.properties.address ? `<strong>${feature.properties.address}</strong>` : ''
-    const description = feature.properties.description ? `<br />${feature.properties.description}` : ''
-    const popupText = `
-      ${address}
-      ${description}
-    `
-    
     const name = feature.properties.name ? `${feature.properties.name}` : ''
     const type = feature.properties.featureType ? `${feature.properties.featureType}` : ''
-
+    const tgn = feature.properties.tgnID ? `${feature.properties.tgnID}` : '' 
+    const pleiades = feature.properties.pleiadesID ? `${feature.properties.pleiadesID}` : ''
+    
     const labelText = `${name}`
     layer.bindTooltip(labelText, { permanent: true, className: type, direction: 'center', offset: [0, -30] });
 
+    const tgnLink = tgn ? `<a href="https://vocab.getty.edu/page/tgn/${tgn}" target="_blank">Getty TGN ID: ${tgn}</a>` : ''
+    const pleiadesLink = pleiades ? `<a href="https://pleiades.stoa.org/places/${pleiades}" target="_blank">Pleiades ID: ${pleiades}</a>` : ''
+
+    const popupText = `
+      <strong>${name}</strong>
+      ${tgnLink}
+      ${pleiadesLink}
+    `
     layer.bindPopup(popupText); },
   pointToLayer: createCustomIcon
 }).addTo(map);

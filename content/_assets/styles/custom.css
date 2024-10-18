@@ -231,16 +231,40 @@ figure.cat-thumbnail a {
 }
 #leafletmap .region, 
 #leafletmap .sea {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   color: black;
-  font-style: italic;
+  text-transform: uppercase;
+  font-weight: bold;
 }
 #leafletmap .city {
   font-weight: bold;
   font-size: .875rem;
-  text-transform: uppercase;
+  font-family: 'Noto Sans', Arial, sans-serif;
 }
-
+#leafletmap .leaflet-tooltip.region {
+  margin-top: 30px;
+}
+.leaflet-popup-content-wrapper .leaflet-popup-content * {
+  display: block;
+}
+.leaflet-popup-content-wrapper .leaflet-popup-content strong {
+  font-size: 1.25em;
+  margin-bottom: .25em;
+}
+.leaflet-popup-content-wrapper .leaflet-popup-content a {
+  border-bottom-width: 0 !important;
+  color: var(--accent-color) !important;
+}
+.leaflet-container a.leaflet-popup-close-button {
+  border-bottom-width: 0 !important;
+}
+.quire-page__content .content .leaflet-popup-content-wrapper .leaflet-popup-content a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {
+  color: black !important;
+  border-bottom-width: 0 !important;
+}
+.quire-page__content .content a.leaflet-popup-close-button:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {
+  border-bottom-width: 0 !important;
+}
 
 /* PRINT
 ============================================================================= */

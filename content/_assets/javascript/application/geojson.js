@@ -2,8 +2,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Aegean Sea",
-      "pleiadesURI": "https://pleiades.stoa.org/places/560221",
-      "tgnURI": "http://vocab.getty.edu/page/tgn/7002675",
+      "pleiadesID": "560221",
+      "tgnID": "7002675",
       "featureType": "sea"
     },
     "geometry": {
@@ -18,8 +18,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Ardebil",
-      "pleiadesURI": "https://pleiades.stoa.org/places/884119",
-      "tgnURI": "http://vocab.getty.edu/page/tgn/7002103",
+      "pleiadesID": "884119",
+      "tgnID": "7002103",
       "featureType": "city"
     },
     "geometry": {
@@ -34,8 +34,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Asia Minor",
-      "pleiadesURI": "https://pleiades.stoa.org/places/837",
-      "tgnURI": "http://vocab.getty.edu/page/tgn/7002294",
+      "pleiadesID": "837",
+      "tgnID": "7002294",
       "featureType": "region"
     },
     "geometry": {
@@ -50,8 +50,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Azerbaijan",
-      "pleiadesURI": "",
-      "tgnURI": "http://vocab.getty.edu/page/tgn/7006683",
+      "pleiadesID": "",
+      "tgnID": "7006683",
       "featureType": "region"
     },
     "geometry": {
@@ -66,8 +66,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Carthage",
-      "pleiadesURI": "https://pleiades.stoa.org/places/314921",
-      "tgnURI": "http://vocab.getty.edu/page/tgn/7016143",
+      "pleiadesID": "314921",
+      "tgnID": "7016143",
       "featureType": "city"
     },
     "geometry": {
@@ -82,8 +82,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Cologne",
-      "pleiadesURI": "https://pleiades.stoa.org/places/108751",
-      "tgnURI": "http://vocab.getty.edu/page/tgn/7004446",
+      "pleiadesID": "108751",
+      "tgnID": "7004446",
       "featureType": "city"
     },
     "geometry": {
@@ -98,8 +98,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Crete",
-      "pleiadesURI": "https://pleiades.stoa.org/places/589748",
-      "tgnURI": "http://vocab.getty.edu/page/tgn/7230421",
+      "pleiadesID": "589748",
+      "tgnID": "7230421",
       "featureType": "region"
     },
     "geometry": {
@@ -114,8 +114,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Cyprus",
-      "pleiadesURI": "https://pleiades.stoa.org/places/707498",
-      "tgnURI": "http://vocab.getty.edu/page/tgn/7880092",
+      "pleiadesID": "707498",
+      "tgnID": "7880092",
       "featureType": "region"
     },
     "geometry": {
@@ -130,8 +130,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Dalmatia",
-      "pleiadesURI": "https://pleiades.stoa.org/places/981522",
-      "tgnURI": "http://vocab.getty.edu/page/tgn/7015451",
+      "pleiadesID": "981522",
+      "tgnID": "7015451",
       "featureType": "region"
     },
     "geometry": {
@@ -146,8 +146,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Egypt",
-      "pleiadesURI": "https://pleiades.stoa.org/places/981503",
-      "tgnURI": "http://vocab.getty.edu/page/tgn/7014986",
+      "pleiadesID": "981503",
+      "tgnID": "7014986",
       "featureType": "region"
     },
     "geometry": {
@@ -162,8 +162,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Eskişehir",
-      "pleiadesURI": "https://pleiades.stoa.org/places/658463",
-      "tgnURI": "http://vocab.getty.edu/page/tgn/7002496",
+      "pleiadesID": "658463",
+      "tgnID": "7002496",
       "featureType": "city"
     },
     "geometry": {
@@ -178,8 +178,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Iran",
-      "pleiadesURI": "",
-      "tgnURI": "http://vocab.getty.edu/page/tgn/7000231",
+      "pleiadesID": "",
+      "tgnID": "7000231",
       "featureType": "region"
     },
     "geometry": {
@@ -194,8 +194,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Italy",
-      "pleiadesURI": "https://pleiades.stoa.org/places/1052",
-      "tgnURI": "http://vocab.getty.edu/page/tgn/7023981",
+      "pleiadesID": "1052",
+      "tgnID": "7023981",
       "featureType": "region"
     },
     "geometry": {
@@ -210,8 +210,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Kerch",
-      "pleiadesURI": "",
-      "tgnURI": "http://vocab.getty.edu/page/tgn/7012009",
+      "pleiadesID": "",
+      "tgnID": "7012009",
       "featureType": "city"
     },
     "geometry": {
@@ -226,8 +226,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Mediterranean Sea",
-      "pleiadesURI": "https://pleiades.stoa.org/places/1043",
-      "tgnURI": "http://vocab.getty.edu/page/tgn/7016735",
+      "pleiadesID": "1043",
+      "tgnID": "7016735",
       "featureType": "sea"
     },
     "geometry": {
@@ -242,8 +242,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Northwestern Roman Provinces",
-      "pleiadesURI": "",
-      "tgnURI": "",
+      "pleiadesID": "",
+      "tgnID": "",
       "featureType": "region"
     },
     "geometry": {
@@ -258,8 +258,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Olbia",
-      "pleiadesURI": "https://pleiades.stoa.org/places/471987",
-      "tgnURI": "http://vocab.getty.edu/page/tgn/1045729",
+      "pleiadesID": "471987",
+      "tgnID": "1045729",
       "featureType": "city"
     },
     "geometry": {
@@ -274,8 +274,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Palestine",
-      "pleiadesURI": "",
-      "tgnURI": "http://vocab.getty.edu/page/tgn/7004540",
+      "pleiadesID": "",
+      "tgnID": "7004540",
       "featureType": "region"
     },
     "geometry": {
@@ -290,8 +290,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Pergamon",
-      "pleiadesURI": "https://pleiades.stoa.org/places/550812",
-      "tgnURI": "http://vocab.getty.edu/page/tgn/7016140",
+      "pleiadesID": "550812",
+      "tgnID": "7016140",
       "featureType": "city"
     },
     "geometry": {
@@ -306,8 +306,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Phoenicia",
-      "pleiadesURI": "https://pleiades.stoa.org/places/678334",
-      "tgnURI": "http://vocab.getty.edu/page/tgn/6004687",
+      "pleiadesID": "678334",
+      "tgnID": "6004687",
       "featureType": "region"
     },
     "geometry": {
@@ -322,8 +322,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Rhineland",
-      "pleiadesURI": "",
-      "tgnURI": "",
+      "pleiadesID": "",
+      "tgnID": "",
       "featureType": "region "
     },
     "geometry": {
@@ -338,8 +338,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Rhodes",
-      "pleiadesURI": "https://pleiades.stoa.org/places/590031",
-      "tgnURI": "",
+      "pleiadesID": "590031",
+      "tgnID": "",
       "featureType": "region"
     },
     "geometry": {
@@ -354,8 +354,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Rome",
-      "pleiadesURI": "https://pleiades.stoa.org/places/423025",
-      "tgnURI": "http://vocab.getty.edu/page/tgn/7000874",
+      "pleiadesID": "423025",
+      "tgnID": "7000874",
       "featureType": "city"
     },
     "geometry": {
@@ -370,8 +370,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Sidon",
-      "pleiadesURI": "https://pleiades.stoa.org/places/678393",
-      "tgnURI": "http://vocab.getty.edu/page/tgn/7002861",
+      "pleiadesID": "678393",
+      "tgnID": "7002861",
       "featureType": "city"
     },
     "geometry": {
@@ -386,8 +386,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Switzerland",
-      "pleiadesURI": "",
-      "tgnURI": "http://vocab.getty.edu/page/tgn/7011731",
+      "pleiadesID": "",
+      "tgnID": "7011731",
       "featureType": "region"
     },
     "geometry": {
@@ -402,8 +402,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Syria",
-      "pleiadesURI": "https://pleiades.stoa.org/places/1306",
-      "tgnURI": "",
+      "pleiadesID": "1306",
+      "tgnID": "",
       "featureType": "region"
     },
     "geometry": {
@@ -418,8 +418,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Thonon-les-Bains",
-      "pleiadesURI": "",
-      "tgnURI": "http://vocab.getty.edu/page/tgn/1035867",
+      "pleiadesID": "",
+      "tgnID": "1035867",
       "featureType": "city"
     },
     "geometry": {
@@ -434,8 +434,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Ticino",
-      "pleiadesURI": "",
-      "tgnURI": "http://vocab.getty.edu/page/tgn/7004723",
+      "pleiadesID": "",
+      "tgnID": "7004723",
       "featureType": "region"
     },
     "geometry": {
@@ -450,8 +450,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Trier",
-      "pleiadesURI": "https://pleiades.stoa.org/places/108894",
-      "tgnURI": "http://vocab.getty.edu/page/tgn/7004447",
+      "pleiadesID": "108894",
+      "tgnID": "7004447",
       "featureType": "city"
     },
     "geometry": {
@@ -466,8 +466,8 @@ const geojsonFeature = [{
     "type": "Feature",
     "properties": {
       "name": "Venice",
-      "pleiadesURI": "https://pleiades.stoa.org/places/818739154",
-      "tgnURI": "http://vocab.getty.edu/page/tgn/7018159",
+      "pleiadesID": "818739154",
+      "tgnID": "7018159",
       "featureType": "city"
     },
     "geometry": {
