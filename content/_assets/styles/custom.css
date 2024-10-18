@@ -183,6 +183,16 @@ figure.cat-thumbnail a {
   z-index: 1;
   position: relative;
   background-color: transparent;
+  width: fit-content;
+  margin: 0 auto;
+  position: absolute;
+  top: 3rem;
+  left: 0;
+  right: 0;
+}
+.quire-page.map .quire-page__header .hero-body {
+  padding: 0;
+  margin: 0;
 }
 .quire-page.map .quire-page__content:nth-child(2) {
   position: absolute;
@@ -202,6 +212,7 @@ figure.cat-thumbnail a {
 #leafletmap {
   width: 100%;
   height: calc(100vh - 3rem);
+  font-family: 'Times New Roman', Times, serif;
 }
 .quire-page.map .quire-page__content:last-child {
   position: absolute;
@@ -209,6 +220,27 @@ figure.cat-thumbnail a {
   left: 0;
   right: 0;
 }
+
+#leafletmap .region, 
+#leafletmap .sea,
+#leafletmap .city {
+  background-color: transparent;
+  border: none;
+  box-shadow: none;
+  text-shadow: 1px 1px 2px white;
+}
+#leafletmap .region, 
+#leafletmap .sea {
+  font-size: 1.5rem;
+  color: black;
+  font-style: italic;
+}
+#leafletmap .city {
+  font-weight: bold;
+  font-size: .875rem;
+  text-transform: uppercase;
+}
+
 
 /* PRINT
 ============================================================================= */

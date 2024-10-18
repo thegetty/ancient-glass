@@ -6,21 +6,30 @@ import 'leaflet/dist/leaflet.css'
 const map = L.map('leafletmap').setView([42.8, 22.6], 5);
 
 L.tileLayer('https://cawm.lib.uiowa.edu/tiles/{z}/{x}/{y}.png', {
-    maxZoom: 6,
+    maxZoom: 10,
     attribution: '&copy; <a href="">Ancient World Mapping Center</a>'
 }).addTo(map);
 
 // https://gist.github.com/geog4046instructor/80ee78db60862ede74eacba220809b64
 // replace Leaflet's default blue marker with a custom icon
-// function createCustomIcon (feature, latlng) {
-//   let myIcon = L.icon({
-//     iconUrl: 'marker.png',
-//     iconSize:     [30, 55], // width and height of the image in pixels
-//     iconAnchor:   [15, 55], // point of the icon which will correspond to marker's location
-//     popupAnchor:  [0, -60] // point from which the popup should open relative to the iconAnchor
-//   })
-//   return L.marker(latlng, { icon: myIcon })
-// }
+function createCustomIcon (feature, latlng) {
+  var type = feature.properties.featureType
+
+  let iconType = ''
+  if (type == 'city') {
+    iconType = '/_assets/images/icons/marker-yellow.png'
+  } else {
+    iconType = '/_assets/images/icons/marker-blank.png'
+  }
+
+  var myIcon = L.icon({
+    iconUrl:      iconType,
+    iconSize:     [30, 55], // width and height of the image in pixels
+    iconAnchor:   [15, 55], // point of the icon which will correspond to marker's location
+    popupAnchor:  [0, -60] // point from which the popup should open relative to the iconAnchor
+  })
+  return L.marker(latlng, { icon: myIcon })
+}
 
 // https://savaslabs.com/blog/mapping-external-geojson-data
 L.geoJSON(geojsonFeature, {
@@ -31,6 +40,13 @@ L.geoJSON(geojsonFeature, {
       ${address}
       ${description}
     `
+    
+    const name = feature.properties.name ? `${feature.properties.name}` : ''
+    const type = feature.properties.featureType ? `${feature.properties.featureType}` : ''
+
+    const labelText = `${name}`
+    layer.bindTooltip(labelText, { permanent: true, className: type, direction: 'center', offset: [0, -30] });
+
     layer.bindPopup(popupText); },
-  // pointToLayer: createCustomIcon
+  pointToLayer: createCustomIcon
 }).addTo(map);
