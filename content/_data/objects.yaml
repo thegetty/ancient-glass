@@ -853,7 +853,7 @@ object_list:
     accession_number: "2003.202"
     link: <https://www.getty.edu/art/collection/objects/221569>
     dimensions: "H. 11.4, Diam. rim 2.1, max. Diam. 5.1 cm; Wt. 118.41 g"
-    date: "Second to mid-first century BCE, with modern restorations"
+    date: "Second–mid-first century BCE, with modern restorations"
     start_date: "-200"
     end_date: "-34"
     production_area: "Eastern Mediterranean, possibly Syro-Palestinian region"
@@ -1993,7 +1993,7 @@ object_list:
     production_area: "Italy or possibly Egypt"
     culture: "Greek or Roman"
     material: "Translucent purple and opaque yellow, white, and red glass"
-    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; base applied; rotary polished"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; applied base; rotary polished"
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
@@ -3325,7 +3325,7 @@ object_list:
     production_area: "Eastern Mediterranean"
     culture: "Roman"
     material: "Translucent dark blue and dark green glass"
-    modeling_technique_and_decoration: "Mold-blown; handle and base applied"
+    modeling_technique_and_decoration: "Mold-blown; applied handle and base"
     inscription: "No"
     shape: [ "Head jugs" ]
     technique: [ "Mold-blown" ]
@@ -8764,7 +8764,7 @@ object_list:
     modeling_technique_and_decoration: "Assembled from fused composite canes; slumped and rotary pressed"
     inscription: "No"
     shape: [ "Appliqués" ]
-    technique: [ "Fusion" ]
+    technique: [ "Slumped" ]
     figure: [ id: "fig-76-AF-70-13-a", id: "fig-76-AF-70-13-b" ]
     path: /catalogue/cat-484/
 -
@@ -8782,7 +8782,7 @@ object_list:
     modeling_technique_and_decoration: "Assembled from fused composite canes; slumped and rotary pressed"
     inscription: "No"
     shape: [ "Appliqués" ]
-    technique: [ "Fusion" ]
+    technique: [ "Slumped" ]
     figure: [ id: "fig-76-AF-70-45-a", id: "fig-76-AF-70-45-b" ]
     path: /catalogue/cat-485/
 -
