@@ -22,7 +22,7 @@ A yellow thread is wound around the rim. A thin turquoise and wide yellow thread
 
 ## Comments and Comparanda
 
-On core-formed alabastra see comments on {% cat '2003.180' %}. For the classification of this particular alabastron see {% cite 'Grose 1989' %}, class I:F, alabastron form I:3A: p. 141, no. 88.
+On core-formed alabastra, see comments on {% cat '2003.180' %}. For the classification of this particular alabastron, see {% cite 'Grose 1989' %}, class I:F, alabastron form I:3A: p. 141, no. 88.
 
 ## Provenance
 

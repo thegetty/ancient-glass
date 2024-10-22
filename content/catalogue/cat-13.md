@@ -22,7 +22,7 @@ The alabastron is decorated with applied, white threads. An unmarvered thread is
 
 ## Comments and Comparanda
 
-On core-formed alabastra see comments on {% cat '2003.180' %}. For the classification of this particular alabastron see {% cite 'Grose 1989' %}, class I:F, alabastron form I:3A: p. 187, no. 77; {% cite 'Harden 1981' %}, form 3, pp. 58–59.
+On core-formed alabastra, see comments on {% cat '2003.180' %}. For the classification of this particular alabastron, see {% cite 'Grose 1989' %}, class I:F, alabastron form I:3A: p. 187, no. 77; {% cite 'Harden 1981' %}, form 3, pp. 58–59.
 
 ## Provenance
 

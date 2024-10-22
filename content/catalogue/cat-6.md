@@ -17,7 +17,7 @@ Intact. Pitting and weathering on the inside have caused a brown discoloration. 
 
 ## Description
 
-Flaring rim, with one ground band clearly visible at the tip and another in the interior at the transition to the neck; short, wide, cylindrical neck; rudimentary sloping shoulder; elongated ovoid body; mildly convex bottom. On upper body two opposing oval lugs (knobs) are barely visible, but each lug was first formed as a lozenge that was further cut off or smoothed into its final oval shape.
+Flaring rim, with one ground band clearly visible at the tip and another in the interior at the transition to the neck; short, wide, cylindrical neck; rudimentary sloping shoulder; elongated ovoid body; mildly convex bottom. On upper body, two opposing oval lugs (knobs) are barely visible, but each lug was first formed as a lozenge that was further cut off or smoothed into its final oval shape.
 
 ## Comments and Comparanda
 

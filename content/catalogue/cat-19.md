@@ -22,7 +22,7 @@ A yellow marvered thread, wound around the rim, spirals 22 times around the body
 
 ## Comments and Comparanda
 
-On core-formed alabastra see comments on {% cat '2003.180' %}. For the classification of this particular alabastron see {% cite 'Grose 1989' %}, class I:F, alabastron form I:3B: pp. 139–141, nos. 82–85. Almost identical with {% cat '2003.189' %}.
+On core-formed alabastra, see comments on {% cat '2003.180' %}. For the classification of this particular alabastron, see {% cite 'Grose 1989' %}, class I:F, alabastron form I:3B: pp. 139–141, nos. 82–85. Almost identical with {% cat '2003.189' %}.
 
 ## Provenance
 
