@@ -16,7 +16,7 @@ Intact. Some iridescence.
 
 ## Description
 
-Hemispherical bowl with vertical, ground rim. Relief rings start at 1.4 cm below the rim. Three pairs of double rings are separated by two equidistant rows of single rings, forming seven bands, 0.70 cm wide, in total. A small disk is at the center of the bottom. The rings and the small disk are made of the same amber-colored glass as the body, and they are only covered on the surface with a thin layer of white glass.
+Hemispherical bowl with vertical, ground rim. Relief rings start at 1.4 cm below the rim. Three pairs of double rings are separated by two equidistant rows of single rings, forming seven bands, 0.7 cm wide, in total. A small disk is at the center of the bottom. The rings and the small disk are made of the same amber-colored glass as the body, and they are only covered on the surface with a thin layer of white glass.
 
 ## Comments and Comparanda
 

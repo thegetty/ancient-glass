@@ -1072,9 +1072,9 @@ object_list:
     date: "Sixth–fifth centuries BCE"
     start_date: "-600"
     end_date: "-401"
-    production_area: "Eastern Mediterranean. Aegean?"
+    production_area: "Eastern Mediterranean, Aegean?"
     culture: "Greek"
-    material: "Translucent dark blue and opaque white and turquoise glass"
+    material: "Translucent dark blue and opaque turquoise and white glass"
     modeling_technique_and_decoration: "Core-formed; applied marvered threads"
     inscription: "No"
     shape: [ "Unidentified" ]
@@ -1090,7 +1090,7 @@ object_list:
     date: "First century CE"
     start_date: "1"
     end_date: "99"
-    production_area: "Eastern Mediterranean. Aegean?"
+    production_area: "Eastern Mediterranean, Aegean?"
     culture: "Roman"
     material: "Translucent dark blue and opaque white glass"
     modeling_technique_and_decoration: "Core-formed; applied elements"
@@ -1105,7 +1105,7 @@ object_list:
     accession_number: "2003.217"
     link: <https://www.getty.edu/art/collection/objects/221600>
     dimensions: "H. 8.5, Diam. rim 15.8, Th. 0.5 cm; Wt. 260.62 g"
-    date: "Ca. 150–ca. 50 BCE"
+    date: "Ca. 150–50 BCE"
     start_date: "-150"
     end_date: "-50"
     production_area: "Eastern Mediterranean"
@@ -1123,7 +1123,7 @@ object_list:
     accession_number: "2004.17"
     link: <https://www.getty.edu/art/collection/objects/221475>
     dimensions: "Η. 8.5, Diam. rim 14.0, Th. 0.5 cm; Wt. 260.91 g"
-    date: "Ca. 150–ca. 50 BCE"
+    date: "Ca. 150–50 BCE"
     start_date: "-150"
     end_date: "-50"
     production_area: "Eastern Mediterranean"
@@ -1558,7 +1558,7 @@ object_list:
     date: "15 BCE–25 CE"
     start_date: "-15"
     end_date: "25"
-    production_area: "Probably Italy. Said to come from near Eskişehir, Turkey"
+    production_area: "Probably Italy. Said to come from near Eskişehir, Türkiye"
     culture: "Roman"
     material: "Opaque white and translucent cobalt blue glass"
     modeling_technique_and_decoration: "Mold cast and free-blown"
@@ -1591,13 +1591,13 @@ object_list:
     accession_number: "85.AF.85"
     link: <https://www.getty.edu/art/collection/objects/10941>
     dimensions: "H. 2.1, Diam. rim 16.0, Diam. base 8.8 cm; Wt. 134.68 g"
-    date: "Late first century BCE–early first century CE"
+    date: "Late first century BCE–early first century&nbsp;CE"
     start_date: "-33"
     end_date: "32"
     production_area: "Italy or possibly eastern Mediterranean"
     culture: "Roman"
     material: "Opaque white and yellow and translucent purple and bluish glass"
-    modeling_technique_and_decoration: "Assembled of slices of canes, cast, base-ring applied, rotary polished"
+    modeling_technique_and_decoration: "Assembled of slices of canes, cast, applied base-ring, rotary polished"
     inscription: "No"
     shape: [ "Dishes" ]
     technique: [ "Slumped" ]

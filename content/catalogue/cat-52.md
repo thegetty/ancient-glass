@@ -16,7 +16,7 @@ Parts of the rim, neck, handle, and the decorative band on the neck are restored
 
 ## Description
 
-Core-formed translucent dark blue miniature oinochoe. Applied trefoil rim-disk; long cylindrical neck; sloping shoulder; ovoid body; convex bottom; discoid base with a tall stem. An almost vertical, mildly convex strap handle is attached on the shoulder (distorting the decorative protrusions in that area), stretched upward, and bent to the underside of the rim-disk.
+Core-formed, translucent dark blue miniature oinochoe. Applied trefoil rim-disk; long cylindrical neck; sloping shoulder; ovoid body; convex bottom; discoid base with a tall stem. An almost vertical, mildly convex strap handle is attached on the shoulder (distorting the decorative protrusions in that area), stretched upward, and bent to the underside of the rim-disk.
 
 Three rows of pinched, projecting knobs decorate the vessel from shoulder to mid-body height. A small, amorphous hole is visible on the lower part of the bottom, adjacent to the spot where the coil that forms the base is applied. On the convex bottom is a thick coil of glass, wound four times, forming the stem and the base, which is flattened to a discoid shape. A finer thread is spirally wound five times over the lower part of the body and the stem, beginning on the lower body. A thick coil is wound one and a half times around the mid-neck height and flattened to form a decorative discoid band.
 

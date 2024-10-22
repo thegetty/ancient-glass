@@ -22,7 +22,7 @@ An unmarvered turquoise thread is wound around the rim and spirally wound three 
 
 ## Comments and Comparanda
 
-See comments on {% cat '2003.179' %}. For the classification of this particular oinochoe see {% cite 'Grose 1989' %}, class II:A, oinochoe form II:1 subclass with upright festoon and not feathering; see Toronto, ROM 950.157.15 ({% cite 'Grose 1989' %}, p. 118, fig. 74).
+See comments on {% cat '2003.179' %}. For the classification of this particular oinochoe, see {% cite 'Grose 1989' %}, class II:A, oinochoe form II:1 subclass with upright festoon and not feathering; see Toronto, ROM 950.157.15 ({% cite 'Grose 1989' %}, p. 118, fig. 74).
 
 ## Provenance
 
