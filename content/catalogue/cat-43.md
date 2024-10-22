@@ -22,7 +22,7 @@ A marvered opaque yellow thread is wound on the rim and spirals to the bottom 22
 
 ## Comments and Comparanda
 
-Amphoriskoi are one of the two main vessel forms produced in glass workshops active in the eastern Mediterranean between the middle of the second century BCE and the early first century CE, conventionally referred to as Mediterranean group III, a period of revival of core-forming, after a century-long period of stasis during which no new glass vessel forms were introduced. On Mediterranean group III: {% cite 'Harden 1981' %}, pp. 123–141; {% cite 'McClellan 1984' %}, pp. 127–164; {% cite 'Grose 1989' %}, pp. 122–125; {% cite 'Stern and Schlick-Nolte 1994' %}, p. 39. For the classification of this particular vessel see {% cite 'Grose 1989' %}, class III:E, amphoriskos form III:2B: pp. 169–172, nos. 168–176.
+Amphoriskoi are one of the two main vessel forms produced in glass workshops active in the eastern Mediterranean between the middle of the second century BCE and the early first century CE, conventionally referred to as Mediterranean group III, a period of revival of core-forming, after a century-long period of stasis during which no new glass vessel forms were introduced. On Mediterranean group III: {% cite 'Harden 1981' %}, pp. 123–141; {% cite 'McClellan 1984' %}, pp. 127–164; {% cite 'Grose 1989' %}, pp. 122–125; {% cite 'Stern and Schlick-Nolte 1994' %}, p. 39. For the classification of this particular vessel, see {% cite 'Grose 1989' %}, class III:E, amphoriskos form III:2B: pp. 169–172, nos. 168–176.
 
 ## Provenance
 
