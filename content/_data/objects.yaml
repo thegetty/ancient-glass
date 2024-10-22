@@ -1615,7 +1615,7 @@ object_list:
     production_area: "Probably Italy, or eastern Mediterranean"
     culture: "Greek or Roman"
     material: "Translucent purple, gray, and yellow and opaque white glass"
-    modeling_technique_and_decoration: "Assembled of slices of canes, cast, base-ring applied, rotary polished"
+    modeling_technique_and_decoration: "Assembled of slices of canes, cast, applied base-ring; slumped; rotary polished"
     inscription: "No"
     shape: [ "Dishes" ]
     technique: [ "Slumped" ]
@@ -1633,7 +1633,7 @@ object_list:
     production_area: "Italy or possibly eastern Mediterranean"
     culture: "Roman"
     material: "Opaque white, yellow, green, and turquoise and translucent purple glass"
-    modeling_technique_and_decoration: "Assembled of slices of canes, slumped, base-ring and rim applied, polished"
+    modeling_technique_and_decoration: "Assembled of slices of canes, slumped, applied base-ring and rim; slumped; polished"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Slumped" ]
@@ -1651,7 +1651,7 @@ object_list:
     production_area: "Italy or possibly eastern Mediterranean"
     culture: "Roman"
     material: "Opaque white, red, and yellow and translucent purple glass"
-    modeling_technique_and_decoration: "Assembled of slices of canes, cast, base-ring applied, rotary polished"
+    modeling_technique_and_decoration: "Assembled of slices of canes, cast, applied base-ring; slumped; rotary polished"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Slumped" ]
@@ -1669,7 +1669,7 @@ object_list:
     production_area: "Italy or possibly eastern Mediterranean"
     culture: "Roman"
     material: "Opaque red, white, and green and translucent blue glass"
-    modeling_technique_and_decoration: "Assembled of slices of canes, cast, base-ring applied, rotary polished"
+    modeling_technique_and_decoration: "Assembled of slices of canes, cast, applied base-ring; slumped; rotary polished"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Slumped" ]
@@ -1687,7 +1687,7 @@ object_list:
     production_area: "Italy or possibly eastern Mediterranean"
     culture: "Roman"
     material: "Opaque red and yellow and translucent greenish and purple glass"
-    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; cast, base-ring applied, rotary polished"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; cast, applied base-ring, rotary polished"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Slumped" ]
@@ -1705,7 +1705,7 @@ object_list:
     production_area: "Italy or possibly eastern Mediterranean"
     culture: "Roman"
     material: "Opaque white and translucent grayish and purple glass"
-    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; cast, base-ring applied, rotary polished"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; cast, applied base-ring, rotary polished"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Slumped" ]
@@ -1723,7 +1723,7 @@ object_list:
     production_area: "Italy or possibly eastern Mediterranean. Allegedly found at Kerch"
     culture: "Roman"
     material: "Opaque red and yellow and translucent greenish and blue glass"
-    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; cast, base-ring applied, rotary polished"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; cast, applied base-ring, rotary polished"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Slumped" ]
@@ -1741,7 +1741,7 @@ object_list:
     production_area: "Italy or possibly eastern Mediterranean"
     culture: "Roman"
     material: "Opaque red and white and translucent blue glass"
-    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; cast, rotary polished"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; cast; rotary polished"
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]

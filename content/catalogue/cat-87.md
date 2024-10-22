@@ -20,7 +20,7 @@ The fragment is part of a dish’s flat bottom, which stood on a fine purple bas
 
 ## Comments and Comparanda
 
-For the production technique see {% cite 'Dawes 2002' %} and comments on {% cat '85.AF.85' %}. This fragment could be part of a shallow carinated dish like {% cat '85.AF.85' %}, or a non-carinated dish (for the class see {% cite 'Grose 1989' %}, pp. 256–261: composite mosaic vessels: non-carinated forms).
+For the production technique, see {% cite 'Dawes 2002' %} and comments on {% cat '85.AF.85' %}. This fragment could be part of a shallow carinated dish like {% cat '85.AF.85' %}, or a non-carinated dish (for the class, see {% cite 'Grose 1989' %}, pp. 256–261: composite mosaic vessels: non-carinated forms).
 
 ## Provenance
 

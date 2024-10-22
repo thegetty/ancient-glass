@@ -20,7 +20,7 @@ The bowl has a slightly flaring lip, divided by a horizontal depression from the
 
 ## Comments and Comparanda
 
-For the production technique see {% cite 'Dawes 2002' %} and comments on {% cat '85.AF.85' %}. On cast, angular vessels see comments on {% cat '78.AF.32' %}.
+For the production technique, see {% cite 'Dawes 2002' %} and comments on {% cat '85.AF.85' %}. On cast, angular vessels, see comments on {% cat '78.AF.32' %}.
 
 ## Provenance
 
