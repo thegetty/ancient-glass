@@ -20,7 +20,7 @@ A flat fragment that has been repolished and lost part of its surface on both si
 
 ## Comments and Comparanda
 
-For the production technique see comments on {% cat '85.AF.85' %}. On the trade of small fragments of mosaic glass in the nineteenth century and on the different techniques and classes of mosaic glass present in the JPGM collection, see comments on {% cat '76.AF.70.21' %}. This fragment quite probably belongs to the same vessel as {% cat '83.AF.28.8' %}.
+For the production technique see comments on {% cat '85.AF.85' %}. On the trade of small fragments of mosaic glass in the nineteenth century and on the different techniques and classes of mosaic glass present in the Getty collection, see comments on {% cat '76.AF.70.21' %}. This fragment quite probably belongs to the same vessel as {% cat '83.AF.28.8' %}.
 
 ## Provenance
 
