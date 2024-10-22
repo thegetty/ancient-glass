@@ -24,7 +24,7 @@ Based on its shape ({% cite 'Nolte 1968' %}, p. 165 amphoriskoi, form III.f, whe
 
 ## Comparanda
 
-{% cite 'Nolte 1968' %}, pp. 88–93, plates VI:4; VII:8, 9, 11. Also {% cite 'Grose 1989' %}, pp. 59–60, no. 5, for a two-handled example; for a four-handled parallel see the MMA piece that has been dated to the period of Amenhotep III–Akhenaten, ca. 1391–1336 BCE: https://www.metmuseum.org/art/collection/search/544828.
+{% cite 'Nolte 1968' %}, pp. 88–93, plates VI:4; VII:8, 9, 11. Also {% cite 'Grose 1989' %}, pp. 59–60, no. 5, for a two-handled example; for a four-handled parallel see the Metropolitan Museum of Art piece that has been dated to the period of Amenhotep III–Akhenaten, ca. 1391–1336 BCE: https://www.metmuseum.org/art/collection/search/544828.
 
 ## Provenance
 
