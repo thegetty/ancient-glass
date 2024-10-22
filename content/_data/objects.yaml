@@ -3030,7 +3030,7 @@ object_list:
     label: "Cat. 166"
     accession_number: "95.AF.60"
     link: <https://www.getty.edu/art/collection/objects/27077/>
-    dimensions: "H. 6.9, Diam. rim 7.4, Diam. base 4.5, max. D. 8.7 cm; Wt. 36.93 g"
+    dimensions: "H. 6.9, Diam. rim 7.4, max. D. 8.7, Diam. base 4.5 cm; Wt. 36.93 g"
     date: "Middle of the first century CE"
     start_date: "33"
     end_date: "65"
@@ -3192,7 +3192,7 @@ object_list:
     label: "Cat. 175"
     accession_number: "2004.36"
     link: <https://www.getty.edu/art/collection/objects/221503/>
-    dimensions: "H. 19.8, max. Diam. 8.8, Diam. rim 2.2, Diam. base 5.4 cm; Wt. 122.42 g"
+    dimensions: "H. 19.8, Diam. rim 2.2, max. Diam. 8.8, Diam. base 5.4 cm; Wt. 122.42 g"
     date: "Possibly late first century CE, more likely third century CE"
     start_date: "66"
     end_date: "299"
@@ -3300,7 +3300,7 @@ object_list:
     label: "Cat. 181"
     accession_number: "85.AF.320"
     link: <https://www.getty.edu/art/collection/objects/11020/>
-    dimensions: "H. 17.2, Diam. rim 5.4, Diam. base 6.7, max. Diam. 8.0 cm; Wt. 207.00 g"
+    dimensions: "H. 17.2, Diam. rim 5.4, max. Diam. 8.0, Diam. base 6.7 cm; Wt. 207.00 g"
     date: "Mid-fourth–mid-fifth centuries CE"
     start_date: "333"
     end_date: "465"
@@ -3318,7 +3318,7 @@ object_list:
     label: "Cat. 182"
     accession_number: "2004.44"
     link: <https://www.getty.edu/art/collection/objects/221511/>
-    dimensions: "H. 16.4, Diam. rim 5.0, Diam. base 5.8, max. Diam. 9.2 cm; Wt. 161.85 g"
+    dimensions: "H. 16.4, Diam. rim 5.0, max. Diam. 9.2, Diam. base 5.8 cm; Wt. 161.85 g"
     date: "Mid-fourth–mid-fifth centuries CE"
     start_date: "333"
     end_date: "465"
@@ -3444,7 +3444,7 @@ object_list:
     label: "Cat. 189"
     accession_number: "2003.344"
     link: <https://www.getty.edu/art/collection/objects/221734/>
-    dimensions: "H. 25.7, Diam. rim 6.0, Diam. base 6.3, max. Diam. 7.5 (at the shoulders) cm; Wt. 235.20 g"
+    dimensions: "H. 25.7, Diam. rim 6.0, max. Diam. 7.5 (at the shoulders), Diam. base 6.3 cm; Wt. 235.20 g"
     date: "Mid-fifth–early seventh centuries"
     start_date: "433"
     end_date: "632"
@@ -3858,7 +3858,7 @@ object_list:
     label: "Cat. 212"
     accession_number: "2003.309"
     link: <https://www.getty.edu/art/collection/objects/221699/>
-    dimensions: "H. 9.2, Diam. rim 2.2, Diam. base 2.5, max. Diam. 4.9 cm; Wt. 22.20 g"
+    dimensions: "H. 9.2, Diam. rim 2.2, max. Diam. 4.9, Diam. base 2.5 cm; Wt. 22.20 g"
     date: "First half of the first century CE"
     start_date: "1"
     end_date: "49"
@@ -3876,7 +3876,7 @@ object_list:
     label: "Cat. 213"
     accession_number: "2003.310"
     link: <https://www.getty.edu/art/collection/objects/221700>
-    dimensions: "H. 8.3, Diam. rim 1.6 × 1.9, Diam. base 2.2, max. Diam. 3.9 cm; Wt. 25.90 g"
+    dimensions: "H. 8.3, Diam. rim 1.6 × 1.9, max. Diam. 3.9, Diam. base 2.2 cm; Wt. 25.90 g"
     date: "First half of the first century CE"
     start_date: "1"
     end_date: "49"
@@ -4704,7 +4704,7 @@ object_list:
     label: "Cat. 259"
     accession_number: "71.AF.84"
     link: <https://www.getty.edu/art/collection/objects/6571/>
-    dimensions: "H. 8.5, Diam. rim 7.1, Diam. base 3.4, max. Diam. 7.3 cm; Wt. 88.25 g"
+    dimensions: "H. 8.5, Diam. rim 7.1, max. Diam. 7.3, Diam. base 3.4 cm; Wt. 88.25 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -4830,7 +4830,7 @@ object_list:
     label: "Cat. 266"
     accession_number: "2003.361"
     link: <https://www.getty.edu/art/collection/objects/221751/>
-    dimensions: "H. 8.3, Diam. rim 7.0, Diam. base 4.5, max. Diam. 8.5 cm; Wt. 93.67 g"
+    dimensions: "H. 8.3, Diam. rim 7.0, max. Diam. 8.5, Diam. base 4.5 cm; Wt. 93.67 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -5136,7 +5136,7 @@ object_list:
     label: "Cat. 283"
     accession_number: "2003.449"
     link: <https://www.getty.edu/art/collection/objects/221838>
-    dimensions: "H. 7.0, Diam. rim 3.8, Diam. base 3.8, max. Diam. 7.0 cm; Wt. 36.40 g"
+    dimensions: "H. 7.0, Diam. rim 3.8, max. Diam. 7.0, Diam. base 3.8 cm; Wt. 36.40 g"
     date: "Sixth–seventh centuries CE"
     start_date: "500"
     end_date: "699"
@@ -5604,7 +5604,7 @@ object_list:
     label: "Cat. 309"
     accession_number: "2003.392"
     link: <https://www.getty.edu/art/collection/object/1096AX>
-    dimensions: "H. 7.0, Diam. rim 4.6, Diam. base 2.6, max. Diam. 6.0 cm; Wt. 37.50 g"
+    dimensions: "H. 7.0, Diam. rim 4.6, max. Diam. 6.0, Diam. base 2.6 cm; Wt. 37.50 g"
     date: "Third century CE"
     start_date: "200"
     end_date: "299"
@@ -5640,7 +5640,7 @@ object_list:
     label: "Cat. 311"
     accession_number: "2003.400"
     link: <https://www.getty.edu/art/collection/objects/221789>
-    dimensions: "H. 7.0, max. Diam. 6.5, Diam. rim 5.7, Diam. base 3.0 cm; Wt. 58.13 g"
+    dimensions: "H. 7.0, Diam. rim 5.7, max. Diam. 6.5, Diam. base 3.0 cm; Wt. 58.13 g"
     date: "Third–fourth centuries CE"
     start_date: "200"
     end_date: "399"
@@ -5730,7 +5730,7 @@ object_list:
     label: "Cat. 316"
     accession_number: "2003.375"
     link: <https://www.getty.edu/art/collection/objects/221765>
-    dimensions: "H. 9.0, max. Diam. 7.9, Diam. rim 6.4, Diam. base 4.1 cm; Wt. 73.67 g"
+    dimensions: "H. 9.0, Diam. rim 6.4, max. Diam. 7.9, Diam. base 4.1 cm; Wt. 73.67 g"
     date: "Sixth–seventh centuries CE"
     start_date: "500"
     end_date: "699"
@@ -5982,7 +5982,7 @@ object_list:
     label: "Cat. 330"
     accession_number: "2004.40"
     link: <https://www.getty.edu/art/collection/objects/221507>
-    dimensions: "H. 9.6, max. Diam. 6.0, Diam. rim 2.0, Diam. base 2.3, Th. 0.2 cm; Wt. 18.29 g"
+    dimensions: "H. 9.6, Diam. rim 2.0, max. Diam. 6.0, Diam. base 2.3, Th. 0.2 cm; Wt. 18.29 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -6000,7 +6000,7 @@ object_list:
     label: "Cat. 331"
     accession_number: "2003.418"
     link: <https://www.getty.edu/art/collection/objects/221804>
-    dimensions: "H. 7.0, Diam. rim 2.1, Diam. base 2.2, max. Diam. 4.5, Th. 0.2 cm; Wt. 18.94 g"
+    dimensions: "H. 7.0, Diam. rim 2.1, max. Diam. 4.5, Diam. base 2.2, Th. 0.2 cm; Wt. 18.94 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -6324,7 +6324,7 @@ object_list:
     label: "Cat. 349"
     accession_number: "2003.438"
     link: <https://www.getty.edu/art/collection/objects/221827>
-    dimensions: "H. 11.4, Diam. rim 5.3, Diam. base 3.4, max. Diam. 7.5 cm; Wt. 85.42 g"
+    dimensions: "H. 11.4, Diam. rim 5.3, max. Diam. 7.5, Diam. base 3.4 cm; Wt. 85.42 g"
     date: "Third–fourth centuries CE"
     start_date: "200"
     end_date: "399"
@@ -6342,7 +6342,7 @@ object_list:
     label: "Cat. 350"
     accession_number: "2003.448"
     link: <https://www.getty.edu/art/collection/objects/221837>
-    dimensions: "H. 7.8, Diam. rim 4.2, Diam. base 2.9, max. Diam. 5.0 cm; Wt. 76.79 g"
+    dimensions: "H. 7.8, Diam. rim 4.2, max. Diam. 5.0, Diam. base 2.9 cm; Wt. 76.79 g"
     date: "Third–fourth centuries CE"
     start_date: "200"
     end_date: "399"
@@ -6504,7 +6504,7 @@ object_list:
     label: "Cat. 359"
     accession_number: "2003.419"
     link: <https://www.getty.edu/art/collection/objects/221808>
-    dimensions: "H. 8.0, Diam. rim 2.4, Diam. base 2.5, max. Diam. 5.3, Th. 0.1 cm; Wt. 15.80 g"
+    dimensions: "H. 8.0, Diam. rim 2.4, max. Diam. 5.3, Diam. base 2.5, Th. 0.1 cm; Wt. 15.80 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -6594,7 +6594,7 @@ object_list:
     label: "Cat. 364"
     accession_number: "78.AF.35"
     link: <https://www.getty.edu/art/collection/objects/8169>
-    dimensions: "H. 25.5, Diam. rim 7.1, Diam. base 8.3, max. Diam. 13.0, Th. 0.3 cm; Wt. 441.40 g"
+    dimensions: "H. 25.5, Diam. rim 7.1, max. Diam. 13.0, Diam. base 8.3, Th. 0.3 cm; Wt. 441.40 g"
     date: "Third or probably fourth century CE"
     start_date: "200"
     end_date: "399"
@@ -6936,7 +6936,7 @@ object_list:
     label: "Cat. 383"
     accession_number: "2003.472"
     link: <https://www.getty.edu/art/collection/objects/221861>
-    dimensions: "H. 5.1, Diam. rim 3.1, Diam. base 3.2, max. Diam. 4.5, Th. 0.2 cm; Wt. 41.81 g"
+    dimensions: "H. 5.1, Diam. rim 3.1, max. Diam. 4.5, Diam. base 3.2, Th. 0.2 cm; Wt. 41.81 g"
     date: "Ninth–tenth centuries CE"
     start_date: "800"
     end_date: "999"
@@ -7836,7 +7836,7 @@ object_list:
     label: "Cat. 433"
     accession_number: "2003.451"
     link: <https://www.getty.edu/art/collection/objects/221840>
-    dimensions: "H. 3.5, max. Diam. 4.1, Diam. rim 2.6, Diam. base 1.5 cm; Wt. 18.37 g"
+    dimensions: "H. 3.5, Diam. rim 2.6, max. Diam. 4.1, Diam. base 1.5 cm; Wt. 18.37 g"
     date: "Seventh–eighth centuries CE"
     start_date: "600"
     end_date: "799"
