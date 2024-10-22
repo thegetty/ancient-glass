@@ -9093,13 +9093,13 @@ figure_list:
     src: figures/fig-3-history.jpg
     #zoom: true
     label: "Figure 3."
-    caption: "Roman Glass display in J. Paul Getty Museum, “Getty Art Bids Viewers,” Los Angeles Times, January 24, 1958, photo by Harry Chase."
+    caption: "Roman Glass display in J. Paul Getty Museum, “Getty Art Bids Viewers,” *Los Angeles Times*, January 24, 1958, photo by Harry Chase."
     
   - id: fig-4-history
     src: figures/fig-4-history.jpg
     #zoom: true
     label: "Figure 4."
-    caption: "Cat. 133, Ribbed Bowl, 50 BCE–50 CE, 72.AF.37, Photo from the 1907 publication of *Le Chateau de Ripaille* by Max Bruchet (Paris), p. 20; ill."
+    caption: "Cat. 133, Ribbed Bowl, 50 BCE–50 CE, 72.AF.37. Photo from the 1907 publication of *Le Chateau de Ripaille* by Max Bruchet (Paris), p. 20; ill."
 
   - id: fig-5-history
     src: figures/fig-5-history.jpg
@@ -9117,13 +9117,13 @@ figure_list:
     src: figures/fig-7-history.jpg
     #zoom: true
     label: "Figure 7."
-    caption: "View of Gallery 101E in 2006, Glass in Antiquity, J. Paul Getty Museum at the Getty Villa"
+    caption: "View of Gallery 101E in 2006, *Glass in Antiquity*, J. Paul Getty Museum at the Getty Villa"
 
   - id: fig-8-history
     src: figures/fig-8-history.jpg
     #zoom: true
     label: "Figure 8."
-    caption: "View of Gallery 214 in 2010, Molten Color: Glassmaking in Antiquity, J. Paul Getty Museum at the Getty Villa"
+    caption: "View of Gallery 214 in 2010, *Molten Color: Glassmaking in Antiquity*, J. Paul Getty Museum at the Getty Villa"
 
   - id: fig-9-history
     src: figures/fig-9-history.jpg
