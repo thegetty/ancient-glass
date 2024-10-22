@@ -1860,7 +1860,7 @@ object_list:
     label: "Cat. 101"
     accession_number: "83.AF.28.18"
     link: <https://www.getty.edu/art/collection/objects/16220>
-    dimensions: " pres. H. 1.8, est. max. Diam. 5.0, Th. 0.4 cm; Wt. 1.44 g"
+    dimensions: " pres. H. 1.8, est. max. Diam. 5.0, Th. 0.4 cm; Wt.&nbsp;1.44&nbsp;g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
