@@ -2911,7 +2911,7 @@ object_list:
     production_area: "Syro-Palestinian region"
     culture: "Roman"
     material: "Transparent, almost colorless, slightly greenish glass"
-    modeling_technique_and_decoration: "Mold-blown in a three-part mold consisting of two vertical sections joined to a disk-shaped base section; the vertical seams are hidden in the hair"
+    modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold consisting of two vertical sections joined to a disk-shaped base section; the vertical seams are hidden in the hair"
     inscription: "No"
     shape: [ "Cups" ]
     technique: [ "Mold-blown" ]
@@ -2929,7 +2929,7 @@ object_list:
     production_area: "Syro-Palestinian coast"
     culture: "Roman"
     material: "Translucent yellowish glass"
-    modeling_technique_and_decoration: "Mold-blown in a three-part mold: two vertical and one disk-shaped section for the base; vertical mold seams from rim to base through the stems of two of the palm fronds"
+    modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical and one disk-shaped section for the base; vertical mold seams from rim to base through the stems of two of the palm fronds"
     inscription: "Yes"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -2947,7 +2947,7 @@ object_list:
     production_area: "Syro-Palestinian coast"
     culture: "Roman"
     material: "Transparent greenish glass"
-    modeling_technique_and_decoration: "Blown into a three-part mold; mold marks visible as two lines on the sides; separate mold used for bottom; relief crisp"
+    modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold; mold marks visible as two lines on the sides; separate mold used for bottom; relief crisp"
     inscription: "Yes"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -2965,7 +2965,7 @@ object_list:
     production_area: "Syro-Palestinian coast"
     culture: "Roman"
     material: "Translucent yellow-greenish glass"
-    modeling_technique_and_decoration: "Mold-blown in a three-part mold: two vertical and one disk-shaped section for the base; vertical mold seams from rim to base through the stems of two of the plants"
+    modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical and one disk-shaped section for the base; vertical mold seams from rim to base through the stems of two of the plants"
     inscription: "No"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -2983,7 +2983,7 @@ object_list:
     production_area: "Syro-Palestinian coast"
     culture: "Roman"
     material: "Translucent yellowish green glass"
-    modeling_technique_and_decoration: "Mold-blown in a three-part mold: two vertical and one disk-shaped section for the base; vertical mold seams from rim to base left uncovered"
+    modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical and one disk-shaped section for the base; vertical mold seams from rim to base left uncovered"
     inscription: "No"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -3019,7 +3019,7 @@ object_list:
     production_area: "Syro-Palestinian coast"
     culture: "Roman"
     material: "Translucent amber-colored and opaque yellow glass"
-    modeling_technique_and_decoration: "Mold-blown in a three-part mold: two vertical semicircular parts for the body and a discoid for the base. Splashware accents"
+    modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical semicircular parts for the body and a discoid for the base. Splashware accents"
     inscription: "No"
     shape: [ "Pyxides" ]
     technique: [ "Mold-blown" ]
@@ -3037,7 +3037,7 @@ object_list:
     production_area: "Syro-Palestinian coast"
     culture: "Roman"
     material: "Transparent, almost colorless, slightly greenish glass"
-    modeling_technique_and_decoration: "Blown into a three-part mold: two vertical sections on either side of EYΦΡAINOΥ from rim to second ridge below inscription, cup-shaped base section. Relief crisp"
+    modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical sections on either side of EYΦΡAINOΥ from rim to second ridge below inscription, cup-shaped base section. Relief crisp"
     inscription: "Yes"
     shape: [ "Cups" ]
     technique: [ "Mold-blown" ]
@@ -3055,7 +3055,7 @@ object_list:
     production_area: "Syro-Palestinian coast"
     culture: "Roman"
     material: "Transparent greenish glass"
-    modeling_technique_and_decoration: "Blown into a three-part mold: two vertical sections on either side of ΕΥΦΡΑΙΝΟΥ from rim to second ridge below inscription, cup-shaped base section; relief crisp"
+    modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical sections on either side of ΕΥΦΡΑΙΝΟΥ from rim to second ridge below inscription, cup-shaped base section; relief crisp"
     inscription: "Yes"
     shape: [ "Cups" ]
     technique: [ "Mold-blown" ]
@@ -3073,7 +3073,7 @@ object_list:
     production_area: "Eastern Mediterranean or Italy"
     culture: "Roman"
     material: "Translucent bluish glass"
-    modeling_technique_and_decoration: "Mold-blown in a three-part mold: two vertical sections and one for the base"
+    modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical sections and one for the base"
     inscription: "Yes"
     shape: [ "Cups" ]
     technique: [ "Mold-blown" ]
@@ -3091,7 +3091,7 @@ object_list:
     production_area: "Said to be from the Syro-Palestinian coast"
     culture: "Roman"
     material: "Translucent bluish-green glass"
-    modeling_technique_and_decoration: "Mold-blown into a five-part mold"
+    modeling_technique_and_decoration: "Mold-blown; blown in a five-part mold"
     inscription: "No"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -3109,7 +3109,7 @@ object_list:
     production_area: "Eastern Mediterranean"
     culture: "Roman"
     material: "Translucent green glass, some iridescence"
-    modeling_technique_and_decoration: "Mold-blown into a four-part mold: three vertical sections and the base"
+    modeling_technique_and_decoration: "Mold-blown; blown in a four-part mold: three vertical sections and the base"
     inscription: "No"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -3127,7 +3127,7 @@ object_list:
     production_area: "Roman Empire, probably Italy"
     culture: "Roman"
     material: "Translucent bluish glass"
-    modeling_technique_and_decoration: "Blown in a four-part mold: three vertical sections and a disk-shaped base section. Relief is crisp, from either a not yet worn-out or a new mold"
+    modeling_technique_and_decoration: "Mold-blown; blown in a four-part mold: three vertical sections and one disk-shaped base section. Relief is crisp, from either a not yet worn-out or a new mold"
     inscription: "No"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -3145,7 +3145,7 @@ object_list:
     production_area: "Roman Empire, probably Italy"
     culture: "Roman"
     material: "Translucent amber-colored glass"
-    modeling_technique_and_decoration: "Blown in a four-part mold: three vertical sections and a disk-shaped base section; relief is crisp, from a not yet worn-out or a new mold"
+    modeling_technique_and_decoration: "Mold-blown; blown in a four-part mold: three vertical sections and one disk-shaped base section; relief is crisp, from a not yet worn-out or a new mold"
     inscription: "No"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -3163,7 +3163,7 @@ object_list:
     production_area: "Italy"
     culture: "Roman"
     material: "Translucent olive-green glass"
-    modeling_technique_and_decoration: "Mold-blown into a three-part mold: two vertical sections and a disk-shaped base section; the mold starts 1 cm below the rim"
+    modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical sections and one disk-shaped base section; the mold starts 1 cm below the rim"
     inscription: "No"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -3181,7 +3181,7 @@ object_list:
     production_area: "Roman Empire"
     culture: "Roman"
     material: "Translucent bluish glass"
-    modeling_technique_and_decoration: "Mold-blown in a four-part mold: three vertical sections and the disk-shaped base section"
+    modeling_technique_and_decoration: "Mold-blown; blown in a four-part mold: three vertical sections and one disk-shaped base section"
     inscription: "No"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -3199,7 +3199,7 @@ object_list:
     production_area: "Roman Empire"
     culture: "Roman"
     material: "Translucent greenish glass"
-    modeling_technique_and_decoration: "Mold-blown in a four-part mold; neck free-blown and tooled"
+    modeling_technique_and_decoration: "Mold-blown; blown in a four-part mold; neck free-blown and tooled"
     inscription: "No"
     shape: [ "Flasks" ]
     technique: [ "Mold-blown" ]
@@ -3253,7 +3253,7 @@ object_list:
     production_area: "Eastern Mediterranean"
     culture: "Roman"
     material: "Transparent olive-greenish glass"
-    modeling_technique_and_decoration: "Blown in a two-part mold"
+    modeling_technique_and_decoration: "Mold-blown; blown in a two-part mold"
     inscription: "No"
     shape: [ "Flasks" ]
     technique: [ "Mold-blown" ]
@@ -3343,7 +3343,7 @@ object_list:
     production_area: "Syro-Palestinian region"
     culture: "Roman"
     material: "Transparent dark purple glass with pinprick bubbles. The handle is made of a dark blue glass, covered by a brownish crust"
-    modeling_technique_and_decoration: "Mold-blown into a bipartite mold of vertical sections, open at base; faint vertical seams at the junction of the heads"
+    modeling_technique_and_decoration: "Mold-blown; blown in a bipartite mold of vertical sections, open at base; faint vertical seams at the junction of the heads"
     inscription: "No"
     shape: [ "Head jugs" ]
     technique: [ "Mold-blown" ]
@@ -3451,7 +3451,7 @@ object_list:
     production_area: "Syro-Palestinian region"
     culture: "Roman or Byzantine"
     material: "Translucent olive-green glass"
-    modeling_technique_and_decoration: "Mold-blown in a two-part mold"
+    modeling_technique_and_decoration: "Mold-blown; blown in a two-part mold"
     inscription: "No"
     shape: [ "Jugs" ]
     technique: [ "Mold-blown" ]
@@ -3469,7 +3469,7 @@ object_list:
     production_area: "Phoenician region"
     culture: "Roman"
     material: "Opaque white glass"
-    modeling_technique_and_decoration: "Body blown into a four-part mold of three vertical sections joined to a disk-shaped base section; mold seams between panels 2 and 3, 4 and 5, 6 and 1; free-blown and tooled neck and rim"
+    modeling_technique_and_decoration: "Body mold-blown into a four-part mold of three vertical sections joined to a disk-shaped base section; mold seams between panels 2 and 3, 4 and 5, 6 and 1; free-blown and tooled neck and rim"
     inscription: "No"
     shape: [ "Bottles", "Flasks" ]
     technique: [ "Mold-blown", "Free-blown" ]
@@ -3487,10 +3487,10 @@ object_list:
     production_area: "Phoenician region"
     culture: "Roman"
     material: "Opaque white glass"
-    modeling_technique_and_decoration: "Body blown into a four-part mold of three vertical sections joined to a disk-shaped base section; mold seams between panels 2 and 3, 4 and 5, 6 and 1; free-blown and tooled neck and rim"
+    modeling_technique_and_decoration: "Body mold-blown in a four-part mold of three vertical sections joined to a disk-shaped base section; mold seams between panels 2 and 3, 4 and 5, 6 and 1; free-blown and tooled neck and rim"
     inscription: "No"
     shape: [ "Bottles", "Flasks" ]
-    technique: 
+    technique: [ "Mold-blown", "Free-blown" ]
     figure: [ id: "fig-2003-298-a", id: "fig-2003-298-b", id: "fig-2003-298-c", id: "fig-2003-298-d", id: "fig-2003-298-e" ]
     path: /catalogue/cat-191/
 -
@@ -3505,10 +3505,10 @@ object_list:
     production_area: "Phoenician region"
     culture: "Roman"
     material: "Translucent blue glass"
-    modeling_technique_and_decoration: "Body blown into a four-part mold of three vertical sections joined to a disk-shaped base section; mold seams between panels 2 and 3, 4 and 5, 6 and 1; free-blown and tooled neck and rim"
+    modeling_technique_and_decoration: "Body mold-blown in a four-part mold of three vertical sections joined to a disk-shaped base section; mold seams between panels 2 and 3, 4 and 5, 6 and 1; free-blown and tooled neck and rim"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-blown", "Free-blown" ]
     figure: [ id: "fig-2003-299-a", id: "fig-2003-299-b", id: "fig-2003-299-c", id: "fig-2003-299-d", id: "fig-2003-299-e" ]
     path: /catalogue/cat-192/
 -
@@ -3523,10 +3523,10 @@ object_list:
     production_area: "Syro-Palestinian region, maybe Sidon"
     culture: "Roman"
     material: "Opaque white glass"
-    modeling_technique_and_decoration: "Body blown in a three-part mold of three vertical sections; vertical mold seams visible after panels 1, 3, 5; free-blown and tooled neck and rim; the relief is not crisp"
+    modeling_technique_and_decoration: "Body mold-blown in a three-part mold of three vertical sections; vertical mold seams visible after panels 1, 3, 5; free-blown and tooled neck and rim; the relief is not crisp"
     inscription: "No"
     shape: [ "Bottles", "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-blown", "Free-blown" ]
     figure: [ id: "fig-2003-300-a", id: "fig-2003-300-b", id: "fig-2003-300-c", id: "fig-2003-300-d", id: "fig-2003-300-e" ]
     path: /catalogue/cat-193/
 -
@@ -3541,10 +3541,10 @@ object_list:
     production_area: "Syro-Palestinian region, maybe Sidon"
     culture: "Roman"
     material: "Opaque light blue glass"
-    modeling_technique_and_decoration: "Body blown in a three-part mold of three vertical sections; vertical mold seams visible after panels 1, 3, and 5; free-blown and tooled neck and rim"
+    modeling_technique_and_decoration: "Body mold-blown in a three-part mold of three vertical sections; vertical mold seams visible after panels 1, 3, and 5; free-blown and tooled neck and rim"
     inscription: "No"
     shape: [ "Bottles", "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-blown", "Free-blown" ]
     figure: [ id: "fig-2003-301-a", id: "fig-2003-301-b", id: "fig-2003-301-c", id: "fig-2003-301-d", id: "fig-2003-301-e", id: "fig-2003-301-f", id: "fig-2003-301-g", id: "fig-2003-301-h" ]
     path: /catalogue/cat-194/
 -
@@ -3685,7 +3685,7 @@ object_list:
     production_area: "Syrian region"
     culture: "Roman"
     material: "Transparent light greenish-yellow glass"
-    modeling_technique_and_decoration: "Mold-blown into a bipartite mold; neck, diaphragm, and rim free-tooled"
+    modeling_technique_and_decoration: "Mold-blown; blown in a bipartite mold; neck, diaphragm, and rim free-tooled"
     inscription: "No"
     shape: [ "Sprinklers" ]
     technique: [ "Mold-blown" ]
@@ -3703,7 +3703,7 @@ object_list:
     production_area: "Syrian region"
     culture: "Roman"
     material: "Transparent light blueish glass"
-    modeling_technique_and_decoration: "Mold-blown into a bipartite mold"
+    modeling_technique_and_decoration: "Mold-blown; blown in a bipartite mold"
     inscription: "No"
     shape: [ "Sprinklers" ]
     technique: [ "Mold-blown" ]
@@ -3724,7 +3724,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown body; free-blown neck and rim"
     inscription: "No"
     shape: [ "Sprinklers", "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-blown", "Free-blown" ]
     figure: [ id: "fig-2003-335-a", id: "fig-2003-335-b", id: "fig-2003-335-c", id: "fig-2003-335-d" ]
     path: /catalogue/cat-204/
 -
@@ -3775,10 +3775,10 @@ object_list:
     production_area: "Syro-Palestinian coast"
     culture: "Roman"
     material: "Opaque white and translucent dark blue glass"
-    modeling_technique_and_decoration: "Body blown in a four-part mold of three vertical sections joined to a cup-shaped base section; neck and rim free-blown and tooled"
+    modeling_technique_and_decoration: "Body mold-blown in a four-part mold of three vertical sections joined to a cup-shaped base section; neck and rim free-blown and tooled"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-blown", "Free-blown" ]
     figure: [ id: "fig-2003-313-a", id: "fig-2003-313-b", id: "fig-2003-313-c", id: "fig-2003-313-d", id: "fig-2003-313-e" ]
     path: /catalogue/cat-207/
 -
@@ -3793,10 +3793,10 @@ object_list:
     production_area: "Syro-Palestinian coast"
     culture: "Roman"
     material: "Translucent amber-colored; opaque turquoise and dark blue glass"
-    modeling_technique_and_decoration: "Body blown in a four-part mold of three vertical sections joined to a cup-shaped base section; neck and rim free-blown and tooled"
+    modeling_technique_and_decoration: "Body mold-blown in a four-part mold of three vertical sections joined to a cup-shaped base section; neck and rim free-blown and tooled"
     inscription: "No"
     shape: [ "Jugs", "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-blown", "Free-blown" ]
     figure: [ id: "fig-2003-314-a", id: "fig-2003-314-b", id: "fig-2003-314-c", id: "fig-2003-314-d", id: "fig-2003-314-e" ]
     path: /catalogue/cat-208/
 -
@@ -3829,7 +3829,7 @@ object_list:
     production_area: "Probably eastern Mediterranean"
     culture: "Roman"
     material: "Translucent green, purple, and dark blue and opaque white glass"
-    modeling_technique_and_decoration: "Body blown in a two-part mold of two vertical sections; edges of mold carefully aligned; splashware"
+    modeling_technique_and_decoration: "Body mold-blown in a two-part mold of two vertical sections; edges of mold carefully aligned; splashware"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Mold-blown" ]
@@ -3847,7 +3847,7 @@ object_list:
     production_area: "Eastern Mediterranean"
     culture: "Roman"
     material: "Translucent green and blue glass"
-    modeling_technique_and_decoration: "Body blown in a two-part mold of two vertical sections; edges of mold carefully aligned; the seam is visible along the middle of each side (90° away from the handles)"
+    modeling_technique_and_decoration: "Body mold-blown in a two-part mold of two vertical sections; edges of mold carefully aligned; the seam is visible along the middle of each side (90° away from the handles)"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Mold-blown" ]
