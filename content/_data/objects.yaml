@@ -2436,7 +2436,7 @@ object_list:
     label: "Cat. 133"
     accession_number: "72.AF.37"
     link: <https://www.getty.edu/art/collection/objects/6914>
-    dimensions: "H. 7.5, Diam. rim 18.0, Diam. base 8.0 cm; Wt. 509.40 g"
+    dimensions: "H. 7.5, Diam. rim 18.0, Diam. base 8.0 cm; Wt. 509.40&nbsp;g"
     date: "Ca. 50 BCE–ca. 50 CE"
     start_date: "-50"
     end_date: "50"
@@ -2454,7 +2454,7 @@ object_list:
     label: "Cat. 134"
     accession_number: "2004.25"
     link: <https://www.getty.edu/art/collection/objects/221483>
-    dimensions: "H. 4.9, Diam. rim 17.0, Diam. base 8.1 cm; Wt. 341.50 g"
+    dimensions: "H. 4.9, Diam. rim 17.0, Diam. base 8.1 cm; Wt. 341.50&nbsp;g"
     date: "Ca. 50 BCE–ca. 50 CE"
     start_date: "-50"
     end_date: "50"
@@ -2617,7 +2617,7 @@ object_list:
     accession_number: "83.AF.28.23"
     link: <https://www.getty.edu/art/collection/objects/16225>
     dimensions: "L. 2.4, W. 2.0, Th. 0.35 cm; Wt. 3.00 g"
-    date: "First century BCE, possibly to early first century CE"
+    date: "First century BCE, possibly to early first century&nbsp;CE"
     start_date: "-100"
     end_date: "32"
     production_area: "Egypt"
@@ -2635,13 +2635,13 @@ object_list:
     accession_number: "76.AF.70.22"
     link: <https://www.getty.edu/art/collection/objects/19041>
     dimensions: "L. 1.9, W. 3.5, Th. 0.3 cm; Wt. 2.60 g"
-    date: "First century BCE, possibly to early first century CE"
+    date: "First century BCE, possibly to early first century&nbsp;CE"
     start_date: "-100"
     end_date: "32"
     production_area: "Egypt"
     culture: "Roman"
     material: "Translucent purple and blue and opaque red, white, turquoise, and yellow glass"
-    modeling_technique_and_decoration: "Made from a monochrome, disk-shaped blank on which inlay elements were applied and fused together; slumped; rotary polished"
+    modeling_technique_and_decoration: "Made from a monochrome disk-shaped blank on which inlay elements were applied and fused together; slumped; rotary polished"
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
@@ -2688,8 +2688,8 @@ object_list:
     label: "Cat. 147"
     accession_number: "2003.231"
     link: <http://www.getty.edu/art/collection/objects/221614>
-    dimensions: "H. 4.2, Diam. rim 5.3, Diam. base 5.0 cm; Wt. 63.79 g"
-    date: "Late first century BCE–early first century CE"
+    dimensions: "H. 4.2, Diam. rim 5.3, Diam. base 5.0 cm; Wt. 63.79&nbsp;g"
+    date: "Late first century BCE–early first century&nbsp;CE"
     start_date: "-33"
     end_date: "32"
     production_area: "Italy"
@@ -2706,7 +2706,7 @@ object_list:
     label: "Cat. 148"
     accession_number: "2003.277"
     link: <https://www.getty.edu/art/collection/objects/221666>
-    dimensions: "H. 6.2, Diam. rim 4.2, Diam. base 3.3 cm; Wt. 35.35 g"
+    dimensions: "H. 6.2, Diam. rim 4.2, Diam. base 3.3 cm; Wt. 35.35&nbsp;g"
     date: "Early first century CE"
     start_date: "1"
     end_date: "32"
@@ -2724,8 +2724,8 @@ object_list:
     label: "Cat. 149"
     accession_number: "2003.273"
     link: <https://www.getty.edu/art/collection/objects/221662>
-    dimensions: "H. 6.2, Diam. rim 2.4, max. Diam. 5.5, Diam. base 4 cm; Wt. 42.95 g"
-    date: "Early to mid-first century CE"
+    dimensions: "H. 6.2, Diam. rim 2.4, max. Diam. 5.5, Diam. base 4.0 cm; Wt. 42.95 g"
+    date: "Early–mid-first century CE"
     start_date: "1"
     end_date: "65"
     production_area: "Probably Italy"
@@ -2743,7 +2743,7 @@ object_list:
     accession_number: "2003.274"
     link: <https://www.getty.edu/art/collection/objects/221663>
     dimensions: "H. 6.1, Diam. rim 2.0, max. Diam. 5.3, Th. 0.1 cm; Wt. 39.70 g"
-    date: "Early to mid-first century CE"
+    date: "Early–mid-first century CE"
     start_date: "1"
     end_date: "65"
     production_area: "Probably Italy"
@@ -2760,8 +2760,8 @@ object_list:
     label: "Cat. 151"
     accession_number: "2003.279"
     link: <https://www.getty.edu/art/collection/objects/221668>
-    dimensions: "H. 5.5, Diam. rim 2.2, Diam. base 2.5 cm; Wt. 50.83 g"
-    date: "Early to mid-first century CE"
+    dimensions: "H. 5.5, Diam. rim 2.2, Diam. base 2.5 cm; Wt. 50.83&nbsp;g"
+    date: "Early–mid-first century CE"
     start_date: "1"
     end_date: "65"
     production_area: "Probably Italy"
@@ -2778,7 +2778,7 @@ object_list:
     label: "Cat. 152"
     accession_number: "2003.275"
     link: <https://www.getty.edu/art/collection/objects/221664/>
-    dimensions: "H. 10.5, Diam. rim 2.7, max. Diam. 6.0 cm; Wt. 95.3 g"
+    dimensions: "H. 10.5, Diam. rim 2.7, max. Diam. 6.0 cm; Wt. 95.30 g"
     date: "Early first century CE"
     start_date: "1"
     end_date: "32"
@@ -2796,7 +2796,7 @@ object_list:
     label: "Cat. 153"
     accession_number: "2003.278"
     link: <https://www.getty.edu/art/collection/objects/221667>
-    dimensions: "H. 7.5, Diam. rim 2.2, Diam. base 2.0 cm; Wt. 44.33 g"
+    dimensions: "H. 7.5, Diam. rim 2.2, Diam. base 2.0 cm; Wt. 44.33&nbsp;g"
     date: "Early first century CE"
     start_date: "1"
     end_date: "32"
@@ -2814,7 +2814,7 @@ object_list:
     label: "Cat. 154"
     accession_number: "2003.276"
     link: <https://www.getty.edu/art/collection/objects/221665>
-    dimensions: "H. 9.0, Diam. rim 2.5, Diam. base 3.5 cm; Wt. 68.49 g"
+    dimensions: "H. 9.0, Diam. rim 2.5, Diam. base 3.5 cm; Wt. 68.49&nbsp;g"
     date: "Early first century CE"
     start_date: "1"
     end_date: "32"
@@ -2868,7 +2868,7 @@ object_list:
     label: "Cat. 157"
     accession_number: "2003.255"
     link: <https://www.getty.edu/art/collection/objects/221638>
-    dimensions: "H. 6.5, Diam. rim 2.5, Diam. base 2.6 cm; Wt. 18.69 g"
+    dimensions: "H. 6.5, Diam. rim 2.5, Diam. base 2.6 cm; Wt. 18.69&nbsp;g"
     date: "Early first century CE"
     start_date: "1"
     end_date: "32"
@@ -2886,8 +2886,8 @@ object_list:
     label: "Cat. 158"
     accession_number: "2003.293"
     link: <https://www.getty.edu/art/collection/objects/221682/>
-    dimensions: "H. 3.0, Diam. 8.8, Th. 0.2 cm; Wt. 76.00 g"
-    date: "Late first century BCE–early first century CE"
+    dimensions: "H. 3.0, Diam. 8.8, Th. 0.2 cm; Wt. 76.00&nbsp;g"
+    date: "Late first century BCE–early first century&nbsp;CE"
     start_date: "-33"
     end_date: "32"
     production_area: "Italy or western Roman Empire"
@@ -2947,7 +2947,7 @@ object_list:
     production_area: "Syro-Palestinian coast"
     culture: "Roman"
     material: "Transparent greenish glass"
-    modeling_technique_and_decoration: "Blown into a three-part mold; mold marks visible as two lines on the sides; separate mold used for bottom. Relief crisp"
+    modeling_technique_and_decoration: "Blown into a three-part mold; mold marks visible as two lines on the sides; separate mold used for bottom; relief crisp"
     inscription: "Yes"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -2976,7 +2976,7 @@ object_list:
     label: "Cat. 163"
     accession_number: "2003.318"
     link: <https://www.getty.edu/art/collection/objects/221708/>
-    dimensions: "H. 7.0, Diam. rim 7.0, Diam. base 6.4 cm; Wt. 61.29 g"
+    dimensions: "H. 7.0, Diam. rim 7.0, Diam. base 6.4 cm; Wt. 61.29&nbsp;g"
     date: "Third quarter of the first century CE"
     start_date: "50"
     end_date: "74"
@@ -3001,7 +3001,7 @@ object_list:
     production_area: "Syro-Palestinian coast"
     culture: "Roman"
     material: "Translucent greenish glass"
-    modeling_technique_and_decoration: "Mold-blown"
+    modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical sections and one disk-shaped (for the bottom)."
     inscription: "No"
     shape: [ "Cups" ]
     technique: [ "Mold-blown" ]
