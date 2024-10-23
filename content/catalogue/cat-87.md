@@ -12,7 +12,7 @@ object:
 
 ## Condition
 
-Body fragment of a vessel broken all around. The upper surface was polished in modern times; the lower surface, which was left in its original condition, is slightly irregular and pitted.
+Body fragment of a vessel, broken all around. The upper surface was polished in modern times; the lower surface, which was left in its original condition, is slightly irregular and pitted.
 
 ## Description
 

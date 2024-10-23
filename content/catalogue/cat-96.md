@@ -12,7 +12,7 @@ object:
 
 ## Condition
 
-Single body fragment.
+Body fragment.
 
 ## Description
 

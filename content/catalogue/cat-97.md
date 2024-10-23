@@ -12,7 +12,7 @@ object:
 
 ## Condition
 
-Single rim and upper body fragment.
+Rim and upper body fragment.
 
 ## Description
 

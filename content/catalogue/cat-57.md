@@ -12,7 +12,7 @@ object:
 
 ## Condition
 
-Single body fragment. On the interior side a thick, reddish-yellow layer is preserved from remains of the core. 
+Body fragment. On the interior side a thick, reddish-yellow layer is preserved from remains of the core. 
 
 ## Description
 

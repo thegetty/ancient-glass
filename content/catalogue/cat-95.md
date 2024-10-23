@@ -12,7 +12,7 @@ object:
 
 ## Condition
 
-Single body fragment; three sides are straight, probably cut in modern times.
+Body fragment; three sides are straight, probably cut in modern times.
 
 ## Description
 
