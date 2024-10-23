@@ -18,7 +18,7 @@ Intact, with very few abrasions and scratches. Reddish remains of the core in th
 
 Translucent dark blue body; opaque yellow and turquoise decoration. Broad inward-sloping rim-disk; cylindrical neck; obtuse-angled shoulder; almost spherical body; convex bottom. Two dark blue ring handles with knobbed tails extend from the upper part of the neck near the rim to the shoulder.
 
-An unmarvered opaque yellow thread is wound around the rim. A marvered wide yellow thread starts on the neck as a large flake that covers almost the entire height of the neck on one side and spirals around the shoulders and the upper body, where an opaque turquoise thread is wound twice, and they are both dragged up and down, forming a zigzag pattern. Below this a yellow marvered thread is wound horizontally twice around the body.
+An unmarvered opaque yellow thread is wound around the rim. A wide marvered yellow thread starts on the neck as a large flake that covers almost the entire height of the neck on one side and spirals around the shoulders and the upper body, where a marvered opaque turquoise thread is wound twice, and they are both dragged up and down, forming a zigzag pattern. Below this a marvered yellow thread is wound horizontally twice around the body.
 
 ## Comments and Comparanda
 

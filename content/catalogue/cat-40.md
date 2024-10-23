@@ -18,7 +18,7 @@ Fully preserved, with some signs of wear and some discoloration, especially on t
 
 Opaque dark red body; opaque yellow and turquoise decoration. Broad, inward-sloping rim-disk; tall, cylindrical neck, tapering toward the body; obtuse-angled shoulder; conical body; convex bottom; circular base-knob with a rounded edge. Two red vertical strap handles extend from the shoulders to the upper part of the neck under the rim.
 
-An unmarvered opaque yellow thread is wound around the rim. A marvered wide thread, probably yellow originally, now totally weathered to white, starts on the shoulder and spirals three times around the shoulders and the upper body, where an opaque turquoise thread is wound twice; both were dragged up and down, forming a zigzag pattern. Below this a marvered thread, yellow originally, now completely weathered to white, is wound horizontally three times around the body.
+An unmarvered opaque yellow thread is wound around the rim. A wide marvered thread, probably yellow originally, now totally weathered to white, starts on the shoulder and spirals three times around the shoulders and the upper body, where a marvered opaque turquoise thread is wound twice; both were dragged up and down, forming a zigzag pattern. Below this a marvered thread, yellow originally, now completely weathered to white, is wound horizontally three times around the body.
 
 ## Comments and Comparanda
 

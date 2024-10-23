@@ -20,7 +20,7 @@ Translucent dark blue body; opaque yellow decoration. Broad, horizontal rim-disk
 
 On the neck there is a horizontal band, 2.3 cm long and 1.0 cm wide, that covers a tear in the neck of the vessel. A small horizontal hole is visible below the applied band.
 
-An unmarvered yellow thread is wound around the rim. A white thread is spirally wound 21 times around the upper and middle body, and a yellow thread is wound 13 times around the lower part of the body. The threads are dragged 16 times up and down, forming a feather pattern.
+An unmarvered yellow thread is wound around the rim. A marvered white thread is spirally wound 21 times around the upper and middle body, and a marvered yellow thread is wound 13 times around the lower part of the body. The threads are dragged 16 times up and down, forming a feather pattern.
 
 ## Comments and Comparanda
 

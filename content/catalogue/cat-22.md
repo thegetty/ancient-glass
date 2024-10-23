@@ -18,7 +18,7 @@ Mended. Half of the rim and part of the bottom are added. Τhere is likely overp
 
 Translucent dark blue ground; opaque yellow, turquoise, and white decoration. Broad, horizontal rim-disk, slightly sloping to the outside; cylindrical neck, tapering upward; rudimentary shoulder and cylindrical body, slightly tapering toward the shoulder; shallow, convex bottom. Below the shoulder are two opposing ring handles with long straight tails; neither handle is pierced.
 
-A yellow unmarvered thread is wound around the rim. The body of the vessel, from the shoulder down, is decorated with spirally wound groups of opaque yellow, white, and turquoise threads—yellow appearing four times, and white and turquoise three times. In total more than 50 lines of colored glass are discernible from the bottom to the rim. The threads are dragged 16 times upward and downward, forming a delicate feather pattern.
+An unmarvered yellow thread is wound around the rim. The body of the vessel, from the shoulder down, is decorated with spirally wound groups of opaque yellow, white, and turquoise marvered threads—yellow appearing four times, and white and turquoise three times. In total more than 50 lines of colored glass are discernible from the bottom to the rim. The threads are dragged 16 times upward and downward, forming a delicate feather pattern.
 
 ## Comments and Comparanda
 

@@ -18,7 +18,7 @@ Mended. Weathering occurs all over the vessel, giving it a rusty color with some
 
 Dark purple (seemlingly black) body; opaque white decoration. Broad, horizontal rim-disk; vestigial neck; cylindrical body, wider toward the flat bottom. Below the shoulder are two small, opposing vertical ring handles with knobbed tails; one is purple, and the other dark green.
 
-The alabastron is decorated with applied, white threads. An unmarvered thread is wound around the rim, and three more around the body on top, middle, and bottom. The upper one is unmarvered and the other two are marvered. The threads on the shoulder and near the bottom are wound twice, and the middle thread three times.
+The alabastron is decorated with applied white threads. An unmarvered thread is wound around the rim, and three more around the body on top, middle, and bottom. The upper one is unmarvered and the other two are marvered. The threads on the shoulder and near the bottom are wound twice, and the middle thread three times.
 
 ## Comments and Comparanda
 

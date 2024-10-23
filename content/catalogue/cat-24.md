@@ -18,7 +18,7 @@ Almost fully preserved. Mended, especially around the neck. A small hole on one 
 
 Translucent dark blue body; opaque yellow and white decoration. Broad, horizontal rim-disk; wide, cylindrical neck; rudimentary shoulder; cylindrical body; flat bottom. Two opposing horizontal lugs below the shoulder.
 
-A thick white unmarvered thread is wound around the rim. This thread has a very thin yellow layer on the side attached to the rim, and in one part there are some remains of a dark blue thread. On the upper part of the body, a yellowish-white thread—like the one around the rim—and a white thread are each wound once. Below these a white and a yellow marvered thread are spirally wound 17 times to the bottom and dragged 18 times upward and downward, forming a zigzag pattern. It is quite probable that all threads consist of a white and a yellow layer, which, depending on the way it was applied on the vessel, appear either white or yellow.
+A thick unmarvered white thread is wound around the rim. This thread has a very thin yellow layer on the side attached to the rim, and in one part there are some remains of a dark blue thread. On the upper part of the body, a yellowish-white thread—like the one around the rim—and a white thread are each wound once and marvered. Below these a white and a yellow thread—both marvered—are spirally wound 17 times to the bottom and dragged 18 times upward and downward, forming a zigzag pattern. It is quite probable that all threads consist of a white and a yellow layer, which, depending on the way it was applied on the vessel, appear either white or yellow.
 
 ## Comments and Comparanda
 

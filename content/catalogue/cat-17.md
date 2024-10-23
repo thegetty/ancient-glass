@@ -18,7 +18,7 @@ Fully preserved; mostly covered with weathering, and now appears white.
 
 Translucent dark, probably purple body; opaque white and yellow decoration. Horizontal rim-disk; short, cylindrical neck, tapering toward the body; rudimentary shoulder; cylindrical body, curving in toward the flat bottom. Two opposing ring handles with knobbed tails on the shoulders.
 
-A probably yellow unmarvered thread, now gray due to weathering, is wound around the rim. One white and one yellow thread are spirally wound 18 times around the neck and body, dragged up and down, forming a zigzag pattern.
+An unmarvered thread, probably yellow but now gray due to weathering, is wound around the rim. One white and one yellow thread—both marvered—are spirally wound 18 times around the neck and body, dragged up and down, forming a zigzag pattern.
 
 ## Comments and Comparanda
 

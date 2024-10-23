@@ -18,7 +18,7 @@ Mended. Part of the rim and several parts of the body and the bottom are fills. 
 
 Translucent dark blue ground; opaque white and yellow decoration. Broad, horizontal rim-disk; long cylindrical neck gradually widening toward the body; obtuse-angled shoulder; long convex lower part of the body. It is highly likely that it had two long S-shaped handles and a pad base, but because critical parts of the rim, shoulder, and bottom areas are missing, it is not possible to determine the exact shape of the vessel.
 
-A yellow and a white marvered thread are spirally wound around the vessel from the rim to the center of the bottom. The thread was tooled three times downward and three times upward to form very wide feather patterns on the neck and the upper body, and five times downward and five times upward on the lower body.
+A yellow and a white thread—both marvered—are spirally wound around the vessel from the rim to the center of the bottom. The thread was tooled three times downward and three times upward to form very wide feather patterns on the neck and the upper body, and five times downward and five times upward on the lower body.
 
 ## Comments and Comparanda
 

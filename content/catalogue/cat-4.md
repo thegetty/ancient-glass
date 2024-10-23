@@ -18,7 +18,7 @@ Mended; parts of the thread on the rim are missing. Reddish remains of the core 
 
 Dark blue ground; opaque yellow and green decoration. A flattened coil forms a rudimentary uneven rim-disk; cylindrical neck, tapering toward the body; lentoid body. Two green loop handles extend from lower neck to the shoulder.
 
-An unmarvered yellow thread is wound around the rim. One yellow and one green marvered threads are spirally wound 4 times around the body and dragged up and down 12 times to form a loosely rendered feathered pattern.
+An unmarvered yellow thread is wound around the rim. One yellow and one green thread—both marvered—are spirally wound 4 times around the body and dragged up and down 12 times to form a loosely rendered feathered pattern.
 
 ## Comments and Comparanda
 

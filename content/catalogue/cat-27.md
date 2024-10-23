@@ -18,7 +18,7 @@ Mended; some fills. Whitish core remains in the interior.
 
 Translucent purple body; opaque yellow and white decoration. Wide, flaring, almost horizontal rim; long cylindrical neck; almost nonexistent shoulder; cylindrical body; mildly rounded bottom. Two fine coils applied first below the shoulders, then bent, and attached lower on the body form two opposing ring handles.
 
-A yellow unmarvered thread is wound around the rim. A white marvered thread is spirally wound from the bottom to the rim 25 times and dragged 10 times upward and downward, forming a feather pattern.
+An unmarvered yellow thread is wound around the rim. A marvered white thread is spirally wound from the bottom to the rim 25 times and dragged 10 times upward and downward, forming a feather pattern.
 
 ## Comments and Comparanda
 

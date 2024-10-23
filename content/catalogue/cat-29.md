@@ -18,7 +18,7 @@ Intact. Remains of whitish core in the interior.
 
 Dark green, seemingly black ground; opaque white decoration. Horizontal rim-disk; short, wide cylindrical neck, tapering downward; rudimentary shoulder; straight-sided conical body; convex bottom. Two opposing lugs on shoulders; one is made by folding and flattening a dark green band four times and the other twice.
 
-An opaque white thread is wound spirally 44 times from the bottom to the rim and dragged eight times upward and downward along the body, forming a feather pattern.
+A marvered opaque white thread is wound spirally 44 times from the bottom to the rim and dragged eight times upward and downward along the body, forming a feather pattern.
 
 ## Comments and Comparanda
 

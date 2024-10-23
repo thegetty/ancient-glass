@@ -18,7 +18,7 @@ Almost fully preserved; one lug is missing. Surface pitted.
 
 Translucent dark blue body; opaque white and yellow decoration. Horizontal rim-disk; cylindrical neck; rudimentary sloping shoulder; cylindrical body; flat bottom. Two opposing lugs on the body, near the shoulder.
 
-A marvered yellow thread is wound around the rim-disk and spirals loosely three times around the neck, where it is joined by a white thread that begins on the neck. These two threads spiral 10 times around the body to the bottom and are dragged up and down 10 times, forming a spaced feather pattern.
+A marvered yellow thread is wound around the rim-disk and spirals loosely three times around the neck, where it is joined by a marvered white thread that begins on the neck. These two threads spiral 10 times around the body to the bottom and are dragged up and down 10 times, forming a spaced feather pattern.
 
 ## Comments and Comparanda
 

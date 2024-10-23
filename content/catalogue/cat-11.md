@@ -18,7 +18,7 @@ Fully preserved, mended.
 
 Opaque white ground with purple decoration. Broad, horizontal, translucent rim-disk; very short, cylindrical neck; cylindrical body, wider at the lower part, curving in toward a convex bottom. Below the shoulder, two opposing, small vertical ring handles with knobbed tails set at different heights on the body. Remains of a whitish core in the interior.
 
-The body and the handles are made of opaque white glass. An unmarvered translucent purple thread is wound around the rim. A translucent purple thread is spirally wound 28 times from neck to bottom and dragged alternately nine times upwards and nine times downwards, forming a feather pattern.
+The body and the handles are made of opaque white glass. An unmarvered translucent purple thread is wound around the rim. A marvered translucent purple thread is spirally wound 28 times from neck to bottom and dragged alternately nine times upwards and nine times downwards, forming a feather pattern.
 
 ## Comments and Comparanda
 

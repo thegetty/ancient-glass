@@ -18,7 +18,7 @@ Intact. Pitting on the surface, with more on the ground areas.
 
 Transparent dark blue ground; transparent greenish, opaque turquoise, and yellow glass. Moderate splayed rim, tooled outward from the neck; tall, cylindrical neck, tapering upward; sloping obtuse-angled shoulder; tall conical body; convex pointed bottom. A drop-shaped base-knob of red glass is applied on the center of the bottom. Two large, opposing strap handles stretch vertically from shoulder to upper neck under the rim, bent and attached lower on the neck. One handle is greenish and the other bluish glass.
 
-A red and a white thread are wound 32 times from rim to bottom in horizontal lines, which along the neck and at the central body are dragged upward to form a festoon pattern.
+A red and a white thread—both marvered—are wound 32 times from rim to bottom in horizontal lines, which along the neck and at the central body are dragged upward to form a festoon pattern.
 
 ## Comments and Comparanda
 

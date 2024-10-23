@@ -139,7 +139,7 @@ object_list:
     production_area: "Egypt"
     culture: "Egyptian"
     material: "Dark blue (appearing black) and opaque yellow and white glass"
-    modeling_technique_and_decoration: "Core-formed; applied unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Flasks" ]
     technique: [ "Core-formed" ]
@@ -175,7 +175,7 @@ object_list:
     production_area: "Western Asiatic, probably northwestern Iran, perhaps Azerbaijan"
     culture: "Near Eastern, Achaemenid (Persian)"
     material: "Translucent dark blue and greenish and opaque white, orange, and turquoise glass"
-    modeling_technique_and_decoration: "Rod-formed; applied marvered threads"
+    modeling_technique_and_decoration: "Rod-formed; applied unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Kohl tubes" ]
     technique: [ "Rod-formed" ]
@@ -193,7 +193,7 @@ object_list:
     production_area: "Western Asiatic, probably northwestern Iran, area of Ardebil, perhaps Azerbaijan"
     culture: "Near Eastern, Achaemenid (Persian)"
     material: "Dark blue; opaque red and yellow glass"
-    modeling_technique_and_decoration: "Rod-formed; applied elements"
+    modeling_technique_and_decoration: "Rod-formed; applied marvered threads"
     inscription: "No"
     shape: [ "Kohl tubes" ]
     technique: [ "Rod-formed" ]
@@ -229,7 +229,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Opaque white and translucent purple glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -247,7 +247,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Opaque white and translucent purple glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -283,7 +283,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Dark purple (seemingly black) and opaque white glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -301,7 +301,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent dark blue and opaque white and yellow glass, with bronze"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -319,7 +319,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent dark blue and opaque turquoise and yellow glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -337,7 +337,7 @@ object_list:
     production_area: "Eastern Mediterranean"
     culture: "Greek"
     material: "Translucent dark blue and opaque turquoise glass, with bronze"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -355,7 +355,7 @@ object_list:
     production_area: "Eastern Mediterranean"
     culture: "Greek"
     material: "Translucent dark, probably purple, and opaque white and yellow glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -373,7 +373,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Brownish-purple and opaque white, appearing turquoise, glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -391,7 +391,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Brown, opaque yellow, and turquoise glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -409,7 +409,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent brown, and opaque yellow, turquoise glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -427,7 +427,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent light green/gray and opaque turquoise and yellow glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -499,7 +499,7 @@ object_list:
     production_area: "Eastern Mediterranean or Italy"
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim, lugs, and decorative threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim, lugs, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -535,7 +535,7 @@ object_list:
     production_area: "Eastern Mediterranean"
     culture: "Greek"
     material: "Translucent purple and opaque yellow and white glass"
-    modeling_technique_and_decoration: "Core-formed; applied lugs, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied lugs, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -607,7 +607,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Syro-Palestinian region"
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -625,7 +625,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Syro-Palestinian region"
     culture: "Greek"
     material: "Translucent dark blue and opaque turquoise and yellow glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -643,7 +643,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Syro-Palestinian region"
     culture: "Greek"
     material: "Opaque dark blue and white glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -679,7 +679,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow and turquoise glass, with bronze chain"
-    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Core-formed" ]
@@ -697,7 +697,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent dark green (appearing black) and opaque white and turquoise glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Core-formed" ]
@@ -715,7 +715,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow and turquoise glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Core-formed" ]
@@ -733,7 +733,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Core-formed" ]
@@ -751,7 +751,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow and turquoise glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim, handles, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Core-formed" ]
@@ -769,7 +769,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Opaque dark red, yellow, and turquoise glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Core-formed" ]
@@ -787,7 +787,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent dark green (appearing black) and opaque white glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base-knob, and unmarvered thread"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base-knob, and unmarvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Core-formed" ]
@@ -949,7 +949,7 @@ object_list:
     production_area: "Eastern Mediterranean or Italy"
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow, turquoise, and white glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Oinochoai" ]
     technique: [ "Core-formed" ]
@@ -1003,7 +1003,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow and turquoise glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim, handles, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Aryballoi" ]
     technique: [ "Core-formed" ]
@@ -1021,7 +1021,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow and turquoise glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim, handles, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Aryballoi" ]
     technique: [ "Core-formed" ]
@@ -1039,7 +1039,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow and turquoise glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim, handles, and decorative threads and dots"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, unmarvered and marvered threads, and dots"
     inscription: "No"
     shape: [ "Aryballoi" ]
     technique: [ "Core-formed" ]
@@ -1057,7 +1057,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow and white glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim, handles, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Aryballoi" ]
     technique: [ "Core-formed" ]
