@@ -1914,7 +1914,7 @@ object_list:
     label: "Cat. 104"
     accession_number: "83.AF.28.12"
     link: <https://www.getty.edu/art/collection/objects/16214>
-    dimensions: "L. 2.0, W. 3.1, est. Diam. base 5, Th. 0.3 cm; Wt. 2.06 g"
+    dimensions: "L. 2.0, W. 3.1, est. Diam. base 5.0, Th. 0.3 cm; Wt. 2.06&nbsp;g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
@@ -1968,7 +1968,7 @@ object_list:
     label: "Cat. 107"
     accession_number: "83.AF.28.4"
     link: <https://www.getty.edu/art/collection/objects/16206>
-    dimensions: "pres. H. 2.0, est. Diam. rim 9.0, Th. 0.22 cm; Wt. 2.45 g"
+    dimensions: "pres. H. 2.0, est. Diam. rim 9.0, Th. 0.22 cm; Wt. 2.45&nbsp;g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
@@ -2184,7 +2184,7 @@ object_list:
     label: "Cat. 119"
     accession_number: "2003.246"
     link: <https://www.getty.edu/art/collection/objects/221629>
-    dimensions: "H. 3.8, Diam. rim 10.3, Diam. base 5.2 cm; Wt. 112.44 g"
+    dimensions: "H. 3.8, Diam. rim 10.3, Diam. base 5.2 cm; Wt. 112.44&nbsp;g"
     date: "Early first century BCE"
     start_date: "-100"
     end_date: "-67"
@@ -2310,13 +2310,13 @@ object_list:
     label: "Cat. 126"
     accession_number: "2003.258.6"
     link: <https://www.getty.edu/art/collection/objects/221646/>
-    dimensions: "H. 3.0, W. 5.0, est. Diam. rim 8.0, Th. 0.3 cm; Wt. 7.40 g"
+    dimensions: "H. 3.0, W. 5.0, est. Diam. rim 8.0, Th. 0.3 cm; Wt. 7.40&nbsp;g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
     production_area: "Italy or Egypt"
     culture: "Greek or Roman"
-    material: "Transparent colorless, opaque white and translucent blue glass"
+    material: "Transparent colorless, opaque white, and translucent blue glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
     inscription: "No"
     shape: [ "Bowls" ]
@@ -2334,7 +2334,7 @@ object_list:
     end_date: "32"
     production_area: "Italy or Egypt"
     culture: "Greek or Roman"
-    material: "Translucent purple, blue, and turquoise; and opaque white glass"
+    material: "Translucent purple, blue, and turquoise and opaque white glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
     inscription: "No"
     shape: [ "Unidentified" ]
@@ -2364,7 +2364,7 @@ object_list:
     label: "Cat. 129"
     accession_number: "2003.258.4"
     link: <https://www.getty.edu/art/collection/objects/221644>
-    dimensions: "pres. H. 2.4, W. 2.7, est. Diam. rim ca. 10.0 cm; Wt. 4.00 g"
+    dimensions: "pres. H. 2.4, W. 2.7, est. Diam. rim 10.0 cm; Wt. 4.00 g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
@@ -2400,7 +2400,7 @@ object_list:
     label: "Cat. 131"
     accession_number: "2003.258.2"
     link: <https://www.getty.edu/art/collection/objects/221642>
-    dimensions: "W. 4.2, L. 3.8, Th. 0.6–0.3 (at the notch) cm; Wt. 16.35 g"
+    dimensions: "W. 4.2, L. 3.8, Th. 0.6–0.3 (at the notch) cm; Wt. 16.35&nbsp;g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
