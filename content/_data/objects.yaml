@@ -5269,7 +5269,7 @@ object_list:
     production_area: "Italy or northwestern Europe"
     culture: "Roman"
     material: "Decolorized glass"
-    modeling_technique_and_decoration: "Free-blown; wheel-cut; polished"
+    modeling_technique_and_decoration: "Free-blown; wheel-cut and polished"
     inscription: "No"
     shape: [ "Jugs" ]
     technique: [ "Free-blown" ]
@@ -5352,7 +5352,7 @@ object_list:
     label: "Cat. 295"
     accession_number: "2003.284"
     link: <https://www.getty.edu/art/collection/objects/221673/>
-    dimensions: "H. 12.2, Diam. rim 2.8, max. Diam. 3.9, Diam. base 2.4, Th. 0.1 cm; Wt. 39.40 g (including Plexiglass base)"
+    dimensions: "H. 12.2, Diam. rim 2.8, max. Diam. 3.9, Diam. base 2.4, Th. 0.1 cm; Wt. 39.40 g (including Plexiglas base)"
     date: "Third–fourth centuries CE"
     start_date: "200"
     end_date: "399"
