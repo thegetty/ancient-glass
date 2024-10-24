@@ -3534,7 +3534,7 @@ object_list:
     label: "Cat. 194"
     accession_number: "2003.301"
     link: <http://www.getty.edu/art/collection/objects/221691>
-    dimensions: "H. 8.0, Diam. rim 2.5, max. Diam. 3.8, Th. 0.1 cm; Wt. 29.6 g"
+    dimensions: "H. 8.0, Diam. rim 2.5, max. Diam. 3.8, Th. 0.1 cm; Wt. 29.60 g"
     date: "Middle of the first century CE"
     start_date: "33"
     end_date: "65"
@@ -3606,7 +3606,7 @@ object_list:
     label: "Cat. 198"
     accession_number: "2003.330"
     link: <https://www.getty.edu/art/collection/objects/221720>
-    dimensions: "H. 13.7, Diam. rim 3.6, max. body Diam. 6.0 × 6.0 cm; Wt. 72.30 g"
+    dimensions: "H. 13.7, Diam. rim 3.6, max. Diam. 6.0 × 6.0 cm; Wt. 72.30 g"
     date: "Late first–second centuries CE"
     start_date: "66"
     end_date: "199"
@@ -3732,7 +3732,7 @@ object_list:
     label: "Cat. 205"
     accession_number: "2003.302"
     link: <https://www.getty.edu/art/collection/objects/221692>
-    dimensions: "H. 7.0, Diam. rim 2.7, Diam. base 2.o, Th. 0.1 cm; Wt. 26.60 g"
+    dimensions: "H. 7.0, Diam. rim 2.7, Diam. base 2.0, Th. 0.1 cm; Wt. 26.60 g"
     date: "Probably second half of the first century CE"
     start_date: "50"
     end_date: "99"
@@ -3768,7 +3768,7 @@ object_list:
     label: "Cat. 207"
     accession_number: "2003.313"
     link: <https://www.getty.edu/art/collection/objects/221703>
-    dimensions: "H. 9.4, Diam. rim 2.7, Diam. base 3.0 cm; Wt. 39.50 g"
+    dimensions: "H. 9.4, Diam. rim 2.7, Diam. base 3.0 cm; Wt. 39.50&nbsp;g"
     date: "First half of the first century CE"
     start_date: "1"
     end_date: "49"
@@ -3792,7 +3792,7 @@ object_list:
     end_date: "49"
     production_area: "Syro-Palestinian coast"
     culture: "Roman"
-    material: "Translucent amber-colored; opaque turquoise and dark blue glass"
+    material: "Translucent amber-colored and opaque turquoise and dark blue glass"
     modeling_technique_and_decoration: "Body mold-blown in a four-part mold of three vertical sections joined to a cup-shaped base section; neck and rim free-blown and tooled"
     inscription: "No"
     shape: [ "Jugs", "Flasks" ]
@@ -4326,7 +4326,7 @@ object_list:
     label: "Cat. 238"
     accession_number: "2003.227"
     link: <https://www.getty.edu/art/collection/objects/221610/>
-    dimensions: "H. 4.4. Diam. rim 6.4, max. Diam. 7.3, Diam. base 3.0, Th. 0.09 cm; Wt. 29.60 g"
+    dimensions: "H. 4.4, Diam. rim 6.4, max. Diam. 7.3, Diam. base 3.0, Th. 0.09 cm; Wt. 29.60 g"
     date: "First half of the first century CE"
     start_date: "1"
     end_date: "49"
@@ -4578,7 +4578,7 @@ object_list:
     label: "Cat. 252"
     accession_number: "2004.38"
     link: <https://www.getty.edu/art/collection/objects/221505/>
-    dimensions: "H. 8.1, Diam. rim 11.2, Diam. base , Th. 0.2 cm; Wt. 200.35 g"
+    dimensions: "H. 8.1, Diam. rim 11.2, Diam. base 5.5, Th. 0.2 cm; Wt. 200.35 g"
     date: "Third–fourth centuries CE"
     start_date: "200"
     end_date: "399"
