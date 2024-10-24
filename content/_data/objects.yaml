@@ -7428,7 +7428,7 @@ object_list:
     end_date: "1199"
     production_area: "Eastern Mediterranean"
     culture: "Byzantine or Islamic"
-    material: "Translucent purple; opaque light blue-gray, green, yellow, and red glass"
+    material: "Translucent purple and opaque light blue-gray, green, yellow, and red glass"
     modeling_technique_and_decoration: "Free-blown; applied elements, marvered"
     inscription: "No"
     shape: [ "Flasks" ]
@@ -7554,7 +7554,7 @@ object_list:
     end_date: "999"
     production_area: "Eastern Mediterranean"
     culture: "Islamic"
-    material: "Translucent greenish glass"
+    material: "Colorized, slightly greenish, glass"
     modeling_technique_and_decoration: "Free-blown; wheel-cutting"
     inscription: "No"
     shape: [ "Flasks" ]
@@ -7566,7 +7566,7 @@ object_list:
     label: "Cat. 418"
     accession_number: "79.AF.184.24"
     link: <https://www.getty.edu/art/collection/objects/8685>
-    dimensions: "H. 5.2, Diam. rim 1.6, Diam. base 2.2 × 2.3 cm; Wt. 181.8 g"
+    dimensions: "H. 5.2, Diam. rim 1.6, Diam. base 2.2 × 2.3 cm; Wt. 181.80 g"
     date: "Ninth–tenth centuries CE"
     start_date: "800"
     end_date: "999"
@@ -7584,13 +7584,13 @@ object_list:
     label: "Cat. 419"
     accession_number: "79.AF.184.15"
     link: <https://www.getty.edu/art/collection/objects/8676>
-    dimensions: "H. 11, Diam. rim 1.8, Diam. base 2.6 cm; Wt. 54.26 g"
+    dimensions: "H. 11.0, Diam. rim 1.8, Diam. base 2.6 cm; Wt. 54.26 g"
     date: "Ninth–eleventh centuries CE (body and neck) and twentieth century CE (bottom)"
     start_date: "800"
     end_date: "1099"
     production_area: "Eastern Mediterranean"
     culture: [ "Islamic", "Modern" ]
-    material: "Translucent greenish glass"
+    material: "Colorless glass"
     modeling_technique_and_decoration: "Free-blown and ground"
     inscription: "No"
     shape: [ "Flasks" ]
@@ -7818,7 +7818,7 @@ object_list:
     label: "Cat. 432"
     accession_number: "79.AF.184.17"
     link: <https://www.getty.edu/art/collection/objects/8678>
-    dimensions: "L. 10.5, W. 5.1 cm; Wt. 61.10 g"
+    dimensions: "L. 10.5, W. 5.1 cm; Wt. 61.10&nbsp;g"
     date: "Islamic or Ottoman"
     start_date: "1500"
     end_date: "1900"
@@ -7915,7 +7915,7 @@ object_list:
     production_area: "Venice (possibly), Italy"
     culture: "Modern"
     material: "Opaque white, yellow, and blue; translucent purple; transparent glass"
-    modeling_technique_and_decoration: "Mosaic"
+    modeling_technique_and_decoration: "Free-blown; mosaic"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Free-blown" ]
@@ -7963,7 +7963,7 @@ object_list:
     accession_number: "2003.442"
     link: <https://www.getty.edu/art/collection/objects/221831>
     dimensions: "H. 4.5, Diam. rim 5.5, Diam. base 3.6 cm; Wt. 31.70 g"
-    date: "Ca. fourth century CE and twentieth century"
+    date: "Ca. third–fourth centuries CE and twentieth century"
     start_date: "300"
     end_date: "399"
     production_area: "Eastern Mediterranean"
@@ -8088,7 +8088,7 @@ object_list:
     label: "Cat. 447"
     accession_number: "2003.158"
     link: <https://www.getty.edu/art/collection/objects/221525>
-    dimensions: "H. 6.3, W. 8.0 cm; Wt. 67.47 g"
+    dimensions: "H. 6.3, W. 8.0 cm; Wt. 67.47&nbsp;g"
     date: "Third century BCE–first century CE"
     start_date: "-300"
     end_date: "99"
@@ -8274,7 +8274,7 @@ object_list:
     end_date: "99"
     production_area: "Italy or Egypt"
     culture: "Greek or Roman"
-    material: "Translucent (?) dark blue; opaque white, red, turquoise, and yellow glass"
+    material: "Translucent (?) dark blue and opaque white, red, turquoise, and yellow glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8376,13 +8376,13 @@ object_list:
     label: "Cat. 463"
     accession_number: "83.AF.28.24"
     link: <https://www.getty.edu/art/collection/objects/16226>
-    dimensions: "1.9 × 1 × 0.5 cm; Wt. 7.28 g"
+    dimensions: "L. 1.9, W. 1.0, Th. 0.5 cm; Wt. 7.28 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
     production_area: "Egypt or Italy"
     culture: "Roman"
-    material: "Translucent green and purple; opaque yellow, red, and white glass"
+    material: "Translucent green and purple and opaque yellow, red, and white glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8412,7 +8412,7 @@ object_list:
     label: "Cat. 465"
     accession_number: "76.AF.70.38"
     link: <https://www.getty.edu/art/collection/objects/19057>
-    dimensions: "2.4 × 2.2 × 0.3–0.5 cm; Wt. 3.76 g"
+    dimensions: "L. 2.4, W. 2.2, Th. 0.3–0.5 cm; Wt. 3.76 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
