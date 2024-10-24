@@ -32,7 +32,7 @@ See further {% cite 'Harden 1940–48' %}, p. 49, fig. 20:b and c; {% cite 'Isin
 
 ## Bibliography
 
-{% cite 'Anderson Galleries 1937' %}, lot 50, ill.
+{% cite 'Anderson Galleries 1937a' %}, lot 50, ill.
 
 {% cite 'Parke-Bernet Galleries 1940' %}, lot 108, ill.
 

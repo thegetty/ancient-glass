@@ -24,6 +24,9 @@ entries:
   - term: "core-forming"
     definition: "The construction of a vessel by forming around a rigid core that was subsequently scraped out. A core of organic and inorganic materials is made on the end of a metal rod. The rod is rolled on crushed glass and then inserted in the kiln until the glass melts and covers the core. The neck and rim of the vessel are formed with tools, and handles and bases are added. The decoration is usually made by winding threads of colored glass."
 
+  - term: "corrosion"
+    definition: "*See* weathering"
+    
   - term: "dip mold–blowing" 
     definition: "The technique of partially forming a vessel by blowing into an intaglio or mold. The vessel then acquires its finished dimensions through free-blowing, during which the original mold-made decoration is blunted or altered."
 
@@ -31,7 +34,7 @@ entries:
     definition: "The smoothing of a vessel or object through exposure to direct heat by inserting it momentarily into the glass furnace. This technique was used particularly often to finish the rims of vessels."
 
   - term: "former mold"
-    definition: "A convex mold of ceramic, plaster, or metal over which a disk of glass was sagged to achieve the desired shape."
+    definition: "A convex mold of ceramic, plaster, or metal over which a disk of glass was sagged to acquire the desired shape."
 
   - term: "free-blowing" 
     definition: "The technique of forming an object by blowing air through a mass of hot glass using a blowpipe."
@@ -93,7 +96,5 @@ entries:
   - term: "weathering"
     definition: "Alteration in the glass, first on its surface and then below the surface, as a result of environmental factors. It is due to the loss of alkaline ions and the creation of a siliceous layer on the surface, and is influenced by the composition of the glass. Weathering is a general term that includes the following specific types: discoloration, loss of vitreous nature, pitting, milky weathering, crusting, dulling, iridescence, crazing or crizzling, plowing, cracking or fracturing, sugaring, and lamination."
   
-  - term: "corrosion"
-    definition: "*See* weathering"
 
    
