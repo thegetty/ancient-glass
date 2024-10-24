@@ -9082,7 +9082,7 @@ object_list:
     date: "Perhaps first century CE"
     start_date: "1"
     end_date: "99"
-    production_area: "Eastern Mediterranean, probbly Italy"
+    production_area: "Eastern Mediterranean, probably Italy"
     culture: "Roman"
     material: "Opaque white and green glass"
     modeling_technique_and_decoration: "Cast in a mold, ground and polished"
@@ -9114,7 +9114,7 @@ object_list:
     label: "Cat. 504"
     accession_number: "2003.358"
     link: <https://www.getty.edu/art/collection/objects/221748>
-    dimensions: "H. 3.5 × W. 3.9 cm; Wt. 29.44 g"
+    dimensions: "H. 3.5, W. 3.9 cm; Wt. 29.44 g"
     date: "Third–fourth centuries CE"
     start_date: "200"
     end_date: "399"
@@ -9132,7 +9132,7 @@ object_list:
     label: "Cat. 505"
     accession_number: "2003.359"
     link: <https://www.getty.edu/art/collection/objects/221749>
-    dimensions: "H. 3.3 × W. 3.1 cm; Wt. 17.96 g"
+    dimensions: "H. 3.3, W. 3.1 cm; Wt. 17.96 g"
     date: "Third–fourth centuries CE"
     start_date: "200"
     end_date: "399"
@@ -9205,7 +9205,7 @@ object_list:
     accession_number: "2003.214.1"
     link: <https://www.getty.edu/art/collection/objects/221581>
     dimensions: "L. 4.2, W. 1.8, Th. 1.0 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9222,8 +9222,8 @@ object_list:
     label: "Cat. 510"
     accession_number: "2003.214.2"
     link: <https://www.getty.edu/art/collection/objects/221582>
-    dimensions: "4.4 × 1.7 × 1 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    dimensions: "H. 4.4, W. 1.7, Th. 1.0 cm"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9241,7 +9241,7 @@ object_list:
     accession_number: "2003.214.3"
     link: <https://www.getty.edu/art/collection/objects/221583>
     dimensions: "H. 2.7, W. 1.0, Th. 0.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9259,7 +9259,7 @@ object_list:
     accession_number: "2003.214.4"
     link: <https://www.getty.edu/art/collection/objects/221584>
     dimensions: "H. 2.6, W. 1.0, Th. 0.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9277,7 +9277,7 @@ object_list:
     accession_number: "2003.214.5"
     link: <https://www.getty.edu/art/collection/objects/221585>
     dimensions: "H. 1.9, W. 1.1, Th. 0.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9295,7 +9295,7 @@ object_list:
     accession_number: "2003.214.6"
     link: <https://www.getty.edu/art/collection/objects/221586>
     dimensions: "H. 2, W. 1.2, Th. 0.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9313,7 +9313,7 @@ object_list:
     accession_number: "2003.214.7"
     link: <https://www.getty.edu/art/collection/objects/221587>
     dimensions: "H. 2.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9331,7 +9331,7 @@ object_list:
     accession_number: "2003.214.8"
     link: <https://www.getty.edu/art/collection/objects/221588>
     dimensions: "H. 3.1, W. 1.2, Th. 0.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9349,7 +9349,7 @@ object_list:
     accession_number: "2003.214.9"
     link: <https://www.getty.edu/art/collection/objects/221589>
     dimensions: "H. 3.0, W. 1.4, Th. 0.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9367,7 +9367,7 @@ object_list:
     accession_number: "2003.214.10"
     link: <https://www.getty.edu/art/collection/objects/221590>
     dimensions: "H. 3.0, W. 1.6, Th. 0.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9385,7 +9385,7 @@ object_list:
     accession_number: "2003.214.11"
     link: <https://www.getty.edu/art/collection/objects/221591>
     dimensions: "H. 2.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9403,7 +9403,7 @@ object_list:
     accession_number: "2003.214.12"
     link: <https://www.getty.edu/art/collection/objects/221592>
     dimensions: "H. 2.5, W. 1.3, Th. 0.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9421,7 +9421,7 @@ object_list:
     accession_number: "2003.214.13"
     link: <https://www.getty.edu/art/collection/objects/221593>
     dimensions: "H. 2.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9439,7 +9439,7 @@ object_list:
     accession_number: "2003.214.14"
     link: <https://www.getty.edu/art/collection/objects/221594>
     dimensions: "H. 2.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9457,7 +9457,7 @@ object_list:
     accession_number: "2003.214.15"
     link: <https://www.getty.edu/art/collection/objects/221595>
     dimensions: "H. 2.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9475,7 +9475,7 @@ object_list:
     accession_number: "2003.214.16"
     link: <https://www.getty.edu/art/collection/objects/221596>
     dimensions: "H. 2.5, W. 1.2, Th. 0.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9493,7 +9493,7 @@ object_list:
     accession_number: "2003.214.17"
     link: <https://www.getty.edu/art/collection/objects/221597>
     dimensions: "H. 2.9, W. 1.3, Th. 0.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9511,7 +9511,7 @@ object_list:
     accession_number: "2004.15.1"
     link: <https://www.getty.edu/art/collection/objects/221467>
     dimensions: "H. 3.1, W. 1.1 cm; Wt. 1.62 g"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9529,7 +9529,7 @@ object_list:
     accession_number: "2004.15.2"
     link: <https://www.getty.edu/art/collection/objects/221468>
     dimensions: "H. 3.1, W. 1.2 cm; Wt. 1.86 g"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9547,7 +9547,7 @@ object_list:
     accession_number: "2004.15.3"
     link: <https://www.getty.edu/art/collection/objects/221469>
     dimensions: "H. 3.1, W. 1.3 cm; Wt. 1.76 g"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9565,7 +9565,7 @@ object_list:
     accession_number: "2004.15.4"
     link: <https://www.getty.edu/art/collection/objects/221470>
     dimensions: "H. 3.2, W. 1.3 cm; Wt. 1.98 g"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9583,7 +9583,7 @@ object_list:
     accession_number: "2004.15.5"
     link: <https://www.getty.edu/art/collection/objects/221471>
     dimensions: "H. 2, W. 1.1 cm; Wt. 1.66 g"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9601,7 +9601,7 @@ object_list:
     accession_number: "2004.15.6"
     link: <https://www.getty.edu/art/collection/objects/221472>
     dimensions: "H. 2, W. 1.2 cm; Wt. 1.46 g"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9619,7 +9619,7 @@ object_list:
     accession_number: "2004.15.7"
     link: <https://www.getty.edu/art/collection/objects/221473>
     dimensions: "H. 3.1, W. 2 cm; Wt. 6.45 g"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -10297,7 +10297,7 @@ object_list:
     label: "Cat. 538"
     accession_number: "2003.210"
     link: <https://www.getty.edu/art/collection/objects/221577/>
-    dimensions: "H. 2.1, max. Diam. 1.8 cm; Wt. 10.6 g"
+    dimensions: "H. 2.1, max. Diam. 1.8 cm; Wt. 10.60 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -10374,7 +10374,7 @@ object_list:
     start_date: "-600"
     end_date: "-401"
     production_area: "Eastern Mediterranean"
-    culture: "Ancient Greek"
+    culture: "Greek"
     material: "Light blue, dark blue, and white glass"
     modeling_technique_and_decoration: "Marvered; tooled"
     inscription: "No"
@@ -10423,7 +10423,7 @@ object_list:
     label: "Cat. 545"
     accession_number: "2003.208"
     link: <https://www.getty.edu/art/collection/objects/221575>
-    dimensions: "H. 2.9 cm, max. pres. W. 2.0, max. Th. 2.0 cm; Wt. 3.93 g"
+    dimensions: "H. 2.9, max. pres. W. 2.0, max. Th. 2.0 cm; Wt. 3.93 g"
     date: "Mid-fifth–fourth centuries BCE"
     start_date: "-450"
     end_date: "-301"
@@ -10603,8 +10603,8 @@ object_list:
     label: "Cat. 555"
     accession_number: "2003.456"
     link: <https://www.getty.edu/art/collection/objects/221845>
-    dimensions: "L. 2.4, W. 1.3 cm; Wt. 0.9 g"
-    date: "Roman, third–fifth centuries CE"
+    dimensions: "L. 2.4, W. 1.3 cm; Wt. 0.90 g"
+    date: "Roman, third–fifth centuries&nbsp;CE"
     start_date: "200"
     end_date: "499"
     production_area: "Probably Syro-Palestinian region"
@@ -10747,7 +10747,7 @@ object_list:
     label: "Cat. 563"
     accession_number: "2003.457"
     link: <https://www.getty.edu/art/collection/objects/221846>
-    dimensions: "Diam. 8.5, Th. 0.4 cm; Wt. 28.2 g"
+    dimensions: "Diam. 8.5, Th. 0.4 cm; Wt. 28.20 g"
     date: "Fourth century CE"
     start_date: "300"
     end_date: "399"
@@ -10765,7 +10765,7 @@ object_list:
     label: "Cat. 564"
     accession_number: "2003.459"
     link: <https://www.getty.edu/art/collection/objects/221848>
-    dimensions: "Diam. 5.0, Th. 0.3 cm; Wt. 5.8 g"
+    dimensions: "Diam. 5.0, Th. 0.3 cm; Wt. 5.80 g"
     date: "Fourth century CE"
     start_date: "300"
     end_date: "399"
@@ -10783,13 +10783,13 @@ object_list:
     label: "Cat. 565"
     accession_number: "2003.458"
     link: <https://www.getty.edu/art/collection/objects/221847>
-    dimensions: "Diam. 7.0, Th. 1.0 cm; Wt. 25.2 g"
+    dimensions: "Diam. 7.0, Th. 1.0 cm; Wt. 25.20 g"
     date: "Fourth century CE"
     start_date: "300"
     end_date: "301"
     production_area: "Eastern Mediterranean"
     culture: "Byzantine"
-    material: "Semitranslucent dark blue (seemingly black) glass"
+    material: "Semitranslucent dark green (seemingly black) glass"
     modeling_technique_and_decoration: "Tooling"
     inscription: "No"
     shape: [ "Bracelets" ]
@@ -10819,7 +10819,7 @@ object_list:
     label: "Cat. 567"
     accession_number: "2003.295.1–2"
     link: <https://www.getty.edu/art/collection/objects/221685>
-    dimensions: "2003.295.1: H. 0.5, Diam 1.5 cm; Wt. 2.48 g; 2003.295.2: H. 0.5, Diam. 1.44 cm; Wt. 2.14 g"
+    dimensions: "2003.295.1: H. 0.5, Diam. 1.5 cm; Wt. 2.48 g; 2003.295.2: H. 0.5, Diam. 1.4 cm; Wt. 2.14 g"
     date: "Probably fourth century CE"
     start_date: "300"
     end_date: "399"
@@ -10837,7 +10837,7 @@ object_list:
     label: "Cat. 568"
     accession_number: "2003.460"
     link: <https://www.getty.edu/art/collection/object/1096D1>
-    dimensions: "H. 1.6, Diam. 4.5 cm; Wt. 40.1 g"
+    dimensions: "H. 1.6, Diam. 4.5 cm; Wt. 40.10 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -10855,7 +10855,7 @@ object_list:
     label: "Cat. 569"
     accession_number: "79.AF.171"
     link: <https://www.getty.edu/art/collection/objects/8655>
-    dimensions: "1.8 × 1.1 × 1.0 cm; Wt. 2.86 g"
+    dimensions: "H. 1.8, W. 1.1, Th. 1.0 cm; Wt. 2.86 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
@@ -10915,7 +10915,7 @@ object_list:
     end_date: "199"
     production_area: "Roman Empire"
     culture: "Roman"
-    material: "Translucent light-yellow glass"
+    material: "Translucent light yellow glass"
     modeling_technique_and_decoration: "Tooled"
     inscription: "No"
     shape: 
@@ -10945,7 +10945,7 @@ object_list:
     label: "Cat. 574"
     accession_number: "2003.356"
     link: <https://www.getty.edu/art/collection/objects/221746>
-    dimensions: "H. 6.0, W. 5.6 cm; Wt. 245.6 g"
+    dimensions: "H. 6.0, W. 5.6 cm; Wt. 245.60&nbsp;g"
     date: "First–second centuries CE"
     start_date: "1"
     end_date: "199"
@@ -10963,7 +10963,7 @@ object_list:
     label: "Cat. 575"
     accession_number: "2003.357"
     link: <https://www.getty.edu/art/collection/objects/221747>
-    dimensions: "H. 3.8, Th. 4.0 cm; Wt. 96.4 g"
+    dimensions: "H. 3.8, Th. 4.0 cm; Wt. 96.40&nbsp;g"
     date: "First–second centuries CE"
     start_date: "1"
     end_date: "199"
@@ -10981,7 +10981,7 @@ object_list:
     label: "Cat. 576"
     accession_number: "2003.155"
     link: <https://www.getty.edu/art/collection/objects/221522>
-    dimensions: "H. 14.7, Diam. rim 1.6, D. body max. 0.7 cm; Wt. 9.34 g"
+    dimensions: "H. 14.7, Diam. rim 1.6, max. Diam. 0.7 cm; Wt. 9.34 g"
     date: "Late Eighteenth to Nineteenth Dynasty; mid-fourteenth to mid-thirteenth century BCE"
     start_date: "-1366"
     end_date: "-1234"
@@ -11017,7 +11017,7 @@ object_list:
     label: "Cat. 578"
     accession_number: "2003.371"
     link: <https://www.getty.edu/art/collection/objects/221761/>
-    dimensions: "H. 2.0, Diam. 18.3, Th. 0.2 cm; Wt. 171 g"
+    dimensions: "H. 2.0, Diam. 18.3, Th. 0.2 cm; Wt. 171.00 g"
     date: "Islamic, Byzantine, or Ottoman"
     start_date: "550"
     end_date: "1700?"
@@ -11107,7 +11107,7 @@ object_list:
     label: "Cat. 583"
     accession_number: "2003.462"
     link: <https://www.getty.edu/art/collection/objects/221851/>
-    dimensions: "L. 8.8, W. 5.4 cm; Wt. 89.5 g"
+    dimensions: "L. 8.8, W. 5.4 cm; Wt. 89.50 g"
     date: "Ninth–twelfth and nineteenth–twentieth centuries CE"
     start_date: "800"
     end_date: "1199"
