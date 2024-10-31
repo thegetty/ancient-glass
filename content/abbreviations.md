@@ -13,7 +13,7 @@ The objects of the catalogue have been divided into two main groups, vessels and
 
 Title: Usually a single word describing the shape or the use of the object
 
-Accession_number: Getty inventory number
+Accession number: Getty inventory number
 
 Inventoried glass objects are given a number that includes the year of accession. For objects acquired prior to 2000, two letters indicate the department and the material of the object, in most cases AF, referring to the departments of antiquities and glass, respectively, and a sequence number.
 

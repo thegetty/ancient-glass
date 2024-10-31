@@ -9093,13 +9093,13 @@ figure_list:
     src: figures/fig-3-history.jpg
     #zoom: true
     label: "Figure 3."
-    caption: "Roman Glass display in J. Paul Getty Museum, “Getty Art Bids Viewers,” Los Angeles Times, January 24, 1958, photo by Harry Chase."
+    caption: "Roman Glass display in J. Paul Getty Museum, “Getty Art Bids Viewers,” *Los Angeles Times*, January 24, 1958, photo by Harry Chase."
     
   - id: fig-4-history
     src: figures/fig-4-history.jpg
     #zoom: true
     label: "Figure 4."
-    caption: "Cat. 133, Ribbed Bowl, 50 BCE–50 CE, 72.AF.37, Photo from the 1907 publication of *Le Chateau de Ripaille* by Max Bruchet (Paris), p. 20; ill."
+    caption: "Cat. 133, Ribbed Bowl, 50 BCE–50 CE, 72.AF.37. Photo from the 1907 publication of *Le Chateau de Ripaille* by Max Bruchet (Paris), p. 20; ill."
 
   - id: fig-5-history
     src: figures/fig-5-history.jpg
@@ -9117,13 +9117,13 @@ figure_list:
     src: figures/fig-7-history.jpg
     #zoom: true
     label: "Figure 7."
-    caption: "View of Gallery 101E in 2006, Glass in Antiquity, J. Paul Getty Museum at the Getty Villa"
+    caption: "View of Gallery 101E in 2006, *Glass in Antiquity*, J. Paul Getty Museum at the Getty Villa"
 
   - id: fig-8-history
     src: figures/fig-8-history.jpg
     #zoom: true
     label: "Figure 8."
-    caption: "View of Gallery 214 in 2010, Molten Color: Glassmaking in Antiquity, J. Paul Getty Museum at the Getty Villa"
+    caption: "View of Gallery 214 in 2010, *Molten Color: Glassmaking in Antiquity*, J. Paul Getty Museum at the Getty Villa"
 
   - id: fig-9-history
     src: figures/fig-9-history.jpg
@@ -9141,68 +9141,68 @@ figure_list:
     src: figures/fig-11-intro.jpg
     #zoom: true
     label: "Figure 11."
-    caption: "Core-forming technique <br>
+    caption: "**Core-forming technique** <br>
     A core of organic and inorganic materials is made on the end of a metal rod; the metal rod is then rolled on crushed glass and is inserted in the kiln until the glass melts and covers the core. The glassworker uses tools to form the rim and neck of the vessel, and then adds handles and base. The decoration is usually made by winding threads of colored glass that are often combed to create a zigzag or feathered pattern."
 
   - id: fig-12-intro
     src: figures/fig-12-intro.jpg
     #zoom: true
     label: "Figure 12."
-    caption: "Rod-forming technique <br>
+    caption: "**Rod-forming technique** <br>
     A glass object is formed around a core or metal mandrel. Most beads, pendants, and some core-formed vessels are made by winding the molten glass around a rod."
   
   - id: fig-13-intro
     src: figures/fig-13-intro.jpg
     #zoom: true
     label: "Figure 13."
-    caption: "Cast, lost wax technique <br>
+    caption: "**Cast, lost wax technique** <br>
     (a) Former. (b) Lower part of the mold is placed on the former. &#40;c) Upper part of the mold is placed on top of the lower part and heated. (d) Cullet of glass is poured into the cavity between the two parts of the mold, then heated and fused to form the vessel."
     
   - id: fig-14-intro
     src: figures/fig-14-intro.jpg
     #zoom: true
     label: "Figure 14."
-    caption: "Slumping technique"
+    caption: "**Slumping technique**"
 
   - id: fig-15-intro
     src: figures/fig-15-intro.jpg
     #zoom: true
     label: "Figure 15."
-    caption: "Rotary-pressing technique for a ribbed bowl"
+    caption: "**Rotary-pressing technique for a ribbed bowl**"
 
   - id: fig-16-intro
     src: figures/fig-16-intro.jpg
     #zoom: true
     label: "Figure 16."
-    caption: "Rotary-pressing technique for a Cretan pyxis, 3rd–1st century BCE <br>
+    caption: "**Rotary-pressing technique for a Cretan pyxis, 3rd–1st century BCE** <br>
     (a) The vessel is formed on a potter’s wheel. The viscous glass is pressed down with a plunger on the rotating lathe. &#40;c) A paddle shapes the outside."
 
   - id: fig-17-intro
     src: figures/fig-17-intro.jpg
     #zoom: true
     label: "Figure 17."
-    caption: "Free-blowing technique <br>
+    caption: "**Free-blowing technique** <br>
     Forming an object by blowing into a mass of hot glass. (a) Blowing is done with the blowpipe, on whose lower end the gob (molten glass) has already been picked up. (b) The parison (bubble of glass at the end of the blowpipe) is produced by the initial act of blowing, and the final product is then formed. &#40;c) The neck and the body are finalized while still attached to the blowpipe. (d) Then a metal rod (pontil/pounty) is attached to the bottom of the vessel and the blowpipe is cut off/removed. (e) While still on the pontil, the vessel’s rim is shaped, and additional elements (handles or decorative elements, e.g., blobs or threads) are applied. (f) The vessel is left to cool (anneal) gradually."
 
   - id: fig-18-intro
     src: figures/fig-18-intro.jpg
     #zoom: true
     label: "Figure 18."
-    caption: "Mold-blowing technique <br>
+    caption: "**Mold-blowing technique** <br>
     The vessel is formed by blowing into a concave or a specially shaped mold; the vessel is completed with the free-blowing of its rim and the attachment of handles."
 
   - id: fig-19-intro
     src: figures/fig-19-intro.jpg
     #zoom: true
     label: "Figure 19."
-    caption: "Dip mold-blowing technique <br>
+    caption: "**Dip mold-blowing technique** <br>
     A vessel is partially formed by blowing into an intaglio or specially shaped mold; the vessel then acquires its finished dimensions through free blowing during which the original mold-made decoration is blunted or altered."
 
   - id: fig-20-intro
     src: figures/fig-20-intro.jpg
     #zoom: true
     label: "Figure 20."
-    caption: "Rotary pressing technique for a cameo vessel <br>
+    caption: "**Rotary pressing technique for a cameo vessel** <br>
     (a) Wax model with decoration in relief. (b) Plaster mold with spaces. &#40;c) Spaces are filled with glass powder, perhaps also with binders. (d) Glass is pressed in. Hot glass melts the powdered glass that is being pressed in. (e) The plaster mold is turned and broken off. (f) The newly made glass is turned upside down. (g) The new glass sags and the rim flows. (h) The rim on the new glass is constricted. (i) The new glass is turned right side up and annealed (cooled)."
 
   - id: fig-21-appendix

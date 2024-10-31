@@ -13,7 +13,7 @@ nextPage: /catalogue/a_vessels/i_ancient/2_cast_rotary/1_single_colored/
 
 ## Condition
 
-Single body fragment. On the interior side is a thick reddish layer from the core.
+Body fragment. On the interior side is a thick reddish layer from the core.
 
 ## Description
 

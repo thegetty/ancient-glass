@@ -20,11 +20,11 @@ The bowl has a flaring lip; conical, cyma recta body; and flat bottom. It stands
 
 The vessel is made of discoid mosaic tesserae, in florets of the following types: (1) a central white rod surrounded in turn by a purple and another purple with two rows of white rods in it, 10 in the interior row and 20 in the exterior; (2) a central greenish-gray rod surrounded by six trapezoidal petals outlined in white, set in a purple layer.
 
-One tessera on the rim, as decorative highlight: thin, wavy, yellow stripes in a thick, translucent green layer. The coil of the base is ribbon mosaic comprising parallel layers of white and purple glass.
+One tessera on the rim, as a decorative highlight: thin, wavy, yellow stripes in a thick, translucent green layer. The coil of the base is ribbon mosaic comprising parallel layers of white and purple glass.
 
 ## Comments and Comparanda
 
-For the production technique see {% cite 'Dawes 2002' %} and comments on {% cat '85.AF.85' %}. On cast, angular vessels see comments on {% cat '78.AF.32' %}.
+For the production technique, see {% cite 'Dawes 2002' %} and comments on {% cat '85.AF.85' %}. On cast, angular vessels, see comments on {% cat '78.AF.32' %}.
 
 ## Provenance
 

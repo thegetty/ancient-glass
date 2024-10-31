@@ -67,7 +67,7 @@ object_list:
     production_area: "Egypt"
     culture: "Egyptian"
     material: "Opaque blue, white, turquoise, and yellow glass"
-    modeling_technique_and_decoration: "Core-formed; applied handles and base"
+    modeling_technique_and_decoration: "Core-formed; applied handles, base, and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Core-formed" ]
@@ -85,7 +85,7 @@ object_list:
     production_area: "Egypt"
     culture: "Egyptian"
     material: "Dark-colored, probably dark green, turquoise, and yellow-white glass"
-    modeling_technique_and_decoration: "Core-formed"
+    modeling_technique_and_decoration: "Core-formed; applied unmarvered thread"
     inscription: "No"
     shape: [ "Amphoriskoi", "Flasks" ]
     technique: [ "Core-formed" ]
@@ -103,7 +103,7 @@ object_list:
     production_area: "Egypt"
     culture: "Egyptian"
     material: "Translucent dark blue and opaque white, yellow, and turquoise glass"
-    modeling_technique_and_decoration: "Core-formed; applied handles, foot, and threads"
+    modeling_technique_and_decoration: "Core-formed; applied handles, foot, and marvered threads"
     inscription: "No"
     shape: [ "Kratoriskoi" ]
     technique: [ "Core-formed" ]
@@ -139,7 +139,7 @@ object_list:
     production_area: "Egypt"
     culture: "Egyptian"
     material: "Dark blue (appearing black) and opaque yellow and white glass"
-    modeling_technique_and_decoration: "Core-formed; applied threads"
+    modeling_technique_and_decoration: "Core-formed; applied unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Flasks" ]
     technique: [ "Core-formed" ]
@@ -175,7 +175,7 @@ object_list:
     production_area: "Western Asiatic, probably northwestern Iran, perhaps Azerbaijan"
     culture: "Near Eastern, Achaemenid (Persian)"
     material: "Translucent dark blue and greenish and opaque white, orange, and turquoise glass"
-    modeling_technique_and_decoration: "Rod-formed; applied threads"
+    modeling_technique_and_decoration: "Rod-formed; applied unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Kohl tubes" ]
     technique: [ "Rod-formed" ]
@@ -193,7 +193,7 @@ object_list:
     production_area: "Western Asiatic, probably northwestern Iran, area of Ardebil, perhaps Azerbaijan"
     culture: "Near Eastern, Achaemenid (Persian)"
     material: "Dark blue; opaque red and yellow glass"
-    modeling_technique_and_decoration: "Rod-formed; applied elements"
+    modeling_technique_and_decoration: "Rod-formed; applied marvered threads"
     inscription: "No"
     shape: [ "Kohl tubes" ]
     technique: [ "Rod-formed" ]
@@ -229,7 +229,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Opaque white and translucent purple glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered thread"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -247,7 +247,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Opaque white and translucent purple glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk and handles; applied marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -265,7 +265,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Opaque green and yellow glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered thread"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered thread"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -283,7 +283,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Dark purple (seemingly black) and opaque white glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered thread"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -301,7 +301,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent dark blue and opaque white and yellow glass, with bronze"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered thread"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -319,7 +319,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent dark blue and opaque turquoise and yellow glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -337,7 +337,7 @@ object_list:
     production_area: "Eastern Mediterranean"
     culture: "Greek"
     material: "Translucent dark blue and opaque turquoise glass, with bronze"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -355,7 +355,7 @@ object_list:
     production_area: "Eastern Mediterranean"
     culture: "Greek"
     material: "Translucent dark, probably purple, and opaque white and yellow glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered thread"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -373,7 +373,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Brownish-purple and opaque white, appearing turquoise, glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -391,7 +391,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Brown, opaque yellow, and turquoise glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -409,7 +409,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent brown, and opaque yellow, turquoise glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -427,7 +427,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent light green/gray and opaque turquoise and yellow glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and marvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -499,7 +499,7 @@ object_list:
     production_area: "Eastern Mediterranean or Italy"
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim, lugs, and decorative threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim, lugs, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -535,7 +535,7 @@ object_list:
     production_area: "Eastern Mediterranean"
     culture: "Greek"
     material: "Translucent purple and opaque yellow and white glass"
-    modeling_technique_and_decoration: "Core-formed; applied lugs, and marvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied lugs, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -571,7 +571,7 @@ object_list:
     production_area: "Eastern Mediterranean"
     culture: "Greek"
     material: "Dark green and opaque white glass"
-    modeling_technique_and_decoration: "Core-formed; applied lugs, and marvered thread"
+    modeling_technique_and_decoration: "Core-formed; applied lugs and marvered thread"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -607,7 +607,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Syro-Palestinian region"
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and marvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -643,7 +643,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Syro-Palestinian region"
     culture: "Greek"
     material: "Opaque dark blue and white glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and marvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-formed" ]
@@ -679,7 +679,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow and turquoise glass, with bronze chain"
-    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Core-formed" ]
@@ -696,8 +696,8 @@ object_list:
     end_date: "-401"
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
-    material: "Translucent dark green and opaque white and turquoise glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and marvered and unmarvered threads"
+    material: "Translucent dark green (appearing black) and opaque white and turquoise glass"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Core-formed" ]
@@ -715,7 +715,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow and turquoise glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Core-formed" ]
@@ -733,7 +733,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Core-formed" ]
@@ -751,7 +751,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow and turquoise glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim, handles, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Core-formed" ]
@@ -768,8 +768,8 @@ object_list:
     end_date: "-401"
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
-    material: "Opaque dark red and opaque yellow and turquoise glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and marvered and unmarvered threads"
+    material: "Opaque dark red, yellow, and turquoise glass"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Core-formed" ]
@@ -787,7 +787,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent dark green (appearing black) and opaque white glass"
-    modeling_technique_and_decoration: "Core-form; applied rim, handles, base-knob, and unmarvered thread"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base-knob, and unmarvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Core-formed" ]
@@ -853,7 +853,7 @@ object_list:
     accession_number: "2003.202"
     link: <https://www.getty.edu/art/collection/objects/221569>
     dimensions: "H. 11.4, Diam. rim 2.1, max. Diam. 5.1 cm; Wt. 118.41 g"
-    date: "Second to mid-first century BCE, with modern restorations"
+    date: "Second–mid-first century BCE, with modern restorations"
     start_date: "-200"
     end_date: "-34"
     production_area: "Eastern Mediterranean, possibly Syro-Palestinian region"
@@ -949,7 +949,7 @@ object_list:
     production_area: "Eastern Mediterranean or Italy"
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow, turquoise, and white glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Oinochoai" ]
     technique: [ "Core-formed" ]
@@ -1003,7 +1003,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow and turquoise glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim, handles, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Aryballoi" ]
     technique: [ "Core-formed" ]
@@ -1021,7 +1021,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow and turquoise glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim, handles, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Aryballoi" ]
     technique: [ "Core-formed" ]
@@ -1039,7 +1039,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow and turquoise glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim, handles, and decorative threads and dots"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, unmarvered and marvered threads, and dots"
     inscription: "No"
     shape: [ "Aryballoi" ]
     technique: [ "Core-formed" ]
@@ -1057,7 +1057,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Rhodes"
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow and white glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim, handles, and marvered and unmarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Aryballoi" ]
     technique: [ "Core-formed" ]
@@ -1072,9 +1072,9 @@ object_list:
     date: "Sixth–fifth centuries BCE"
     start_date: "-600"
     end_date: "-401"
-    production_area: "Eastern Mediterranean. Aegean?"
+    production_area: "Eastern Mediterranean, Aegean?"
     culture: "Greek"
-    material: "Translucent dark blue and opaque white and turquoise glass"
+    material: "Translucent dark blue and opaque turquoise and white glass"
     modeling_technique_and_decoration: "Core-formed; applied marvered threads"
     inscription: "No"
     shape: [ "Unidentified" ]
@@ -1090,7 +1090,7 @@ object_list:
     date: "First century CE"
     start_date: "1"
     end_date: "99"
-    production_area: "Eastern Mediterranean. Aegean?"
+    production_area: "Eastern Mediterranean, Aegean?"
     culture: "Roman"
     material: "Translucent dark blue and opaque white glass"
     modeling_technique_and_decoration: "Core-formed; applied elements"
@@ -1105,7 +1105,7 @@ object_list:
     accession_number: "2003.217"
     link: <https://www.getty.edu/art/collection/objects/221600>
     dimensions: "H. 8.5, Diam. rim 15.8, Th. 0.5 cm; Wt. 260.62 g"
-    date: "Ca. 150–ca. 50 BCE"
+    date: "Ca. 150–50 BCE"
     start_date: "-150"
     end_date: "-50"
     production_area: "Eastern Mediterranean"
@@ -1123,7 +1123,7 @@ object_list:
     accession_number: "2004.17"
     link: <https://www.getty.edu/art/collection/objects/221475>
     dimensions: "Η. 8.5, Diam. rim 14.0, Th. 0.5 cm; Wt. 260.91 g"
-    date: "Ca. 150–ca. 50 BCE"
+    date: "Ca. 150–50 BCE"
     start_date: "-150"
     end_date: "-50"
     production_area: "Eastern Mediterranean"
@@ -1558,7 +1558,7 @@ object_list:
     date: "15 BCE–25 CE"
     start_date: "-15"
     end_date: "25"
-    production_area: "Probably Italy. Said to come from near Eskişehir, Turkey"
+    production_area: "Probably Italy. Said to come from near Eskişehir, Türkiye"
     culture: "Roman"
     material: "Opaque white and translucent cobalt blue glass"
     modeling_technique_and_decoration: "Mold cast and free-blown"
@@ -1591,13 +1591,13 @@ object_list:
     accession_number: "85.AF.85"
     link: <https://www.getty.edu/art/collection/objects/10941>
     dimensions: "H. 2.1, Diam. rim 16.0, Diam. base 8.8 cm; Wt. 134.68 g"
-    date: "Late first century BCE–early first century CE"
+    date: "Late first century BCE–early first century&nbsp;CE"
     start_date: "-33"
     end_date: "32"
     production_area: "Italy or possibly eastern Mediterranean"
     culture: "Roman"
     material: "Opaque white and yellow and translucent purple and bluish glass"
-    modeling_technique_and_decoration: "Assembled of slices of canes, cast, base-ring applied, rotary polished"
+    modeling_technique_and_decoration: "Assembled of slices of canes, cast, applied base-ring, rotary polished"
     inscription: "No"
     shape: [ "Dishes" ]
     technique: [ "Slumped" ]
@@ -1615,7 +1615,7 @@ object_list:
     production_area: "Probably Italy, or eastern Mediterranean"
     culture: "Greek or Roman"
     material: "Translucent purple, gray, and yellow and opaque white glass"
-    modeling_technique_and_decoration: "Assembled of slices of canes, cast, base-ring applied, rotary polished"
+    modeling_technique_and_decoration: "Assembled of slices of canes, cast, applied base-ring; slumped; rotary polished"
     inscription: "No"
     shape: [ "Dishes" ]
     technique: [ "Slumped" ]
@@ -1633,7 +1633,7 @@ object_list:
     production_area: "Italy or possibly eastern Mediterranean"
     culture: "Roman"
     material: "Opaque white, yellow, green, and turquoise and translucent purple glass"
-    modeling_technique_and_decoration: "Assembled of slices of canes, slumped, base-ring and rim applied, polished"
+    modeling_technique_and_decoration: "Assembled of slices of canes, slumped, applied base-ring and rim; slumped; polished"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Slumped" ]
@@ -1651,7 +1651,7 @@ object_list:
     production_area: "Italy or possibly eastern Mediterranean"
     culture: "Roman"
     material: "Opaque white, red, and yellow and translucent purple glass"
-    modeling_technique_and_decoration: "Assembled of slices of canes, cast, base-ring applied, rotary polished"
+    modeling_technique_and_decoration: "Assembled of slices of canes, cast, applied base-ring; slumped; rotary polished"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Slumped" ]
@@ -1669,7 +1669,7 @@ object_list:
     production_area: "Italy or possibly eastern Mediterranean"
     culture: "Roman"
     material: "Opaque red, white, and green and translucent blue glass"
-    modeling_technique_and_decoration: "Assembled of slices of canes, cast, base-ring applied, rotary polished"
+    modeling_technique_and_decoration: "Assembled of slices of canes, cast, applied base-ring; slumped; rotary polished"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Slumped" ]
@@ -1687,7 +1687,7 @@ object_list:
     production_area: "Italy or possibly eastern Mediterranean"
     culture: "Roman"
     material: "Opaque red and yellow and translucent greenish and purple glass"
-    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; cast, base-ring applied, rotary polished"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; cast, applied base-ring, rotary polished"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Slumped" ]
@@ -1705,7 +1705,7 @@ object_list:
     production_area: "Italy or possibly eastern Mediterranean"
     culture: "Roman"
     material: "Opaque white and translucent grayish and purple glass"
-    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; cast, base-ring applied, rotary polished"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; cast, applied base-ring, rotary polished"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Slumped" ]
@@ -1723,7 +1723,7 @@ object_list:
     production_area: "Italy or possibly eastern Mediterranean. Allegedly found at Kerch"
     culture: "Roman"
     material: "Opaque red and yellow and translucent greenish and blue glass"
-    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; cast, base-ring applied, rotary polished"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; cast, applied base-ring, rotary polished"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Slumped" ]
@@ -1741,7 +1741,7 @@ object_list:
     production_area: "Italy or possibly eastern Mediterranean"
     culture: "Roman"
     material: "Opaque red and white and translucent blue glass"
-    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; cast, rotary polished"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; cast; rotary polished"
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
@@ -1860,7 +1860,7 @@ object_list:
     label: "Cat. 101"
     accession_number: "83.AF.28.18"
     link: <https://www.getty.edu/art/collection/objects/16220>
-    dimensions: " pres. H. 1.8, est. max. Diam. 5.0, Th. 0.4 cm; Wt. 1.44 g"
+    dimensions: " pres. H. 1.8, est. max. Diam. 5.0, Th. 0.4 cm; Wt.&nbsp;1.44&nbsp;g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
@@ -1914,7 +1914,7 @@ object_list:
     label: "Cat. 104"
     accession_number: "83.AF.28.12"
     link: <https://www.getty.edu/art/collection/objects/16214>
-    dimensions: "L. 2.0, W. 3.1, est. Diam. base 5, Th. 0.3 cm; Wt. 2.06 g"
+    dimensions: "L. 2.0, W. 3.1, est. Diam. base 5.0, Th. 0.3 cm; Wt. 2.06&nbsp;g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
@@ -1968,7 +1968,7 @@ object_list:
     label: "Cat. 107"
     accession_number: "83.AF.28.4"
     link: <https://www.getty.edu/art/collection/objects/16206>
-    dimensions: "pres. H. 2.0, est. Diam. rim 9.0, Th. 0.22 cm; Wt. 2.45 g"
+    dimensions: "pres. H. 2.0, est. Diam. rim 9.0, Th. 0.22 cm; Wt. 2.45&nbsp;g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
@@ -1993,7 +1993,7 @@ object_list:
     production_area: "Italy or possibly Egypt"
     culture: "Greek or Roman"
     material: "Translucent purple and opaque yellow, white, and red glass"
-    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; base applied; rotary polished"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; applied base; rotary polished"
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
@@ -2184,7 +2184,7 @@ object_list:
     label: "Cat. 119"
     accession_number: "2003.246"
     link: <https://www.getty.edu/art/collection/objects/221629>
-    dimensions: "H. 3.8, Diam. rim 10.3, Diam. base 5.2 cm; Wt. 112.44 g"
+    dimensions: "H. 3.8, Diam. rim 10.3, Diam. base 5.2 cm; Wt. 112.44&nbsp;g"
     date: "Early first century BCE"
     start_date: "-100"
     end_date: "-67"
@@ -2310,13 +2310,13 @@ object_list:
     label: "Cat. 126"
     accession_number: "2003.258.6"
     link: <https://www.getty.edu/art/collection/objects/221646/>
-    dimensions: "H. 3.0, W. 5.0, est. Diam. rim 8.0, Th. 0.3 cm; Wt. 7.40 g"
+    dimensions: "H. 3.0, W. 5.0, est. Diam. rim 8.0, Th. 0.3 cm; Wt. 7.40&nbsp;g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
     production_area: "Italy or Egypt"
     culture: "Greek or Roman"
-    material: "Transparent colorless, opaque white and translucent blue glass"
+    material: "Transparent colorless, opaque white, and translucent blue glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
     inscription: "No"
     shape: [ "Bowls" ]
@@ -2334,7 +2334,7 @@ object_list:
     end_date: "32"
     production_area: "Italy or Egypt"
     culture: "Greek or Roman"
-    material: "Translucent purple, blue, and turquoise; and opaque white glass"
+    material: "Translucent purple, blue, and turquoise and opaque white glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
     inscription: "No"
     shape: [ "Unidentified" ]
@@ -2364,7 +2364,7 @@ object_list:
     label: "Cat. 129"
     accession_number: "2003.258.4"
     link: <https://www.getty.edu/art/collection/objects/221644>
-    dimensions: "pres. H. 2.4, W. 2.7, est. Diam. rim ca. 10.0 cm; Wt. 4.00 g"
+    dimensions: "pres. H. 2.4, W. 2.7, est. Diam. rim 10.0 cm; Wt. 4.00 g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
@@ -2400,7 +2400,7 @@ object_list:
     label: "Cat. 131"
     accession_number: "2003.258.2"
     link: <https://www.getty.edu/art/collection/objects/221642>
-    dimensions: "W. 4.2, L. 3.8, Th. 0.6–0.3 (at the notch) cm; Wt. 16.35 g"
+    dimensions: "W. 4.2, L. 3.8, Th. 0.6–0.3 (at the notch) cm; Wt. 16.35&nbsp;g"
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
@@ -2436,7 +2436,7 @@ object_list:
     label: "Cat. 133"
     accession_number: "72.AF.37"
     link: <https://www.getty.edu/art/collection/objects/6914>
-    dimensions: "H. 7.5, Diam. rim 18.0, Diam. base 8.0 cm; Wt. 509.40 g"
+    dimensions: "H. 7.5, Diam. rim 18.0, Diam. base 8.0 cm; Wt. 509.40&nbsp;g"
     date: "Ca. 50 BCE–ca. 50 CE"
     start_date: "-50"
     end_date: "50"
@@ -2454,7 +2454,7 @@ object_list:
     label: "Cat. 134"
     accession_number: "2004.25"
     link: <https://www.getty.edu/art/collection/objects/221483>
-    dimensions: "H. 4.9, Diam. rim 17.0, Diam. base 8.1 cm; Wt. 341.50 g"
+    dimensions: "H. 4.9, Diam. rim 17.0, Diam. base 8.1 cm; Wt. 341.50&nbsp;g"
     date: "Ca. 50 BCE–ca. 50 CE"
     start_date: "-50"
     end_date: "50"
@@ -2617,7 +2617,7 @@ object_list:
     accession_number: "83.AF.28.23"
     link: <https://www.getty.edu/art/collection/objects/16225>
     dimensions: "L. 2.4, W. 2.0, Th. 0.35 cm; Wt. 3.00 g"
-    date: "First century BCE, possibly to early first century CE"
+    date: "First century BCE, possibly to early first century&nbsp;CE"
     start_date: "-100"
     end_date: "32"
     production_area: "Egypt"
@@ -2635,13 +2635,13 @@ object_list:
     accession_number: "76.AF.70.22"
     link: <https://www.getty.edu/art/collection/objects/19041>
     dimensions: "L. 1.9, W. 3.5, Th. 0.3 cm; Wt. 2.60 g"
-    date: "First century BCE, possibly to early first century CE"
+    date: "First century BCE, possibly to early first century&nbsp;CE"
     start_date: "-100"
     end_date: "32"
     production_area: "Egypt"
     culture: "Roman"
     material: "Translucent purple and blue and opaque red, white, turquoise, and yellow glass"
-    modeling_technique_and_decoration: "Made from a monochrome, disk-shaped blank on which inlay elements were applied and fused together; slumped; rotary polished"
+    modeling_technique_and_decoration: "Made from a monochrome disk-shaped blank on which inlay elements were applied and fused together; slumped; rotary polished"
     inscription: "No"
     shape: [ "Unidentified" ]
     technique: [ "Slumped" ]
@@ -2688,8 +2688,8 @@ object_list:
     label: "Cat. 147"
     accession_number: "2003.231"
     link: <http://www.getty.edu/art/collection/objects/221614>
-    dimensions: "H. 4.2, Diam. rim 5.3, Diam. base 5.0 cm; Wt. 63.79 g"
-    date: "Late first century BCE–early first century CE"
+    dimensions: "H. 4.2, Diam. rim 5.3, Diam. base 5.0 cm; Wt. 63.79&nbsp;g"
+    date: "Late first century BCE–early first century&nbsp;CE"
     start_date: "-33"
     end_date: "32"
     production_area: "Italy"
@@ -2706,7 +2706,7 @@ object_list:
     label: "Cat. 148"
     accession_number: "2003.277"
     link: <https://www.getty.edu/art/collection/objects/221666>
-    dimensions: "H. 6.2, Diam. rim 4.2, Diam. base 3.3 cm; Wt. 35.35 g"
+    dimensions: "H. 6.2, Diam. rim 4.2, Diam. base 3.3 cm; Wt. 35.35&nbsp;g"
     date: "Early first century CE"
     start_date: "1"
     end_date: "32"
@@ -2724,8 +2724,8 @@ object_list:
     label: "Cat. 149"
     accession_number: "2003.273"
     link: <https://www.getty.edu/art/collection/objects/221662>
-    dimensions: "H. 6.2, Diam. rim 2.4, max. Diam. 5.5, Diam. base 4 cm; Wt. 42.95 g"
-    date: "Early to mid-first century CE"
+    dimensions: "H. 6.2, Diam. rim 2.4, max. Diam. 5.5, Diam. base 4.0 cm; Wt. 42.95 g"
+    date: "Early–mid-first century CE"
     start_date: "1"
     end_date: "65"
     production_area: "Probably Italy"
@@ -2743,7 +2743,7 @@ object_list:
     accession_number: "2003.274"
     link: <https://www.getty.edu/art/collection/objects/221663>
     dimensions: "H. 6.1, Diam. rim 2.0, max. Diam. 5.3, Th. 0.1 cm; Wt. 39.70 g"
-    date: "Early to mid-first century CE"
+    date: "Early–mid-first century CE"
     start_date: "1"
     end_date: "65"
     production_area: "Probably Italy"
@@ -2760,8 +2760,8 @@ object_list:
     label: "Cat. 151"
     accession_number: "2003.279"
     link: <https://www.getty.edu/art/collection/objects/221668>
-    dimensions: "H. 5.5, Diam. rim 2.2, Diam. base 2.5 cm; Wt. 50.83 g"
-    date: "Early to mid-first century CE"
+    dimensions: "H. 5.5, Diam. rim 2.2, Diam. base 2.5 cm; Wt. 50.83&nbsp;g"
+    date: "Early–mid-first century CE"
     start_date: "1"
     end_date: "65"
     production_area: "Probably Italy"
@@ -2778,7 +2778,7 @@ object_list:
     label: "Cat. 152"
     accession_number: "2003.275"
     link: <https://www.getty.edu/art/collection/objects/221664/>
-    dimensions: "H. 10.5, Diam. rim 2.7, max. Diam. 6.0 cm; Wt. 95.3 g"
+    dimensions: "H. 10.5, Diam. rim 2.7, max. Diam. 6.0 cm; Wt. 95.30 g"
     date: "Early first century CE"
     start_date: "1"
     end_date: "32"
@@ -2796,7 +2796,7 @@ object_list:
     label: "Cat. 153"
     accession_number: "2003.278"
     link: <https://www.getty.edu/art/collection/objects/221667>
-    dimensions: "H. 7.5, Diam. rim 2.2, Diam. base 2.0 cm; Wt. 44.33 g"
+    dimensions: "H. 7.5, Diam. rim 2.2, Diam. base 2.0 cm; Wt. 44.33&nbsp;g"
     date: "Early first century CE"
     start_date: "1"
     end_date: "32"
@@ -2814,7 +2814,7 @@ object_list:
     label: "Cat. 154"
     accession_number: "2003.276"
     link: <https://www.getty.edu/art/collection/objects/221665>
-    dimensions: "H. 9.0, Diam. rim 2.5, Diam. base 3.5 cm; Wt. 68.49 g"
+    dimensions: "H. 9.0, Diam. rim 2.5, Diam. base 3.5 cm; Wt. 68.49&nbsp;g"
     date: "Early first century CE"
     start_date: "1"
     end_date: "32"
@@ -2868,7 +2868,7 @@ object_list:
     label: "Cat. 157"
     accession_number: "2003.255"
     link: <https://www.getty.edu/art/collection/objects/221638>
-    dimensions: "H. 6.5, Diam. rim 2.5, Diam. base 2.6 cm; Wt. 18.69 g"
+    dimensions: "H. 6.5, Diam. rim 2.5, Diam. base 2.6 cm; Wt. 18.69&nbsp;g"
     date: "Early first century CE"
     start_date: "1"
     end_date: "32"
@@ -2886,8 +2886,8 @@ object_list:
     label: "Cat. 158"
     accession_number: "2003.293"
     link: <https://www.getty.edu/art/collection/objects/221682/>
-    dimensions: "H. 3.0, Diam. 8.8, Th. 0.2 cm; Wt. 76.00 g"
-    date: "Late first century BCE–early first century CE"
+    dimensions: "H. 3.0, Diam. 8.8, Th. 0.2 cm; Wt. 76.00&nbsp;g"
+    date: "Late first century BCE–early first century&nbsp;CE"
     start_date: "-33"
     end_date: "32"
     production_area: "Italy or western Roman Empire"
@@ -2911,7 +2911,7 @@ object_list:
     production_area: "Syro-Palestinian region"
     culture: "Roman"
     material: "Transparent, almost colorless, slightly greenish glass"
-    modeling_technique_and_decoration: "Mold-blown in a three-part mold consisting of two vertical sections joined to a disk-shaped base section; the vertical seams are hidden in the hair"
+    modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold consisting of two vertical sections joined to a disk-shaped base section; the vertical seams are hidden in the hair"
     inscription: "No"
     shape: [ "Cups" ]
     technique: [ "Mold-blown" ]
@@ -2929,7 +2929,7 @@ object_list:
     production_area: "Syro-Palestinian coast"
     culture: "Roman"
     material: "Translucent yellowish glass"
-    modeling_technique_and_decoration: "Mold-blown in a three-part mold: two vertical and one disk-shaped section for the base; vertical mold seams from rim to base through the stems of two of the palm fronds"
+    modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical and one disk-shaped section for the base; vertical mold seams from rim to base through the stems of two of the palm fronds"
     inscription: "Yes"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -2947,7 +2947,7 @@ object_list:
     production_area: "Syro-Palestinian coast"
     culture: "Roman"
     material: "Transparent greenish glass"
-    modeling_technique_and_decoration: "Blown into a three-part mold; mold marks visible as two lines on the sides; separate mold used for bottom. Relief crisp"
+    modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold; mold marks visible as two lines on the sides; separate mold used for bottom; relief crisp"
     inscription: "Yes"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -2965,7 +2965,7 @@ object_list:
     production_area: "Syro-Palestinian coast"
     culture: "Roman"
     material: "Translucent yellow-greenish glass"
-    modeling_technique_and_decoration: "Mold-blown in a three-part mold: two vertical and one disk-shaped section for the base; vertical mold seams from rim to base through the stems of two of the plants"
+    modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical and one disk-shaped section for the base; vertical mold seams from rim to base through the stems of two of the plants"
     inscription: "No"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -2976,14 +2976,14 @@ object_list:
     label: "Cat. 163"
     accession_number: "2003.318"
     link: <https://www.getty.edu/art/collection/objects/221708/>
-    dimensions: "H. 7.0, Diam. rim 7.0, Diam. base 6.4 cm; Wt. 61.29 g"
+    dimensions: "H. 7.0, Diam. rim 7.0, Diam. base 6.4 cm; Wt. 61.29&nbsp;g"
     date: "Third quarter of the first century CE"
     start_date: "50"
     end_date: "74"
     production_area: "Syro-Palestinian coast"
     culture: "Roman"
     material: "Translucent yellowish green glass"
-    modeling_technique_and_decoration: "Mold-blown in a three-part mold: two vertical and one disk-shaped section for the base; vertical mold seams from rim to base left uncovered"
+    modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical and one disk-shaped section for the base; vertical mold seams from rim to base left uncovered"
     inscription: "No"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -3001,7 +3001,7 @@ object_list:
     production_area: "Syro-Palestinian coast"
     culture: "Roman"
     material: "Translucent greenish glass"
-    modeling_technique_and_decoration: "Mold-blown"
+    modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical sections and one disk-shaped section for the base."
     inscription: "No"
     shape: [ "Cups" ]
     technique: [ "Mold-blown" ]
@@ -3012,14 +3012,14 @@ object_list:
     label: "Cat. 165"
     accession_number: "2003.315"
     link: <https://www.getty.edu/art/collection/objects/221705>
-    dimensions: "H. 5.8, Diam. rim 5.9, Diam. base 5.9 cm; Wt. 35.75 g"
+    dimensions: "H. 5.8, Diam. rim 5.9, Diam. base 5.9 cm; Wt. 35.75&nbsp;g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
     production_area: "Syro-Palestinian coast"
     culture: "Roman"
     material: "Translucent amber-colored and opaque yellow glass"
-    modeling_technique_and_decoration: "Mold-blown in a three-part mold: two vertical semicircular parts for the body and a discoid for the base. Splashware accents"
+    modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical semicircular parts for the body and a discoid for the base. Splashware accents"
     inscription: "No"
     shape: [ "Pyxides" ]
     technique: [ "Mold-blown" ]
@@ -3030,14 +3030,14 @@ object_list:
     label: "Cat. 166"
     accession_number: "95.AF.60"
     link: <https://www.getty.edu/art/collection/objects/27077/>
-    dimensions: "H. 6.9, Diam. rim 7.4, Diam. base 4.5, max. D. 8.7 cm; Wt. 36.93 g"
+    dimensions: "H. 6.9, Diam. rim 7.4, max. Diam. 8.7, Diam. base 4.5 cm; Wt. 36.93 g"
     date: "Middle of the first century CE"
     start_date: "33"
     end_date: "65"
     production_area: "Syro-Palestinian coast"
     culture: "Roman"
     material: "Transparent, almost colorless, slightly greenish glass"
-    modeling_technique_and_decoration: "Blown into a three-part mold: two vertical sections on either side of EYΦΡAINOΥ from rim to second ridge below inscription, cup-shaped base section. Relief crisp"
+    modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical sections on either side of EYΦΡAINOΥ from rim to second ridge below inscription, cup-shaped base section; relief crisp"
     inscription: "Yes"
     shape: [ "Cups" ]
     technique: [ "Mold-blown" ]
@@ -3055,7 +3055,7 @@ object_list:
     production_area: "Syro-Palestinian coast"
     culture: "Roman"
     material: "Transparent greenish glass"
-    modeling_technique_and_decoration: "Blown into a three-part mold: two vertical sections on either side of ΕΥΦΡΑΙΝΟΥ from rim to second ridge below inscription, cup-shaped base section; relief crisp"
+    modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical sections on either side of ΕΥΦΡΑΙΝΟΥ from rim to second ridge below inscription, cup-shaped base section; relief crisp"
     inscription: "Yes"
     shape: [ "Cups" ]
     technique: [ "Mold-blown" ]
@@ -3073,7 +3073,7 @@ object_list:
     production_area: "Eastern Mediterranean or Italy"
     culture: "Roman"
     material: "Translucent bluish glass"
-    modeling_technique_and_decoration: "Mold-blown in a three-part mold: two vertical sections and one for the base"
+    modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical sections and one for the base"
     inscription: "Yes"
     shape: [ "Cups" ]
     technique: [ "Mold-blown" ]
@@ -3091,7 +3091,7 @@ object_list:
     production_area: "Said to be from the Syro-Palestinian coast"
     culture: "Roman"
     material: "Translucent bluish-green glass"
-    modeling_technique_and_decoration: "Mold-blown into a five-part mold"
+    modeling_technique_and_decoration: "Mold-blown; blown in a five-part mold"
     inscription: "No"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -3109,7 +3109,7 @@ object_list:
     production_area: "Eastern Mediterranean"
     culture: "Roman"
     material: "Translucent green glass, some iridescence"
-    modeling_technique_and_decoration: "Mold-blown into a four-part mold: three vertical sections and the base"
+    modeling_technique_and_decoration: "Mold-blown; blown in a four-part mold: three vertical sections and the base"
     inscription: "No"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -3127,7 +3127,7 @@ object_list:
     production_area: "Roman Empire, probably Italy"
     culture: "Roman"
     material: "Translucent bluish glass"
-    modeling_technique_and_decoration: "Blown in a four-part mold: three vertical sections and a disk-shaped base section. Relief is crisp, from either a not yet worn-out or a new mold"
+    modeling_technique_and_decoration: "Mold-blown; blown in a four-part mold: three vertical sections and one disk-shaped base section; relief is crisp, from either a not yet worn-out or a new mold"
     inscription: "No"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -3145,7 +3145,7 @@ object_list:
     production_area: "Roman Empire, probably Italy"
     culture: "Roman"
     material: "Translucent amber-colored glass"
-    modeling_technique_and_decoration: "Blown in a four-part mold: three vertical sections and a disk-shaped base section; relief is crisp, from a not yet worn-out or a new mold"
+    modeling_technique_and_decoration: "Mold-blown; blown in a four-part mold: three vertical sections and one disk-shaped base section; relief is crisp, from a not yet worn-out or a new mold"
     inscription: "No"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -3163,7 +3163,7 @@ object_list:
     production_area: "Italy"
     culture: "Roman"
     material: "Translucent olive-green glass"
-    modeling_technique_and_decoration: "Mold-blown into a three-part mold: two vertical sections and a disk-shaped base section; the mold starts 1 cm below the rim"
+    modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical sections and one disk-shaped base section; the mold starts 1 cm below the rim"
     inscription: "No"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -3181,7 +3181,7 @@ object_list:
     production_area: "Roman Empire"
     culture: "Roman"
     material: "Translucent bluish glass"
-    modeling_technique_and_decoration: "Mold-blown in a four-part mold: three vertical sections and the disk-shaped base section"
+    modeling_technique_and_decoration: "Mold-blown; blown in a four-part mold: three vertical sections and one disk-shaped base section"
     inscription: "No"
     shape: [ "Beakers" ]
     technique: [ "Mold-blown" ]
@@ -3192,14 +3192,14 @@ object_list:
     label: "Cat. 175"
     accession_number: "2004.36"
     link: <https://www.getty.edu/art/collection/objects/221503/>
-    dimensions: "H. 19.8, max. Diam. 8.8, Diam. rim 2.2, Diam. base 5.4 cm; Wt. 122.42 g"
+    dimensions: "H. 19.8, Diam. rim 2.2, max. Diam. 8.8, Diam. base 5.4 cm; Wt. 122.42 g"
     date: "Possibly late first century CE, more likely third century CE"
     start_date: "66"
     end_date: "299"
     production_area: "Roman Empire"
     culture: "Roman"
     material: "Translucent greenish glass"
-    modeling_technique_and_decoration: "Mold-blown in a four-part mold; neck free-blown and tooled"
+    modeling_technique_and_decoration: "Mold-blown; blown in a four-part mold; neck free-blown and tooled"
     inscription: "No"
     shape: [ "Flasks" ]
     technique: [ "Mold-blown" ]
@@ -3253,7 +3253,7 @@ object_list:
     production_area: "Eastern Mediterranean"
     culture: "Roman"
     material: "Transparent olive-greenish glass"
-    modeling_technique_and_decoration: "Blown in a two-part mold"
+    modeling_technique_and_decoration: "Mold-blown; blown in a two-part mold"
     inscription: "No"
     shape: [ "Flasks" ]
     technique: [ "Mold-blown" ]
@@ -3300,7 +3300,7 @@ object_list:
     label: "Cat. 181"
     accession_number: "85.AF.320"
     link: <https://www.getty.edu/art/collection/objects/11020/>
-    dimensions: "H. 17.2, Diam. rim 5.4, Diam. base 6.7, max. Diam. 8.0 cm; Wt. 207.00 g"
+    dimensions: "H. 17.2, Diam. rim 5.4, max. Diam. 8.0, Diam. base 6.7 cm; Wt. 207.00 g"
     date: "Mid-fourth–mid-fifth centuries CE"
     start_date: "333"
     end_date: "465"
@@ -3318,14 +3318,14 @@ object_list:
     label: "Cat. 182"
     accession_number: "2004.44"
     link: <https://www.getty.edu/art/collection/objects/221511/>
-    dimensions: "H. 16.4, Diam. rim 5.0, Diam. base 5.8, max. Diam. 9.2 cm; Wt. 161.85 g"
+    dimensions: "H. 16.4, Diam. rim 5.0, max. Diam. 9.2, Diam. base 5.8 cm; Wt. 161.85 g"
     date: "Mid-fourth–mid-fifth centuries CE"
     start_date: "333"
     end_date: "465"
     production_area: "Eastern Mediterranean"
     culture: "Roman"
     material: "Translucent dark blue and dark green glass"
-    modeling_technique_and_decoration: "Mold-blown; handle and base applied"
+    modeling_technique_and_decoration: "Mold-blown; applied handle and base"
     inscription: "No"
     shape: [ "Head jugs" ]
     technique: [ "Mold-blown" ]
@@ -3336,14 +3336,14 @@ object_list:
     label: "Cat. 183"
     accession_number: "2003.324"
     link: <https://www.getty.edu/art/collection/objects/221714/>
-    dimensions: "H. 6.5, Diam. rim 2.2, Diam. base 2.2 cm; Wt. 21.60 g"
+    dimensions: "H. 6.5, Diam. rim 2.2, Diam. base 2.2 cm; Wt. 21.60&nbsp;g"
     date: "About second century CE"
     start_date: "100"
     end_date: "199"
     production_area: "Syro-Palestinian region"
     culture: "Roman"
     material: "Transparent dark purple glass with pinprick bubbles. The handle is made of a dark blue glass, covered by a brownish crust"
-    modeling_technique_and_decoration: "Mold-blown into a bipartite mold of vertical sections, open at base; faint vertical seams at the junction of the heads"
+    modeling_technique_and_decoration: "Mold-blown; blown in a bipartite mold of vertical sections, open at base; faint vertical seams at the junction of the heads"
     inscription: "No"
     shape: [ "Head jugs" ]
     technique: [ "Mold-blown" ]
@@ -3354,7 +3354,7 @@ object_list:
     label: "Cat. 184"
     accession_number: "2003.332"
     link: <https://www.getty.edu/art/collection/objects/221722/>
-    dimensions: "H. 12, Diam. rim 3.1 × 3.4, Diam. base 3.2 cm; Wt. 93.50 g"
+    dimensions: "H. 12.0, Diam. rim 3.1 × 3.4, Diam. base 3.2 cm; Wt. 93.50 g"
     date: "Late second–third centuries CE"
     start_date: "166"
     end_date: "299"
@@ -3444,14 +3444,14 @@ object_list:
     label: "Cat. 189"
     accession_number: "2003.344"
     link: <https://www.getty.edu/art/collection/objects/221734/>
-    dimensions: "H. 25.7, Diam. rim 6.0, Diam. base 6.3, max. Diam. 7.5 (at the shoulders) cm; Wt. 235.20 g"
+    dimensions: "H. 25.7, Diam. rim 6.0, max. Diam. 7.5 (at the shoulders), Diam. base 6.3 cm; Wt. 235.20 g"
     date: "Mid-fifth–early seventh centuries"
     start_date: "433"
     end_date: "632"
     production_area: "Syro-Palestinian region"
     culture: "Roman or Byzantine"
     material: "Translucent olive-green glass"
-    modeling_technique_and_decoration: "Mold-blown in a two-part mold"
+    modeling_technique_and_decoration: "Mold-blown; blown in a two-part mold"
     inscription: "No"
     shape: [ "Jugs" ]
     technique: [ "Mold-blown" ]
@@ -3469,7 +3469,7 @@ object_list:
     production_area: "Phoenician region"
     culture: "Roman"
     material: "Opaque white glass"
-    modeling_technique_and_decoration: "Body blown into a four-part mold of three vertical sections joined to a disk-shaped base section; mold seams between panels 2 and 3, 4 and 5, 6 and 1; free-blown and tooled neck and rim"
+    modeling_technique_and_decoration: "Body mold-blown into a four-part mold of three vertical sections joined to a disk-shaped base section; mold seams between panels 2 and 3, 4 and 5, 6 and 1; free-blown and tooled neck and rim"
     inscription: "No"
     shape: [ "Bottles", "Flasks" ]
     technique: [ "Mold-blown", "Free-blown" ]
@@ -3487,10 +3487,10 @@ object_list:
     production_area: "Phoenician region"
     culture: "Roman"
     material: "Opaque white glass"
-    modeling_technique_and_decoration: "Body blown into a four-part mold of three vertical sections joined to a disk-shaped base section; mold seams between panels 2 and 3, 4 and 5, 6 and 1; free-blown and tooled neck and rim"
+    modeling_technique_and_decoration: "Body mold-blown in a four-part mold of three vertical sections joined to a disk-shaped base section; mold seams between panels 2 and 3, 4 and 5, 6 and 1; free-blown and tooled neck and rim"
     inscription: "No"
     shape: [ "Bottles", "Flasks" ]
-    technique: 
+    technique: [ "Mold-blown", "Free-blown" ]
     figure: [ id: "fig-2003-298-a", id: "fig-2003-298-b", id: "fig-2003-298-c", id: "fig-2003-298-d", id: "fig-2003-298-e" ]
     path: /catalogue/cat-191/
 -
@@ -3505,10 +3505,10 @@ object_list:
     production_area: "Phoenician region"
     culture: "Roman"
     material: "Translucent blue glass"
-    modeling_technique_and_decoration: "Body blown into a four-part mold of three vertical sections joined to a disk-shaped base section; mold seams between panels 2 and 3, 4 and 5, 6 and 1; free-blown and tooled neck and rim"
+    modeling_technique_and_decoration: "Body mold-blown in a four-part mold of three vertical sections joined to a disk-shaped base section; mold seams between panels 2 and 3, 4 and 5, 6 and 1; free-blown and tooled neck and rim"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-blown", "Free-blown" ]
     figure: [ id: "fig-2003-299-a", id: "fig-2003-299-b", id: "fig-2003-299-c", id: "fig-2003-299-d", id: "fig-2003-299-e" ]
     path: /catalogue/cat-192/
 -
@@ -3523,10 +3523,10 @@ object_list:
     production_area: "Syro-Palestinian region, maybe Sidon"
     culture: "Roman"
     material: "Opaque white glass"
-    modeling_technique_and_decoration: "Body blown in a three-part mold of three vertical sections; vertical mold seams visible after panels 1, 3, 5; free-blown and tooled neck and rim; the relief is not crisp"
+    modeling_technique_and_decoration: "Body mold-blown in a three-part mold of three vertical sections; vertical mold seams visible after panels 1, 3, 5; free-blown and tooled neck and rim; relief is not crisp"
     inscription: "No"
     shape: [ "Bottles", "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-blown", "Free-blown" ]
     figure: [ id: "fig-2003-300-a", id: "fig-2003-300-b", id: "fig-2003-300-c", id: "fig-2003-300-d", id: "fig-2003-300-e" ]
     path: /catalogue/cat-193/
 -
@@ -3534,17 +3534,17 @@ object_list:
     label: "Cat. 194"
     accession_number: "2003.301"
     link: <http://www.getty.edu/art/collection/objects/221691>
-    dimensions: "H. 8.0, Diam. rim 2.5, max. Diam. 3.8, Th. 0.1 cm; Wt. 29.6 g"
+    dimensions: "H. 8.0, Diam. rim 2.5, max. Diam. 3.8, Th. 0.1 cm; Wt. 29.60 g"
     date: "Middle of the first century CE"
     start_date: "33"
     end_date: "65"
     production_area: "Syro-Palestinian region, maybe Sidon"
     culture: "Roman"
     material: "Opaque light blue glass"
-    modeling_technique_and_decoration: "Body blown in a three-part mold of three vertical sections; vertical mold seams visible after panels 1, 3, and 5; free-blown and tooled neck and rim"
+    modeling_technique_and_decoration: "Body mold-blown in a three-part mold of three vertical sections; vertical mold seams visible after panels 1, 3, and 5; free-blown and tooled neck and rim"
     inscription: "No"
     shape: [ "Bottles", "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-blown", "Free-blown" ]
     figure: [ id: "fig-2003-301-a", id: "fig-2003-301-b", id: "fig-2003-301-c", id: "fig-2003-301-d", id: "fig-2003-301-e", id: "fig-2003-301-f", id: "fig-2003-301-g", id: "fig-2003-301-h" ]
     path: /catalogue/cat-194/
 -
@@ -3606,7 +3606,7 @@ object_list:
     label: "Cat. 198"
     accession_number: "2003.330"
     link: <https://www.getty.edu/art/collection/objects/221720>
-    dimensions: "H. 13.7, Diam. rim 3.6, max. body Diam. 6.0 × 6.0 cm; Wt. 72.30 g"
+    dimensions: "H. 13.7, Diam. rim 3.6, max. Diam. 6.0 × 6.0 cm; Wt. 72.30 g"
     date: "Late first–second centuries CE"
     start_date: "66"
     end_date: "199"
@@ -3625,7 +3625,7 @@ object_list:
     accession_number: "2003.329"
     link: <https://www.getty.edu/art/collection/objects/221719/>
     dimensions: "H. 10.0, Diam. rim 3.4, max. Diam. 7.4 cm; Wt. 41.82 g"
-    date: "Mid to second half of the first century CE"
+    date: "Middle to second half of the first century CE"
     start_date: "33"
     end_date: "99"
     production_area: "Probably Syro-Palestinian region"
@@ -3685,7 +3685,7 @@ object_list:
     production_area: "Syrian region"
     culture: "Roman"
     material: "Transparent light greenish-yellow glass"
-    modeling_technique_and_decoration: "Mold-blown into a bipartite mold; neck, diaphragm, and rim free-tooled"
+    modeling_technique_and_decoration: "Mold-blown; blown in a bipartite mold; neck, diaphragm, and rim free-tooled"
     inscription: "No"
     shape: [ "Sprinklers" ]
     technique: [ "Mold-blown" ]
@@ -3703,7 +3703,7 @@ object_list:
     production_area: "Syrian region"
     culture: "Roman"
     material: "Transparent light blueish glass"
-    modeling_technique_and_decoration: "Mold-blown into a bipartite mold"
+    modeling_technique_and_decoration: "Mold-blown; blown in a bipartite mold"
     inscription: "No"
     shape: [ "Sprinklers" ]
     technique: [ "Mold-blown" ]
@@ -3724,7 +3724,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown body; free-blown neck and rim"
     inscription: "No"
     shape: [ "Sprinklers", "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-blown", "Free-blown" ]
     figure: [ id: "fig-2003-335-a", id: "fig-2003-335-b", id: "fig-2003-335-c", id: "fig-2003-335-d" ]
     path: /catalogue/cat-204/
 -
@@ -3732,7 +3732,7 @@ object_list:
     label: "Cat. 205"
     accession_number: "2003.302"
     link: <https://www.getty.edu/art/collection/objects/221692>
-    dimensions: "H. 7.0, Diam. rim 2.7, Diam. base 2.o, Th. 0.1 cm; Wt. 26.60 g"
+    dimensions: "H. 7.0, Diam. rim 2.7, Diam. base 2.0, Th. 0.1 cm; Wt. 26.60 g"
     date: "Probably second half of the first century CE"
     start_date: "50"
     end_date: "99"
@@ -3768,17 +3768,17 @@ object_list:
     label: "Cat. 207"
     accession_number: "2003.313"
     link: <https://www.getty.edu/art/collection/objects/221703>
-    dimensions: "H. 9.4, Diam. rim 2.7, Diam. base 3.0 cm; Wt. 39.50 g"
+    dimensions: "H. 9.4, Diam. rim 2.7, Diam. base 3.0 cm; Wt. 39.50&nbsp;g"
     date: "First half of the first century CE"
     start_date: "1"
     end_date: "49"
     production_area: "Syro-Palestinian coast"
     culture: "Roman"
     material: "Opaque white and translucent dark blue glass"
-    modeling_technique_and_decoration: "Body blown in a four-part mold of three vertical sections joined to a cup-shaped base section; neck and rim free-blown and tooled"
+    modeling_technique_and_decoration: "Body mold-blown in a four-part mold of three vertical sections joined to a cup-shaped base section; neck and rim free-blown and tooled"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-blown", "Free-blown" ]
     figure: [ id: "fig-2003-313-a", id: "fig-2003-313-b", id: "fig-2003-313-c", id: "fig-2003-313-d", id: "fig-2003-313-e" ]
     path: /catalogue/cat-207/
 -
@@ -3792,11 +3792,11 @@ object_list:
     end_date: "49"
     production_area: "Syro-Palestinian coast"
     culture: "Roman"
-    material: "Translucent amber-colored; opaque turquoise and dark blue glass"
-    modeling_technique_and_decoration: "Body blown in a four-part mold of three vertical sections joined to a cup-shaped base section; neck and rim free-blown and tooled"
+    material: "Translucent amber-colored and opaque turquoise and dark blue glass"
+    modeling_technique_and_decoration: "Body mold-blown in a four-part mold of three vertical sections joined to a cup-shaped base section; neck and rim free-blown and tooled"
     inscription: "No"
     shape: [ "Jugs", "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-blown", "Free-blown" ]
     figure: [ id: "fig-2003-314-a", id: "fig-2003-314-b", id: "fig-2003-314-c", id: "fig-2003-314-d", id: "fig-2003-314-e" ]
     path: /catalogue/cat-208/
 -
@@ -3829,7 +3829,7 @@ object_list:
     production_area: "Probably eastern Mediterranean"
     culture: "Roman"
     material: "Translucent green, purple, and dark blue and opaque white glass"
-    modeling_technique_and_decoration: "Body blown in a two-part mold of two vertical sections; edges of mold carefully aligned; splashware"
+    modeling_technique_and_decoration: "Body mold-blown in a two-part mold of two vertical sections; edges of mold carefully aligned; splashware"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Mold-blown" ]
@@ -3847,7 +3847,7 @@ object_list:
     production_area: "Eastern Mediterranean"
     culture: "Roman"
     material: "Translucent green and blue glass"
-    modeling_technique_and_decoration: "Body blown in a two-part mold of two vertical sections; edges of mold carefully aligned; the seam is visible along the middle of each side (90° away from the handles)"
+    modeling_technique_and_decoration: "Body mold-blown in a two-part mold of two vertical sections; edges of mold carefully aligned; the seam is visible along the middle of each side (90° away from the handles)"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
     technique: [ "Mold-blown" ]
@@ -3858,7 +3858,7 @@ object_list:
     label: "Cat. 212"
     accession_number: "2003.309"
     link: <https://www.getty.edu/art/collection/objects/221699/>
-    dimensions: "H. 9.2, Diam. rim 2.2, Diam. base 2.5, max. Diam. 4.9 cm; Wt. 22.20 g"
+    dimensions: "H. 9.2, Diam. rim 2.2, max. Diam. 4.9, Diam. base 2.5 cm; Wt. 22.20 g"
     date: "First half of the first century CE"
     start_date: "1"
     end_date: "49"
@@ -3876,7 +3876,7 @@ object_list:
     label: "Cat. 213"
     accession_number: "2003.310"
     link: <https://www.getty.edu/art/collection/objects/221700>
-    dimensions: "H. 8.3, Diam. rim 1.6 × 1.9, Diam. base 2.2, max. Diam. 3.9 cm; Wt. 25.90 g"
+    dimensions: "H. 8.3, Diam. rim 1.6 × 1.9, max. Diam. 3.9, Diam. base 2.2 cm; Wt. 25.90 g"
     date: "First half of the first century CE"
     start_date: "1"
     end_date: "49"
@@ -4326,7 +4326,7 @@ object_list:
     label: "Cat. 238"
     accession_number: "2003.227"
     link: <https://www.getty.edu/art/collection/objects/221610/>
-    dimensions: "H. 4.4. Diam. rim 6.4, max. Diam. 7.3, Diam. base 3.0, Th. 0.09 cm; Wt. 29.60 g"
+    dimensions: "H. 4.4, Diam. rim 6.4, max. Diam. 7.3, Diam. base 3.0, Th. 0.09 cm; Wt. 29.60 g"
     date: "First half of the first century CE"
     start_date: "1"
     end_date: "49"
@@ -4578,7 +4578,7 @@ object_list:
     label: "Cat. 252"
     accession_number: "2004.38"
     link: <https://www.getty.edu/art/collection/objects/221505/>
-    dimensions: "H. 8.1, Diam. rim 11.2, Diam. base , Th. 0.2 cm; Wt. 200.35 g"
+    dimensions: "H. 8.1, Diam. rim 11.2, Diam. base 5.5, Th. 0.2 cm; Wt. 200.35 g"
     date: "Third–fourth centuries CE"
     start_date: "200"
     end_date: "399"
@@ -4704,7 +4704,7 @@ object_list:
     label: "Cat. 259"
     accession_number: "71.AF.84"
     link: <https://www.getty.edu/art/collection/objects/6571/>
-    dimensions: "H. 8.5, Diam. rim 7.1, Diam. base 3.4, max. Diam. 7.3 cm; Wt. 88.25 g"
+    dimensions: "H. 8.5, Diam. rim 7.1, max. Diam. 7.3, Diam. base 3.4 cm; Wt. 88.25 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -4830,7 +4830,7 @@ object_list:
     label: "Cat. 266"
     accession_number: "2003.361"
     link: <https://www.getty.edu/art/collection/objects/221751/>
-    dimensions: "H. 8.3, Diam. rim 7.0, Diam. base 4.5, max. Diam. 8.5 cm; Wt. 93.67 g"
+    dimensions: "H. 8.3, Diam. rim 7.0, max. Diam. 8.5, Diam. base 4.5 cm; Wt. 93.67 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -5136,7 +5136,7 @@ object_list:
     label: "Cat. 283"
     accession_number: "2003.449"
     link: <https://www.getty.edu/art/collection/objects/221838>
-    dimensions: "H. 7.0, Diam. rim 3.8, Diam. base 3.8, max. Diam. 7.0 cm; Wt. 36.40 g"
+    dimensions: "H. 7.0, Diam. rim 3.8, max. Diam. 7.0, Diam. base 3.8 cm; Wt. 36.40 g"
     date: "Sixth–seventh centuries CE"
     start_date: "500"
     end_date: "699"
@@ -5269,7 +5269,7 @@ object_list:
     production_area: "Italy or northwestern Europe"
     culture: "Roman"
     material: "Decolorized glass"
-    modeling_technique_and_decoration: "Free-blown; wheel-cut; polished"
+    modeling_technique_and_decoration: "Free-blown; wheel-cut and polished"
     inscription: "No"
     shape: [ "Jugs" ]
     technique: [ "Free-blown" ]
@@ -5352,7 +5352,7 @@ object_list:
     label: "Cat. 295"
     accession_number: "2003.284"
     link: <https://www.getty.edu/art/collection/objects/221673/>
-    dimensions: "H. 12.2, Diam. rim 2.8, max. Diam. 3.9, Diam. base 2.4, Th. 0.1 cm; Wt. 39.40 g (including Plexiglass base)"
+    dimensions: "H. 12.2, Diam. rim 2.8, max. Diam. 3.9, Diam. base 2.4, Th. 0.1 cm; Wt. 39.40 g (including Plexiglas base)"
     date: "Third–fourth centuries CE"
     start_date: "200"
     end_date: "399"
@@ -5604,7 +5604,7 @@ object_list:
     label: "Cat. 309"
     accession_number: "2003.392"
     link: <https://www.getty.edu/art/collection/object/1096AX>
-    dimensions: "H. 7.0, Diam. rim 4.6, Diam. base 2.6, max. Diam. 6.0 cm; Wt. 37.50 g"
+    dimensions: "H. 7.0, Diam. rim 4.6, max. Diam. 6.0, Diam. base 2.6 cm; Wt. 37.50 g"
     date: "Third century CE"
     start_date: "200"
     end_date: "299"
@@ -5640,7 +5640,7 @@ object_list:
     label: "Cat. 311"
     accession_number: "2003.400"
     link: <https://www.getty.edu/art/collection/objects/221789>
-    dimensions: "H. 7.0, max. Diam. 6.5, Diam. rim 5.7, Diam. base 3.0 cm; Wt. 58.13 g"
+    dimensions: "H. 7.0, Diam. rim 5.7, max. Diam. 6.5, Diam. base 3.0 cm; Wt. 58.13 g"
     date: "Third–fourth centuries CE"
     start_date: "200"
     end_date: "399"
@@ -5730,7 +5730,7 @@ object_list:
     label: "Cat. 316"
     accession_number: "2003.375"
     link: <https://www.getty.edu/art/collection/objects/221765>
-    dimensions: "H. 9.0, max. Diam. 7.9, Diam. rim 6.4, Diam. base 4.1 cm; Wt. 73.67 g"
+    dimensions: "H. 9.0, Diam. rim 6.4, max. Diam. 7.9, Diam. base 4.1 cm; Wt. 73.67 g"
     date: "Sixth–seventh centuries CE"
     start_date: "500"
     end_date: "699"
@@ -5982,7 +5982,7 @@ object_list:
     label: "Cat. 330"
     accession_number: "2004.40"
     link: <https://www.getty.edu/art/collection/objects/221507>
-    dimensions: "H. 9.6, max. Diam. 6.0, Diam. rim 2.0, Diam. base 2.3, Th. 0.2 cm; Wt. 18.29 g"
+    dimensions: "H. 9.6, Diam. rim 2.0, max. Diam. 6.0, Diam. base 2.3, Th. 0.2 cm; Wt. 18.29 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -6000,7 +6000,7 @@ object_list:
     label: "Cat. 331"
     accession_number: "2003.418"
     link: <https://www.getty.edu/art/collection/objects/221804>
-    dimensions: "H. 7.0, Diam. rim 2.1, Diam. base 2.2, max. Diam. 4.5, Th. 0.2 cm; Wt. 18.94 g"
+    dimensions: "H. 7.0, Diam. rim 2.1, max. Diam. 4.5, Diam. base 2.2, Th. 0.2 cm; Wt. 18.94 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -6324,7 +6324,7 @@ object_list:
     label: "Cat. 349"
     accession_number: "2003.438"
     link: <https://www.getty.edu/art/collection/objects/221827>
-    dimensions: "H. 11.4, Diam. rim 5.3, Diam. base 3.4, max. Diam. 7.5 cm; Wt. 85.42 g"
+    dimensions: "H. 11.4, Diam. rim 5.3, max. Diam. 7.5, Diam. base 3.4 cm; Wt. 85.42 g"
     date: "Third–fourth centuries CE"
     start_date: "200"
     end_date: "399"
@@ -6342,7 +6342,7 @@ object_list:
     label: "Cat. 350"
     accession_number: "2003.448"
     link: <https://www.getty.edu/art/collection/objects/221837>
-    dimensions: "H. 7.8, Diam. rim 4.2, Diam. base 2.9, max. Diam. 5.0 cm; Wt. 76.79 g"
+    dimensions: "H. 7.8, Diam. rim 4.2, max. Diam. 5.0, Diam. base 2.9 cm; Wt. 76.79 g"
     date: "Third–fourth centuries CE"
     start_date: "200"
     end_date: "399"
@@ -6414,7 +6414,7 @@ object_list:
     label: "Cat. 354"
     accession_number: "2003.241"
     link: <https://www.getty.edu/art/collection/objects/221624>
-    dimensions: "H. 7.8, Diam. rim 3.0, Diam. base 2.0 cm; Wt. 39.45 g"
+    dimensions: "H. 7.8, Diam. rim 3.0, Diam. base 2.0 cm; Wt. 39.45&nbsp;g"
     date: "End of second–early third centuries CE"
     start_date: "166"
     end_date: "232"
@@ -6504,7 +6504,7 @@ object_list:
     label: "Cat. 359"
     accession_number: "2003.419"
     link: <https://www.getty.edu/art/collection/objects/221808>
-    dimensions: "H. 8.0, Diam. rim 2.4, Diam. base 2.5, max. Diam. 5.3, Th. 0.1 cm; Wt. 15.80 g"
+    dimensions: "H. 8.0, Diam. rim 2.4, max. Diam. 5.3, Diam. base 2.5, Th. 0.1 cm; Wt. 15.80 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -6594,7 +6594,7 @@ object_list:
     label: "Cat. 364"
     accession_number: "78.AF.35"
     link: <https://www.getty.edu/art/collection/objects/8169>
-    dimensions: "H. 25.5, Diam. rim 7.1, Diam. base 8.3, max. Diam. 13.0, Th. 0.3 cm; Wt. 441.40 g"
+    dimensions: "H. 25.5, Diam. rim 7.1, max. Diam. 13.0, Diam. base 8.3, Th. 0.3 cm; Wt. 441.40 g"
     date: "Third or probably fourth century CE"
     start_date: "200"
     end_date: "399"
@@ -6720,7 +6720,7 @@ object_list:
     label: "Cat. 371"
     accession_number: "2003.396"
     link: <https://www.getty.edu/art/collection/objects/221785>
-    dimensions: "H. 9.7, Diam. base TK cm; Wt. TK g"
+    dimensions: "H. 9.7, Diam. base 3.5 cm; Wt. 23.55 g"
     date: "Third–fourth centuries CE or much later"
     start_date: "200"
     end_date: "399"
@@ -6756,7 +6756,7 @@ object_list:
     label: "Cat. 373"
     accession_number: "2003.240"
     link: <https://www.getty.edu/art/collection/objects/223165>
-    dimensions: "Body: H. 6.2, Diam. rim 2.6, max. Diam. 6.1, Diam. body. 5.8 cm; Wt. 35.69 g. Lid: pres. H. 3.8, max. Diam. 4.2 cm; Wt. 9.48 g"
+    dimensions: "Body: H. 6.2, Diam. rim 2.6, max. Diam. 6.1, Diam. body 5.8 cm; Wt. 35.69 g. Lid: pres. H. 3.8, max. Diam. 4.2 cm; Wt. 9.48 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -6936,7 +6936,7 @@ object_list:
     label: "Cat. 383"
     accession_number: "2003.472"
     link: <https://www.getty.edu/art/collection/objects/221861>
-    dimensions: "H. 5.1, Diam. rim 3.1, Diam. base 3.2, max. Diam. 4.5, Th. 0.2 cm; Wt. 41.81 g"
+    dimensions: "H. 5.1, Diam. rim 3.1, max. Diam. 4.5, Diam. base 3.2, Th. 0.2 cm; Wt. 41.81 g"
     date: "Ninth–tenth centuries CE"
     start_date: "800"
     end_date: "999"
@@ -7122,7 +7122,7 @@ object_list:
     end_date: "999"
     production_area: "Eastern Mediterranean"
     culture: "Islamic"
-    material: "Translucent light greenish glass (neck); Translucent emerald green glass (body)"
+    material: "Translucent light greenish glass (neck); translucent emerald green glass (body)"
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Flasks" ]
@@ -7428,7 +7428,7 @@ object_list:
     end_date: "1199"
     production_area: "Eastern Mediterranean"
     culture: "Byzantine or Islamic"
-    material: "Translucent purple; opaque light blue-gray, green, yellow, and red glass"
+    material: "Translucent purple and opaque light blue-gray, green, yellow, and red glass"
     modeling_technique_and_decoration: "Free-blown; applied elements, marvered"
     inscription: "No"
     shape: [ "Flasks" ]
@@ -7554,7 +7554,7 @@ object_list:
     end_date: "999"
     production_area: "Eastern Mediterranean"
     culture: "Islamic"
-    material: "Translucent greenish glass"
+    material: "Colorized, slightly greenish, glass"
     modeling_technique_and_decoration: "Free-blown; wheel-cutting"
     inscription: "No"
     shape: [ "Flasks" ]
@@ -7566,7 +7566,7 @@ object_list:
     label: "Cat. 418"
     accession_number: "79.AF.184.24"
     link: <https://www.getty.edu/art/collection/objects/8685>
-    dimensions: "H. 5.2, Diam. rim 1.6, Diam. base 2.2 × 2.3 cm; Wt. 181.8 g"
+    dimensions: "H. 5.2, Diam. rim 1.6, Diam. base 2.2 × 2.3 cm; Wt. 181.80 g"
     date: "Ninth–tenth centuries CE"
     start_date: "800"
     end_date: "999"
@@ -7584,13 +7584,13 @@ object_list:
     label: "Cat. 419"
     accession_number: "79.AF.184.15"
     link: <https://www.getty.edu/art/collection/objects/8676>
-    dimensions: "H. 11, Diam. rim 1.8, Diam. base 2.6 cm; Wt. 54.26 g"
+    dimensions: "H. 11.0, Diam. rim 1.8, Diam. base 2.6 cm; Wt. 54.26 g"
     date: "Ninth–eleventh centuries CE (body and neck) and twentieth century CE (bottom)"
     start_date: "800"
     end_date: "1099"
     production_area: "Eastern Mediterranean"
     culture: [ "Islamic", "Modern" ]
-    material: "Translucent greenish glass"
+    material: "Colorless glass"
     modeling_technique_and_decoration: "Free-blown and ground"
     inscription: "No"
     shape: [ "Flasks" ]
@@ -7728,7 +7728,7 @@ object_list:
     label: "Cat. 427"
     accession_number: "79.AF.184.32"
     link: <https://www.getty.edu/art/collection/object/105Y9E>
-    dimensions: "H. 4.9, Diam. rim 1.9, Diam. base 3.2 cm; Wt. …. g"
+    dimensions: "H. 4.9, Diam. rim 1.9, Diam. base 3.2 cm; Wt. 38.94 g"
     date: "Ninth–eleventh centuries CE"
     start_date: "800"
     end_date: "1099"
@@ -7818,7 +7818,7 @@ object_list:
     label: "Cat. 432"
     accession_number: "79.AF.184.17"
     link: <https://www.getty.edu/art/collection/objects/8678>
-    dimensions: "L. 10.5, W. 5.1 cm; Wt. 61.10 g"
+    dimensions: "L. 10.5, W. 5.1 cm; Wt. 61.10&nbsp;g"
     date: "Islamic or Ottoman"
     start_date: "1500"
     end_date: "1900"
@@ -7836,7 +7836,7 @@ object_list:
     label: "Cat. 433"
     accession_number: "2003.451"
     link: <https://www.getty.edu/art/collection/objects/221840>
-    dimensions: "H. 3.5, max. Diam. 4.1, Diam. rim 2.6, Diam. base 1.5 cm; Wt. 18.37 g"
+    dimensions: "H. 3.5, Diam. rim 2.6, max. Diam. 4.1, Diam. base 1.5 cm; Wt. 18.37 g"
     date: "Seventh–eighth centuries CE"
     start_date: "600"
     end_date: "799"
@@ -7915,7 +7915,7 @@ object_list:
     production_area: "Venice (possibly), Italy"
     culture: "Modern"
     material: "Opaque white, yellow, and blue; translucent purple; transparent glass"
-    modeling_technique_and_decoration: "Mosaic"
+    modeling_technique_and_decoration: "Free-blown; mosaic"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Free-blown" ]
@@ -7963,7 +7963,7 @@ object_list:
     accession_number: "2003.442"
     link: <https://www.getty.edu/art/collection/objects/221831>
     dimensions: "H. 4.5, Diam. rim 5.5, Diam. base 3.6 cm; Wt. 31.70 g"
-    date: "Ca. fourth century CE and twentieth century"
+    date: "Ca. third–fourth centuries CE and twentieth century"
     start_date: "300"
     end_date: "399"
     production_area: "Eastern Mediterranean"
@@ -8088,7 +8088,7 @@ object_list:
     label: "Cat. 447"
     accession_number: "2003.158"
     link: <https://www.getty.edu/art/collection/objects/221525>
-    dimensions: "H. 6.3, W. 8.0 cm; Wt. 67.47 g"
+    dimensions: "H. 6.3, W. 8.0 cm; Wt. 67.47&nbsp;g"
     date: "Third century BCE–first century CE"
     start_date: "-300"
     end_date: "99"
@@ -8274,7 +8274,7 @@ object_list:
     end_date: "99"
     production_area: "Italy or Egypt"
     culture: "Greek or Roman"
-    material: "Translucent (?) dark blue; opaque white, red, turquoise, and yellow glass"
+    material: "Translucent (?) dark blue and opaque white, red, turquoise, and yellow glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8358,7 +8358,7 @@ object_list:
     label: "Cat. 462"
     accession_number: "83.AF.28.21"
     link: <https://www.getty.edu/art/collection/objects/16223>
-    dimensions: "3.4 × 2.9 cm; Wt. g"
+    dimensions: "L. 3.4, W. 2.9 cm; Wt. 7.28 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
@@ -8376,13 +8376,13 @@ object_list:
     label: "Cat. 463"
     accession_number: "83.AF.28.24"
     link: <https://www.getty.edu/art/collection/objects/16226>
-    dimensions: "1.9 × 1 × 0.5 cm; Wt. 7.28 g"
+    dimensions: "L. 1.9, W. 1.0, Th. 0.5 cm; Wt. 7.28 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
     production_area: "Egypt or Italy"
     culture: "Roman"
-    material: "Translucent green and purple; opaque yellow, red, and white glass"
+    material: "Translucent green and purple and opaque yellow, red, and white glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8412,7 +8412,7 @@ object_list:
     label: "Cat. 465"
     accession_number: "76.AF.70.38"
     link: <https://www.getty.edu/art/collection/objects/19057>
-    dimensions: "2.4 × 2.2 × 0.3–0.5 cm; Wt. 3.76 g"
+    dimensions: "L. 2.4, W. 2.2, Th. 0.3–0.5 cm; Wt. 3.76 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
@@ -8430,7 +8430,7 @@ object_list:
     label: "Cat. 466"
     accession_number: "76.AF.70.42"
     link: <https://www.getty.edu/art/collection/objects/19061>
-    dimensions: "L. 1.2, W. 2, Th. 0.3 cm; Wt. 1.54 g"
+    dimensions: "L. 1.2, W. 2.0, Th. 0.3 cm; Wt. 1.54 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
@@ -8454,7 +8454,7 @@ object_list:
     end_date: "99"
     production_area: "Egypt or Italy"
     culture: "Roman"
-    material: "Opaque red, white, yellow, and turquoise; translucent green and purple glass"
+    material: "Opaque red, white, yellow, and turquoise and translucent green and purple glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8502,7 +8502,7 @@ object_list:
     label: "Cat. 470"
     accession_number: "76.AF.70.41"
     link: <https://www.getty.edu/art/collection/objects/19060>
-    dimensions: "1.3 × 1.7 × 0.5 cm; Wt. 2.37 g"
+    dimensions: "L. 1.3, W. 1.7, Th. 0.5 cm; Wt. 2.37 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
@@ -8538,7 +8538,7 @@ object_list:
     label: "Cat. 472"
     accession_number: "76.AF.70.6"
     link: <https://www.getty.edu/art/collection/objects/19025>
-    dimensions: "L. 3.1, W. 2, Th. 0.3 cm; Wt. 3.21 g"
+    dimensions: "L. 3.1, W. 2.0, Th. 0.3 cm; Wt. 3.21 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
@@ -8598,7 +8598,7 @@ object_list:
     end_date: "99"
     production_area: "Egypt or Italy"
     culture: "Roman"
-    material: "Opaque green, red, and yellow; translucent purple and blue"
+    material: "Opaque green, red, and yellow and translucent purple and blue"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8664,7 +8664,7 @@ object_list:
     label: "Cat. 479"
     accession_number: "76.AF.70.37"
     link: <https://www.getty.edu/art/collection/objects/19056>
-    dimensions: "1.5 × 1.5 × 0.5 cm; Wt. 2.68 g"
+    dimensions: "L. 1.5, W. 1.5, Th. 0.5 cm; Wt. 2.68 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
@@ -8682,7 +8682,7 @@ object_list:
     label: "Cat. 480"
     accession_number: "83.AF.28.15.a–b"
     link: <https://www.getty.edu/art/collection/objects/258699>
-    dimensions: "Group record for two-part records with dimensions: 83.AF.28.15.a: L. 3, W. 2.1 cm; 83.AF.28.15.b: L. 2.7, W. 2.5 cm, W. (of the entire band) 3.8, pres. H. 2.9 cm; Wt. 8.95 g"
+    dimensions: "Group record for two-part records with dimensions: 83.AF.28.15.a: L. 3.0, W. 2.1 cm; 83.AF.28.15.b: L. 2.7, W. 2.5 cm, W. (of the entire band) 3.8, pres. H. 2.9 cm; Wt. 8.95 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
@@ -8764,7 +8764,7 @@ object_list:
     modeling_technique_and_decoration: "Assembled from fused composite canes; slumped and rotary pressed"
     inscription: "No"
     shape: [ "Appliqués" ]
-    technique: [ "Fusion" ]
+    technique: [ "Slumped" ]
     figure: [ id: "fig-76-AF-70-13-a", id: "fig-76-AF-70-13-b" ]
     path: /catalogue/cat-484/
 -
@@ -8772,7 +8772,7 @@ object_list:
     label: "Cat. 485"
     accession_number: "76.AF.70.45"
     link: <https://www.getty.edu/art/collection/objects/102948>
-    dimensions: "1.7 × 1.6 × 0.2 cm; Wt. 1.70 g"
+    dimensions: "L. 1.7, W. 1.6, Th. 0.2 cm; Wt. 1.70 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
@@ -8782,7 +8782,7 @@ object_list:
     modeling_technique_and_decoration: "Assembled from fused composite canes; slumped and rotary pressed"
     inscription: "No"
     shape: [ "Appliqués" ]
-    technique: [ "Fusion" ]
+    technique: [ "Slumped" ]
     figure: [ id: "fig-76-AF-70-45-a", id: "fig-76-AF-70-45-b" ]
     path: /catalogue/cat-485/
 -
@@ -8790,13 +8790,13 @@ object_list:
     label: "Cat. 486"
     accession_number: "76.AF.70.27"
     link: <https://www.getty.edu/art/collection/objects/19046>
-    dimensions: "L. 2.4, W. 2.4, Th. 0.2 cm; Wt. 3.36 g"
+    dimensions: "L. 2.4, W. 2.4, Th. 0.2 cm; Wt. 3.36&nbsp;g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
     production_area: "Egypt or Italy"
     culture: "Roman"
-    material: "Translucent green and opaque white glass"
+    material: "Translucent green and opaque yellow glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
@@ -8844,7 +8844,7 @@ object_list:
     label: "Cat. 489"
     accession_number: "83.AF.28.25"
     link: <https://www.getty.edu/art/collection/objects/16227>
-    dimensions: "1.4 × 1.0 × 0.5 cm; Wt. 1.01 g"
+    dimensions: "L. 1.4, W.  1.0, Th. 0.5 cm; Wt. 1.01 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
@@ -9082,7 +9082,7 @@ object_list:
     date: "Perhaps first century CE"
     start_date: "1"
     end_date: "99"
-    production_area: "Eastern Mediterranean, probbly Italy"
+    production_area: "Eastern Mediterranean, probably Italy"
     culture: "Roman"
     material: "Opaque white and green glass"
     modeling_technique_and_decoration: "Cast in a mold, ground and polished"
@@ -9114,7 +9114,7 @@ object_list:
     label: "Cat. 504"
     accession_number: "2003.358"
     link: <https://www.getty.edu/art/collection/objects/221748>
-    dimensions: "H. 3.5 × W. 3.9 cm; Wt. 29.44 g"
+    dimensions: "H. 3.5, W. 3.9 cm; Wt. 29.44 g"
     date: "Third–fourth centuries CE"
     start_date: "200"
     end_date: "399"
@@ -9132,7 +9132,7 @@ object_list:
     label: "Cat. 505"
     accession_number: "2003.359"
     link: <https://www.getty.edu/art/collection/objects/221749>
-    dimensions: "H. 3.3 × W. 3.1 cm; Wt. 17.96 g"
+    dimensions: "H. 3.3, W. 3.1 cm; Wt. 17.96 g"
     date: "Third–fourth centuries CE"
     start_date: "200"
     end_date: "399"
@@ -9205,7 +9205,7 @@ object_list:
     accession_number: "2003.214.1"
     link: <https://www.getty.edu/art/collection/objects/221581>
     dimensions: "L. 4.2, W. 1.8, Th. 1.0 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9222,8 +9222,8 @@ object_list:
     label: "Cat. 510"
     accession_number: "2003.214.2"
     link: <https://www.getty.edu/art/collection/objects/221582>
-    dimensions: "4.4 × 1.7 × 1 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    dimensions: "H. 4.4, W. 1.7, Th. 1.0 cm"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9241,7 +9241,7 @@ object_list:
     accession_number: "2003.214.3"
     link: <https://www.getty.edu/art/collection/objects/221583>
     dimensions: "H. 2.7, W. 1.0, Th. 0.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9259,7 +9259,7 @@ object_list:
     accession_number: "2003.214.4"
     link: <https://www.getty.edu/art/collection/objects/221584>
     dimensions: "H. 2.6, W. 1.0, Th. 0.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9277,7 +9277,7 @@ object_list:
     accession_number: "2003.214.5"
     link: <https://www.getty.edu/art/collection/objects/221585>
     dimensions: "H. 1.9, W. 1.1, Th. 0.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9295,7 +9295,7 @@ object_list:
     accession_number: "2003.214.6"
     link: <https://www.getty.edu/art/collection/objects/221586>
     dimensions: "H. 2, W. 1.2, Th. 0.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9313,7 +9313,7 @@ object_list:
     accession_number: "2003.214.7"
     link: <https://www.getty.edu/art/collection/objects/221587>
     dimensions: "H. 2.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9331,7 +9331,7 @@ object_list:
     accession_number: "2003.214.8"
     link: <https://www.getty.edu/art/collection/objects/221588>
     dimensions: "H. 3.1, W. 1.2, Th. 0.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9349,7 +9349,7 @@ object_list:
     accession_number: "2003.214.9"
     link: <https://www.getty.edu/art/collection/objects/221589>
     dimensions: "H. 3.0, W. 1.4, Th. 0.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9367,7 +9367,7 @@ object_list:
     accession_number: "2003.214.10"
     link: <https://www.getty.edu/art/collection/objects/221590>
     dimensions: "H. 3.0, W. 1.6, Th. 0.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9385,7 +9385,7 @@ object_list:
     accession_number: "2003.214.11"
     link: <https://www.getty.edu/art/collection/objects/221591>
     dimensions: "H. 2.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9403,7 +9403,7 @@ object_list:
     accession_number: "2003.214.12"
     link: <https://www.getty.edu/art/collection/objects/221592>
     dimensions: "H. 2.5, W. 1.3, Th. 0.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9421,7 +9421,7 @@ object_list:
     accession_number: "2003.214.13"
     link: <https://www.getty.edu/art/collection/objects/221593>
     dimensions: "H. 2.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9439,7 +9439,7 @@ object_list:
     accession_number: "2003.214.14"
     link: <https://www.getty.edu/art/collection/objects/221594>
     dimensions: "H. 2.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9457,7 +9457,7 @@ object_list:
     accession_number: "2003.214.15"
     link: <https://www.getty.edu/art/collection/objects/221595>
     dimensions: "H. 2.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9475,7 +9475,7 @@ object_list:
     accession_number: "2003.214.16"
     link: <https://www.getty.edu/art/collection/objects/221596>
     dimensions: "H. 2.5, W. 1.2, Th. 0.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9493,7 +9493,7 @@ object_list:
     accession_number: "2003.214.17"
     link: <https://www.getty.edu/art/collection/objects/221597>
     dimensions: "H. 2.9, W. 1.3, Th. 0.5 cm"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9511,7 +9511,7 @@ object_list:
     accession_number: "2004.15.1"
     link: <https://www.getty.edu/art/collection/objects/221467>
     dimensions: "H. 3.1, W. 1.1 cm; Wt. 1.62 g"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9529,7 +9529,7 @@ object_list:
     accession_number: "2004.15.2"
     link: <https://www.getty.edu/art/collection/objects/221468>
     dimensions: "H. 3.1, W. 1.2 cm; Wt. 1.86 g"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9547,7 +9547,7 @@ object_list:
     accession_number: "2004.15.3"
     link: <https://www.getty.edu/art/collection/objects/221469>
     dimensions: "H. 3.1, W. 1.3 cm; Wt. 1.76 g"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9565,7 +9565,7 @@ object_list:
     accession_number: "2004.15.4"
     link: <https://www.getty.edu/art/collection/objects/221470>
     dimensions: "H. 3.2, W. 1.3 cm; Wt. 1.98 g"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9583,7 +9583,7 @@ object_list:
     accession_number: "2004.15.5"
     link: <https://www.getty.edu/art/collection/objects/221471>
     dimensions: "H. 2, W. 1.1 cm; Wt. 1.66 g"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9601,7 +9601,7 @@ object_list:
     accession_number: "2004.15.6"
     link: <https://www.getty.edu/art/collection/objects/221472>
     dimensions: "H. 2, W. 1.2 cm; Wt. 1.46 g"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -9619,7 +9619,7 @@ object_list:
     accession_number: "2004.15.7"
     link: <https://www.getty.edu/art/collection/objects/221473>
     dimensions: "H. 3.1, W. 2 cm; Wt. 6.45 g"
-    date: "LH IIIA–LH IIIB (1400–1200 BCE)"
+    date: "1400–1200 BCE (LH IIIA–LH IIIB)"
     start_date: "-1400"
     end_date: "-1200"
     production_area: "Aegean region"
@@ -10297,7 +10297,7 @@ object_list:
     label: "Cat. 538"
     accession_number: "2003.210"
     link: <https://www.getty.edu/art/collection/objects/221577/>
-    dimensions: "H. 2.1, max. Diam. 1.8 cm; Wt. 10.6 g"
+    dimensions: "H. 2.1, max. Diam. 1.8 cm; Wt. 10.60 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -10374,7 +10374,7 @@ object_list:
     start_date: "-600"
     end_date: "-401"
     production_area: "Eastern Mediterranean"
-    culture: "Ancient Greek"
+    culture: "Greek"
     material: "Light blue, dark blue, and white glass"
     modeling_technique_and_decoration: "Marvered; tooled"
     inscription: "No"
@@ -10423,7 +10423,7 @@ object_list:
     label: "Cat. 545"
     accession_number: "2003.208"
     link: <https://www.getty.edu/art/collection/objects/221575>
-    dimensions: "H. 2.9 cm, max. pres. W. 2.0, max. Th. 2.0 cm; Wt. 3.93 g"
+    dimensions: "H. 2.9, max. pres. W. 2.0, max. Th. 2.0 cm; Wt. 3.93 g"
     date: "Mid-fifth–fourth centuries BCE"
     start_date: "-450"
     end_date: "-301"
@@ -10603,8 +10603,8 @@ object_list:
     label: "Cat. 555"
     accession_number: "2003.456"
     link: <https://www.getty.edu/art/collection/objects/221845>
-    dimensions: "L. 2.4, W. 1.3 cm; Wt. 0.9 g"
-    date: "Roman, third–fifth centuries CE"
+    dimensions: "L. 2.4, W. 1.3 cm; Wt. 0.90 g"
+    date: "Roman, third–fifth centuries&nbsp;CE"
     start_date: "200"
     end_date: "499"
     production_area: "Probably Syro-Palestinian region"
@@ -10747,7 +10747,7 @@ object_list:
     label: "Cat. 563"
     accession_number: "2003.457"
     link: <https://www.getty.edu/art/collection/objects/221846>
-    dimensions: "Diam. 8.5, Th. 0.4 cm; Wt. 28.2 g"
+    dimensions: "Diam. 8.5, Th. 0.4 cm; Wt. 28.20 g"
     date: "Fourth century CE"
     start_date: "300"
     end_date: "399"
@@ -10765,7 +10765,7 @@ object_list:
     label: "Cat. 564"
     accession_number: "2003.459"
     link: <https://www.getty.edu/art/collection/objects/221848>
-    dimensions: "Diam. 5.0, Th. 0.3 cm; Wt. 5.8 g"
+    dimensions: "Diam. 5.0, Th. 0.3 cm; Wt. 5.80 g"
     date: "Fourth century CE"
     start_date: "300"
     end_date: "399"
@@ -10783,13 +10783,13 @@ object_list:
     label: "Cat. 565"
     accession_number: "2003.458"
     link: <https://www.getty.edu/art/collection/objects/221847>
-    dimensions: "Diam. 7.0, Th. 1.0 cm; Wt. 25.2 g"
+    dimensions: "Diam. 7.0, Th. 1.0 cm; Wt. 25.20 g"
     date: "Fourth century CE"
     start_date: "300"
     end_date: "301"
     production_area: "Eastern Mediterranean"
     culture: "Byzantine"
-    material: "Semitranslucent dark blue (seemingly black) glass"
+    material: "Semitranslucent dark green (seemingly black) glass"
     modeling_technique_and_decoration: "Tooling"
     inscription: "No"
     shape: [ "Bracelets" ]
@@ -10819,7 +10819,7 @@ object_list:
     label: "Cat. 567"
     accession_number: "2003.295.1–2"
     link: <https://www.getty.edu/art/collection/objects/221685>
-    dimensions: "2003.295.1: H. 0.5, Diam 1.5 cm; Wt. 2.48 g; 2003.295.2: H. 0.5, Diam. 1.44 cm; Wt. 2.14 g"
+    dimensions: "2003.295.1: H. 0.5, Diam. 1.5 cm; Wt. 2.48 g; 2003.295.2: H. 0.5, Diam. 1.4 cm; Wt. 2.14 g"
     date: "Probably fourth century CE"
     start_date: "300"
     end_date: "399"
@@ -10837,7 +10837,7 @@ object_list:
     label: "Cat. 568"
     accession_number: "2003.460"
     link: <https://www.getty.edu/art/collection/object/1096D1>
-    dimensions: "H. 1.6, Diam. 4.5 cm; Wt. 40.1 g"
+    dimensions: "H. 1.6, Diam. 4.5 cm; Wt. 40.10 g"
     date: "First century CE"
     start_date: "1"
     end_date: "99"
@@ -10855,7 +10855,7 @@ object_list:
     label: "Cat. 569"
     accession_number: "79.AF.171"
     link: <https://www.getty.edu/art/collection/objects/8655>
-    dimensions: "1.8 × 1.1 × 1.0 cm; Wt. 2.86 g"
+    dimensions: "H. 1.8, W. 1.1, Th. 1.0 cm; Wt. 2.86 g"
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
@@ -10915,7 +10915,7 @@ object_list:
     end_date: "199"
     production_area: "Roman Empire"
     culture: "Roman"
-    material: "Translucent light-yellow glass"
+    material: "Translucent light yellow glass"
     modeling_technique_and_decoration: "Tooled"
     inscription: "No"
     shape: 
@@ -10945,7 +10945,7 @@ object_list:
     label: "Cat. 574"
     accession_number: "2003.356"
     link: <https://www.getty.edu/art/collection/objects/221746>
-    dimensions: "H. 6.0, W. 5.6 cm; Wt. 245.6 g"
+    dimensions: "H. 6.0, W. 5.6 cm; Wt. 245.60&nbsp;g"
     date: "First–second centuries CE"
     start_date: "1"
     end_date: "199"
@@ -10963,7 +10963,7 @@ object_list:
     label: "Cat. 575"
     accession_number: "2003.357"
     link: <https://www.getty.edu/art/collection/objects/221747>
-    dimensions: "H. 3.8, Th. 4.0 cm; Wt. 96.4 g"
+    dimensions: "H. 3.8, Th. 4.0 cm; Wt. 96.40&nbsp;g"
     date: "First–second centuries CE"
     start_date: "1"
     end_date: "199"
@@ -10981,7 +10981,7 @@ object_list:
     label: "Cat. 576"
     accession_number: "2003.155"
     link: <https://www.getty.edu/art/collection/objects/221522>
-    dimensions: "H. 14.7, Diam. rim 1.6, D. body max. 0.7 cm; Wt. 9.34 g"
+    dimensions: "H. 14.7, Diam. rim 1.6, max. Diam. 0.7 cm; Wt. 9.34 g"
     date: "Late Eighteenth to Nineteenth Dynasty; mid-fourteenth to mid-thirteenth century BCE"
     start_date: "-1366"
     end_date: "-1234"
@@ -11017,7 +11017,7 @@ object_list:
     label: "Cat. 578"
     accession_number: "2003.371"
     link: <https://www.getty.edu/art/collection/objects/221761/>
-    dimensions: "H. 2.0, Diam. 18.3, Th. 0.2 cm; Wt. 171 g"
+    dimensions: "H. 2.0, Diam. 18.3, Th. 0.2 cm; Wt. 171.00 g"
     date: "Islamic, Byzantine, or Ottoman"
     start_date: "550"
     end_date: "1700?"
@@ -11107,14 +11107,14 @@ object_list:
     label: "Cat. 583"
     accession_number: "2003.462"
     link: <https://www.getty.edu/art/collection/objects/221851/>
-    dimensions: "L. 8.8, W. 5.4 cm; Wt. 89.5 g"
+    dimensions: "L. 8.8, W. 5.4 cm; Wt. 89.50 g"
     date: "Ninth–twelfth and nineteenth–twentieth centuries CE"
     start_date: "800"
     end_date: "1199"
     production_area: "Eastern Mediterranean and Europe"
     culture: [ "Byzantine", "Modern" ]
     material: "Dark green, dark turquoise, and off-white glass; resin"
-    modeling_technique_and_decoration: ""
+    modeling_technique_and_decoration: "Free-blown; applied and tooled features"
     inscription: "No"
     shape: 
     technique: 

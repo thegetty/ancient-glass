@@ -18,11 +18,11 @@ Intact, with mild pitting. Reddish remains of the core in the interior.
 
 Translucent dark blue body; opaque yellow and turquoise decoration. Broad, inward-sloping rim-disk; relatively tall, cylindrical neck; obtuse-angled shoulder; top-shaped body; convex bottom; circular base-knob with a rounded edge. Two dark blue vertical strap handles extend from the shoulders to the upper part of the neck.
 
-An unmarvered opaque yellow thread and a turquoise thread are wound around the rim. A marvered wide yellow thread starts on the neck as a large flake and spirals eight times around the shoulders and the upper body, where an opaque turquoise thread is wound once and they are both dragged up and down, forming a zigzag pattern. Below this a yellow marvered thread is wound horizontally twice around the body.
+An opaque yellow thread and a turquoise thread—both unmarvered—are wound around the rim. A wide marvered yellow thread starts on the neck as a large flake and spirals eight times around the shoulders and the upper body, where a marvered opaque turquoise thread is wound once and they are both dragged up and down, forming a zigzag pattern. Below this a marvered yellow thread is wound horizontally twice around the body.
 
 ## Comments and Comparanda
 
-On core-formed amphoriskoi of this period see comments on {% cat '2003.178' %}. For the classification of this particular amphoriskos see {% cite 'Grose 1989' %}, class I:B, amphoriskos form I:2: p. 144, no. 97.
+On core-formed amphoriskoi of this period, see comments on {% cat '2003.178' %}. For the classification of this particular amphoriskos, see {% cite 'Grose 1989' %}, class I:B, amphoriskos form I:2: p. 144, no. 97.
 
 ## Provenance
 

@@ -18,11 +18,11 @@ Fully preserved; small part of the rim filled; surface pitted, especially on rim
 
 Turquoise ground; yellow and dark brown décor. Broad, horizontal rim-disk; cylindrical neck, tapering upward; cylindrical body; convex bottom. Two opposing ring handles with knobbed tails are placed over the decoration on the upper body near the shoulder. One of the handles is placed slightly lower than the other.
 
-A yellow marvered thread, wound around the rim, spirals 22 times around the body to the center of the bottom. A dark brown thread starts on the neck under the rim and spirals 22 times adjacent to the yellow thread to the center of the bottom. The decoration on the upper part of the body is dragged downward, forming a zigzag pattern. On the lower part of the body the threads are dragged up and down, forming a close-set zigzag pattern.
+A marvered yellow thread, wound around the rim, spirals 22 times around the body to the center of the bottom. An unmarvered dark brown thread starts on the neck under the rim and spirals 22 times adjacent to the yellow thread to the center of the bottom. The decoration on the upper part of the body is dragged downward, forming a zigzag pattern. On the lower part of the body the threads are dragged up and down, forming a close-set zigzag pattern.
 
 ## Comments and Comparanda
 
-On core-formed alabastra see comments on {% cat '2003.180' %}. For the classification of this particular alabastron see {% cite 'Grose 1989' %}, class I:F, alabastron form I:3B: pp. 139–141, nos. 82–85. Almost identical with {% cat '2003.189' %}.
+On core-formed alabastra, see comments on {% cat '2003.180' %}. For the classification of this particular alabastron, see {% cite 'Grose 1989' %}, class I:F, alabastron form I:3B: pp. 139–141, nos. 82–85. Almost identical with {% cat '2003.189' %}.
 
 ## Provenance
 

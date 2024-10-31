@@ -18,11 +18,11 @@ Mended; areas with whitish weathering, especially on the handles. Parts of the r
 
 Translucent dark blue-green, transparent greenish, and opaque turquoise and yellow glass. Narrow, outward-splayed flattened rim-disk; tall cylindrical neck; sloping obtuse-angled shoulder; conical body; convex pointed bottom. An oval knob of greenish glass is applied on the center of the bottom. Two greenish, large opposing coil handles stretch vertically from shoulder to upper neck under the rim.
 
-A yellow and a turquoise marvered thread are spirally wound 27 times from the rim to bottom. The threads have been dragged 26 times up and down from the shoulder to the bottom, forming a festoon pattern.
+A yellow and a turquoise thread—both marvered—are spirally wound 27 times from the rim to bottom. The threads have been dragged 26 times up and down from the shoulder to the bottom, forming a festoon pattern.
 
 ## Comments and Comparanda
 
-On core-formed amphoriskoi of this period see comments on {% cat '2003.200' %}. For the classification of this particular amphoriskos see {% cite 'Grose 1989' %}, class III:E, amphoriskos form III:2B: pp. 170–172, nos. 170–174. The shoulder area was restored, forming an unexpected obtuse angle between the neck and the shoulder/body, compared for instance with {% cat '2003.204' %}, which is more typical for the form.
+On core-formed amphoriskoi of this period, see comments on {% cat '2003.200' %}. For the classification of this particular amphoriskos, see {% cite 'Grose 1989' %}, class III:E, amphoriskos form III:2B: pp. 170–172, nos. 170–174. The shoulder area was restored, forming an unexpected obtuse angle between the neck and the shoulder/body, compared for instance with {% cat '2003.204' %}, which is more typical for the form.
 
 ## Provenance
 

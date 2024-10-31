@@ -18,7 +18,7 @@ Mended, fills in several parts of the body.
 
 Dark blue ground; opaque white, yellow, and turquoise décor. Flattened, horizontal rim with rounded edge; wide, cylindrical neck, slightly tapering toward the body; almost horizontal rounded shoulder; squat, bulbous body; tall, conical footed base with rounded edge. On the upper body, right below the shoulder, three dark blue loop handles are arranged at equal distances.
 
-A marvered turquoise thread is wound around the rim. Around the neck and on the lower part of the body three marvered threads—opaque white, yellow, and turquoise—are spirally wound and dragged upward, forming a festooned pattern. A marvered turquoise thread encircles the base.
+A marvered turquoise thread is wound around the rim. Around the neck and on the lower part of the body, three marvered threads—opaque white, yellow, and turquoise—are spirally wound and dragged upward, forming a festooned pattern. A marvered turquoise thread encircles the base.
 
 ## Comments and Comparanda
 

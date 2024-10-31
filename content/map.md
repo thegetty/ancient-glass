@@ -7,4 +7,3 @@ order: 10
 ---
 
 <div id="leafletmap"></div>
-
