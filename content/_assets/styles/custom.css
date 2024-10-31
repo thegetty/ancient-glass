@@ -232,17 +232,30 @@ figure.cat-thumbnail a {
 #leafletmap .region, 
 #leafletmap .sea {
   font-size: 1.25rem;
-  color: black;
   text-transform: uppercase;
   font-weight: bold;
+}
+#leafletmap .region {
+  color: rgb(45, 23, 2);
+  text-shadow: 1px 1px 2px rgb(216, 211, 204);
+}
+#leafletmap .sea {
+  color: rgb(5, 63, 110);
+  font-style: italic;
+  text-shadow: 1px 1px 2px rgb(140, 187, 249);
 }
 #leafletmap .city {
   font-weight: bold;
   font-size: .875rem;
   font-family: 'Noto Sans', Arial, sans-serif;
 }
-#leafletmap .leaflet-tooltip.region {
+#leafletmap .leaflet-tooltip.region, 
+#leafletmap .leaflet-tooltip.sea {
   margin-top: 30px;
+  text-align: center;
+  line-height: 1.2;
+  max-width: 200px;
+  white-space: break-spaces;
 }
 .leaflet-popup-content-wrapper .leaflet-popup-content * {
   display: block;

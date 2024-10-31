@@ -41,8 +41,8 @@ const geojsonFeature = [{
     "geometry": {
       "type": "Point",
       "coordinates": [
-        27.27850275,
-        37.91033975
+        31,
+        39
       ]
     }
   },
@@ -153,8 +153,8 @@ const geojsonFeature = [{
     "geometry": {
       "type": "Point",
       "coordinates": [
-        31.45914824,
-        16.10108293
+        29,
+        26
       ]
     }
   },
@@ -233,8 +233,8 @@ const geojsonFeature = [{
     "geometry": {
       "type": "Point",
       "coordinates": [
-        14.4493667,
-        34.65520569
+        16.7,
+        35
       ]
     }
   },
@@ -249,7 +249,7 @@ const geojsonFeature = [{
     "geometry": {
       "type": "Point",
       "coordinates": [
-        -0.39,
+        0,
         47.96
       ]
     }
@@ -330,7 +330,7 @@ const geojsonFeature = [{
       "type": "Point",
       "coordinates": [
         7.5,
-        49.6667
+        49
       ]
     }
   },

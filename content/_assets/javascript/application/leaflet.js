@@ -7,6 +7,7 @@ const map = L.map('leafletmap').setView([42.8, 22.6], 5);
 
 L.tileLayer('https://cawm.lib.uiowa.edu/tiles/{z}/{x}/{y}.png', {
     maxZoom: 10,
+    minZoom: 5,
     attribution: '&copy; <a href="">Ancient World Mapping Center</a>'
 }).addTo(map);
 
@@ -39,8 +40,13 @@ L.geoJSON(geojsonFeature, {
     const tgn = feature.properties.tgnID ? `${feature.properties.tgnID}` : '' 
     const pleiades = feature.properties.pleiadesID ? `${feature.properties.pleiadesID}` : ''
     
-    const labelText = `${name}`
+    const labelText = type == 'region' || type == 'sea' 
+      ? `<span style="white-space: break-spaces;">${name}</span>`
+      : `${name}`
     layer.bindTooltip(labelText, { permanent: true, className: type, direction: 'center', offset: [0, -30] });
+
+    console.log("labelText :: " + labelText)
+    console.log("labelText.length :: " + labelText.length)
 
     const tgnLink = tgn ? `<a href="https://vocab.getty.edu/page/tgn/${tgn}" target="_blank">Getty TGN ID: ${tgn}</a>` : ''
     const pleiadesLink = pleiades ? `<a href="https://pleiades.stoa.org/places/${pleiades}" target="_blank">Pleiades ID: ${pleiades}</a>` : ''
