@@ -12,7 +12,7 @@ object:
 
 ## Condition
 
-Body fragment of a vessel broken all around. The upper surface was polished in modern times; the lower surface, which was left in its original condition, is slightly irregular and pitted.
+Body fragment of a vessel, broken all around. The upper surface was polished in modern times; the lower surface, which was left in its original condition, is slightly irregular and pitted.
 
 ## Description
 
@@ -20,7 +20,7 @@ The fragment is part of a dish’s flat bottom, which stood on a fine purple bas
 
 ## Comments and Comparanda
 
-For the production technique see {% cite 'Dawes 2002' %} and comments on {% cat '85.AF.85' %}. This fragment could be part of a shallow carinated dish like {% cat '85.AF.85' %}, or a non-carinated dish (for the class see {% cite 'Grose 1989' %}, pp. 256–261: composite mosaic vessels: non-carinated forms).
+For the production technique, see {% cite 'Dawes 2002' %} and comments on {% cat '85.AF.85' %}. This fragment could be part of a shallow carinated dish like {% cat '85.AF.85' %}, or a non-carinated dish (for the class, see {% cite 'Grose 1989' %}, pp. 256–261: composite mosaic vessels: non-carinated forms).
 
 ## Provenance
 

@@ -16,7 +16,7 @@ Intact; on most of the interior and on small parts of the exterior, cream and ir
 
 ## Description
 
-Slightly everted, almost vertical, smooth, fire-rounded rim; deep body decorated with 31 vertical, short ribs; flat, slightly concave bottom. At the exterior, the band below the rim was flattened with a blunt tool detectable on the upper end of the ribs. The ribs are slightly oblique, slanting from right to left at the bottom; unequal in size, ranging from 2.2 to 3 cm, and unevenly spaced. In three cases the rib was not formed and in its place is visible only a small protuberance. In the interior, two horizontal grooves 0.2 cm wide are incised at 0.8 and 1.6 cm below the rim.
+Slightly everted, almost vertical, smooth, fire-rounded rim; deep body decorated with 31 vertical, short ribs; flat, slightly concave bottom. At the exterior, the band below the rim was flattened with a blunt tool detectable on the upper end of the ribs. The ribs are slightly oblique, slanting from right to left at the bottom; unequal in size, ranging from 2.2 to 3 cm, and unevenly spaced. In three cases, the rib was not formed and in its place is visible only a small protuberance. In the interior, two horizontal grooves 0.2 cm wide are incised at 0.8 and 1.6 cm below the rim.
 
 ## Comments and Comparanda
 

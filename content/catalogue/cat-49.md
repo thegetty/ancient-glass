@@ -18,11 +18,11 @@ Intact. Some light weathering on the shoulders and on the base.
 
 Translucent dark blue ground; opaque yellow and turquoise décor. Narrow trefoil rim-disk; short, cylindrical neck; convex shoulder; ovoid body; convex bottom. Short outward-splayed base, concave on its underside, a bit off-center. An opaque light blue strap handle extends from the shoulder to the rim-disk.
 
-An unmarvered yellow thread is wound around the rim. A marvered yellow thread is wound three times in horizontal lines on the shoulder, and below, together with a turquoise thread, wound three–four times and dragged up and down, forming a zigzag pattern. Below this a marvered yellow thread is wound spirally twice.
+An unmarvered yellow thread is wound around the rim. A marvered yellow thread is wound three times in horizontal lines on the shoulder, and below, together with a marvered turquoise thread, wound three–four times and dragged up and down, forming a zigzag pattern. Below this a marvered yellow thread is wound spirally twice.
 
 ## Comments and Comparanda
 
-See comments on {% cat '2003.179' %}. For the classification of this particular oinochoe see {% cite 'Grose 1989' %}, class I:B, oinochoe form I:2: pp. 150–151, nos. 116–117.
+See comments on {% cat '2003.179' %}. For the classification of this particular oinochoe, see {% cite 'Grose 1989' %}, class I:B, oinochoe form I:2: pp. 150–151, nos. 116–117.
 
 ## Provenance
 

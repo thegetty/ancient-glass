@@ -18,7 +18,7 @@ Intact.
 
 Translucent brown body; opaque turquoise and yellow decoration. Horizontal rim-disk; cylindrical body; flat bottom. Two opposing purple ring handles with knobbed tails are placed over the decoration on the upper body, one slightly lower than the other.
 
-A yellow marvered thread wound around the rim spirals 25 times around the body to the center of the bottom. A turquoise thread starts on the neck under the rim and spirals 25 times between the coils of the yellow thread and extends to the center of the bottom. The decoration from the upper body to just below the handles is dragged 22 times upward and 22 downward, forming a zigzag pattern.
+A yellow thread wound unmarvered around the rim spirals marvered 25 times around the body to the center of the bottom. A marvered turquoise thread starts on the neck under the rim and spirals 25 times between the coils of the yellow thread and extends to the center of the bottom. The decoration from the upper body to just below the handles is dragged 22 times upward and 22 downward, forming a zigzag pattern.
 
 ## Comments and Comparanda
 

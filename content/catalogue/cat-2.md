@@ -18,7 +18,7 @@ Mended, heavily reconstructed, and filled. Discolored from weathering.
 
 Short cylindrical neck; ovular body; convex bottom. Two opposing milky yellow vertical loop handles are modern restoration.
 
-A turquoise or translucent light blue unmarvered thread around the rim. The dark-colored body is decorated with splashes of opaque turquoise and yellow glass.
+An unmarvered turquoise or translucent light blue thread around the rim. The dark-colored body is decorated with splashes of opaque turquoise and yellow glass.
 
 ## Comments and Comparanda
 

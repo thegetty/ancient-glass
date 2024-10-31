@@ -18,11 +18,11 @@ Fully preserved. The vessel has much discoloration, visible especially around th
 
 Translucent dark blue ground; white and yellow combed pattern. Inward-sloping rim-disk with tooling marks above; cylindrical neck; right-angled junction with rounded shoulder; ribbed, spherical-ovoid body; convex bottom. Two blue scroll-shaped handles extend from under the mouth to the shoulder.
 
-An unmarvered yellow thread is wound around the rim. A mavered thread (probably the same one) continues, spiraling twice around the neck and twice around the shoulder, then continuing, spiraling seven more times on the central body, alternating with a white thread in a combed pattern. Around the bottom a white thread is wound two times and a yellow once. A finer, white thread appearing near the bottom is the loose end of the thread wound around the body.
+An unmarvered yellow thread is wound around the rim. A marvered thread (probably the same one) continues, spiraling twice around the neck and twice around the shoulder, then continuing, spiraling seven more times on the central body, alternating with a white thread in a combed pattern. Around the bottom a white thread is wound two times and a yellow once. A finer, white thread appearing near the bottom is the loose end of the thread wound around the body.
 
 ## Comments and Comparanda
 
-See comments on {% cat '2003.174' %}. For the classification of this particular aryballos see {% cite 'Grose 1989' %}, class I:B, aryballos form I:2;  {% cite 'Arveiller-Dulong and Nenna 2000' %}, p. 125, no. 153.
+See comments on {% cat '2003.174' %}. For the classification of this particular aryballos, see {% cite 'Grose 1989' %}, class I:B, aryballos form I:2;  {% cite 'Arveiller-Dulong and Nenna 2000' %}, p. 125, no. 153.
 
 ## Provenance
 

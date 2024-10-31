@@ -18,11 +18,11 @@ Intact with very few minor abrasions. Vertical indentations on the body caused b
 
 Translucent dark blue body; opaque yellow decoration. Broad, inward-sloping rim-disk; relatively tall, cylindrical neck wider toward the body; obtuse-angled shoulder; top-shaped body; convex bottom; circular base-knob with a rounded edge. Two dark blue vertical strap handles extend from the shoulders to the rim.
 
-An unmarvered opaque yellow thread is wound around the rim. A marvered wide yellow thread starts on the shoulder and spirals 13 times around the shoulders and the body, and it is dragged up and down forming a zigzag pattern.
+An unmarvered opaque yellow thread is wound around the rim. A wide marvered yellow thread starts on the shoulder and spirals 13 times around the shoulders and the body, and it is dragged up and down forming a zigzag pattern.
 
 ## Comments and Comparanda
 
-On core-formed amphoriskoi of this period see comments on {% cat '2003.178' %}. For the classification of this particular amphoriskos see {% cite 'Grose 1989' %}, class I:B, amphoriskos form I:1: p. 143, no. 96.
+On core-formed amphoriskoi of this period, see comments on {% cat '2003.178' %}. For the classification of this particular amphoriskos, see {% cite 'Grose 1989' %}, class I:B, amphoriskos form I:1: p. 143, no. 96.
 
 ## Provenance
 

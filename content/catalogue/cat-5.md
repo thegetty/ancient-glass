@@ -17,7 +17,7 @@ Partly preserved; restored; many cracks are clearly visible, and there are some 
 
 ## Description
 
-Dark blue ground, and white in the area of the belly, with yellow thread decoration. Fish-shaped container.
+Dark blue ground and white in the area of the belly, with yellow thread decoration. Fish-shaped container.
 
 An unmarvered yellow thread is wound around the open mouth and another is applied along the top of the back. The eyes are outlined with a yellow thread. There are two small white projections on the underside, indicating the fish’s ventral fins. A flush, vertical yellow thread divides the head from the body and a parallel thread is preserved at the middle of the body; a third yellow thread forms large zigzags between them. On the upper part of the body there are small cavities, which are filled with a translucent yellow substance, possibly glass.
 

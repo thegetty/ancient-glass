@@ -18,11 +18,11 @@ Fully preserved; mostly covered with weathering, and now appears white.
 
 Translucent dark, probably purple body; opaque white and yellow decoration. Horizontal rim-disk; short, cylindrical neck, tapering toward the body; rudimentary shoulder; cylindrical body, curving in toward the flat bottom. Two opposing ring handles with knobbed tails on the shoulders.
 
-A probably yellow unmarvered thread, now gray due to weathering, is wound around the rim. One white and one yellow thread are spirally wound 18 times around the neck and body, dragged up and down, forming a zigzag pattern.
+An unmarvered thread, probably yellow but now gray due to weathering, is wound around the rim. One white and one yellow thread—both marvered—are spirally wound 18 times around the neck and body, dragged up and down, forming a zigzag pattern.
 
 ## Comments and Comparanda
 
-On core-formed alabastra see comments on {% cat '2003.180' %}. For the classification of this particular alabastron see {% cite 'Grose 1989' %}, class I:F, alabastron form I:3A: p. 141, no. 88; also very similar but taller are the examples of form I:3B: pp. 140–142, nos. 81, 85–87, 89–91.
+On core-formed alabastra, see comments on {% cat '2003.180' %}. For the classification of this particular alabastron, see {% cite 'Grose 1989' %}, class I:F, alabastron form I:3A: p. 141, no. 88; also very similar but taller are the examples of form I:3B: pp. 140–142, nos. 81, 85–87, 89–91.
 
 ## Provenance
 

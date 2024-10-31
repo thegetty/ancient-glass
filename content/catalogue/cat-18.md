@@ -18,11 +18,11 @@ Fully preserved; mended and repaired near the bottom. Surface pitted.
 
 Brownish-purple, now opaque, body; opaque turquoise decoration. Horizontal rim-disk; short, cylindrical neck, tapering toward the body; rudimentary sloping shoulder; cylindrical body, wider toward the shallow, convex bottom. Two opposing ring handles with knobbed tails on the shoulders.
 
-A probably white unmarvered thread, now gray due to weathering, is wound around the rim. One white thread, now mainly appearing turquoise, is spirally wound 21 times around the neck and body, in almost horizontal rows.
+An unmarvered thread, probably white but now gray due to weathering, is wound around the rim. One marvered white thread, now mainly appearing turquoise, is spirally wound 21 times around the neck and body, in almost horizontal rows.
 
 ## Comments and Comparanda
 
-On core-formed alabastra see comments on {% cat '2003.180' %}. For the classification of this particular alabastron see {% cite 'Grose 1989' %}, class I:F, alabastron form I:3B: pp. 140–142, nos. 81, 85–87, 89–91.
+On core-formed alabastra, see comments on {% cat '2003.180' %}. For the classification of this particular alabastron, see {% cite 'Grose 1989' %}, class I:F, alabastron form I:3B: pp. 140–142, nos. 81, 85–87, 89–91.
 
 ## Provenance
 

@@ -12,16 +12,15 @@ object:
 
 ## Condition
 
-Single body fragment.
+Body fragment.
 
 ## Description
 
-Rectangular piece of a mildly curved part of a vessel, probably the transition from the bottom to the body, as the reducing thickness toward the curved part indicates. It consists of two types of rectangular tesserae: (1) eight-petaled
-green rosette outlined in yellow, set in red; (2) eight-petaled blue rosette outlined in white, set in blue. On the back side, irregularly arranged, are the same two types of tesserae.
+Rectangular piece of a mildly curved part of a vessel, probably the transition from the bottom to the body, as the reducing thickness toward the curved part indicates. It consists of two types of rectangular tesserae: (1) eight-petaled green rosette outlined in yellow, set in red; (2) eight-petaled blue rosette outlined in white, set in blue. On the back side, irregularly arranged, are the same two types of tesserae.
 
 ## Comments and Comparanda
 
-For the production technique see {% cite 'Dawes 2002' %} and comments on {% cat '85.AF.85' %}. On the trade of small fragments of mosaic glass in the nineteenth century and on the different techniques and classes of mosaic glass present in the JPGM collection, see comments on {% cat '76.AF.70.21' %}. For closer parallels see {% cat '76.AF.70.44' %}.
+For the production technique, see {% cite 'Dawes 2002' %} and comments on {% cat '85.AF.85' %}. On the trade of small fragments of mosaic glass in the nineteenth century and on the different techniques and classes of mosaic glass present in the Getty collection, see comments on {% cat '76.AF.70.21' %}. For closer parallels, see {% cat '76.AF.70.44' %}.
 
 ## Provenance
 

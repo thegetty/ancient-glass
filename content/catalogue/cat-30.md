@@ -20,7 +20,7 @@ Flaring, fire-polished rim; elongated conical body; convex bottom. The interior 
 
 ## Comments and Comparanda
 
-On core-formed alabastra of this period see comments on {% cat '2003.194' %}. The alabastron probably belongs to the fashion of archaizing vases that were imitating archaic prototypes. In this case, for the prototype of the shape of the body, see a clay alabastron from Kamiros, dated between 610–550 BCE, kept in the British Museum: <https://www.britishmuseum.org/collection/object/G_1860-0404-49>. The production technique indicates a much later date, and the object is made of the exact same glass as the jug, {% cat '2003.476' %}, and the patella, {% cat '2003.234' %}. See also the comments of Axel von Saldern corroborating this dating and ascribing it to the early imperial colored glass vessels ({% cite 'von Saldern et al. 1974' %}, p. 112, no. 300).
+On core-formed alabastra of this period, see comments on {% cat '2003.194' %}. The alabastron probably belongs to the fashion of archaizing vases that were imitating archaic prototypes. In this case, for the prototype of the shape of the body, see a clay alabastron from Kamiros, dated between 610–550 BCE, kept in the British Museum: <https://www.britishmuseum.org/collection/object/G_1860-0404-49>. The production technique indicates a much later date, and the object is made of the exact same glass as the jug, {% cat '2003.476' %}, and the patella, {% cat '2003.234' %}. See also the comments of Axel von Saldern corroborating this dating and ascribing it to the early imperial colored glass vessels ({% cite 'von Saldern et al. 1974' %}, p. 112, no. 300).
 
 ## Provenance
 

@@ -30,7 +30,7 @@ Dalmatia
 
 Egypt
 
-Eskişehir, Turkey
+Eskişehir, Türkiye
 
 Iran
 

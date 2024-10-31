@@ -12,11 +12,11 @@ object:
 
 ## Condition
 
-Single body fragment. On the interior side a thick, reddish-yellow layer is preserved from remains of the core. 
+Body fragment. On the interior side a thick, reddish-yellow layer is preserved from remains of the core. 
 
 ## Description
 
-Translucent dark blue ground; opaque turquoise and white decoration. Fragment of the body of a seemingly cylindrical vessel.One opaque yellow and one white thread, both marvered, are spirally wound around the upper body and dragged upward, forming a zigzag pattern.
+Translucent dark blue ground; opaque turquoise and white decoration. Fragment of the body of a seemingly cylindrical vessel. One opaque yellow and one white thread, both marvered, are spirally wound around the upper body and dragged upward, forming a zigzag pattern.
 
 ## Comments and Comparanda
 

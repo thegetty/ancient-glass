@@ -16,13 +16,13 @@ The vessel is almost completely iridescent, with a small area of the original bl
 
 ## Description
 
-Translucent dark blue ground; opaque white decoration. Broad, horizontal rim; biconical body; convex bottom. Two lugs near the neck.
+Translucent dark blue ground; opaque yellow decoration. Broad, horizontal rim-disk; biconical body; convex bottom. Two lugs near the neck.
 
 A white thread is wound 33 times around the body from the bottom to the rim. The thread is combed at the upper part of the body from under the rim to the transition to the lower conical part, forming a feathered pattern.
 
 ## Comments and Comparanda
 
-On core-formed alabastra of this period, see comments on {% cat '2003.194' %}. For the classification of this particular alabastron see {% cite 'Grose 1989' %}, class III:E, alabastron form III:5: pp. 168–169, nos. 166–167; {% cite 'Harden 1981' %}, form 18, pp. 122–123.
+On core-formed alabastra of this period, see comments on {% cat '2003.194' %}. For the classification of this particular alabastron, see {% cite 'Grose 1989' %}, class III:E, alabastron form III:5: pp. 168–169, nos. 166–167; {% cite 'Harden 1981' %}, form 18, pp. 122–123.
 
 ## Provenance
 

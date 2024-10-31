@@ -22,7 +22,7 @@ Decorated with yellow threads, with an unmarvered one wound around the rim. A ma
 
 ## Comments and Comparanda
 
-On core-formed alabastra of this period see comments on {% cat '2003.193' %}. For the classification of this particular alabastron see {% cite 'Grose 1989' %}, class II:D, alabastron form II:8: pp. 158–159, no. 140.
+On core-formed alabastra of this period, see comments on {% cat '2003.193' %}. For the classification of this particular alabastron, see {% cite 'Grose 1989' %}, class II:D, alabastron form II:8: pp. 158–159, no. 140.
 
 ## Provenance
 
