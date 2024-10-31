@@ -22,9 +22,7 @@ import { goToFigureState, setUpUIEventHandlers } from './canvas-panel'
 import Accordion from './accordion'
 import Search from '../../../../_plugins/search/search.js'
 import scrollToHash from './scroll-to-hash'
-
-// array of leaflet instances
-const mapArr = []
+import './leaflet.js'
 
 /**
  * toggleMenu
