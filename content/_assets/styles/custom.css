@@ -278,6 +278,9 @@ figure.cat-thumbnail a {
 .quire-page__content .content a.leaflet-popup-close-button:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {
   border-bottom-width: 0 !important;
 }
+.leaflet-attribution-flag {
+  display: none !important;
+}
 
 /* PRINT
 ============================================================================= */
