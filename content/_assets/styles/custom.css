@@ -125,6 +125,13 @@ figure.cat-thumbnail a {
   display: none;
 }
 
+/* TYPOLOGICAL CLASSIFICATION
+============================================================================= */
+
+.quire-page__content .container .content ul li:before {
+  content: none;
+}
+
 /* OBJECT GRID
 ============================================================================= */
 /* Remove hard-coded background color that was intended for "modern" theme */
