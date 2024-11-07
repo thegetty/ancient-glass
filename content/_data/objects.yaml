@@ -9106,7 +9106,7 @@ object_list:
     modeling_technique_and_decoration: "Mold pressed"
     inscription: "No"
     shape: [ "Appliqués" ]
-    technique: [ "Mold-pressed" ]
+    technique: [ "Mold-Pressed" ]
     figure: [ id: "fig-2003-355-a" ]
     path: /catalogue/cat-503/
 -
