@@ -2914,7 +2914,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold consisting of two vertical sections joined to a disk-shaped base section; the vertical seams are hidden in the hair"
     inscription: "No"
     shape: [ "Cups" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-474-a", id: "fig-2003-474-b", id: "fig-2003-474-c", id: "fig-2003-474-d" ]
     path: /catalogue/cat-159/
 -
@@ -2932,7 +2932,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical and one disk-shaped section for the base; vertical mold seams from rim to base through the stems of two of the palm fronds"
     inscription: "Yes"
     shape: [ "Beakers" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-319-a", id: "fig-2003-319-b", id: "fig-2003-319-c", id: "fig-2003-319-d", id: "fig-2003-319-e" ]
     path: /catalogue/cat-160/
 -
@@ -2950,7 +2950,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold; mold marks visible as two lines on the sides; separate mold used for bottom; relief crisp"
     inscription: "Yes"
     shape: [ "Beakers" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2004-35-a", id: "fig-2004-35-b", id: "fig-2004-35-c", id: "fig-2004-35-d", id: "fig-2004-35-e", id: "fig-2004-35-f", id: "fig-2004-35-g" ]
     path: /catalogue/cat-161/
 -
@@ -2968,7 +2968,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical and one disk-shaped section for the base; vertical mold seams from rim to base through the stems of two of the plants"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-85-AF-91-a", id: "fig-85-AF-91-b", id: "fig-85-AF-91-c", id: "fig-85-AF-91-d", id: "fig-85-AF-91-e" ]
     path: /catalogue/cat-162/
 -
@@ -2986,7 +2986,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical and one disk-shaped section for the base; vertical mold seams from rim to base left uncovered"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-318-a", id: "fig-2003-318-b", id: "fig-2003-318-c", id: "fig-2003-318-d", id: "fig-2003-318-e" ]
     path: /catalogue/cat-163/
 -
@@ -3004,7 +3004,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical sections and one disk-shaped section for the base."
     inscription: "No"
     shape: [ "Cups" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-316-a", id: "fig-2003-316-b", id: "fig-2003-316-c", id: "fig-2003-316-d", id: "fig-2003-316-e" ]
     path: /catalogue/cat-164/
 -
@@ -3022,7 +3022,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical semicircular parts for the body and a discoid for the base. Splashware accents"
     inscription: "No"
     shape: [ "Pyxides" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-315-a", id: "fig-2003-315-b", id: "fig-2003-315-c", id: "fig-2003-315-d", id: "fig-2003-315-e" ]
     path: /catalogue/cat-165/
 -
@@ -3040,7 +3040,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical sections on either side of EYΦΡAINOΥ from rim to second ridge below inscription, cup-shaped base section; relief crisp"
     inscription: "Yes"
     shape: [ "Cups" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-95-AF-60-a", id: "fig-95-AF-60-b", id: "fig-95-AF-60-c", id: "fig-95-AF-60-d", id: "fig-95-AF-60-e" ]
     path: /catalogue/cat-166/
 -
@@ -3058,7 +3058,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical sections on either side of ΕΥΦΡΑΙΝΟΥ from rim to second ridge below inscription, cup-shaped base section; relief crisp"
     inscription: "Yes"
     shape: [ "Cups" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-317-a", id: "fig-2003-317-b", id: "fig-2003-317-c", id: "fig-2003-317-d", id: "fig-2003-317-e" ]
     path: /catalogue/cat-167/
 -
@@ -3076,7 +3076,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical sections and one for the base"
     inscription: "Yes"
     shape: [ "Cups" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2004-34-a", id: "fig-2004-34-b", id: "fig-2004-34-c", id: "fig-2004-34-d", id: "fig-2004-34-e" ]
     path: /catalogue/cat-168/
 -
@@ -3094,7 +3094,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a five-part mold"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-85-AF-83-a", id: "fig-85-AF-83-b", id: "fig-85-AF-83-c", id: "fig-85-AF-83-d", id: "fig-85-AF-83-e" ]
     path: /catalogue/cat-169/
 -
@@ -3112,7 +3112,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a four-part mold: three vertical sections and the base"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-322-a", id: "fig-2003-322-b", id: "fig-2003-322-c", id: "fig-2003-322-d", id: "fig-2003-322-e" ]
     path: /catalogue/cat-170/
 -
@@ -3130,7 +3130,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a four-part mold: three vertical sections and one disk-shaped base section; relief is crisp, from either a not yet worn-out or a new mold"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-85-AF-90-a", id: "fig-85-AF-90-b", id: "fig-85-AF-90-c", id: "fig-85-AF-90-d" ]
     path: /catalogue/cat-171/
 -
@@ -3148,7 +3148,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a four-part mold: three vertical sections and one disk-shaped base section; relief is crisp, from a not yet worn-out or a new mold"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-320-a", id: "fig-2003-320-b", id: "fig-2003-320-c", id: "fig-2003-320-d", id: "fig-2003-320-e" ]
     path: /catalogue/cat-172/
 -
@@ -3166,7 +3166,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical sections and one disk-shaped base section; the mold starts 1 cm below the rim"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-321-a", id: "fig-2003-321-b", id: "fig-2003-321-c", id: "fig-2003-321-d", id: "fig-2003-321-e" ]
     path: /catalogue/cat-173/
 -
@@ -3184,7 +3184,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a four-part mold: three vertical sections and one disk-shaped base section"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-323-a", id: "fig-2003-323-b", id: "fig-2003-323-c", id: "fig-2003-323-d", id: "fig-2003-323-e" ]
     path: /catalogue/cat-174/
 -
@@ -3202,7 +3202,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a four-part mold; neck free-blown and tooled"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2004-36-a", id: "fig-2004-36-b", id: "fig-2004-36-c", id: "fig-2004-36-d", id: "fig-2004-36-e", id: "fig-2004-36-f", id: "fig-2004-36-g", id: "fig-2004-36-h", id: "fig-2004-36-i" ]
     path: /catalogue/cat-175/
 -
@@ -3220,7 +3220,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; applied elements"
     inscription: "No"
     shape: [ "Head Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-326-a", id: "fig-2003-326-b", id: "fig-2003-326-c", id: "fig-2003-326-d", id: "fig-2003-326-e" ]
     path: /catalogue/cat-176/
 -
@@ -3256,7 +3256,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a two-part mold"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-328-a", id: "fig-2003-328-b", id: "fig-2003-328-c", id: "fig-2003-328-d", id: "fig-2003-328-e" ]
     path: /catalogue/cat-178/
 -
@@ -3274,7 +3274,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Jars" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-78-AF-26-a", id: "fig-78-AF-26-b", id: "fig-78-AF-26-c", id: "fig-78-AF-26-d" ]
     path: /catalogue/cat-179/
 -
@@ -3292,7 +3292,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-343-a" ]
     path: /catalogue/cat-180/
 -
@@ -3310,7 +3310,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Head Jugs" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-85-AF-320-a", id: "fig-85-AF-320-b", id: "fig-85-AF-320-c", id: "fig-85-AF-320-d", id: "fig-85-AF-320-e" ]
     path: /catalogue/cat-181/
 -
@@ -3328,7 +3328,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; applied handle and base"
     inscription: "No"
     shape: [ "Head Jugs" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2004-44-a", id: "fig-2004-44-b", id: "fig-2004-44-c", id: "fig-2004-44-d", id: "fig-2004-44-e", id: "fig-2004-44-f", id: "fig-2004-44-g", id: "fig-2004-44-h" ]
     path: /catalogue/cat-182/
 -
@@ -3346,7 +3346,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a bipartite mold of vertical sections, open at base; faint vertical seams at the junction of the heads"
     inscription: "No"
     shape: [ "Head Jugs" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-324-a", id: "fig-2003-324-b", id: "fig-2003-324-c", id: "fig-2003-324-d", id: "fig-2003-324-e", id: "fig-2003-324-f" ]
     path: /catalogue/cat-183/
 -
@@ -3364,7 +3364,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown body in a two-part mold; free-blown neck and rim; applied handle and base"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-332-a", id: "fig-2003-332-b", id: "fig-2003-332-c", id: "fig-2003-332-d" ]
     path: /catalogue/cat-184/
 -
@@ -3382,7 +3382,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; applied elements"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-79-AF-184-13-a", id: "fig-79-AF-184-13-b", id: "fig-79-AF-184-13-c", id: "fig-79-AF-184-13-d" ]
     path: /catalogue/cat-185/
 -
@@ -3400,7 +3400,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; applied elements"
     inscription: "No"
     shape: [ "Oinochoai" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-427-a", id: "fig-2003-427-b", id: "fig-2003-427-c", id: "fig-2003-427-d" ]
     path: /catalogue/cat-186/
 -
@@ -3418,7 +3418,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Oinochoai" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-71-AF-83-a", id: "fig-71-AF-83-b", id: "fig-71-AF-83-c", id: "fig-71-AF-83-d" ]
     path: /catalogue/cat-187/
 -
@@ -3436,7 +3436,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-78-AF-24-a", id: "fig-78-AF-24-b", id: "fig-78-AF-24-c", id: "fig-78-AF-24-d", id: "fig-78-AF-24-e", id: "fig-78-AF-24-f", id: "fig-78-AF-24-g" ]
     path: /catalogue/cat-188/
 -
@@ -3454,7 +3454,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a two-part mold"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-344-a", id: "fig-2003-344-b", id: "fig-2003-344-c", id: "fig-2003-344-d", id: "fig-2003-344-e", id: "fig-2003-344-f" ]
     path: /catalogue/cat-189/
 -
@@ -3562,7 +3562,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Unguentaria" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-333-a", id: "fig-2003-333-b", id: "fig-2003-333-c", id: "fig-2003-333-d" ]
     path: /catalogue/cat-195/
 -
@@ -3580,7 +3580,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Unguentaria" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-334-a", id: "fig-2003-334-b", id: "fig-2003-334-c", id: "fig-2003-334-d" ]
     path: /catalogue/cat-196/
 -
@@ -3598,7 +3598,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Unguentaria", "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-331-a", id: "fig-2003-331-b", id: "fig-2003-331-c", id: "fig-2003-331-d" ]
     path: /catalogue/cat-197/
 -
@@ -3616,7 +3616,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Unguentaria", "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-330-a", id: "fig-2003-330-b", id: "fig-2003-330-c", id: "fig-2003-330-d" ]
     path: /catalogue/cat-198/
 -
@@ -3634,7 +3634,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Unguentaria", "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-329-a", id: "fig-2003-329-b", id: "fig-2003-329-c", id: "fig-2003-329-d" ]
     path: /catalogue/cat-199/
 -
@@ -3652,7 +3652,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Unguentaria" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-325-a", id: "fig-2003-325-b", id: "fig-2003-325-c", id: "fig-2003-325-d", id: "fig-2003-325-e" ]
     path: /catalogue/cat-200/
 -
@@ -3670,7 +3670,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-345-a", id: "fig-2003-345-b", id: "fig-2003-345-c", id: "fig-2003-345-d", id: "fig-2003-345-e" ]
     path: /catalogue/cat-201/
 -
@@ -3688,7 +3688,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a bipartite mold; neck, diaphragm, and rim free-tooled"
     inscription: "No"
     shape: [ "Sprinklers" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-336-a", id: "fig-2003-336-b", id: "fig-2003-336-c", id: "fig-2003-336-d", id: "fig-2003-336-e" ]
     path: /catalogue/cat-202/
 -
@@ -3706,7 +3706,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a bipartite mold"
     inscription: "No"
     shape: [ "Sprinklers" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-337-a", id: "fig-2003-337-b", id: "fig-2003-337-c", id: "fig-2003-337-d", id: "fig-2003-337-e" ]
     path: /catalogue/cat-203/
 -
@@ -3742,7 +3742,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Amphoriskoi", "Bottles" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-302-a", id: "fig-2003-302-b", id: "fig-2003-302-c", id: "fig-2003-302-d", id: "fig-2003-302-e" ]
     path: /catalogue/cat-205/
 -
@@ -3760,7 +3760,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Amphoriskoi", "Bottles" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-303-a", id: "fig-2003-303-b", id: "fig-2003-303-c", id: "fig-2003-303-d", id: "fig-2003-303-e" ]
     path: /catalogue/cat-206/
 -
@@ -3814,7 +3814,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown in a two-part mold"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-312-a", id: "fig-2003-312-b", id: "fig-2003-312-c", id: "fig-2003-312-d", id: "fig-2003-312-e" ]
     path: /catalogue/cat-209/
 -
@@ -3832,7 +3832,7 @@ object_list:
     modeling_technique_and_decoration: "Body mold-blown in a two-part mold of two vertical sections; edges of mold carefully aligned; splashware"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-304-a", id: "fig-2003-304-b" ]
     path: /catalogue/cat-210/
 -
@@ -3850,7 +3850,7 @@ object_list:
     modeling_technique_and_decoration: "Body mold-blown in a two-part mold of two vertical sections; edges of mold carefully aligned; the seam is visible along the middle of each side (90° away from the handles)"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-305-a", id: "fig-2003-305-b" ]
     path: /catalogue/cat-211/
 -
@@ -3868,7 +3868,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown in a two-part mold"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-309-a", id: "fig-2003-309-b", id: "fig-2003-309-c", id: "fig-2003-309-d", id: "fig-2003-309-e" ]
     path: /catalogue/cat-212/
 -
@@ -3886,7 +3886,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown in a two-part mold"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-310-a", id: "fig-2003-310-b", id: "fig-2003-310-c", id: "fig-2003-310-d", id: "fig-2003-310-e" ]
     path: /catalogue/cat-213/
 -
@@ -3904,7 +3904,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-308-a", id: "fig-2003-308-b", id: "fig-2003-308-c", id: "fig-2003-308-d", id: "fig-2003-308-e" ]
     path: /catalogue/cat-214/
 -
@@ -3922,7 +3922,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown in a two-part mold"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-311-a", id: "fig-2003-311-b", id: "fig-2003-311-c", id: "fig-2003-311-d", id: "fig-2003-311-e" ]
     path: /catalogue/cat-215/
 -
@@ -3940,7 +3940,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Oinochoai", "Bottles" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-307-a", id: "fig-2003-307-b", id: "fig-2003-307-c", id: "fig-2003-307-d", id: "fig-2003-307-e" ]
     path: /catalogue/cat-216/
 -
@@ -3958,7 +3958,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Oinochoai", "Bottles" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-306-a", id: "fig-2003-306-b", id: "fig-2003-306-c", id: "fig-2003-306-d", id: "fig-2003-306-e" ]
     path: /catalogue/cat-217/
 -
@@ -6892,7 +6892,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; wheel-cutting"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-79-AF-184-19-a", id: "fig-79-AF-184-19-b", id: "fig-79-AF-184-19-c", id: "fig-79-AF-184-19-d" ]
     path: /catalogue/cat-380/
 -
@@ -6910,7 +6910,7 @@ object_list:
     modeling_technique_and_decoration: "Molded and cut"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-79-AF-184-33-a", id: "fig-79-AF-184-33-b", id: "fig-79-AF-184-33-c", id: "fig-79-AF-184-33-d" ]
     path: /catalogue/cat-381/
 -
@@ -6928,7 +6928,7 @@ object_list:
     modeling_technique_and_decoration: "Molded and cut"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-79-AF-184-43-a", id: "fig-79-AF-184-43-b", id: "fig-79-AF-184-43-c", id: "fig-79-AF-184-43-d" ]
     path: /catalogue/cat-382/
 -
@@ -6946,7 +6946,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; wheel-cutting"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-472-a" ]
     path: /catalogue/cat-383/
 -
@@ -6964,7 +6964,7 @@ object_list:
     modeling_technique_and_decoration: "Molded and cut"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-79-AF-184-39-a", id: "fig-79-AF-184-39-b", id: "fig-79-AF-184-39-c", id: "fig-79-AF-184-39-d" ]
     path: /catalogue/cat-384/
 -
@@ -6982,7 +6982,7 @@ object_list:
     modeling_technique_and_decoration: "Molded and cut"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-79-AF-184-37-a", id: "fig-79-AF-184-37-b", id: "fig-79-AF-184-37-c", id: "fig-79-AF-184-37-d" ]
     path: /catalogue/cat-385/
 -
@@ -7000,7 +7000,7 @@ object_list:
     modeling_technique_and_decoration: "Molded and cut"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-79-AF-184-35-a", id: "fig-79-AF-184-35-b", id: "fig-79-AF-184-35-c", id: "fig-79-AF-184-35-d" ]
     path: /catalogue/cat-386/
 -
@@ -7018,7 +7018,7 @@ object_list:
     modeling_technique_and_decoration: "Molded and cut"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-79-AF-184-36-a", id: "fig-79-AF-184-36-b", id: "fig-79-AF-184-36-c", id: "fig-79-AF-184-36-d" ]
     path: /catalogue/cat-387/
 -
@@ -7036,7 +7036,7 @@ object_list:
     modeling_technique_and_decoration: "Molded and cut"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-79-AF-184-44-a", id: "fig-79-AF-184-44-b", id: "fig-79-AF-184-44-c", id: "fig-79-AF-184-44-d" ]
     path: /catalogue/cat-388/
 -
@@ -7054,7 +7054,7 @@ object_list:
     modeling_technique_and_decoration: "Molded and cut"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-79-AF-184-45-a", id: "fig-79-AF-184-45-b", id: "fig-79-AF-184-45-c", id: "fig-79-AF-184-45-d" ]
     path: /catalogue/cat-389/
 -
@@ -7072,7 +7072,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-79-AF-184-28-a", id: "fig-79-AF-184-28-b", id: "fig-79-AF-184-28-c", id: "fig-79-AF-184-28-d" ]
     path: /catalogue/cat-390/
 -
@@ -7108,7 +7108,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown and cut"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-79-AF-184-42-a", id: "fig-79-AF-184-42-b", id: "fig-79-AF-184-42-c", id: "fig-79-AF-184-42-d" ]
     path: /catalogue/cat-392/
 -
@@ -7126,7 +7126,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-79-AF-184-7-a", id: "fig-79-AF-184-7-b", id: "fig-79-AF-184-7-c", id: "fig-79-AF-184-7-d" ]
     path: /catalogue/cat-393/
 -
@@ -7144,7 +7144,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-471-a" ]
     path: /catalogue/cat-394/
 -
@@ -7162,7 +7162,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-338-a", id: "fig-2003-338-b", id: "fig-2003-338-c", id: "fig-2003-338-d", id: "fig-2003-338-e" ]
     path: /catalogue/cat-395/
 -
