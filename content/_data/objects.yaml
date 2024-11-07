@@ -2878,7 +2878,7 @@ object_list:
     modeling_technique_and_decoration: "Fused and blown mosaic glass"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Fused and blown" ]
+    technique: [ "Fused and Blown" ]
     figure: [ id: "fig-2003-255-a" ]
     path: /catalogue/cat-157/
 -
