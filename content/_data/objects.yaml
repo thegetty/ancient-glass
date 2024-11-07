@@ -178,7 +178,7 @@ object_list:
     modeling_technique_and_decoration: "Rod-formed; applied unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Kohl Tubes" ]
-    technique: [ "Rod-formed" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2003-160-a" ]
     path: /catalogue/cat-7/
 -
@@ -196,7 +196,7 @@ object_list:
     modeling_technique_and_decoration: "Rod-formed; applied marvered threads"
     inscription: "No"
     shape: [ "Kohl Tubes" ]
-    technique: [ "Rod-formed" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2003-162-a" ]
     path: /catalogue/cat-8/
 -
@@ -214,7 +214,7 @@ object_list:
     modeling_technique_and_decoration: "Rod-formed; applied unmarvered thread"
     inscription: "No"
     shape: [ "Kohl Tubes" ]
-    technique: [ "Rod-formed" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2003-163-a" ]
     path: /catalogue/cat-9/
 -
@@ -6820,7 +6820,7 @@ object_list:
     modeling_technique_and_decoration: "Rod-formed"
     inscription: "No"
     shape: [ "Kohl Tubes" ]
-    technique: [ "Rod-formed" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2003-470-a" ]
     path: /catalogue/cat-376/
 -
@@ -6838,7 +6838,7 @@ object_list:
     modeling_technique_and_decoration: "Rod-formed; applied elements"
     inscription: "No"
     shape: [ "Kohl Tubes" ]
-    technique: [ "Rod-formed" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2003-469-a" ]
     path: /catalogue/cat-377/
 -
@@ -6856,7 +6856,7 @@ object_list:
     modeling_technique_and_decoration: "Rod-formed; applied elements"
     inscription: "No"
     shape: [ "Kohl Tubes" ]
-    technique: [ "Rod-formed" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2003-468-a" ]
     path: /catalogue/cat-378/
 -
@@ -6874,7 +6874,7 @@ object_list:
     modeling_technique_and_decoration: "Rod-formed; applied elements"
     inscription: "No"
     shape: [ "Kohl Tubes" ]
-    technique: [ "Rod-formed" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2003-463-a", id: "fig-2003-463-b" ]
     path: /catalogue/cat-379/
 -
@@ -10415,7 +10415,7 @@ object_list:
     modeling_technique_and_decoration: "Rod-formed"
     inscription: "No"
     shape: [ "Amulets" ]
-    technique: [ "Rod-formed" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2003-206-a", id: "fig-2003-206-b", id: "fig-2003-206-c", id: "fig-2003-206-d" ]
     path: /catalogue/cat-544/
 -
@@ -10433,7 +10433,7 @@ object_list:
     modeling_technique_and_decoration: "Rod-formed"
     inscription: "No"
     shape: [ "Amulets" ]
-    technique: [ "Rod-formed" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2003-208-a", id: "fig-2003-208-b", id: "fig-2003-208-c", id: "fig-2003-208-d", id: "fig-2003-208-e", id: "fig-2003-208-f", id: "fig-2003-208-g" ]
     path: /catalogue/cat-545/
 -
@@ -10451,7 +10451,7 @@ object_list:
     modeling_technique_and_decoration: "Rod-formed"
     inscription: "No"
     shape: [ "Amulets" ]
-    technique: [ "Rod-formed" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2004-9-a", id: "fig-2004-9-b", id: "fig-2004-9-c", id: "fig-2004-9-d" ]
     path: /catalogue/cat-546/
 -
@@ -10469,7 +10469,7 @@ object_list:
     modeling_technique_and_decoration: "Rod-formed"
     inscription: "No"
     shape: [ "Amulets" ]
-    technique: [ "Rod-formed" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2004-10-a", id: "fig-2004-10-b", id: "fig-2004-10-c", id: "fig-2004-10-d" ]
     path: /catalogue/cat-547/
 -
@@ -10487,7 +10487,7 @@ object_list:
     modeling_technique_and_decoration: "Rod-formed"
     inscription: "No"
     shape: [ "Amulets" ]
-    technique: [ "Rod-formed" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2003-205-a", id: "fig-2003-205-b", id: "fig-2003-205-c", id: "fig-2003-205-d" ]
     path: /catalogue/cat-548/
 -
@@ -10505,7 +10505,7 @@ object_list:
     modeling_technique_and_decoration: "Rod-formed"
     inscription: "No"
     shape: [ "Amulets" ]
-    technique: [ "Rod-formed" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2003-207-a", id: "fig-2003-207-b", id: "fig-2003-207-c", id: "fig-2003-207-d", id: "fig-2003-207-e" ]
     path: /catalogue/cat-549/
 -
@@ -10523,7 +10523,7 @@ object_list:
     modeling_technique_and_decoration: "Rod-formed"
     inscription: "No"
     shape: [ "Amulets" ]
-    technique: [ "Rod-formed" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-83-AM-1-1-a" ]
     path: /catalogue/cat-550/
 -
@@ -10541,7 +10541,7 @@ object_list:
     modeling_technique_and_decoration: "Rod-formed"
     inscription: "No"
     shape: [ "Amulets" ]
-    technique: [ "Rod-formed" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-83-AM-1-2-a" ]
     path: /catalogue/cat-551/
 -
