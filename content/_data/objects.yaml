@@ -3418,7 +3418,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Oinochoai" ]
-    technique: 
+    technique: [ "Mold-blown" ]
     figure: [ id: "fig-71-AF-83-a", id: "fig-71-AF-83-b", id: "fig-71-AF-83-c", id: "fig-71-AF-83-d" ]
     path: /catalogue/cat-187/
 -
@@ -3634,7 +3634,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Unguentaria", "Flasks" ]
-    technique: 
+    technique: [ "Mold-blown" ]
     figure: [ id: "fig-2003-329-a", id: "fig-2003-329-b", id: "fig-2003-329-c", id: "fig-2003-329-d" ]
     path: /catalogue/cat-199/
 -
@@ -6100,7 +6100,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: 
+    technique: [ "Free-blown" ]
     figure: [ id: "fig-2003-365-a" ]
     path: /catalogue/cat-336/
 -
@@ -8386,7 +8386,7 @@ object_list:
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
-    technique: 
+    technique: [ "Fusion" ]
     figure: [ id: "fig-83-AF-28-24-a", id: "fig-83-AF-28-24-b" ]
     path: /catalogue/cat-463/
 -
@@ -9070,7 +9070,7 @@ object_list:
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
-    technique: 
+    technique: [ "Fusion" ]
     figure: [ id: "fig-76-AF-70-11-a", id: "fig-76-AF-70-11-b" ]
     path: /catalogue/cat-501/
 -
@@ -9106,7 +9106,7 @@ object_list:
     modeling_technique_and_decoration: "Mold pressed"
     inscription: "No"
     shape: [ "Appliqués" ]
-    technique: 
+    technique: [ "Mold-pressed" ]
     figure: [ id: "fig-2003-355-a" ]
     path: /catalogue/cat-503/
 -
@@ -10253,7 +10253,7 @@ object_list:
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Beads" ]
-    technique: 
+    technique: [ "Fusion" ]
     figure: [ id: "fig-78-AF-324-1-a", id: "fig-78-AF-324-1-b" ]
     path: /catalogue/cat-535/
 -
