@@ -70,7 +70,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied handles, base, and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-146-a", id: "fig-2003-146-b", id: "fig-2003-146-c", id: "fig-2003-146-d" ]
     path: /catalogue/cat-1/
 -
@@ -88,7 +88,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied unmarvered thread"
     inscription: "No"
     shape: [ "Amphoriskoi", "Flasks" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2004-3-a", id: "fig-2004-3-b" ]
     path: /catalogue/cat-2/
 -
@@ -106,7 +106,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied handles, foot, and marvered threads"
     inscription: "No"
     shape: [ "Kratoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2004-2-a", id: "fig-2004-2-b", id: "fig-2004-2-c", id: "fig-2004-2-d" ]
     path: /catalogue/cat-3/
 -
@@ -124,7 +124,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied handles and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Lentoid Flasks" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-148-a", id: "fig-2003-148-b", id: "fig-2003-148-c", id: "fig-2003-148-d" ]
     path: /catalogue/cat-4/
 -
@@ -142,7 +142,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-147-a" ]
     path: /catalogue/cat-5/
 -
@@ -232,7 +232,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-180-a" ]
     path: /catalogue/cat-10/
 -
@@ -250,7 +250,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2004-5-a" ]
     path: /catalogue/cat-11/
 -
@@ -268,7 +268,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered thread"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-181-a" ]
     path: /catalogue/cat-12/
 -
@@ -286,7 +286,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2004-6-a" ]
     path: /catalogue/cat-13/
 -
@@ -304,7 +304,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-190-a", id: "fig-2003-190-b" ]
     path: /catalogue/cat-14/
 -
@@ -322,7 +322,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-196-a" ]
     path: /catalogue/cat-15/
 -
@@ -340,7 +340,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-185-a", id: "fig-2003-185-b" ]
     path: /catalogue/cat-16/
 -
@@ -358,7 +358,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-182-a" ]
     path: /catalogue/cat-17/
 -
@@ -376,7 +376,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-183-a" ]
     path: /catalogue/cat-18/
 -
@@ -394,7 +394,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-184-a" ]
     path: /catalogue/cat-19/
 -
@@ -412,7 +412,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-189-a" ]
     path: /catalogue/cat-20/
 -
@@ -430,7 +430,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-186-a" ]
     path: /catalogue/cat-21/
 -
@@ -448,7 +448,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-193-a" ]
     path: /catalogue/cat-22/
 -
@@ -466,7 +466,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-187-a" ]
     path: /catalogue/cat-23/
 -
@@ -484,7 +484,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-191-a" ]
     path: /catalogue/cat-24/
 -
@@ -502,7 +502,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, lugs, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2004-7-a" ]
     path: /catalogue/cat-25/
 -
@@ -520,7 +520,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2004-8-a" ]
     path: /catalogue/cat-26/
 -
@@ -538,7 +538,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied lugs, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-192-a" ]
     path: /catalogue/cat-27/
 -
@@ -556,7 +556,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-188-a" ]
     path: /catalogue/cat-28/
 -
@@ -574,7 +574,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied lugs and marvered thread"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-194-a" ]
     path: /catalogue/cat-29/
 -
@@ -610,7 +610,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-195-a", id: "fig-2003-195-b" ]
     path: /catalogue/cat-31/
 -
@@ -628,7 +628,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-197-a" ]
     path: /catalogue/cat-32/
 -
@@ -646,7 +646,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-198-a" ]
     path: /catalogue/cat-33/
 -
@@ -664,7 +664,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-178-a" ]
     path: /catalogue/cat-34/
 -
@@ -682,7 +682,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-168-a", id: "fig-2003-168-b" ]
     path: /catalogue/cat-35/
 -
@@ -700,7 +700,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-169-a" ]
     path: /catalogue/cat-36/
 -
@@ -718,7 +718,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-171-a" ]
     path: /catalogue/cat-37/
 -
@@ -736,7 +736,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-172-a", id: "fig-2003-172-b", id: "fig-2003-172-c" ]
     path: /catalogue/cat-38/
 -
@@ -754,7 +754,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-173-a" ]
     path: /catalogue/cat-39/
 -
@@ -772,7 +772,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-170-a" ]
     path: /catalogue/cat-40/
 -
@@ -790,7 +790,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base-knob, and unmarvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-175-a" ]
     path: /catalogue/cat-41/
 -
@@ -808,7 +808,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied handles, base, and marvered threads"
     inscription: "No"
     shape: [ "Unguentaria" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-203-a" ]
     path: /catalogue/cat-42/
 -
@@ -826,7 +826,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base-knob, and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-200-a", id: "fig-2003-200-b" ]
     path: /catalogue/cat-43/
 -
@@ -844,7 +844,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base-knob, and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-201-a", id: "fig-2003-201-b" ]
     path: /catalogue/cat-44/
 -
@@ -862,7 +862,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied handles and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-202-a", id: "fig-2003-202-b" ]
     path: /catalogue/cat-45/
 -
@@ -880,7 +880,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied handles, base-knob, and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-204-a" ]
     path: /catalogue/cat-46/
 -
@@ -898,7 +898,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-199-a" ]
     path: /catalogue/cat-47/
 -
@@ -916,7 +916,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handle, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Oinochoai" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-179-a", id: "fig-2003-179-b" ]
     path: /catalogue/cat-48/
 -
@@ -934,7 +934,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied handle, rim-disk, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Oinochoai" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-166-a" ]
     path: /catalogue/cat-49/
 -
@@ -952,7 +952,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Oinochoai" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-165-a", id: "fig-2003-165-b", id: "fig-2003-165-c", id: "fig-2003-165-d" ]
     path: /catalogue/cat-50/
 -
@@ -970,7 +970,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied handle, rim-disk, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Oinochoai" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-167-a", id: "fig-2003-167-b" ]
     path: /catalogue/cat-51/
 -
@@ -988,7 +988,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied elements"
     inscription: "No"
     shape: [ "Oinochoai" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-164-a", id: "fig-2003-164-b" ]
     path: /catalogue/cat-52/
 -
@@ -1006,7 +1006,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Aryballoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-174-a" ]
     path: /catalogue/cat-53/
 -
@@ -1024,7 +1024,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Aryballoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-177-a" ]
     path: /catalogue/cat-54/
 -
@@ -1042,7 +1042,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, unmarvered and marvered threads, and dots"
     inscription: "No"
     shape: [ "Aryballoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2004-4-a" ]
     path: /catalogue/cat-55/
 -
@@ -1060,7 +1060,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Aryballoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-176-a" ]
     path: /catalogue/cat-56/
 -
@@ -1078,7 +1078,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied marvered threads"
     inscription: "No"
     shape: [ "Unidentified" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-83-AF-28-1-a", id: "fig-83-AF-28-1-b" ]
     path: /catalogue/cat-57/
 -
@@ -1096,7 +1096,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied elements"
     inscription: "No"
     shape: [ "Unidentified" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-83-AF-28-2-a", id: "fig-83-AF-28-2-b" ]
     path: /catalogue/cat-58/
 -
