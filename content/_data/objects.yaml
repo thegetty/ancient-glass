@@ -1222,7 +1222,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; probably applied pieces; incised"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-228-a", id: "fig-2003-228-b" ]
     path: /catalogue/cat-65/
 -
@@ -4174,7 +4174,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Plates" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-387-a", id: "fig-2003-387-b", id: "fig-2003-387-c", id: "fig-2003-387-d", id: "fig-2003-387-e", id: "fig-2003-387-f" ]
     path: /catalogue/cat-229/
 -
@@ -4192,7 +4192,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bowls", "Plates" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-78-AF-33-a", id: "fig-78-AF-33-b", id: "fig-78-AF-33-c", id: "fig-78-AF-33-d" ]
     path: /catalogue/cat-230/
 -
@@ -4210,7 +4210,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Dishes" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-76-AF-29-a", id: "fig-76-AF-29-b", id: "fig-76-AF-29-c", id: "fig-76-AF-29-d" ]
     path: /catalogue/cat-231/
 -
@@ -4228,7 +4228,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; incised"
     inscription: "Yes"
     shape: [ "Plates" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-351-a", id: "fig-2003-351-b", id: "fig-2003-351-c", id: "fig-2003-351-d", id: "fig-2003-351-e" ]
     path: /catalogue/cat-232/
 -
@@ -4246,7 +4246,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; splashware"
     inscription: "No"
     shape: [ "Cups", "Modioli" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-290-a", id: "fig-2003-290-b", id: "fig-2003-290-c", id: "fig-2003-290-d", id: "fig-2003-290-e" ]
     path: /catalogue/cat-233/
 -
@@ -4264,7 +4264,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Modioli" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-78-AF-31-a", id: "fig-78-AF-31-b", id: "fig-78-AF-31-c", id: "fig-78-AF-31-d" ]
     path: /catalogue/cat-234/
 -
@@ -4282,7 +4282,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown mass of mosaic florets"
     inscription: "No"
     shape: [ "Cups" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-287-a", id: "fig-2003-287-b" ]
     path: /catalogue/cat-235/
 -
@@ -4300,7 +4300,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-226-a", id: "fig-2003-226-b", id: "fig-2003-226-c", id: "fig-2003-226-d", id: "fig-2003-226-e" ]
     path: /catalogue/cat-236/
 -
@@ -4318,7 +4318,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2004-20-a", id: "fig-2004-20-b" ]
     path: /catalogue/cat-237/
 -
@@ -4336,7 +4336,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-227-a", id: "fig-2003-227-b", id: "fig-2003-227-c" ]
     path: /catalogue/cat-238/
 -
@@ -4354,7 +4354,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; painted, enameled"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-294-a", id: "fig-2003-294-b", id: "fig-2003-294-c", id: "fig-2003-294-d", id: "fig-2003-294-e" ]
     path: /catalogue/cat-239/
 -
@@ -4372,7 +4372,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; engraved"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-362-a", id: "fig-2003-362-b" ]
     path: /catalogue/cat-240/
 -
@@ -4390,7 +4390,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Cups" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-421-a", id: "fig-2003-421-b", id: "fig-2003-421-c", id: "fig-2003-421-d" ]
     path: /catalogue/cat-241/
 -
@@ -4408,7 +4408,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-388-a" ]
     path: /catalogue/cat-242/
 -
@@ -4426,7 +4426,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-238-a", id: "fig-2003-238-b", id: "fig-2003-238-c" ]
     path: /catalogue/cat-243/
 -
@@ -4444,7 +4444,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-372-a", id: "fig-2003-372-b" ]
     path: /catalogue/cat-244/
 -
@@ -4462,7 +4462,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-5-a", id: "fig-79-AF-184-5-b", id: "fig-79-AF-184-5-c", id: "fig-79-AF-184-5-d" ]
     path: /catalogue/cat-245/
 -
@@ -4480,7 +4480,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-363-a", id: "fig-2003-363-b", id: "fig-2003-363-c" ]
     path: /catalogue/cat-246/
 -
@@ -4498,7 +4498,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-379-2-a", id: "fig-2003-379-2-b", id: "fig-2003-379-2-c", id: "fig-2003-379-2-d" ]
     path: /catalogue/cat-247/
 -
@@ -4516,7 +4516,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-78-AF-21-a", id: "fig-78-AF-21-b", id: "fig-78-AF-21-c", id: "fig-78-AF-21-d" ]
     path: /catalogue/cat-248/
 -
@@ -4534,7 +4534,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; pinched"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-78-AF-22-a", id: "fig-78-AF-22-b", id: "fig-78-AF-22-c", id: "fig-78-AF-22-d" ]
     path: /catalogue/cat-249/
 -
@@ -4552,7 +4552,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; wheel-cut"
     inscription: "No"
     shape: [ "Cups" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-348-a", id: "fig-2003-348-b", id: "fig-2003-348-c", id: "fig-2003-348-d" ]
     path: /catalogue/cat-250/
 -
@@ -4570,7 +4570,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; faceted"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-349-a", id: "fig-2003-349-b" ]
     path: /catalogue/cat-251/
 -
@@ -4588,7 +4588,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; faceted"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2004-38-a", id: "fig-2004-38-b", id: "fig-2004-38-c", id: "fig-2004-38-d", id: "fig-2004-38-e" ]
     path: /catalogue/cat-252/
 -
@@ -4606,7 +4606,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; faceted"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2004-37-a", id: "fig-2004-37-b" ]
     path: /catalogue/cat-253/
 -
@@ -4624,7 +4624,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; engraved; applied elements"
     inscription: "No"
     shape: [ "Bowls", "Lamps" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-454-a", id: "fig-2003-454-b", id: "fig-2003-454-c", id: "fig-2003-454-d" ]
     path: /catalogue/cat-254/
 -
@@ -4642,7 +4642,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; engraved; applied elements"
     inscription: "No"
     shape: [ "Bowls", "Lamps" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-455-a", id: "fig-2003-455-b", id: "fig-2003-455-c", id: "fig-2003-455-d", id: "fig-2003-455-e", id: "fig-2003-455-f", id: "fig-2003-455-g", id: "fig-2003-455-h" ]
     path: /catalogue/cat-255/
 -
@@ -4660,7 +4660,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown or molded; wheel-cut and polished"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-96-AF-320-a", id: "fig-96-AF-320-b", id: "fig-96-AF-320-c", id: "fig-96-AF-320-d", id: "fig-96-AF-320-e" ]
     path: /catalogue/cat-256/
 -
@@ -4678,7 +4678,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown or molded; wheel-cut and polished"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-347-a" ]
     path: /catalogue/cat-257/
 -
@@ -4696,7 +4696,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-379-1-a", id: "fig-2003-379-1-b", id: "fig-2003-379-1-c", id: "fig-2003-379-1-d" ]
     path: /catalogue/cat-258/
 -
@@ -4714,7 +4714,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; incised"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-71-AF-84-a", id: "fig-71-AF-84-b", id: "fig-71-AF-84-c", id: "fig-71-AF-84-d" ]
     path: /catalogue/cat-259/
 -
@@ -4732,7 +4732,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-78-AF-28-a", id: "fig-78-AF-28-b", id: "fig-78-AF-28-c", id: "fig-78-AF-28-d" ]
     path: /catalogue/cat-260/
 -
@@ -4750,7 +4750,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-412-a" ]
     path: /catalogue/cat-261/
 -
@@ -4768,7 +4768,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; pinched"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2004-41-a", id: "fig-2004-41-b" ]
     path: /catalogue/cat-262/
 -
@@ -4786,7 +4786,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-423-a" ]
     path: /catalogue/cat-263/
 -
@@ -4804,7 +4804,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-443-a", id: "fig-2003-443-b", id: "fig-2003-443-c", id: "fig-2003-443-d" ]
     path: /catalogue/cat-264/
 -
@@ -4822,7 +4822,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-444-a", id: "fig-2003-444-b", id: "fig-2003-444-c", id: "fig-2003-444-d" ]
     path: /catalogue/cat-265/
 -
@@ -4840,7 +4840,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Skyphoi" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-361-a" ]
     path: /catalogue/cat-266/
 -
@@ -4858,7 +4858,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Kantharoi" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-84-AF-30-a", id: "fig-84-AF-30-b", id: "fig-84-AF-30-c", id: "fig-84-AF-30-d", id: "fig-84-AF-30-e" ]
     path: /catalogue/cat-267/
 -
@@ -4876,7 +4876,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-402-a", id: "fig-2003-402-b", id: "fig-2003-402-c", id: "fig-2003-402-d" ]
     path: /catalogue/cat-268/
 -
@@ -4894,7 +4894,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied handles"
     inscription: "No"
     shape: [ "Amphorae" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-78-AF-18-a", id: "fig-78-AF-18-b", id: "fig-78-AF-18-c", id: "fig-78-AF-18-d" ]
     path: /catalogue/cat-269/
 -
@@ -4912,7 +4912,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-96-AF-56-a", id: "fig-96-AF-56-b", id: "fig-96-AF-56-c", id: "fig-96-AF-56-d", id: "fig-96-AF-56-e" ]
     path: /catalogue/cat-270/
 -
@@ -4930,7 +4930,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; indented"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-408-a" ]
     path: /catalogue/cat-271/
 -
@@ -4948,7 +4948,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; incised"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-390-a" ]
     path: /catalogue/cat-272/
 -
@@ -4966,7 +4966,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; incised"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2004-39-a", id: "fig-2004-39-b", id: "fig-2004-39-c", id: "fig-2004-39-d", id: "fig-2004-39-e" ]
     path: /catalogue/cat-273/
 -
@@ -4984,7 +4984,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; incised"
     inscription: "Yes"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-352-a", id: "fig-2003-352-b", id: "fig-2003-352-c", id: "fig-2003-352-d" ]
     path: /catalogue/cat-274/
 -
@@ -5002,7 +5002,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-424-a" ]
     path: /catalogue/cat-275/
 -
@@ -5020,7 +5020,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-439-a" ]
     path: /catalogue/cat-276/
 -
@@ -5038,7 +5038,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2004-43-a", id: "fig-2004-43-b" ]
     path: /catalogue/cat-277/
 -
@@ -5056,7 +5056,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-440-a", id: "fig-2003-440-b", id: "fig-2003-440-c" ]
     path: /catalogue/cat-278/
 -
@@ -5074,7 +5074,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-445-a", id: "fig-2003-445-b", id: "fig-2003-445-c", id: "fig-2003-445-d" ]
     path: /catalogue/cat-279/
 -
@@ -5092,7 +5092,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-366-a", id: "fig-2003-366-b" ]
     path: /catalogue/cat-280/
 -
@@ -5110,7 +5110,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-71-AF-85-a" ]
     path: /catalogue/cat-281/
 -
@@ -5128,7 +5128,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; pinched"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-436-a" ]
     path: /catalogue/cat-282/
 -
@@ -5146,7 +5146,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; pinched"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-449-a" ]
     path: /catalogue/cat-283/
 -
@@ -5164,7 +5164,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied thread; pierced spout"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-245-a" ]
     path: /catalogue/cat-284/
 -
@@ -5182,7 +5182,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; tooled"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-381-a" ]
     path: /catalogue/cat-285/
 -
@@ -5200,7 +5200,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; tooled"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-382-a", id: "fig-2003-382-b" ]
     path: /catalogue/cat-286/
 -
@@ -5218,7 +5218,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; tooled"
     inscription: "No"
     shape: [ "Askoi", "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-383-a" ]
     path: /catalogue/cat-287/
 -
@@ -5236,7 +5236,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; tooled"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-447-a" ]
     path: /catalogue/cat-288/
 -
@@ -5254,7 +5254,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-476-b", id: "fig-2003-476-a", id: "fig-2003-476-c", id: "fig-2003-476-d" ]
     path: /catalogue/cat-289/
 -
@@ -5272,7 +5272,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; wheel-cut and polished"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-346-a" ]
     path: /catalogue/cat-290/
 -
@@ -5290,7 +5290,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-377-b", id: "fig-2003-377-d", id: "fig-2003-377-c", id: "fig-2003-377-a" ]
     path: /catalogue/cat-291/
 -
@@ -5308,7 +5308,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-373-a", id: "fig-2003-373-b" ]
     path: /catalogue/cat-292/
 -
@@ -5326,7 +5326,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-391-a", id: "fig-2003-391-b" ]
     path: /catalogue/cat-293/
 -
@@ -5344,7 +5344,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-78-AF-34-a", id: "fig-78-AF-34-b", id: "fig-78-AF-34-c", id: "fig-78-AF-34-d" ]
     path: /catalogue/cat-294/
 -
@@ -5362,7 +5362,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-284-d", id: "fig-2003-284-a", id: "fig-2003-284-c", id: "fig-2003-284-b" ]
     path: /catalogue/cat-295/
 -
@@ -5380,7 +5380,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-376-c", id: "fig-2003-376-b", id: "fig-2003-376-d", id: "fig-2003-376-a" ]
     path: /catalogue/cat-296/
 -
@@ -5398,7 +5398,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Oinochoai" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-393-a", id: "fig-2003-393-b", id: "fig-2003-393-c" ]
     path: /catalogue/cat-297/
 -
@@ -5416,7 +5416,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-428-d", id: "fig-2003-428-a", id: "fig-2003-428-c", id: "fig-2003-428-b" ]
     path: /catalogue/cat-298/
 -
@@ -5434,7 +5434,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-422-b", id: "fig-2003-422-a" ]
     path: /catalogue/cat-299/
 -
@@ -5452,7 +5452,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Oinochoai" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-410-c", id: "fig-2003-410-b", id: "fig-2003-410-d", id: "fig-2003-410-a" ]
     path: /catalogue/cat-300/
 -
@@ -5470,7 +5470,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-413-d", id: "fig-2003-413-a", id: "fig-2003-413-c", id: "fig-2003-413-b" ]
     path: /catalogue/cat-301/
 -
@@ -5488,7 +5488,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-433-a" ]
     path: /catalogue/cat-302/
 -
@@ -5506,7 +5506,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-434-a", id: "fig-2003-434-b", id: "fig-2003-434-c", id: "fig-2003-434-d", id: "fig-2003-434-e" ]
     path: /catalogue/cat-303/
 -
@@ -5524,7 +5524,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-452-a" ]
     path: /catalogue/cat-304/
 -
@@ -5542,7 +5542,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-450-a", id: "fig-2003-450-b", id: "fig-2003-450-c", id: "fig-2003-450-d" ]
     path: /catalogue/cat-305/
 -
@@ -5560,7 +5560,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-288-a", id: "fig-2003-288-b", id: "fig-2003-288-c", id: "fig-2003-288-d" ]
     path: /catalogue/cat-306/
 -
@@ -5578,7 +5578,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bottles" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-71-AF-79-a", id: "fig-71-AF-79-b", id: "fig-71-AF-79-c", id: "fig-71-AF-79-d", id: "fig-71-AF-79-e", id: "fig-71-AF-79-f" ]
     path: /catalogue/cat-307/
 -
@@ -5596,7 +5596,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Cinerary Urns" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-80-AF-125-a", id: "fig-80-AF-125-b", id: "fig-80-AF-125-c", id: "fig-80-AF-125-d", id: "fig-80-AF-125-e", id: "fig-80-AF-125-f" ]
     path: /catalogue/cat-308/
 -
@@ -5614,7 +5614,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Jars" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-392-a", id: "fig-2003-392-b" ]
     path: /catalogue/cat-309/
 -
@@ -5632,7 +5632,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bowls", "Jars" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-394-a" ]
     path: /catalogue/cat-310/
 -
@@ -5650,7 +5650,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Jars" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-400-a" ]
     path: /catalogue/cat-311/
 -
@@ -5668,7 +5668,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Jars" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-398-a", id: "fig-2003-398-b" ]
     path: /catalogue/cat-312/
 -
@@ -5686,7 +5686,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Jars" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-399-a" ]
     path: /catalogue/cat-313/
 -
@@ -5704,7 +5704,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Jars" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-411-a" ]
     path: /catalogue/cat-314/
 -
@@ -5722,7 +5722,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; pinched"
     inscription: "No"
     shape: [ "Jars" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-78-AF-25-a", id: "fig-78-AF-25-b", id: "fig-78-AF-25-c", id: "fig-78-AF-25-d" ]
     path: /catalogue/cat-315/
 -
@@ -5740,7 +5740,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Jars" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-375-a", id: "fig-2003-375-b" ]
     path: /catalogue/cat-316/
 -
@@ -5758,7 +5758,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-270-a", id: "fig-2003-270-b", id: "fig-2003-270-c", id: "fig-2003-270-d" ]
     path: /catalogue/cat-317/
 -
@@ -5776,7 +5776,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-269-a", id: "fig-2003-269-b", id: "fig-2003-269-c", id: "fig-2003-269-d" ]
     path: /catalogue/cat-318/
 -
@@ -5794,7 +5794,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-271-a" ]
     path: /catalogue/cat-319/
 -
@@ -5812,7 +5812,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-272-a" ]
     path: /catalogue/cat-320/
 -
@@ -5830,7 +5830,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-282-a", id: "fig-2003-282-b", id: "fig-2003-282-c", id: "fig-2003-282-d", id: "fig-2003-282-e" ]
     path: /catalogue/cat-321/
 -
@@ -5848,7 +5848,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-286-a" ]
     path: /catalogue/cat-322/
 -
@@ -5866,7 +5866,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-244-a", id: "fig-2003-244-b", id: "fig-2003-244-c", id: "fig-2003-244-d" ]
     path: /catalogue/cat-323/
 -
@@ -5884,7 +5884,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-285-a", id: "fig-2003-285-b", id: "fig-2003-285-c", id: "fig-2003-285-d", id: "fig-2003-285-e", id: "fig-2003-285-f" ]
     path: /catalogue/cat-324/
 -
@@ -5902,7 +5902,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-268-a" ]
     path: /catalogue/cat-325/
 -
@@ -5920,7 +5920,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements; pinched"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-280-a" ]
     path: /catalogue/cat-326/
 -
@@ -5938,7 +5938,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-283-a", id: "fig-2003-283-b", id: "fig-2003-283-c", id: "fig-2003-283-d" ]
     path: /catalogue/cat-327/
 -
@@ -5956,7 +5956,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-397-a", id: "fig-2003-397-b", id: "fig-2003-397-c", id: "fig-2003-397-d" ]
     path: /catalogue/cat-328/
 -
@@ -5974,7 +5974,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-420-a" ]
     path: /catalogue/cat-329/
 -
@@ -5992,7 +5992,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2004-40-a" ]
     path: /catalogue/cat-330/
 -
@@ -6010,7 +6010,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-418-a", id: "fig-2003-418-b" ]
     path: /catalogue/cat-331/
 -
@@ -6028,7 +6028,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-415-a" ]
     path: /catalogue/cat-332/
 -
@@ -6046,7 +6046,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-416-a" ]
     path: /catalogue/cat-333/
 -
@@ -6064,7 +6064,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-242-a", id: "fig-2003-242-b", id: "fig-2003-242-c", id: "fig-2003-242-d" ]
     path: /catalogue/cat-334/
 -
@@ -6082,7 +6082,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-243-a", id: "fig-2003-243-b", id: "fig-2003-243-c", id: "fig-2003-243-d" ]
     path: /catalogue/cat-335/
 -
@@ -6100,7 +6100,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-365-a" ]
     path: /catalogue/cat-336/
 -
@@ -6118,7 +6118,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown and pressed"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-82-AI-76-21-a", id: "fig-82-AI-76-21-b", id: "fig-82-AI-76-21-c", id: "fig-82-AI-76-21-d", id: "fig-82-AI-76-21-e" ]
     path: /catalogue/cat-337/
 -
@@ -6136,7 +6136,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Unguentaria" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-369-a" ]
     path: /catalogue/cat-338/
 -
@@ -6154,7 +6154,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Unguentaria" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-370-a" ]
     path: /catalogue/cat-339/
 -
@@ -6172,7 +6172,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Unguentaria" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-2-a", id: "fig-79-AF-184-2-b", id: "fig-79-AF-184-2-c", id: "fig-79-AF-184-2-d" ]
     path: /catalogue/cat-340/
 -
@@ -6190,7 +6190,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Unguentaria" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-3-a", id: "fig-79-AF-184-3-b", id: "fig-79-AF-184-3-c", id: "fig-79-AF-184-3-d" ]
     path: /catalogue/cat-341/
 -
@@ -6208,7 +6208,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-18-a", id: "fig-79-AF-184-18-b", id: "fig-79-AF-184-18-c", id: "fig-79-AF-184-18-d" ]
     path: /catalogue/cat-342/
 -
@@ -6226,7 +6226,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Unguentaria" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-98-AF-56-a", id: "fig-98-AF-56-b" ]
     path: /catalogue/cat-343/
 -
@@ -6244,7 +6244,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Sprinklers", "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-409-a" ]
     path: /catalogue/cat-344/
 -
@@ -6262,7 +6262,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements, pinched"
     inscription: "No"
     shape: [ "Sprinklers", "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-477-a", id: "fig-2003-477-b", id: "fig-2003-477-c", id: "fig-2003-477-d" ]
     path: /catalogue/cat-345/
 -
@@ -6280,7 +6280,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; pinched"
     inscription: "No"
     shape: [ "Sprinklers", "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-437-a" ]
     path: /catalogue/cat-346/
 -
@@ -6298,7 +6298,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; pinched"
     inscription: "No"
     shape: [ "Sprinklers", "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2004-42-a", id: "fig-2004-42-b", id: "fig-2004-42-c", id: "fig-2004-42-d" ]
     path: /catalogue/cat-347/
 -
@@ -6316,7 +6316,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Sprinklers", "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-289-a" ]
     path: /catalogue/cat-348/
 -
@@ -6334,7 +6334,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; pinched"
     inscription: "No"
     shape: [ "Sprinklers", "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-438-a" ]
     path: /catalogue/cat-349/
 -
@@ -6352,7 +6352,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown, pinched"
     inscription: "No"
     shape: [ "Sprinklers", "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-448-a" ]
     path: /catalogue/cat-350/
 -
@@ -6370,7 +6370,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-8-a", id: "fig-79-AF-184-8-b", id: "fig-79-AF-184-8-c", id: "fig-79-AF-184-8-d" ]
     path: /catalogue/cat-351/
 -
@@ -6388,7 +6388,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Aryballoi" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-292-a", id: "fig-2003-292-b" ]
     path: /catalogue/cat-352/
 -
@@ -6406,7 +6406,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Aryballoi" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-374-a" ]
     path: /catalogue/cat-353/
 -
@@ -6424,7 +6424,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown matrix of mosaic florets"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-241-a", id: "fig-2003-241-b" ]
     path: /catalogue/cat-354/
 -
@@ -6442,7 +6442,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; splashware"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-291-a" ]
     path: /catalogue/cat-355/
 -
@@ -6460,7 +6460,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-367-a", id: "fig-2003-367-b", id: "fig-2003-367-c", id: "fig-2003-367-d" ]
     path: /catalogue/cat-356/
 -
@@ -6478,7 +6478,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-368-a", id: "fig-2003-368-b", id: "fig-2003-368-c", id: "fig-2003-368-d" ]
     path: /catalogue/cat-357/
 -
@@ -6496,7 +6496,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-364-a", id: "fig-2003-364-b", id: "fig-2003-364-c", id: "fig-2003-364-d" ]
     path: /catalogue/cat-358/
 -
@@ -6514,7 +6514,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Amphoriskoi", "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-419-a" ]
     path: /catalogue/cat-359/
 -
@@ -6532,7 +6532,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-389-a", id: "fig-2003-389-b" ]
     path: /catalogue/cat-360/
 -
@@ -6550,7 +6550,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-425-a", id: "fig-2003-425-b" ]
     path: /catalogue/cat-361/
 -
@@ -6568,7 +6568,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks", "Amphoriskoi" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-430-a", id: "fig-2003-430-b", id: "fig-2003-430-c", id: "fig-2003-430-d" ]
     path: /catalogue/cat-362/
 -
@@ -6586,7 +6586,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; incised"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-350-a", id: "fig-2003-350-b", id: "fig-2003-350-c", id: "fig-2003-350-d", id: "fig-2003-350-e", id: "fig-2003-350-f" ]
     path: /catalogue/cat-363/
 -
@@ -6604,7 +6604,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-78-AF-35-a", id: "fig-78-AF-35-b", id: "fig-78-AF-35-c", id: "fig-78-AF-35-d" ]
     path: /catalogue/cat-364/
 -
@@ -6622,7 +6622,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-426-a" ]
     path: /catalogue/cat-365/
 -
@@ -6640,7 +6640,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-417-a", id: "fig-2003-417-b" ]
     path: /catalogue/cat-366/
 -
@@ -6658,7 +6658,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-78-AF-19-a", id: "fig-78-AF-19-b", id: "fig-78-AF-19-c", id: "fig-78-AF-19-d" ]
     path: /catalogue/cat-367/
 -
@@ -6676,7 +6676,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-71-AF-80-a", id: "fig-71-AF-80-b", id: "fig-71-AF-80-c", id: "fig-71-AF-80-d" ]
     path: /catalogue/cat-368/
 -
@@ -6694,7 +6694,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Kohl Tubes" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-431-a", id: "fig-2003-431-b" ]
     path: /catalogue/cat-369/
 -
@@ -6712,7 +6712,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Kohl Tubes" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-432-a", id: "fig-2003-432-b", id: "fig-2003-432-c", id: "fig-2003-432-d" ]
     path: /catalogue/cat-370/
 -
@@ -6730,7 +6730,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-396-a", id: "fig-2003-396-b", id: "fig-2003-396-c", id: "fig-2003-396-d" ]
     path: /catalogue/cat-371/
 -
@@ -6748,7 +6748,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Inkwells" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-239-a", id: "fig-2003-239-b", id: "fig-2003-239-c", id: "fig-2003-239-d", id: "fig-2003-239-e", id: "fig-2003-239-f" ]
     path: /catalogue/cat-372/
 -
@@ -6766,7 +6766,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; tooled"
     inscription: "No"
     shape: [ "Inkwells" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-240-a", id: "fig-2003-240-b", id: "fig-2003-240-c", id: "fig-2003-240-d", id: "fig-2003-240-e", id: "fig-2003-240-f" ]
     path: /catalogue/cat-373/
 -
@@ -6784,7 +6784,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Inkwells" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-378-a" ]
     path: /catalogue/cat-374/
 -
@@ -6802,7 +6802,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Inkwells" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-453-a", id: "fig-2003-453-b", id: "fig-2003-453-c" ]
     path: /catalogue/cat-375/
 -
@@ -7090,7 +7090,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-40-a", id: "fig-79-AF-184-40-b", id: "fig-79-AF-184-40-c", id: "fig-79-AF-184-40-d" ]
     path: /catalogue/cat-391/
 -
@@ -7198,7 +7198,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-47-a", id: "fig-79-AF-184-47-b", id: "fig-79-AF-184-47-c", id: "fig-79-AF-184-47-d" ]
     path: /catalogue/cat-397/
 -
@@ -7216,7 +7216,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-478-a", id: "fig-2003-478-b", id: "fig-2003-478-c", id: "fig-2003-478-d", id: "fig-2003-478-e", id: "fig-2003-478-f", id: "fig-2003-478-g" ]
     path: /catalogue/cat-398/
 -
@@ -7234,7 +7234,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; tooled"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-467-a", id: "fig-2003-467-b", id: "fig-2003-467-c", id: "fig-2003-467-d", id: "fig-2003-467-e" ]
     path: /catalogue/cat-399/
 -
@@ -7252,7 +7252,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown and tooled"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-78-AF-29-a", id: "fig-78-AF-29-b", id: "fig-78-AF-29-c", id: "fig-78-AF-29-d", id: "fig-78-AF-29-e" ]
     path: /catalogue/cat-400/
 -
@@ -7270,7 +7270,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-12-a", id: "fig-79-AF-184-12-b", id: "fig-79-AF-184-12-c", id: "fig-79-AF-184-12-d" ]
     path: /catalogue/cat-401/
 -
@@ -7288,7 +7288,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown, applied base"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-9-a", id: "fig-79-AF-184-9-b", id: "fig-79-AF-184-9-c", id: "fig-79-AF-184-9-d" ]
     path: /catalogue/cat-402/
 -
@@ -7306,7 +7306,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bottles" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-78-AF-23-a" ]
     path: /catalogue/cat-403/
 -
@@ -7324,7 +7324,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-464-a" ]
     path: /catalogue/cat-404/
 -
@@ -7342,7 +7342,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; pinched"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-465-a", id: "fig-2003-465-b" ]
     path: /catalogue/cat-405/
 -
@@ -7360,7 +7360,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2004-33-a" ]
     path: /catalogue/cat-406/
 -
@@ -7378,7 +7378,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; cutting"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-78-AK-30-a", id: "fig-78-AK-30-b", id: "fig-78-AK-30-c", id: "fig-78-AK-30-d" ]
     path: /catalogue/cat-407/
 -
@@ -7396,7 +7396,7 @@ object_list:
     modeling_technique_and_decoration: "Blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-11-a", id: "fig-79-AF-184-11-b", id: "fig-79-AF-184-11-c", id: "fig-79-AF-184-11-d" ]
     path: /catalogue/cat-408/
 -
@@ -7414,7 +7414,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-446-a" ]
     path: /catalogue/cat-409/
 -
@@ -7432,7 +7432,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements, marvered"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-466-a", id: "fig-2003-466-b", id: "fig-2003-466-c", id: "fig-2003-466-d", id: "fig-2003-466-e", id: "fig-2003-466-f" ]
     path: /catalogue/cat-410/
 -
@@ -7450,7 +7450,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; marvered, tooled"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-461-a", id: "fig-2003-461-b", id: "fig-2003-461-c", id: "fig-2003-461-d", id: "fig-2003-461-e", id: "fig-2003-461-f" ]
     path: /catalogue/cat-411/
 -
@@ -7468,7 +7468,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-23-a", id: "fig-79-AF-184-23-b", id: "fig-79-AF-184-23-c", id: "fig-79-AF-184-23-d" ]
     path: /catalogue/cat-412/
 -
@@ -7486,7 +7486,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-46-a", id: "fig-79-AF-184-46-b", id: "fig-79-AF-184-46-c", id: "fig-79-AF-184-46-d" ]
     path: /catalogue/cat-413/
 -
@@ -7504,7 +7504,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-27-a", id: "fig-79-AF-184-27-b", id: "fig-79-AF-184-27-c", id: "fig-79-AF-184-27-d" ]
     path: /catalogue/cat-414/
 -
@@ -7522,7 +7522,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-21-a", id: "fig-79-AF-184-21-b", id: "fig-79-AF-184-21-c", id: "fig-79-AF-184-21-d" ]
     path: /catalogue/cat-415/
 -
@@ -7540,7 +7540,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-41-a", id: "fig-79-AF-184-41-b", id: "fig-79-AF-184-41-c" ]
     path: /catalogue/cat-416/
 -
@@ -7558,7 +7558,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; wheel-cutting"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-473-a", id: "fig-2003-473-b", id: "fig-2003-473-c", id: "fig-2003-473-d" ]
     path: /catalogue/cat-417/
 -
@@ -7576,7 +7576,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown and ground"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-24-a", id: "fig-79-AF-184-24-b", id: "fig-79-AF-184-24-c", id: "fig-79-AF-184-24-d" ]
     path: /catalogue/cat-418/
 -
@@ -7594,7 +7594,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown and ground"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-15-a", id: "fig-79-AF-184-15-b", id: "fig-79-AF-184-15-c", id: "fig-79-AF-184-15-d" ]
     path: /catalogue/cat-419/
 -
@@ -7612,7 +7612,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-25-a", id: "fig-79-AF-184-25-b", id: "fig-79-AF-184-25-c", id: "fig-79-AF-184-25-d" ]
     path: /catalogue/cat-420/
 -
@@ -7630,7 +7630,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-29-a", id: "fig-79-AF-184-29-b", id: "fig-79-AF-184-29-c", id: "fig-79-AF-184-29-d" ]
     path: /catalogue/cat-421/
 -
@@ -7648,7 +7648,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-14-a", id: "fig-79-AF-184-14-b", id: "fig-79-AF-184-14-c", id: "fig-79-AF-184-14-d" ]
     path: /catalogue/cat-422/
 -
@@ -7666,7 +7666,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; incised and tooled"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-16-a", id: "fig-79-AF-184-16-b", id: "fig-79-AF-184-16-c", id: "fig-79-AF-184-16-d" ]
     path: /catalogue/cat-423/
 -
@@ -7684,7 +7684,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-6-a", id: "fig-79-AF-184-6-b", id: "fig-79-AF-184-6-c", id: "fig-79-AF-184-6-d" ]
     path: /catalogue/cat-424/
 -
@@ -7702,7 +7702,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-10-a", id: "fig-79-AF-184-10-b", id: "fig-79-AF-184-10-c", id: "fig-79-AF-184-10-d" ]
     path: /catalogue/cat-425/
 -
@@ -7720,7 +7720,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-31-a", id: "fig-79-AF-184-31-b", id: "fig-79-AF-184-31-c", id: "fig-79-AF-184-31-d" ]
     path: /catalogue/cat-426/
 -
@@ -7738,7 +7738,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-32-a", id: "fig-79-AF-184-32-b", id: "fig-79-AF-184-32-c", id: "fig-79-AF-184-32-d" ]
     path: /catalogue/cat-427/
 -
@@ -7756,7 +7756,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-34-a", id: "fig-79-AF-184-34-b", id: "fig-79-AF-184-34-c", id: "fig-79-AF-184-34-d" ]
     path: /catalogue/cat-428/
 -
@@ -7774,7 +7774,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-38-a", id: "fig-79-AF-184-38-b", id: "fig-79-AF-184-38-c", id: "fig-79-AF-184-38-d" ]
     path: /catalogue/cat-429/
 -
@@ -7792,7 +7792,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-26-a", id: "fig-79-AF-184-26-b", id: "fig-79-AF-184-26-c", id: "fig-79-AF-184-26-d" ]
     path: /catalogue/cat-430/
 -
@@ -7810,7 +7810,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements, incised"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-81-AF-1-a", id: "fig-81-AF-1-b", id: "fig-81-AF-1-c", id: "fig-81-AF-1-d", id: "fig-81-AF-1-e" ]
     path: /catalogue/cat-431/
 -
@@ -7828,7 +7828,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Ibriks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-17-a", id: "fig-79-AF-184-17-b", id: "fig-79-AF-184-17-c", id: "fig-79-AF-184-17-d" ]
     path: /catalogue/cat-432/
 -
@@ -7846,7 +7846,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Jars" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-451-a", id: "fig-2003-451-b", id: "fig-2003-451-c", id: "fig-2003-451-d" ]
     path: /catalogue/cat-433/
 -
@@ -7864,7 +7864,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Jars" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-384-a", id: "fig-2003-384-b" ]
     path: /catalogue/cat-434/
 -
@@ -7882,7 +7882,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Jars" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-385-a", id: "fig-2003-385-b", id: "fig-2003-385-c", id: "fig-2003-385-d" ]
     path: /catalogue/cat-435/
 -
@@ -7900,7 +7900,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Jars" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-386-a", id: "fig-2003-386-b", id: "fig-2003-386-c", id: "fig-2003-386-d" ]
     path: /catalogue/cat-436/
 -
@@ -7918,7 +7918,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; mosaic"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-254-a", id: "fig-2003-254-b" ]
     path: /catalogue/cat-437/
 -
@@ -7936,7 +7936,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; gold glass"
     inscription: "Yes"
     shape: [ "Medallions" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-296-a" ]
     path: /catalogue/cat-438/
 -
@@ -7954,7 +7954,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; gold-glass trail"
     inscription: "Yes"
     shape: [ "Unidentified" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-83-AK-29-a", id: "fig-83-AK-29-b", id: "fig-83-AK-29-c", id: "fig-83-AK-29-d", id: "fig-83-AK-29-e" ]
     path: /catalogue/cat-439/
 -
@@ -7972,7 +7972,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Cups" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-442-a", id: "fig-2003-442-b" ]
     path: /catalogue/cat-440/
 -
@@ -7990,7 +7990,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Jars" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-395-a", id: "fig-2003-395-b", id: "fig-2003-395-c", id: "fig-2003-395-d" ]
     path: /catalogue/cat-441/
 -
@@ -10937,7 +10937,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Pipe" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-401-a" ]
     path: /catalogue/cat-573/
 -
@@ -11027,7 +11027,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Window Pane" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-371-a", id: "fig-2003-371-b" ]
     path: /catalogue/cat-578/
 -
@@ -11135,6 +11135,6 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Cups" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-406-a", id: "fig-2003-406-b" ]
     path: /catalogue/cat-584/
