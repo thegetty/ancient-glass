@@ -1564,7 +1564,7 @@ object_list:
     modeling_technique_and_decoration: "Mold cast and free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "“Cast”-Rotary Pressed", "Free-blown" ]
+    technique: [ "“Cast”-Rotary Pressed", "Free-Blown" ]
     figure: [ id: "fig-85-AF-84-a", id: "fig-85-AF-84-b", id: "fig-85-AF-84-c", id: "fig-85-AF-84-d", id: "fig-85-AF-84-e", id: "fig-85-AF-84-f", id: "fig-85-AF-84-g", id: "fig-85-AF-84-h", id: "fig-85-AF-84-i" ]
     path: /catalogue/cat-84/
 -
@@ -3238,7 +3238,7 @@ object_list:
     modeling_technique_and_decoration: "The neck and rim were free-blown. The body was mold-blown in a two-part mold of two vertical sections, which did not fit well: the seams are visible, and from the ears downward, the back side seems to be larger than the front"
     inscription: "No"
     shape: [ "Head Flasks" ]
-    technique: [ "Free-blown", "Mold-blown" ]
+    technique: [ "Free-Blown", "Mold-Blown" ]
     figure: [ id: "fig-2003-327-a", id: "fig-2003-327-b", id: "fig-2003-327-c", id: "fig-2003-327-d", id: "fig-2003-327-e" ]
     path: /catalogue/cat-177/
 -
@@ -3472,7 +3472,7 @@ object_list:
     modeling_technique_and_decoration: "Body mold-blown into a four-part mold of three vertical sections joined to a disk-shaped base section; mold seams between panels 2 and 3, 4 and 5, 6 and 1; free-blown and tooled neck and rim"
     inscription: "No"
     shape: [ "Bottles", "Flasks" ]
-    technique: [ "Mold-blown", "Free-blown" ]
+    technique: [ "Mold-Blown", "Free-Blown" ]
     figure: [ id: "fig-2003-297-a", id: "fig-2003-297-b", id: "fig-2003-297-c", id: "fig-2003-297-d", id: "fig-2003-297-e" ]
     path: /catalogue/cat-190/
 -
@@ -3490,7 +3490,7 @@ object_list:
     modeling_technique_and_decoration: "Body mold-blown in a four-part mold of three vertical sections joined to a disk-shaped base section; mold seams between panels 2 and 3, 4 and 5, 6 and 1; free-blown and tooled neck and rim"
     inscription: "No"
     shape: [ "Bottles", "Flasks" ]
-    technique: [ "Mold-blown", "Free-blown" ]
+    technique: [ "Mold-Blown", "Free-Blown" ]
     figure: [ id: "fig-2003-298-a", id: "fig-2003-298-b", id: "fig-2003-298-c", id: "fig-2003-298-d", id: "fig-2003-298-e" ]
     path: /catalogue/cat-191/
 -
@@ -3508,7 +3508,7 @@ object_list:
     modeling_technique_and_decoration: "Body mold-blown in a four-part mold of three vertical sections joined to a disk-shaped base section; mold seams between panels 2 and 3, 4 and 5, 6 and 1; free-blown and tooled neck and rim"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown", "Free-blown" ]
+    technique: [ "Mold-Blown", "Free-Blown" ]
     figure: [ id: "fig-2003-299-a", id: "fig-2003-299-b", id: "fig-2003-299-c", id: "fig-2003-299-d", id: "fig-2003-299-e" ]
     path: /catalogue/cat-192/
 -
@@ -3526,7 +3526,7 @@ object_list:
     modeling_technique_and_decoration: "Body mold-blown in a three-part mold of three vertical sections; vertical mold seams visible after panels 1, 3, 5; free-blown and tooled neck and rim; relief is not crisp"
     inscription: "No"
     shape: [ "Bottles", "Flasks" ]
-    technique: [ "Mold-blown", "Free-blown" ]
+    technique: [ "Mold-Blown", "Free-Blown" ]
     figure: [ id: "fig-2003-300-a", id: "fig-2003-300-b", id: "fig-2003-300-c", id: "fig-2003-300-d", id: "fig-2003-300-e" ]
     path: /catalogue/cat-193/
 -
@@ -3544,7 +3544,7 @@ object_list:
     modeling_technique_and_decoration: "Body mold-blown in a three-part mold of three vertical sections; vertical mold seams visible after panels 1, 3, and 5; free-blown and tooled neck and rim"
     inscription: "No"
     shape: [ "Bottles", "Flasks" ]
-    technique: [ "Mold-blown", "Free-blown" ]
+    technique: [ "Mold-Blown", "Free-Blown" ]
     figure: [ id: "fig-2003-301-a", id: "fig-2003-301-b", id: "fig-2003-301-c", id: "fig-2003-301-d", id: "fig-2003-301-e", id: "fig-2003-301-f", id: "fig-2003-301-g", id: "fig-2003-301-h" ]
     path: /catalogue/cat-194/
 -
@@ -3724,7 +3724,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown body; free-blown neck and rim"
     inscription: "No"
     shape: [ "Sprinklers", "Flasks" ]
-    technique: [ "Mold-blown", "Free-blown" ]
+    technique: [ "Mold-Blown", "Free-Blown" ]
     figure: [ id: "fig-2003-335-a", id: "fig-2003-335-b", id: "fig-2003-335-c", id: "fig-2003-335-d" ]
     path: /catalogue/cat-204/
 -
@@ -3778,7 +3778,7 @@ object_list:
     modeling_technique_and_decoration: "Body mold-blown in a four-part mold of three vertical sections joined to a cup-shaped base section; neck and rim free-blown and tooled"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Mold-blown", "Free-blown" ]
+    technique: [ "Mold-Blown", "Free-Blown" ]
     figure: [ id: "fig-2003-313-a", id: "fig-2003-313-b", id: "fig-2003-313-c", id: "fig-2003-313-d", id: "fig-2003-313-e" ]
     path: /catalogue/cat-207/
 -
@@ -3796,7 +3796,7 @@ object_list:
     modeling_technique_and_decoration: "Body mold-blown in a four-part mold of three vertical sections joined to a cup-shaped base section; neck and rim free-blown and tooled"
     inscription: "No"
     shape: [ "Jugs", "Flasks" ]
-    technique: [ "Mold-blown", "Free-blown" ]
+    technique: [ "Mold-Blown", "Free-Blown" ]
     figure: [ id: "fig-2003-314-a", id: "fig-2003-314-b", id: "fig-2003-314-c", id: "fig-2003-314-d", id: "fig-2003-314-e" ]
     path: /catalogue/cat-208/
 -
