@@ -16,7 +16,7 @@ Mended; fully preserved; small chipping on the rim filled.
 
 ## Description
 
-The bowl has an upright rounded lip; cylindrical body tapering toward the flat bottom. It stands on a tall, conical ring-base formed by a single revolution of an applied ribbon coil of glass, which consists of at least 10 layers of translucent purple and opaque turquoise and green glass.
+The bowl has an upright rounded lip; cylindrical body tapering toward the flat bottom. It stands on a tall, conical base-ring formed by a single revolution of an applied ribbon coil of glass, which consists of at least 10 layers of translucent purple and opaque turquoise and green glass.
 
 The rim is a twisted purple and white rope-like cane. The vessel is made of a matrix comprising four types of circular mosaic sections, florets, fused together.
 
