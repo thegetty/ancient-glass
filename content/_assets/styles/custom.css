@@ -128,7 +128,7 @@ figure.cat-thumbnail a {
 /* TYPOLOGICAL CLASSIFICATION
 ============================================================================= */
 
-.quire-page__content .container .content ul li:before {
+.typo-class .quire-page__content .container .content ul li:before {
   content: none;
 }
 

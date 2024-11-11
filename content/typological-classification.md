@@ -3,6 +3,8 @@ title: "Typological Classification"
 layout: page
 order: 9
 search: false
+classes: 
+  - typo-class
 ---
 
 - A. Vessels 
