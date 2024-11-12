@@ -592,7 +592,7 @@ object_list:
     modeling_technique_and_decoration: "Sagging or blowing"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Probably cast, possibly core-formed" ]
+    technique: [ "Cast", Core-Formed" ]
     figure: [ id: "fig-2004-22-a" ]
     path: /catalogue/cat-30/
 -
@@ -10720,7 +10720,7 @@ object_list:
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Tooling"
     inscription: "No"
-    shape: [ "Bracelet" ]
+    shape: [ "Bracelets" ]
     technique: 
     figure: [ id: "fig-79-AF-184-1-a", id: "fig-79-AF-184-1-b", id: "fig-79-AF-184-1-c" ]
     path: /catalogue/cat-561/
@@ -10828,7 +10828,7 @@ object_list:
     material: "Glass, gold, bronze, iron"
     modeling_technique_and_decoration: "Hammering, soldering"
     inscription: "No"
-    shape: [ "Chain Link", "Beads" ]
+    shape: [ "Chain Links", "Beads" ]
     technique: 
     figure: [ id: "fig-2003-295-1-a", id: "fig-2003-295-1-b", id: "fig-2003-295-1-c", id: "fig-2003-295-2-b", id: "fig-2003-295-2-c" ]
     path: /catalogue/cat-567/
@@ -10882,7 +10882,7 @@ object_list:
     material: "Translucent dark green glass"
     modeling_technique_and_decoration: "Tooled"
     inscription: "No"
-    shape: [ "Rod" ]
+    shape: [ "Rods" ]
     technique: 
     figure: [ id: "fig-2003-403-a" ]
     path: /catalogue/cat-570/
@@ -10900,7 +10900,7 @@ object_list:
     material: "Translucent light blue and opaque white glass"
     modeling_technique_and_decoration: "Tooled"
     inscription: "No"
-    shape: [ "Rod" ]
+    shape: [ "Rods" ]
     technique: 
     figure: [ id: "fig-82-AC-22-315-a", id: "fig-82-AC-22-315-b" ]
     path: /catalogue/cat-571/
@@ -10918,7 +10918,7 @@ object_list:
     material: "Translucent light yellow glass"
     modeling_technique_and_decoration: "Tooled"
     inscription: "No"
-    shape: [ "Pin" ]
+    shape: [ "Pins" ]
     technique: 
     figure: [ id: "fig-2003-404-a", id: "fig-2003-404-b", id: "fig-2003-404-c", id: "fig-2003-404-d" ]
     path: /catalogue/cat-572/
@@ -10936,7 +10936,7 @@ object_list:
     material: "Translucent purple glass"
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
-    shape: [ "Pipe" ]
+    shape: [ "Pipes" ]
     technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-401-a" ]
     path: /catalogue/cat-573/
@@ -10954,7 +10954,7 @@ object_list:
     material: "Translucent green glass"
     modeling_technique_and_decoration: "Molded. No mold seams are noticeable"
     inscription: "No"
-    shape: [ "Bust", "Head" ]
+    shape: [ "Busts", "Heads" ]
     technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-356-a", id: "fig-2003-356-b", id: "fig-2003-356-c", id: "fig-2003-356-d" ]
     path: /catalogue/cat-574/
@@ -10972,7 +10972,7 @@ object_list:
     material: "Red opaque glass"
     modeling_technique_and_decoration: "Molded"
     inscription: "No"
-    shape: [ "Bust", "Head" ]
+    shape: [ "Busts", "Heads" ]
     technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-357-a", id: "fig-2003-357-b", id: "fig-2003-357-c", id: "fig-2003-357-d" ]
     path: /catalogue/cat-575/
@@ -10990,7 +10990,7 @@ object_list:
     material: "Opaque white and yellow glass; translucent turquoise glass; bronze"
     modeling_technique_and_decoration: "Rod formed"
     inscription: "No"
-    shape: [ "Earplug" ]
+    shape: [ "Earplugs" ]
     technique: 
     figure: [ id: "fig-2003-155-a" ]
     path: /catalogue/cat-576/
@@ -11008,7 +11008,7 @@ object_list:
     material: "Opaque white and yellow and translucent amber-colored glass"
     modeling_technique_and_decoration: "Rod formed"
     inscription: "No"
-    shape: [ "Earplug" ]
+    shape: [ "Earplugs" ]
     technique: 
     figure: [ id: "fig-2003-156-a" ]
     path: /catalogue/cat-577/
@@ -11026,7 +11026,7 @@ object_list:
     material: "Transparent greenish glass"
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
-    shape: [ "Window Pane" ]
+    shape: [ "Window Panes" ]
     technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-371-a", id: "fig-2003-371-b" ]
     path: /catalogue/cat-578/
