@@ -132,6 +132,80 @@ figure.cat-thumbnail a {
   content: none;
 }
 
+/* ABOUT & COPYRIGHT PAGES
+============================================================================= */
+/* LOC Cataloguing in Publication format */
+.quire-page__content .container .content .cip-data {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+.quire-page__content .container .content .cip-data p {
+  margin-bottom: 0;
+}
+.quire-page__content .container .content .cip-data ul {
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: .5rem;
+}
+.quire-page__content .container .content .cip-data ul li {
+  line-height: 1.6;
+  margin: 0;
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
+.quire-page__content .container .content .cip-data ul li::before {
+  display: none;
+}
+
+.block-of-text {
+  break-inside: avoid;
+}
+
+/* COPYRIGHT & ABOUT
+============================================================================= */
+/* Columns */
+#print-copyright.quire-page .quire-page__content {
+  column-count: 2;
+  column-gap: .1875in;
+  max-width: 100%;
+  margin: 0;
+}
+/* Header */
+#print-copyright.quire-page .quire-page__header {
+  display: none;
+}
+/* Copyright Block */
+.quire-page__content .container .content .quire-copyright {
+  padding-left: 0;
+  margin-bottom: 1em;
+}
+.quire-page__content .container .content .quire-copyright .copyright__publisher-logo {
+  display: none;
+}
+/* Publisher */
+.quire-page__content .container .content .publisher p:first-child {
+  margin-bottom: 0;
+}
+/* Project Team */
+.quire-page__content .container .content .project-team ul {
+  list-style-type: none;
+  margin-left: 0;
+  margin-bottom: 1em;
+}
+.quire-page__content .container .content .project-team ul * {
+  margin: 0;
+}
+.quire-page__content .container .content .project-team ul li::before {
+  content: "";
+}
+/* Don't add border to SVG icons link */
+.quire-page__content .content a.quire-copyright__icon__link {
+  border-bottom-width: 0 !important;
+}
+.quire-page__content .content a.quire-copyright__icon__link:hover {
+  border-bottom-width: 0 !important;
+}
+
 /* OBJECT GRID
 ============================================================================= */
 /* Remove hard-coded background color that was intended for "modern" theme */
