@@ -35,7 +35,7 @@ classes:
 
                 - Amphoriskoi | [cats. 34](/catalogue/cat-34/)–[47](/catalogue/cat-47/)
 
-                - Oinochae | [cats. 45](/catalogue/cat-45/)–[52](/catalogue/cat-52/)
+                - Oinochae | [cats. 48](/catalogue/cat-48/)–[52](/catalogue/cat-52/)
 
                 - Aryballoi | [cats. 53](/catalogue/cat-53/)–[56](/catalogue/cat-56/)
 
