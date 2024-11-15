@@ -17,12 +17,18 @@ menu: false
   <h1 class="title">{{ publication.title | markdownify }}{% if publication.subtitle %} <span class="subtitle">{{ publication.subtitle | markdownify }}</span>{% endif %}
   {% if publication.reading_line %}<br /><br />{{ publication.reading_line | markdownify }}{% endif %}</h1>
 {%- endif -%}
-
-{%- if publication.contributor_as_it_appears -%}
-  <p class="contributor">{{ publication.contributor_as_it_appears | markdownify }}</p>
-{%- else -%}
-  <p class="contributor">{% contributors context=publicationContributors type="primary" format="string" %}</p>
-{%- endif -%}
+  <span class="contributor">
+    {%- if publication.contributor_as_it_appears -%}
+      {{ publication.contributor_as_it_appears | markdownify }}
+    {%- else -%}
+      {% contributors context=publicationContributors type="primary" format="string" %}
+    {%- endif -%}
+  </span><br />
+  {%- if publication.additional_contributors -%}
+    <span class="contributor additional-contributor">
+      {{ publication.additional_contributors | markdownify }}
+    </span><br />
+  {%- endif -%}
 
 </section>
 
