@@ -113,14 +113,19 @@ figure.cat-thumbnail a {
     font-size: 1.2rem;
   }
 }
-
 /* MENU & TOC
 ============================================================================= */
-/* Keep nested section links the same size rather than getting smaller and smaller */
+/* Hide individual catalogue pages, and highlight section header */
 .quire-menu .section-item ol {
-  font-size: .875rem;
+  display: none;
 }
-/* Hide catalogue entries from */
+.quire-menu .section-item {
+  margin: .5rem 0;
+  padding: 0.5rem 0;
+  border-top: 1px solid #999;
+  border-bottom: 1px solid #999;
+}
+/* Hide catalogue entries from TOC */
 .quire-contents-list .page-item[data-layout='entry'] {
   display: none;
 }
