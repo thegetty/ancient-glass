@@ -1,5 +1,5 @@
 :root {
-  --accent-color: #6A8EB8;
+  --accent-color: #2E7F79;
   /* same as $accent-color in content/_assets/styles/variables.scss */
 }
 
@@ -18,7 +18,7 @@
     padding-top: 1rem;
   }
   .quire::before {
-    content: "SECOND";
+    content: "THIRD";
     background-color: cyan;
     bottom: -115px;
     right: -115px;
@@ -113,6 +113,10 @@ figure.cat-thumbnail a {
     font-size: 1.2rem;
   }
 }
+.quire-cover__overlay {
+  background-position: top center;
+}
+
 /* MENU & TOC
 ============================================================================= */
 /* Hide individual catalogue pages, and highlight section header */
@@ -413,7 +417,7 @@ figure.cat-thumbnail a {
   }
 
   /*Make front and back matter two-column*/
-  #page-abbreviations .quire-page__content, #page-map .quire-page__content, 
+  #page-abbreviations .quire-page__content,
   #page-overview .quire-page__content, #page-intro .quire-page__content, #page-glossary .quire-page__content,
   #page-works-cited .quire-page__content{
     column-count: 2;

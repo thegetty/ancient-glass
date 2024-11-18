@@ -6,7 +6,7 @@
 // To avoid errors, variables names should not be changed or deleted, and be
 // sure to leave the colons (:) and semi-colons (;) in place.
 
-$accent-color: $blue;
+$accent-color: #2E7F79;
 $content-background-color: null; // main text area background color
 $secondary-background-color: null; // only for modern theme
 
@@ -41,7 +41,7 @@ $quire-cover-text-scale: 1; // use decimal numbers such as .8 or 1.3
 // -----------------------------------------------------------------------------
 $quire-menu-width: 352px;
 
-$quire-menu-color: $off-black;
+$quire-menu-color: $black;
 $quire-menu-text-color: $white;
 
 // Image viewer (pop-up figure viewer & entry page viewer)
