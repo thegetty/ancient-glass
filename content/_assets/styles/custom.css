@@ -1,5 +1,5 @@
 :root {
-  --accent-color: #6A8EB8;
+  --accent-color: #2E7F79;
   /* same as $accent-color in content/_assets/styles/variables.scss */
 }
 
@@ -18,7 +18,7 @@
     padding-top: 1rem;
   }
   .quire::before {
-    content: "SECOND";
+    content: "THIRD";
     background-color: cyan;
     bottom: -115px;
     right: -115px;
