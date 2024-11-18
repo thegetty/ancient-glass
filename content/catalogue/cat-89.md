@@ -16,7 +16,7 @@ A number of repaired breaks are visible, and there are some nicks and scratches.
 
 ## Description
 
-The bowl has a slightly flared lip; conical, cyma recta body; and flat bottom. It stands on a tall, circular ring-base formed by an applied coil of glass, possibly green.
+The bowl has a slightly flared lip; conical, cyma recta body; and flat bottom. It stands on a tall, circular base-ring formed by an applied coil of glass, possibly green.
 
 The vessel is made of a matrix comprising a single type of hexagonal mosaic section fused together. Each of these florets consists of eight concentric layers, in turn white, red, fine purple, yellow line, thicker purple, fine grayish white, purple, and white.
 

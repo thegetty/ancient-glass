@@ -16,7 +16,7 @@ Mended with a small filling. There is some weathering on the surface.
 
 ## Description
 
-The dish has a flared, horizontal rim; conical, carinated body; flat bottom. It stands on a circular ring-base formed by an applied grayish green coil of glass.
+The dish has a flared, horizontal rim; conical, carinated body; flat bottom. It stands on a circular base-ring formed by an applied grayish green coil of glass.
 
 The vessel is made of discoid mosaic tesserae of two types:
 
