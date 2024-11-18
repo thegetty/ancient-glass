@@ -113,6 +113,9 @@ figure.cat-thumbnail a {
     font-size: 1.2rem;
   }
 }
+.quire-cover__overlay {
+  background-position: top center;
+}
 
 /* MENU & TOC
 ============================================================================= */
