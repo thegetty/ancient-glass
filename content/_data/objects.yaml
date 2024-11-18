@@ -70,7 +70,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied handles, base, and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-146-a", id: "fig-2003-146-b", id: "fig-2003-146-c", id: "fig-2003-146-d" ]
     path: /catalogue/cat-1/
 -
@@ -88,7 +88,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied unmarvered thread"
     inscription: "No"
     shape: [ "Amphoriskoi", "Flasks" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2004-3-a", id: "fig-2004-3-b" ]
     path: /catalogue/cat-2/
 -
@@ -106,7 +106,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied handles, foot, and marvered threads"
     inscription: "No"
     shape: [ "Kratoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2004-2-a", id: "fig-2004-2-b", id: "fig-2004-2-c", id: "fig-2004-2-d" ]
     path: /catalogue/cat-3/
 -
@@ -124,7 +124,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied handles and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Lentoid Flasks" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-148-a", id: "fig-2003-148-b", id: "fig-2003-148-c", id: "fig-2003-148-d" ]
     path: /catalogue/cat-4/
 -
@@ -142,7 +142,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-147-a" ]
     path: /catalogue/cat-5/
 -
@@ -160,7 +160,7 @@ object_list:
     modeling_technique_and_decoration: "Cast, carved, and ground"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2004-16-a" ]
     path: /catalogue/cat-6/
 -
@@ -173,12 +173,12 @@ object_list:
     start_date: "-500"
     end_date: "-401"
     production_area: "Western Asiatic, probably northwestern Iran, perhaps Azerbaijan"
-    culture: "Near Eastern, Achaemenid (Persian)"
+    culture: "Achaemenid (Persian)"
     material: "Translucent dark blue and greenish and opaque white, orange, and turquoise glass"
     modeling_technique_and_decoration: "Rod-formed; applied unmarvered and marvered threads"
     inscription: "No"
-    shape: [ "Kohl tubes" ]
-    technique: [ "Rod-formed" ]
+    shape: [ "Kohl Tubes" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2003-160-a" ]
     path: /catalogue/cat-7/
 -
@@ -191,12 +191,12 @@ object_list:
     start_date: "-500"
     end_date: "-401"
     production_area: "Western Asiatic, probably northwestern Iran, area of Ardebil, perhaps Azerbaijan"
-    culture: "Near Eastern, Achaemenid (Persian)"
+    culture: "Achaemenid (Persian)"
     material: "Dark blue; opaque red and yellow glass"
     modeling_technique_and_decoration: "Rod-formed; applied marvered threads"
     inscription: "No"
-    shape: [ "Kohl tubes" ]
-    technique: [ "Rod-formed" ]
+    shape: [ "Kohl Tubes" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2003-162-a" ]
     path: /catalogue/cat-8/
 -
@@ -209,12 +209,12 @@ object_list:
     start_date: "-500"
     end_date: "-401"
     production_area: "Western Asiatic, probably northwestern Iran"
-    culture: "Near Eastern, Achaemenid (Persian)"
+    culture: "Achaemenid (Persian)"
     material: "Dark green glass, appearing black"
     modeling_technique_and_decoration: "Rod-formed; applied unmarvered thread"
     inscription: "No"
-    shape: [ "Kohl tubes" ]
-    technique: [ "Rod-formed" ]
+    shape: [ "Kohl Tubes" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2003-163-a" ]
     path: /catalogue/cat-9/
 -
@@ -232,7 +232,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-180-a" ]
     path: /catalogue/cat-10/
 -
@@ -250,7 +250,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2004-5-a" ]
     path: /catalogue/cat-11/
 -
@@ -268,7 +268,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered thread"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-181-a" ]
     path: /catalogue/cat-12/
 -
@@ -286,7 +286,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2004-6-a" ]
     path: /catalogue/cat-13/
 -
@@ -304,7 +304,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-190-a", id: "fig-2003-190-b" ]
     path: /catalogue/cat-14/
 -
@@ -322,7 +322,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-196-a" ]
     path: /catalogue/cat-15/
 -
@@ -340,7 +340,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-185-a", id: "fig-2003-185-b" ]
     path: /catalogue/cat-16/
 -
@@ -358,7 +358,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-182-a" ]
     path: /catalogue/cat-17/
 -
@@ -376,7 +376,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-183-a" ]
     path: /catalogue/cat-18/
 -
@@ -394,7 +394,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-184-a" ]
     path: /catalogue/cat-19/
 -
@@ -412,7 +412,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-189-a" ]
     path: /catalogue/cat-20/
 -
@@ -430,7 +430,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-186-a" ]
     path: /catalogue/cat-21/
 -
@@ -448,7 +448,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-193-a" ]
     path: /catalogue/cat-22/
 -
@@ -466,7 +466,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-187-a" ]
     path: /catalogue/cat-23/
 -
@@ -484,7 +484,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-191-a" ]
     path: /catalogue/cat-24/
 -
@@ -502,7 +502,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, lugs, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2004-7-a" ]
     path: /catalogue/cat-25/
 -
@@ -520,7 +520,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2004-8-a" ]
     path: /catalogue/cat-26/
 -
@@ -538,7 +538,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied lugs, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-192-a" ]
     path: /catalogue/cat-27/
 -
@@ -556,7 +556,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-188-a" ]
     path: /catalogue/cat-28/
 -
@@ -574,7 +574,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied lugs and marvered thread"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-194-a" ]
     path: /catalogue/cat-29/
 -
@@ -592,7 +592,7 @@ object_list:
     modeling_technique_and_decoration: "Sagging or blowing"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Probably cast, possibly core-formed" ]
+    technique: [ "Cast", Core-Formed" ]
     figure: [ id: "fig-2004-22-a" ]
     path: /catalogue/cat-30/
 -
@@ -610,7 +610,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-195-a", id: "fig-2003-195-b" ]
     path: /catalogue/cat-31/
 -
@@ -628,7 +628,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-197-a" ]
     path: /catalogue/cat-32/
 -
@@ -646,7 +646,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-198-a" ]
     path: /catalogue/cat-33/
 -
@@ -664,7 +664,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-178-a" ]
     path: /catalogue/cat-34/
 -
@@ -682,7 +682,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-168-a", id: "fig-2003-168-b" ]
     path: /catalogue/cat-35/
 -
@@ -700,7 +700,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-169-a" ]
     path: /catalogue/cat-36/
 -
@@ -718,7 +718,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-171-a" ]
     path: /catalogue/cat-37/
 -
@@ -736,7 +736,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-172-a", id: "fig-2003-172-b", id: "fig-2003-172-c" ]
     path: /catalogue/cat-38/
 -
@@ -754,7 +754,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-173-a" ]
     path: /catalogue/cat-39/
 -
@@ -772,7 +772,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-170-a" ]
     path: /catalogue/cat-40/
 -
@@ -790,7 +790,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base-knob, and unmarvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-175-a" ]
     path: /catalogue/cat-41/
 -
@@ -808,7 +808,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied handles, base, and marvered threads"
     inscription: "No"
     shape: [ "Unguentaria" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-203-a" ]
     path: /catalogue/cat-42/
 -
@@ -826,7 +826,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base-knob, and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-200-a", id: "fig-2003-200-b" ]
     path: /catalogue/cat-43/
 -
@@ -844,7 +844,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base-knob, and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-201-a", id: "fig-2003-201-b" ]
     path: /catalogue/cat-44/
 -
@@ -862,7 +862,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied handles and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-202-a", id: "fig-2003-202-b" ]
     path: /catalogue/cat-45/
 -
@@ -880,7 +880,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied handles, base-knob, and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-204-a" ]
     path: /catalogue/cat-46/
 -
@@ -898,7 +898,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk and marvered threads"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-199-a" ]
     path: /catalogue/cat-47/
 -
@@ -916,7 +916,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handle, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Oinochoai" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-179-a", id: "fig-2003-179-b" ]
     path: /catalogue/cat-48/
 -
@@ -934,7 +934,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied handle, rim-disk, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Oinochoai" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-166-a" ]
     path: /catalogue/cat-49/
 -
@@ -952,7 +952,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Oinochoai" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-165-a", id: "fig-2003-165-b", id: "fig-2003-165-c", id: "fig-2003-165-d" ]
     path: /catalogue/cat-50/
 -
@@ -970,7 +970,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied handle, rim-disk, base, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Oinochoai" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-167-a", id: "fig-2003-167-b" ]
     path: /catalogue/cat-51/
 -
@@ -988,7 +988,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied elements"
     inscription: "No"
     shape: [ "Oinochoai" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-164-a", id: "fig-2003-164-b" ]
     path: /catalogue/cat-52/
 -
@@ -1006,7 +1006,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Aryballoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-174-a" ]
     path: /catalogue/cat-53/
 -
@@ -1024,7 +1024,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Aryballoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-177-a" ]
     path: /catalogue/cat-54/
 -
@@ -1042,7 +1042,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, unmarvered and marvered threads, and dots"
     inscription: "No"
     shape: [ "Aryballoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2004-4-a" ]
     path: /catalogue/cat-55/
 -
@@ -1060,7 +1060,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Aryballoi" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-176-a" ]
     path: /catalogue/cat-56/
 -
@@ -1078,7 +1078,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied marvered threads"
     inscription: "No"
     shape: [ "Unidentified" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-83-AF-28-1-a", id: "fig-83-AF-28-1-b" ]
     path: /catalogue/cat-57/
 -
@@ -1096,7 +1096,7 @@ object_list:
     modeling_technique_and_decoration: "Core-formed; applied elements"
     inscription: "No"
     shape: [ "Unidentified" ]
-    technique: [ "Core-formed" ]
+    technique: [ "Core-Formed" ]
     figure: [ id: "fig-83-AF-28-2-a", id: "fig-83-AF-28-2-b" ]
     path: /catalogue/cat-58/
 -
@@ -1114,7 +1114,7 @@ object_list:
     modeling_technique_and_decoration: "Rotary pressed, engraved"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-217-a", id: "fig-2003-217-b" ]
     path: /catalogue/cat-59/
 -
@@ -1132,7 +1132,7 @@ object_list:
     modeling_technique_and_decoration: "Rotary pressed, engraved"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2004-17-a", id: "fig-2004-17-b", id: "fig-2004-17-c", id: "fig-2004-17-d" ]
     path: /catalogue/cat-60/
 -
@@ -1145,12 +1145,12 @@ object_list:
     start_date: "-150"
     end_date: "-50"
     production_area: "Eastern Mediterranean"
-    culture: "Greek or Roman"
+    culture: "Greek"
     material: "Transparent greenish glass"
     modeling_technique_and_decoration: "Rotary pressed, engraved"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2004-18-a", id: "fig-2004-18-b", id: "fig-2004-18-c", id: "fig-2004-18-d" ]
     path: /catalogue/cat-61/
 -
@@ -1168,7 +1168,7 @@ object_list:
     modeling_technique_and_decoration: "Molded"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-219-a", id: "fig-2003-219-b", id: "fig-2003-219-c", id: "fig-2003-219-d", id: "fig-2003-219-e" ]
     path: /catalogue/cat-62/
 -
@@ -1186,7 +1186,7 @@ object_list:
     modeling_technique_and_decoration: "Rotary pressed"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-216-a", id: "fig-2003-216-b", id: "fig-2003-216-c" ]
     path: /catalogue/cat-63/
 -
@@ -1204,7 +1204,7 @@ object_list:
     modeling_technique_and_decoration: "Cast and cut"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-215-a", id: "fig-2003-215-b" ]
     path: /catalogue/cat-64/
 -
@@ -1222,7 +1222,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; probably applied pieces; incised"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-228-a", id: "fig-2003-228-b" ]
     path: /catalogue/cat-65/
 -
@@ -1235,12 +1235,12 @@ object_list:
     start_date: "-50"
     end_date: "50"
     production_area: "Eastern Mediterranean; a western European origin cannot be excluded"
-    culture: "Greek"
+    culture: "Roman"
     material: "Translucent bluish glass"
     modeling_technique_and_decoration: "Rotary pressed"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Rotary pressed" ]
+    technique: [ "Rotary Pressed" ]
     figure: [ id: "fig-2003-221-a", id: "fig-2003-221-b", id: "fig-2003-221-c" ]
     path: /catalogue/cat-66/
 -
@@ -1253,12 +1253,12 @@ object_list:
     start_date: "-50"
     end_date: "50"
     production_area: "Eastern Mediterranean; a western European origin cannot be excluded"
-    culture: "Greek"
+    culture: "Roman"
     material: "Translucent bluish glass"
     modeling_technique_and_decoration: "Rotary pressed"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Rotary pressed" ]
+    technique: [ "Rotary Pressed" ]
     figure: [ id: "fig-2003-222-a", id: "fig-2003-222-b", id: "fig-2003-222-c" ]
     path: /catalogue/cat-67/
 -
@@ -1271,12 +1271,12 @@ object_list:
     start_date: "-50"
     end_date: "50"
     production_area: "Eastern Mediterranean; a western European origin cannot be excluded"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Translucent light bluish-green glass"
     modeling_technique_and_decoration: "Rotary pressed"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Rotary pressed" ]
+    technique: [ "Rotary Pressed" ]
     figure: [ id: "fig-2003-223-a", id: "fig-2003-223-b", id: "fig-2003-223-c" ]
     path: /catalogue/cat-68/
 -
@@ -1294,7 +1294,7 @@ object_list:
     modeling_technique_and_decoration: "Rotary pressed"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Rotary pressed" ]
+    technique: [ "Rotary Pressed" ]
     figure: [ id: "fig-2003-224-a", id: "fig-2003-224-b", id: "fig-2003-224-c" ]
     path: /catalogue/cat-69/
 -
@@ -1312,7 +1312,7 @@ object_list:
     modeling_technique_and_decoration: "Rotary pressed"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Rotary pressed" ]
+    technique: [ "Rotary Pressed" ]
     figure: [ id: "fig-2003-220-a", id: "fig-2003-220-b", id: "fig-2003-220-c", id: "fig-2003-220-d", id: "fig-2003-220-e" ]
     path: /catalogue/cat-70/
 -
@@ -1330,7 +1330,7 @@ object_list:
     modeling_technique_and_decoration: "Rotary pressed"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Rotary pressed" ]
+    technique: [ "Rotary Pressed" ]
     figure: [ id: "fig-78-AF-27-a", id: "fig-78-AF-27-b", id: "fig-78-AF-27-c", id: "fig-78-AF-27-d" ]
     path: /catalogue/cat-71/
 -
@@ -1343,12 +1343,12 @@ object_list:
     start_date: "-50"
     end_date: "50"
     production_area: "Eastern Mediterranean; a western European origin cannot be excluded"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Translucent yellow-green glass"
     modeling_technique_and_decoration: "Rotary pressed"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Rotary pressed" ]
+    technique: [ "Rotary Pressed" ]
     figure: [ id: "fig-2004-19-a", id: "fig-2004-19-b", id: "fig-2004-19-c", id: "fig-2004-19-d" ]
     path: /catalogue/cat-72/
 -
@@ -1361,12 +1361,12 @@ object_list:
     start_date: "-50"
     end_date: "50"
     production_area: "Eastern Mediterranean; a western European origin cannot be excluded"
-    culture: "Greek"
+    culture: "Roman"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Rotary pressed"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Rotary pressed" ]
+    technique: [ "Rotary Pressed" ]
     figure: [ id: "fig-2003-218-a", id: "fig-2003-218-b", id: "fig-2003-218-c", id: "fig-2003-218-d", id: "fig-2003-218-e", id: "fig-2003-218-f" ]
     path: /catalogue/cat-73/
 -
@@ -1379,12 +1379,12 @@ object_list:
     start_date: "-50"
     end_date: "50"
     production_area: "Eastern Mediterranean; a western European origin cannot be excluded"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Rotary pressed"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Rotary pressed" ]
+    technique: [ "Rotary Pressed" ]
     figure: [ id: "fig-2003-225-a" ]
     path: /catalogue/cat-74/
 -
@@ -1402,7 +1402,7 @@ object_list:
     modeling_technique_and_decoration: "Cast"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-232-a", id: "fig-2003-232-b" ]
     path: /catalogue/cat-75/
 -
@@ -1420,7 +1420,7 @@ object_list:
     modeling_technique_and_decoration: "Cast"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-233-a", id: "fig-2003-233-b" ]
     path: /catalogue/cat-76/
 -
@@ -1438,7 +1438,7 @@ object_list:
     modeling_technique_and_decoration: "Cast"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-234-a", id: "fig-2003-234-b" ]
     path: /catalogue/cat-77/
 -
@@ -1451,12 +1451,12 @@ object_list:
     start_date: "1"
     end_date: "49"
     production_area: "Probably Italy"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Opaque red glass"
     modeling_technique_and_decoration: "Cast"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-235-a", id: "fig-2003-235-b" ]
     path: /catalogue/cat-78/
 -
@@ -1469,12 +1469,12 @@ object_list:
     start_date: "1"
     end_date: "49"
     production_area: "Probably Italy"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Opaque white glass"
     modeling_technique_and_decoration: "Cast"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-236-a", id: "fig-2003-236-b", id: "fig-2003-236-c" ]
     path: /catalogue/cat-79/
 -
@@ -1492,7 +1492,7 @@ object_list:
     modeling_technique_and_decoration: "Mold pressed or cast, then wheel-cut"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-237-a", id: "fig-2003-237-b" ]
     path: /catalogue/cat-80/
 -
@@ -1510,7 +1510,7 @@ object_list:
     modeling_technique_and_decoration: "Molded and ground"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-475-a", id: "fig-2003-475-b", id: "fig-2003-475-c" ]
     path: /catalogue/cat-81/
 -
@@ -1528,7 +1528,7 @@ object_list:
     modeling_technique_and_decoration: "Mold cast; ground and polished"
     inscription: "No"
     shape: [ "Skyphoi" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-84-AF-85-a", id: "fig-84-AF-85-b", id: "fig-84-AF-85-c", id: "fig-84-AF-85-d", id: "fig-84-AF-85-e", id: "fig-84-AF-85-f", id: "fig-84-AF-85-g", id: "fig-84-AF-85-h", id: "fig-84-AF-85-i", id: "fig-84-AF-85-j", id: "fig-84-AF-85-k", id: "fig-84-AF-85-l", id: "fig-84-AF-85-m", id: "fig-84-AF-85-n", id: "fig-84-AF-85-o" ]
     path: /catalogue/cat-82/
 -
@@ -1546,7 +1546,7 @@ object_list:
     modeling_technique_and_decoration: "Mold cast; ground and polished"
     inscription: "No"
     shape: [ "Unidentified", "Skyphoi" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-354-a" ]
     path: /catalogue/cat-83/
 -
@@ -1564,7 +1564,7 @@ object_list:
     modeling_technique_and_decoration: "Mold cast and free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "“Cast”-rotary pressed", "Free-blown" ]
+    technique: [ "“Cast”-Rotary Pressed", "Free-Blown" ]
     figure: [ id: "fig-85-AF-84-a", id: "fig-85-AF-84-b", id: "fig-85-AF-84-c", id: "fig-85-AF-84-d", id: "fig-85-AF-84-e", id: "fig-85-AF-84-f", id: "fig-85-AF-84-g", id: "fig-85-AF-84-h", id: "fig-85-AF-84-i" ]
     path: /catalogue/cat-84/
 -
@@ -1582,7 +1582,7 @@ object_list:
     modeling_technique_and_decoration: "Mold cast; ground and polished"
     inscription: "No"
     shape: [ "Unidentified" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-96-AF-289-a", id: "fig-96-AF-289-b" ]
     path: /catalogue/cat-85/
 -
@@ -1613,7 +1613,7 @@ object_list:
     start_date: "-33"
     end_date: "32"
     production_area: "Probably Italy, or eastern Mediterranean"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Translucent purple, gray, and yellow and opaque white glass"
     modeling_technique_and_decoration: "Assembled of slices of canes, cast, applied base-ring; slumped; rotary polished"
     inscription: "No"
@@ -1991,7 +1991,7 @@ object_list:
     start_date: "-100"
     end_date: "99"
     production_area: "Italy or possibly Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Translucent purple and opaque yellow, white, and red glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; applied base; rotary polished"
     inscription: "No"
@@ -2009,7 +2009,7 @@ object_list:
     start_date: "-33"
     end_date: "32"
     production_area: "Italy or possibly Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Translucent dark blue and purple and opaque yellow and red glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
     inscription: "No"
@@ -2027,7 +2027,7 @@ object_list:
     start_date: "-33"
     end_date: "32"
     production_area: "Italy or possibly Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Translucent blue and opaque pinkish, white, and red glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
     inscription: "No"
@@ -2243,7 +2243,7 @@ object_list:
     start_date: "-33"
     end_date: "32"
     production_area: "Italy or Egypt"
-    culture: "Greek"
+    culture: "Roman"
     material: "Translucent brownish and opaque white glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together sections of round mosaic canes; slumped over a convex former mold; applied base; rotary polished"
     inscription: "No"
@@ -2297,7 +2297,7 @@ object_list:
     start_date: "-33"
     end_date: "32"
     production_area: "Italy or Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Almost colorless, translucent purple and opaque white and yellow glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
     inscription: "No"
@@ -2315,7 +2315,7 @@ object_list:
     start_date: "-33"
     end_date: "32"
     production_area: "Italy or Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Transparent colorless, opaque white, and translucent blue glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
     inscription: "No"
@@ -2333,7 +2333,7 @@ object_list:
     start_date: "-33"
     end_date: "32"
     production_area: "Italy or Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Translucent purple, blue, and turquoise and opaque white glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
     inscription: "No"
@@ -2387,7 +2387,7 @@ object_list:
     start_date: "-33"
     end_date: "32"
     production_area: "Egypt, or possibly Italy"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Transparent decolorized; translucent blue and green; opaque white, red, and yellow glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; applied rim; rotary polished"
     inscription: "No"
@@ -2405,7 +2405,7 @@ object_list:
     start_date: "-33"
     end_date: "32"
     production_area: "Italy or Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Translucent amber-colored and opaque white and blue glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
     inscription: "No"
@@ -2716,7 +2716,7 @@ object_list:
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; blown"
     inscription: "No"
     shape: [ "Jars" ]
-    technique: [ "Slumped and blown" ]
+    technique: [ "Slumped and Blown" ]
     figure: [ id: "fig-2003-277-a" ]
     path: /catalogue/cat-148/
 -
@@ -2734,7 +2734,7 @@ object_list:
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Slumped and blown" ]
+    technique: [ "Slumped and Blown" ]
     figure: [ id: "fig-2003-273-a" ]
     path: /catalogue/cat-149/
 -
@@ -2752,7 +2752,7 @@ object_list:
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Slumped and blown" ]
+    technique: [ "Slumped and Blown" ]
     figure: [ id: "fig-2003-274-a", id: "fig-2003-274-b" ]
     path: /catalogue/cat-150/
 -
@@ -2770,7 +2770,7 @@ object_list:
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Slumped and blown" ]
+    technique: [ "Slumped and Blown" ]
     figure: [ id: "fig-2003-279-a" ]
     path: /catalogue/cat-151/
 -
@@ -2788,7 +2788,7 @@ object_list:
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Slumped and blown" ]
+    technique: [ "Slumped and Blown" ]
     figure: [ id: "fig-2003-275-a", id: "fig-2003-275-b", id: "fig-2003-275-c", id: "fig-2003-275-d", id: "fig-2003-275-e" ]
     path: /catalogue/cat-152/
 -
@@ -2806,7 +2806,7 @@ object_list:
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Slumped and blown" ]
+    technique: [ "Slumped and Blown" ]
     figure: [ id: "fig-2003-278-a", id: "fig-2003-278-b", id: "fig-2003-278-c", id: "fig-2003-278-d" ]
     path: /catalogue/cat-153/
 -
@@ -2824,7 +2824,7 @@ object_list:
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Slumped and blown" ]
+    technique: [ "Slumped and Blown" ]
     figure: [ id: "fig-2003-276-a" ]
     path: /catalogue/cat-154/
 -
@@ -2842,7 +2842,7 @@ object_list:
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Slumped and blown" ]
+    technique: [ "Slumped and Blown" ]
     figure: [ id: "fig-2003-267-a" ]
     path: /catalogue/cat-155/
 -
@@ -2860,7 +2860,7 @@ object_list:
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Slumped and blown" ]
+    technique: [ "Slumped and Blown" ]
     figure: [ id: "fig-2003-281-a" ]
     path: /catalogue/cat-156/
 -
@@ -2878,7 +2878,7 @@ object_list:
     modeling_technique_and_decoration: "Fused and blown mosaic glass"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Fused and blown" ]
+    technique: [ "Fused and Blown" ]
     figure: [ id: "fig-2003-255-a" ]
     path: /catalogue/cat-157/
 -
@@ -2914,7 +2914,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold consisting of two vertical sections joined to a disk-shaped base section; the vertical seams are hidden in the hair"
     inscription: "No"
     shape: [ "Cups" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-474-a", id: "fig-2003-474-b", id: "fig-2003-474-c", id: "fig-2003-474-d" ]
     path: /catalogue/cat-159/
 -
@@ -2932,7 +2932,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical and one disk-shaped section for the base; vertical mold seams from rim to base through the stems of two of the palm fronds"
     inscription: "Yes"
     shape: [ "Beakers" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-319-a", id: "fig-2003-319-b", id: "fig-2003-319-c", id: "fig-2003-319-d", id: "fig-2003-319-e" ]
     path: /catalogue/cat-160/
 -
@@ -2950,7 +2950,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold; mold marks visible as two lines on the sides; separate mold used for bottom; relief crisp"
     inscription: "Yes"
     shape: [ "Beakers" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2004-35-a", id: "fig-2004-35-b", id: "fig-2004-35-c", id: "fig-2004-35-d", id: "fig-2004-35-e", id: "fig-2004-35-f", id: "fig-2004-35-g" ]
     path: /catalogue/cat-161/
 -
@@ -2968,7 +2968,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical and one disk-shaped section for the base; vertical mold seams from rim to base through the stems of two of the plants"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-85-AF-91-a", id: "fig-85-AF-91-b", id: "fig-85-AF-91-c", id: "fig-85-AF-91-d", id: "fig-85-AF-91-e" ]
     path: /catalogue/cat-162/
 -
@@ -2986,7 +2986,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical and one disk-shaped section for the base; vertical mold seams from rim to base left uncovered"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-318-a", id: "fig-2003-318-b", id: "fig-2003-318-c", id: "fig-2003-318-d", id: "fig-2003-318-e" ]
     path: /catalogue/cat-163/
 -
@@ -3004,7 +3004,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical sections and one disk-shaped section for the base."
     inscription: "No"
     shape: [ "Cups" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-316-a", id: "fig-2003-316-b", id: "fig-2003-316-c", id: "fig-2003-316-d", id: "fig-2003-316-e" ]
     path: /catalogue/cat-164/
 -
@@ -3022,7 +3022,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical semicircular parts for the body and a discoid for the base. Splashware accents"
     inscription: "No"
     shape: [ "Pyxides" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-315-a", id: "fig-2003-315-b", id: "fig-2003-315-c", id: "fig-2003-315-d", id: "fig-2003-315-e" ]
     path: /catalogue/cat-165/
 -
@@ -3040,7 +3040,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical sections on either side of EYΦΡAINOΥ from rim to second ridge below inscription, cup-shaped base section; relief crisp"
     inscription: "Yes"
     shape: [ "Cups" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-95-AF-60-a", id: "fig-95-AF-60-b", id: "fig-95-AF-60-c", id: "fig-95-AF-60-d", id: "fig-95-AF-60-e" ]
     path: /catalogue/cat-166/
 -
@@ -3058,7 +3058,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical sections on either side of ΕΥΦΡΑΙΝΟΥ from rim to second ridge below inscription, cup-shaped base section; relief crisp"
     inscription: "Yes"
     shape: [ "Cups" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-317-a", id: "fig-2003-317-b", id: "fig-2003-317-c", id: "fig-2003-317-d", id: "fig-2003-317-e" ]
     path: /catalogue/cat-167/
 -
@@ -3076,7 +3076,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical sections and one for the base"
     inscription: "Yes"
     shape: [ "Cups" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2004-34-a", id: "fig-2004-34-b", id: "fig-2004-34-c", id: "fig-2004-34-d", id: "fig-2004-34-e" ]
     path: /catalogue/cat-168/
 -
@@ -3094,7 +3094,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a five-part mold"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-85-AF-83-a", id: "fig-85-AF-83-b", id: "fig-85-AF-83-c", id: "fig-85-AF-83-d", id: "fig-85-AF-83-e" ]
     path: /catalogue/cat-169/
 -
@@ -3112,7 +3112,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a four-part mold: three vertical sections and the base"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-322-a", id: "fig-2003-322-b", id: "fig-2003-322-c", id: "fig-2003-322-d", id: "fig-2003-322-e" ]
     path: /catalogue/cat-170/
 -
@@ -3130,7 +3130,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a four-part mold: three vertical sections and one disk-shaped base section; relief is crisp, from either a not yet worn-out or a new mold"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-85-AF-90-a", id: "fig-85-AF-90-b", id: "fig-85-AF-90-c", id: "fig-85-AF-90-d" ]
     path: /catalogue/cat-171/
 -
@@ -3148,7 +3148,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a four-part mold: three vertical sections and one disk-shaped base section; relief is crisp, from a not yet worn-out or a new mold"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-320-a", id: "fig-2003-320-b", id: "fig-2003-320-c", id: "fig-2003-320-d", id: "fig-2003-320-e" ]
     path: /catalogue/cat-172/
 -
@@ -3166,7 +3166,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical sections and one disk-shaped base section; the mold starts 1 cm below the rim"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-321-a", id: "fig-2003-321-b", id: "fig-2003-321-c", id: "fig-2003-321-d", id: "fig-2003-321-e" ]
     path: /catalogue/cat-173/
 -
@@ -3184,7 +3184,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a four-part mold: three vertical sections and one disk-shaped base section"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-323-a", id: "fig-2003-323-b", id: "fig-2003-323-c", id: "fig-2003-323-d", id: "fig-2003-323-e" ]
     path: /catalogue/cat-174/
 -
@@ -3202,7 +3202,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a four-part mold; neck free-blown and tooled"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2004-36-a", id: "fig-2004-36-b", id: "fig-2004-36-c", id: "fig-2004-36-d", id: "fig-2004-36-e", id: "fig-2004-36-f", id: "fig-2004-36-g", id: "fig-2004-36-h", id: "fig-2004-36-i" ]
     path: /catalogue/cat-175/
 -
@@ -3219,8 +3219,8 @@ object_list:
     material: "Translucent slightly greenish glass"
     modeling_technique_and_decoration: "Mold-blown; applied elements"
     inscription: "No"
-    shape: [ "Head flasks" ]
-    technique: [ "Mold-blown" ]
+    shape: [ "Head Flasks" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-326-a", id: "fig-2003-326-b", id: "fig-2003-326-c", id: "fig-2003-326-d", id: "fig-2003-326-e" ]
     path: /catalogue/cat-176/
 -
@@ -3237,8 +3237,8 @@ object_list:
     material: "Translucent bluish glass"
     modeling_technique_and_decoration: "The neck and rim were free-blown. The body was mold-blown in a two-part mold of two vertical sections, which did not fit well: the seams are visible, and from the ears downward, the back side seems to be larger than the front"
     inscription: "No"
-    shape: [ "Head flasks" ]
-    technique: [ "Free-blown", "Mold-blown" ]
+    shape: [ "Head Flasks" ]
+    technique: [ "Free-Blown", "Mold-Blown" ]
     figure: [ id: "fig-2003-327-a", id: "fig-2003-327-b", id: "fig-2003-327-c", id: "fig-2003-327-d", id: "fig-2003-327-e" ]
     path: /catalogue/cat-177/
 -
@@ -3256,7 +3256,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a two-part mold"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-328-a", id: "fig-2003-328-b", id: "fig-2003-328-c", id: "fig-2003-328-d", id: "fig-2003-328-e" ]
     path: /catalogue/cat-178/
 -
@@ -3269,12 +3269,12 @@ object_list:
     start_date: "300"
     end_date: "399"
     production_area: "Eastern Mediterranean, Syro-Palestinian region"
-    culture: "Near Eastern (Syro-Palestinian)"
+    culture: "Byzantine"
     material: "Translucent purple glass"
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Jars" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-78-AF-26-a", id: "fig-78-AF-26-b", id: "fig-78-AF-26-c", id: "fig-78-AF-26-d" ]
     path: /catalogue/cat-179/
 -
@@ -3292,7 +3292,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-343-a" ]
     path: /catalogue/cat-180/
 -
@@ -3309,8 +3309,8 @@ object_list:
     material: "Translucent dark blue and dark green glass"
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
-    shape: [ "Head jugs" ]
-    technique: [ "Mold-blown" ]
+    shape: [ "Head Jugs" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-85-AF-320-a", id: "fig-85-AF-320-b", id: "fig-85-AF-320-c", id: "fig-85-AF-320-d", id: "fig-85-AF-320-e" ]
     path: /catalogue/cat-181/
 -
@@ -3327,8 +3327,8 @@ object_list:
     material: "Translucent dark blue and dark green glass"
     modeling_technique_and_decoration: "Mold-blown; applied handle and base"
     inscription: "No"
-    shape: [ "Head jugs" ]
-    technique: [ "Mold-blown" ]
+    shape: [ "Head Jugs" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2004-44-a", id: "fig-2004-44-b", id: "fig-2004-44-c", id: "fig-2004-44-d", id: "fig-2004-44-e", id: "fig-2004-44-f", id: "fig-2004-44-g", id: "fig-2004-44-h" ]
     path: /catalogue/cat-182/
 -
@@ -3345,8 +3345,8 @@ object_list:
     material: "Transparent dark purple glass with pinprick bubbles. The handle is made of a dark blue glass, covered by a brownish crust"
     modeling_technique_and_decoration: "Mold-blown; blown in a bipartite mold of vertical sections, open at base; faint vertical seams at the junction of the heads"
     inscription: "No"
-    shape: [ "Head jugs" ]
-    technique: [ "Mold-blown" ]
+    shape: [ "Head Jugs" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-324-a", id: "fig-2003-324-b", id: "fig-2003-324-c", id: "fig-2003-324-d", id: "fig-2003-324-e", id: "fig-2003-324-f" ]
     path: /catalogue/cat-183/
 -
@@ -3364,7 +3364,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown body in a two-part mold; free-blown neck and rim; applied handle and base"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-332-a", id: "fig-2003-332-b", id: "fig-2003-332-c", id: "fig-2003-332-d" ]
     path: /catalogue/cat-184/
 -
@@ -3382,7 +3382,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; applied elements"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-79-AF-184-13-a", id: "fig-79-AF-184-13-b", id: "fig-79-AF-184-13-c", id: "fig-79-AF-184-13-d" ]
     path: /catalogue/cat-185/
 -
@@ -3400,7 +3400,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; applied elements"
     inscription: "No"
     shape: [ "Oinochoai" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-427-a", id: "fig-2003-427-b", id: "fig-2003-427-c", id: "fig-2003-427-d" ]
     path: /catalogue/cat-186/
 -
@@ -3413,12 +3413,12 @@ object_list:
     start_date: "366"
     end_date: "599"
     production_area: "Syro-Palestinian region"
-    culture: "Roman (Syrian)"
+    culture: "Byzantine"
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Oinochoai" ]
-    technique: 
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-71-AF-83-a", id: "fig-71-AF-83-b", id: "fig-71-AF-83-c", id: "fig-71-AF-83-d" ]
     path: /catalogue/cat-187/
 -
@@ -3436,7 +3436,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-78-AF-24-a", id: "fig-78-AF-24-b", id: "fig-78-AF-24-c", id: "fig-78-AF-24-d", id: "fig-78-AF-24-e", id: "fig-78-AF-24-f", id: "fig-78-AF-24-g" ]
     path: /catalogue/cat-188/
 -
@@ -3449,12 +3449,12 @@ object_list:
     start_date: "433"
     end_date: "632"
     production_area: "Syro-Palestinian region"
-    culture: "Roman or Byzantine"
+    culture: "Byzantine"
     material: "Translucent olive-green glass"
     modeling_technique_and_decoration: "Mold-blown; blown in a two-part mold"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-344-a", id: "fig-2003-344-b", id: "fig-2003-344-c", id: "fig-2003-344-d", id: "fig-2003-344-e", id: "fig-2003-344-f" ]
     path: /catalogue/cat-189/
 -
@@ -3472,7 +3472,7 @@ object_list:
     modeling_technique_and_decoration: "Body mold-blown into a four-part mold of three vertical sections joined to a disk-shaped base section; mold seams between panels 2 and 3, 4 and 5, 6 and 1; free-blown and tooled neck and rim"
     inscription: "No"
     shape: [ "Bottles", "Flasks" ]
-    technique: [ "Mold-blown", "Free-blown" ]
+    technique: [ "Mold-Blown", "Free-Blown" ]
     figure: [ id: "fig-2003-297-a", id: "fig-2003-297-b", id: "fig-2003-297-c", id: "fig-2003-297-d", id: "fig-2003-297-e" ]
     path: /catalogue/cat-190/
 -
@@ -3490,7 +3490,7 @@ object_list:
     modeling_technique_and_decoration: "Body mold-blown in a four-part mold of three vertical sections joined to a disk-shaped base section; mold seams between panels 2 and 3, 4 and 5, 6 and 1; free-blown and tooled neck and rim"
     inscription: "No"
     shape: [ "Bottles", "Flasks" ]
-    technique: [ "Mold-blown", "Free-blown" ]
+    technique: [ "Mold-Blown", "Free-Blown" ]
     figure: [ id: "fig-2003-298-a", id: "fig-2003-298-b", id: "fig-2003-298-c", id: "fig-2003-298-d", id: "fig-2003-298-e" ]
     path: /catalogue/cat-191/
 -
@@ -3508,7 +3508,7 @@ object_list:
     modeling_technique_and_decoration: "Body mold-blown in a four-part mold of three vertical sections joined to a disk-shaped base section; mold seams between panels 2 and 3, 4 and 5, 6 and 1; free-blown and tooled neck and rim"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown", "Free-blown" ]
+    technique: [ "Mold-Blown", "Free-Blown" ]
     figure: [ id: "fig-2003-299-a", id: "fig-2003-299-b", id: "fig-2003-299-c", id: "fig-2003-299-d", id: "fig-2003-299-e" ]
     path: /catalogue/cat-192/
 -
@@ -3526,7 +3526,7 @@ object_list:
     modeling_technique_and_decoration: "Body mold-blown in a three-part mold of three vertical sections; vertical mold seams visible after panels 1, 3, 5; free-blown and tooled neck and rim; relief is not crisp"
     inscription: "No"
     shape: [ "Bottles", "Flasks" ]
-    technique: [ "Mold-blown", "Free-blown" ]
+    technique: [ "Mold-Blown", "Free-Blown" ]
     figure: [ id: "fig-2003-300-a", id: "fig-2003-300-b", id: "fig-2003-300-c", id: "fig-2003-300-d", id: "fig-2003-300-e" ]
     path: /catalogue/cat-193/
 -
@@ -3544,7 +3544,7 @@ object_list:
     modeling_technique_and_decoration: "Body mold-blown in a three-part mold of three vertical sections; vertical mold seams visible after panels 1, 3, and 5; free-blown and tooled neck and rim"
     inscription: "No"
     shape: [ "Bottles", "Flasks" ]
-    technique: [ "Mold-blown", "Free-blown" ]
+    technique: [ "Mold-Blown", "Free-Blown" ]
     figure: [ id: "fig-2003-301-a", id: "fig-2003-301-b", id: "fig-2003-301-c", id: "fig-2003-301-d", id: "fig-2003-301-e", id: "fig-2003-301-f", id: "fig-2003-301-g", id: "fig-2003-301-h" ]
     path: /catalogue/cat-194/
 -
@@ -3562,7 +3562,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Unguentaria" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-333-a", id: "fig-2003-333-b", id: "fig-2003-333-c", id: "fig-2003-333-d" ]
     path: /catalogue/cat-195/
 -
@@ -3580,7 +3580,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Unguentaria" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-334-a", id: "fig-2003-334-b", id: "fig-2003-334-c", id: "fig-2003-334-d" ]
     path: /catalogue/cat-196/
 -
@@ -3598,7 +3598,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Unguentaria", "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-331-a", id: "fig-2003-331-b", id: "fig-2003-331-c", id: "fig-2003-331-d" ]
     path: /catalogue/cat-197/
 -
@@ -3616,7 +3616,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Unguentaria", "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-330-a", id: "fig-2003-330-b", id: "fig-2003-330-c", id: "fig-2003-330-d" ]
     path: /catalogue/cat-198/
 -
@@ -3634,7 +3634,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Unguentaria", "Flasks" ]
-    technique: 
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-329-a", id: "fig-2003-329-b", id: "fig-2003-329-c", id: "fig-2003-329-d" ]
     path: /catalogue/cat-199/
 -
@@ -3652,7 +3652,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Unguentaria" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-325-a", id: "fig-2003-325-b", id: "fig-2003-325-c", id: "fig-2003-325-d", id: "fig-2003-325-e" ]
     path: /catalogue/cat-200/
 -
@@ -3665,12 +3665,12 @@ object_list:
     start_date: "400"
     end_date: "799"
     production_area: "Eastern Mediterranean, probably Palestine"
-    culture: "Roman or Byzantine"
+    culture: "Byzantine"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-345-a", id: "fig-2003-345-b", id: "fig-2003-345-c", id: "fig-2003-345-d", id: "fig-2003-345-e" ]
     path: /catalogue/cat-201/
 -
@@ -3688,7 +3688,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a bipartite mold; neck, diaphragm, and rim free-tooled"
     inscription: "No"
     shape: [ "Sprinklers" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-336-a", id: "fig-2003-336-b", id: "fig-2003-336-c", id: "fig-2003-336-d", id: "fig-2003-336-e" ]
     path: /catalogue/cat-202/
 -
@@ -3706,7 +3706,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; blown in a bipartite mold"
     inscription: "No"
     shape: [ "Sprinklers" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-337-a", id: "fig-2003-337-b", id: "fig-2003-337-c", id: "fig-2003-337-d", id: "fig-2003-337-e" ]
     path: /catalogue/cat-203/
 -
@@ -3724,7 +3724,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown body; free-blown neck and rim"
     inscription: "No"
     shape: [ "Sprinklers", "Flasks" ]
-    technique: [ "Mold-blown", "Free-blown" ]
+    technique: [ "Mold-Blown", "Free-Blown" ]
     figure: [ id: "fig-2003-335-a", id: "fig-2003-335-b", id: "fig-2003-335-c", id: "fig-2003-335-d" ]
     path: /catalogue/cat-204/
 -
@@ -3742,7 +3742,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Amphoriskoi", "Bottles" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-302-a", id: "fig-2003-302-b", id: "fig-2003-302-c", id: "fig-2003-302-d", id: "fig-2003-302-e" ]
     path: /catalogue/cat-205/
 -
@@ -3760,7 +3760,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Amphoriskoi", "Bottles" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-303-a", id: "fig-2003-303-b", id: "fig-2003-303-c", id: "fig-2003-303-d", id: "fig-2003-303-e" ]
     path: /catalogue/cat-206/
 -
@@ -3778,7 +3778,7 @@ object_list:
     modeling_technique_and_decoration: "Body mold-blown in a four-part mold of three vertical sections joined to a cup-shaped base section; neck and rim free-blown and tooled"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Mold-blown", "Free-blown" ]
+    technique: [ "Mold-Blown", "Free-Blown" ]
     figure: [ id: "fig-2003-313-a", id: "fig-2003-313-b", id: "fig-2003-313-c", id: "fig-2003-313-d", id: "fig-2003-313-e" ]
     path: /catalogue/cat-207/
 -
@@ -3796,7 +3796,7 @@ object_list:
     modeling_technique_and_decoration: "Body mold-blown in a four-part mold of three vertical sections joined to a cup-shaped base section; neck and rim free-blown and tooled"
     inscription: "No"
     shape: [ "Jugs", "Flasks" ]
-    technique: [ "Mold-blown", "Free-blown" ]
+    technique: [ "Mold-Blown", "Free-Blown" ]
     figure: [ id: "fig-2003-314-a", id: "fig-2003-314-b", id: "fig-2003-314-c", id: "fig-2003-314-d", id: "fig-2003-314-e" ]
     path: /catalogue/cat-208/
 -
@@ -3814,7 +3814,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown in a two-part mold"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-312-a", id: "fig-2003-312-b", id: "fig-2003-312-c", id: "fig-2003-312-d", id: "fig-2003-312-e" ]
     path: /catalogue/cat-209/
 -
@@ -3832,7 +3832,7 @@ object_list:
     modeling_technique_and_decoration: "Body mold-blown in a two-part mold of two vertical sections; edges of mold carefully aligned; splashware"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-304-a", id: "fig-2003-304-b" ]
     path: /catalogue/cat-210/
 -
@@ -3850,7 +3850,7 @@ object_list:
     modeling_technique_and_decoration: "Body mold-blown in a two-part mold of two vertical sections; edges of mold carefully aligned; the seam is visible along the middle of each side (90° away from the handles)"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-305-a", id: "fig-2003-305-b" ]
     path: /catalogue/cat-211/
 -
@@ -3868,7 +3868,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown in a two-part mold"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-309-a", id: "fig-2003-309-b", id: "fig-2003-309-c", id: "fig-2003-309-d", id: "fig-2003-309-e" ]
     path: /catalogue/cat-212/
 -
@@ -3886,7 +3886,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown in a two-part mold"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-310-a", id: "fig-2003-310-b", id: "fig-2003-310-c", id: "fig-2003-310-d", id: "fig-2003-310-e" ]
     path: /catalogue/cat-213/
 -
@@ -3904,7 +3904,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-308-a", id: "fig-2003-308-b", id: "fig-2003-308-c", id: "fig-2003-308-d", id: "fig-2003-308-e" ]
     path: /catalogue/cat-214/
 -
@@ -3922,7 +3922,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown in a two-part mold"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-311-a", id: "fig-2003-311-b", id: "fig-2003-311-c", id: "fig-2003-311-d", id: "fig-2003-311-e" ]
     path: /catalogue/cat-215/
 -
@@ -3940,7 +3940,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Oinochoai", "Bottles" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-307-a", id: "fig-2003-307-b", id: "fig-2003-307-c", id: "fig-2003-307-d", id: "fig-2003-307-e" ]
     path: /catalogue/cat-216/
 -
@@ -3958,7 +3958,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Oinochoai", "Bottles" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-306-a", id: "fig-2003-306-b", id: "fig-2003-306-c", id: "fig-2003-306-d", id: "fig-2003-306-e" ]
     path: /catalogue/cat-217/
 -
@@ -3976,7 +3976,7 @@ object_list:
     modeling_technique_and_decoration: "Dip mold–blown"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Dip mold–blown" ]
+    technique: [ "Dip Mold–Blown" ]
     figure: [ id: "fig-2003-339-a", id: "fig-2003-339-b" ]
     path: /catalogue/cat-218/
 -
@@ -3994,7 +3994,7 @@ object_list:
     modeling_technique_and_decoration: "Dip mold–blown"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Dip mold–blown" ]
+    technique: [ "Dip Mold–Blown" ]
     figure: [ id: "fig-2003-435-a" ]
     path: /catalogue/cat-219/
 -
@@ -4012,7 +4012,7 @@ object_list:
     modeling_technique_and_decoration: "Dip mold–blown; applied elements"
     inscription: "No"
     shape: [ "Amphorae" ]
-    technique: [ "Dip mold–blown" ]
+    technique: [ "Dip Mold–Blown" ]
     figure: [ id: "fig-2003-414-a", id: "fig-2003-414-b", id: "fig-2003-414-c", id: "fig-2003-414-d" ]
     path: /catalogue/cat-220/
 -
@@ -4030,7 +4030,7 @@ object_list:
     modeling_technique_and_decoration: "Dip mold–blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Dip mold–blown" ]
+    technique: [ "Dip Mold–Blown" ]
     figure: [ id: "fig-2003-429-a" ]
     path: /catalogue/cat-221/
 -
@@ -4048,7 +4048,7 @@ object_list:
     modeling_technique_and_decoration: "Dip mold–blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Dip mold–blown" ]
+    technique: [ "Dip Mold–Blown" ]
     figure: [ id: "fig-2003-340-a" ]
     path: /catalogue/cat-222/
 -
@@ -4061,12 +4061,12 @@ object_list:
     start_date: "350"
     end_date: "432"
     production_area: "Syrian region"
-    culture: "Roman (Syrian)"
+    culture: "Byzantine"
     material: "Transparent greenish glass"
     modeling_technique_and_decoration: "Dip mold–blown"
     inscription: "No"
     shape: [ "Sprinklers", "Flasks" ]
-    technique: [ "Dip mold–blown" ]
+    technique: [ "Dip Mold–Blown" ]
     figure: [ id: "fig-71-AF-81-a", id: "fig-71-AF-81-b", id: "fig-71-AF-81-c", id: "fig-71-AF-81-d", id: "fig-71-AF-81-e" ]
     path: /catalogue/cat-223/
 -
@@ -4079,12 +4079,12 @@ object_list:
     start_date: "350"
     end_date: "432"
     production_area: "Syrian region"
-    culture: "Roman (Syrian)"
+    culture: "Byzantine"
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Dip mold–blown"
     inscription: "No"
     shape: [ "Sprinklers", "Flasks" ]
-    technique: [ "Dip mold–blown" ]
+    technique: [ "Dip Mold–Blown" ]
     figure: [ id: "fig-71-AF-82-a", id: "fig-71-AF-82-b", id: "fig-71-AF-82-c", id: "fig-71-AF-82-d", id: "fig-71-AF-82-e" ]
     path: /catalogue/cat-224/
 -
@@ -4102,7 +4102,7 @@ object_list:
     modeling_technique_and_decoration: "Dip mold–blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Dip mold–blown" ]
+    technique: [ "Dip Mold–Blown" ]
     figure: [ id: "fig-2003-341-a" ]
     path: /catalogue/cat-225/
 -
@@ -4115,12 +4115,12 @@ object_list:
     start_date: "300"
     end_date: "499"
     production_area: "Eastern Mediterranean, Syro-Palestinian region"
-    culture: "Near Eastern (Syro-Palestinian)"
+    culture: "Byzantine"
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Dip mold–blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Dip mold–blown" ]
+    technique: [ "Dip Mold–Blown" ]
     figure: [ id: "fig-78-AF-37-a", id: "fig-78-AF-37-b", id: "fig-78-AF-37-c", id: "fig-78-AF-37-d" ]
     path: /catalogue/cat-226/
 -
@@ -4138,7 +4138,7 @@ object_list:
     modeling_technique_and_decoration: "Dip mold–blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Dip mold–blown" ]
+    technique: [ "Dip Mold–Blown" ]
     figure: [ id: "fig-78-AF-20-a", id: "fig-78-AF-20-b", id: "fig-78-AF-20-c", id: "fig-78-AF-20-d" ]
     path: /catalogue/cat-227/
 -
@@ -4156,7 +4156,7 @@ object_list:
     modeling_technique_and_decoration: "Dip mold–blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Dip mold–blown" ]
+    technique: [ "Dip Mold–Blown" ]
     figure: [ id: "fig-2003-342-a", id: "fig-2003-342-b" ]
     path: /catalogue/cat-228/
 -
@@ -4174,7 +4174,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Plates" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-387-a", id: "fig-2003-387-b", id: "fig-2003-387-c", id: "fig-2003-387-d", id: "fig-2003-387-e", id: "fig-2003-387-f" ]
     path: /catalogue/cat-229/
 -
@@ -4192,7 +4192,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bowls", "Plates" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-78-AF-33-a", id: "fig-78-AF-33-b", id: "fig-78-AF-33-c", id: "fig-78-AF-33-d" ]
     path: /catalogue/cat-230/
 -
@@ -4210,7 +4210,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Dishes" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-76-AF-29-a", id: "fig-76-AF-29-b", id: "fig-76-AF-29-c", id: "fig-76-AF-29-d" ]
     path: /catalogue/cat-231/
 -
@@ -4228,7 +4228,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; incised"
     inscription: "Yes"
     shape: [ "Plates" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-351-a", id: "fig-2003-351-b", id: "fig-2003-351-c", id: "fig-2003-351-d", id: "fig-2003-351-e" ]
     path: /catalogue/cat-232/
 -
@@ -4246,7 +4246,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; splashware"
     inscription: "No"
     shape: [ "Cups", "Modioli" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-290-a", id: "fig-2003-290-b", id: "fig-2003-290-c", id: "fig-2003-290-d", id: "fig-2003-290-e" ]
     path: /catalogue/cat-233/
 -
@@ -4264,7 +4264,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Modioli" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-78-AF-31-a", id: "fig-78-AF-31-b", id: "fig-78-AF-31-c", id: "fig-78-AF-31-d" ]
     path: /catalogue/cat-234/
 -
@@ -4282,7 +4282,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown mass of mosaic florets"
     inscription: "No"
     shape: [ "Cups" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-287-a", id: "fig-2003-287-b" ]
     path: /catalogue/cat-235/
 -
@@ -4300,7 +4300,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-226-a", id: "fig-2003-226-b", id: "fig-2003-226-c", id: "fig-2003-226-d", id: "fig-2003-226-e" ]
     path: /catalogue/cat-236/
 -
@@ -4318,7 +4318,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2004-20-a", id: "fig-2004-20-b" ]
     path: /catalogue/cat-237/
 -
@@ -4331,12 +4331,12 @@ object_list:
     start_date: "1"
     end_date: "49"
     production_area: "Western Roman Empire"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Translucent yellow glass"
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-227-a", id: "fig-2003-227-b", id: "fig-2003-227-c" ]
     path: /catalogue/cat-238/
 -
@@ -4354,7 +4354,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; painted, enameled"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-294-a", id: "fig-2003-294-b", id: "fig-2003-294-c", id: "fig-2003-294-d", id: "fig-2003-294-e" ]
     path: /catalogue/cat-239/
 -
@@ -4372,7 +4372,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; engraved"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-362-a", id: "fig-2003-362-b" ]
     path: /catalogue/cat-240/
 -
@@ -4390,7 +4390,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Cups" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-421-a", id: "fig-2003-421-b", id: "fig-2003-421-c", id: "fig-2003-421-d" ]
     path: /catalogue/cat-241/
 -
@@ -4408,7 +4408,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-388-a" ]
     path: /catalogue/cat-242/
 -
@@ -4421,12 +4421,12 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Mediterranean, probably Italy"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Opaque white glass"
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-238-a", id: "fig-2003-238-b", id: "fig-2003-238-c" ]
     path: /catalogue/cat-243/
 -
@@ -4444,7 +4444,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-372-a", id: "fig-2003-372-b" ]
     path: /catalogue/cat-244/
 -
@@ -4462,7 +4462,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-5-a", id: "fig-79-AF-184-5-b", id: "fig-79-AF-184-5-c", id: "fig-79-AF-184-5-d" ]
     path: /catalogue/cat-245/
 -
@@ -4480,7 +4480,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-363-a", id: "fig-2003-363-b", id: "fig-2003-363-c" ]
     path: /catalogue/cat-246/
 -
@@ -4498,7 +4498,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-379-2-a", id: "fig-2003-379-2-b", id: "fig-2003-379-2-c", id: "fig-2003-379-2-d" ]
     path: /catalogue/cat-247/
 -
@@ -4516,7 +4516,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-78-AF-21-a", id: "fig-78-AF-21-b", id: "fig-78-AF-21-c", id: "fig-78-AF-21-d" ]
     path: /catalogue/cat-248/
 -
@@ -4534,7 +4534,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; pinched"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-78-AF-22-a", id: "fig-78-AF-22-b", id: "fig-78-AF-22-c", id: "fig-78-AF-22-d" ]
     path: /catalogue/cat-249/
 -
@@ -4552,7 +4552,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; wheel-cut"
     inscription: "No"
     shape: [ "Cups" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-348-a", id: "fig-2003-348-b", id: "fig-2003-348-c", id: "fig-2003-348-d" ]
     path: /catalogue/cat-250/
 -
@@ -4570,7 +4570,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; faceted"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-349-a", id: "fig-2003-349-b" ]
     path: /catalogue/cat-251/
 -
@@ -4588,7 +4588,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; faceted"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2004-38-a", id: "fig-2004-38-b", id: "fig-2004-38-c", id: "fig-2004-38-d", id: "fig-2004-38-e" ]
     path: /catalogue/cat-252/
 -
@@ -4606,7 +4606,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; faceted"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2004-37-a", id: "fig-2004-37-b" ]
     path: /catalogue/cat-253/
 -
@@ -4624,7 +4624,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; engraved; applied elements"
     inscription: "No"
     shape: [ "Bowls", "Lamps" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-454-a", id: "fig-2003-454-b", id: "fig-2003-454-c", id: "fig-2003-454-d" ]
     path: /catalogue/cat-254/
 -
@@ -4642,7 +4642,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; engraved; applied elements"
     inscription: "No"
     shape: [ "Bowls", "Lamps" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-455-a", id: "fig-2003-455-b", id: "fig-2003-455-c", id: "fig-2003-455-d", id: "fig-2003-455-e", id: "fig-2003-455-f", id: "fig-2003-455-g", id: "fig-2003-455-h" ]
     path: /catalogue/cat-255/
 -
@@ -4660,7 +4660,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown or molded; wheel-cut and polished"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-96-AF-320-a", id: "fig-96-AF-320-b", id: "fig-96-AF-320-c", id: "fig-96-AF-320-d", id: "fig-96-AF-320-e" ]
     path: /catalogue/cat-256/
 -
@@ -4678,7 +4678,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown or molded; wheel-cut and polished"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-347-a" ]
     path: /catalogue/cat-257/
 -
@@ -4696,7 +4696,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-379-1-a", id: "fig-2003-379-1-b", id: "fig-2003-379-1-c", id: "fig-2003-379-1-d" ]
     path: /catalogue/cat-258/
 -
@@ -4709,12 +4709,12 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Italy or northwestern Europe"
-    culture: "Roman (Syrian)"
+    culture: "Roman"
     material: "Translucent amber-greenish glass"
     modeling_technique_and_decoration: "Free-blown; incised"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-71-AF-84-a", id: "fig-71-AF-84-b", id: "fig-71-AF-84-c", id: "fig-71-AF-84-d" ]
     path: /catalogue/cat-259/
 -
@@ -4732,7 +4732,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-78-AF-28-a", id: "fig-78-AF-28-b", id: "fig-78-AF-28-c", id: "fig-78-AF-28-d" ]
     path: /catalogue/cat-260/
 -
@@ -4750,7 +4750,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-412-a" ]
     path: /catalogue/cat-261/
 -
@@ -4768,7 +4768,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; pinched"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2004-41-a", id: "fig-2004-41-b" ]
     path: /catalogue/cat-262/
 -
@@ -4786,7 +4786,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-423-a" ]
     path: /catalogue/cat-263/
 -
@@ -4804,7 +4804,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-443-a", id: "fig-2003-443-b", id: "fig-2003-443-c", id: "fig-2003-443-d" ]
     path: /catalogue/cat-264/
 -
@@ -4822,7 +4822,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Beakers" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-444-a", id: "fig-2003-444-b", id: "fig-2003-444-c", id: "fig-2003-444-d" ]
     path: /catalogue/cat-265/
 -
@@ -4840,7 +4840,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Skyphoi" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-361-a" ]
     path: /catalogue/cat-266/
 -
@@ -4858,7 +4858,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Kantharoi" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-84-AF-30-a", id: "fig-84-AF-30-b", id: "fig-84-AF-30-c", id: "fig-84-AF-30-d", id: "fig-84-AF-30-e" ]
     path: /catalogue/cat-267/
 -
@@ -4876,7 +4876,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-402-a", id: "fig-2003-402-b", id: "fig-2003-402-c", id: "fig-2003-402-d" ]
     path: /catalogue/cat-268/
 -
@@ -4889,12 +4889,12 @@ object_list:
     start_date: "300"
     end_date: "499"
     production_area: "Eastern Mediterranean, probably Palestine"
-    culture: "Near Eastern (Syro-Palestinian)"
+    culture: "Byzantine"
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Free-blown; applied handles"
     inscription: "No"
     shape: [ "Amphorae" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-78-AF-18-a", id: "fig-78-AF-18-b", id: "fig-78-AF-18-c", id: "fig-78-AF-18-d" ]
     path: /catalogue/cat-269/
 -
@@ -4912,7 +4912,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-96-AF-56-a", id: "fig-96-AF-56-b", id: "fig-96-AF-56-c", id: "fig-96-AF-56-d", id: "fig-96-AF-56-e" ]
     path: /catalogue/cat-270/
 -
@@ -4930,7 +4930,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; indented"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-408-a" ]
     path: /catalogue/cat-271/
 -
@@ -4948,7 +4948,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; incised"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-390-a" ]
     path: /catalogue/cat-272/
 -
@@ -4966,7 +4966,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; incised"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2004-39-a", id: "fig-2004-39-b", id: "fig-2004-39-c", id: "fig-2004-39-d", id: "fig-2004-39-e" ]
     path: /catalogue/cat-273/
 -
@@ -4984,7 +4984,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; incised"
     inscription: "Yes"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-352-a", id: "fig-2003-352-b", id: "fig-2003-352-c", id: "fig-2003-352-d" ]
     path: /catalogue/cat-274/
 -
@@ -5002,7 +5002,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-424-a" ]
     path: /catalogue/cat-275/
 -
@@ -5020,7 +5020,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-439-a" ]
     path: /catalogue/cat-276/
 -
@@ -5038,7 +5038,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2004-43-a", id: "fig-2004-43-b" ]
     path: /catalogue/cat-277/
 -
@@ -5056,7 +5056,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-440-a", id: "fig-2003-440-b", id: "fig-2003-440-c" ]
     path: /catalogue/cat-278/
 -
@@ -5074,7 +5074,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-445-a", id: "fig-2003-445-b", id: "fig-2003-445-c", id: "fig-2003-445-d" ]
     path: /catalogue/cat-279/
 -
@@ -5092,7 +5092,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-366-a", id: "fig-2003-366-b" ]
     path: /catalogue/cat-280/
 -
@@ -5105,12 +5105,12 @@ object_list:
     start_date: "533"
     end_date: "649"
     production_area: "Eastern Mediterranean, Palestine"
-    culture: "Near Eastern (Syro-Palestinian)"
+    culture: "Byzantine"
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-71-AF-85-a" ]
     path: /catalogue/cat-281/
 -
@@ -5128,7 +5128,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; pinched"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-436-a" ]
     path: /catalogue/cat-282/
 -
@@ -5146,7 +5146,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; pinched"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-449-a" ]
     path: /catalogue/cat-283/
 -
@@ -5159,12 +5159,12 @@ object_list:
     start_date: "1"
     end_date: "32"
     production_area: "Italy or eastern Mediterranean"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Opaque white and probably yellow glass"
     modeling_technique_and_decoration: "Free-blown; applied thread; pierced spout"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-245-a" ]
     path: /catalogue/cat-284/
 -
@@ -5182,7 +5182,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; tooled"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-381-a" ]
     path: /catalogue/cat-285/
 -
@@ -5200,7 +5200,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; tooled"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-382-a", id: "fig-2003-382-b" ]
     path: /catalogue/cat-286/
 -
@@ -5218,7 +5218,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; tooled"
     inscription: "No"
     shape: [ "Askoi", "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-383-a" ]
     path: /catalogue/cat-287/
 -
@@ -5236,7 +5236,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; tooled"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-447-a" ]
     path: /catalogue/cat-288/
 -
@@ -5254,7 +5254,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-476-b", id: "fig-2003-476-a", id: "fig-2003-476-c", id: "fig-2003-476-d" ]
     path: /catalogue/cat-289/
 -
@@ -5272,7 +5272,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; wheel-cut and polished"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-346-a" ]
     path: /catalogue/cat-290/
 -
@@ -5290,7 +5290,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-377-b", id: "fig-2003-377-d", id: "fig-2003-377-c", id: "fig-2003-377-a" ]
     path: /catalogue/cat-291/
 -
@@ -5308,7 +5308,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-373-a", id: "fig-2003-373-b" ]
     path: /catalogue/cat-292/
 -
@@ -5326,7 +5326,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-391-a", id: "fig-2003-391-b" ]
     path: /catalogue/cat-293/
 -
@@ -5344,7 +5344,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-78-AF-34-a", id: "fig-78-AF-34-b", id: "fig-78-AF-34-c", id: "fig-78-AF-34-d" ]
     path: /catalogue/cat-294/
 -
@@ -5362,7 +5362,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-284-d", id: "fig-2003-284-a", id: "fig-2003-284-c", id: "fig-2003-284-b" ]
     path: /catalogue/cat-295/
 -
@@ -5380,7 +5380,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-376-c", id: "fig-2003-376-b", id: "fig-2003-376-d", id: "fig-2003-376-a" ]
     path: /catalogue/cat-296/
 -
@@ -5398,7 +5398,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Oinochoai" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-393-a", id: "fig-2003-393-b", id: "fig-2003-393-c" ]
     path: /catalogue/cat-297/
 -
@@ -5416,7 +5416,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-428-d", id: "fig-2003-428-a", id: "fig-2003-428-c", id: "fig-2003-428-b" ]
     path: /catalogue/cat-298/
 -
@@ -5434,7 +5434,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-422-b", id: "fig-2003-422-a" ]
     path: /catalogue/cat-299/
 -
@@ -5452,7 +5452,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Oinochoai" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-410-c", id: "fig-2003-410-b", id: "fig-2003-410-d", id: "fig-2003-410-a" ]
     path: /catalogue/cat-300/
 -
@@ -5470,7 +5470,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-413-d", id: "fig-2003-413-a", id: "fig-2003-413-c", id: "fig-2003-413-b" ]
     path: /catalogue/cat-301/
 -
@@ -5488,7 +5488,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-433-a" ]
     path: /catalogue/cat-302/
 -
@@ -5506,7 +5506,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-434-a", id: "fig-2003-434-b", id: "fig-2003-434-c", id: "fig-2003-434-d", id: "fig-2003-434-e" ]
     path: /catalogue/cat-303/
 -
@@ -5524,7 +5524,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-452-a" ]
     path: /catalogue/cat-304/
 -
@@ -5542,7 +5542,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-450-a", id: "fig-2003-450-b", id: "fig-2003-450-c", id: "fig-2003-450-d" ]
     path: /catalogue/cat-305/
 -
@@ -5560,7 +5560,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Jugs" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-288-a", id: "fig-2003-288-b", id: "fig-2003-288-c", id: "fig-2003-288-d" ]
     path: /catalogue/cat-306/
 -
@@ -5573,12 +5573,12 @@ object_list:
     start_date: "100"
     end_date: "299"
     production_area: "Asia Minor"
-    culture: "Roman (Syrian)"
+    culture: "Roman"
     material: "Translucent blue-green glass"
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bottles" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-71-AF-79-a", id: "fig-71-AF-79-b", id: "fig-71-AF-79-c", id: "fig-71-AF-79-d", id: "fig-71-AF-79-e", id: "fig-71-AF-79-f" ]
     path: /catalogue/cat-307/
 -
@@ -5595,8 +5595,8 @@ object_list:
     material: "Transparent bluish glass"
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
-    shape: [ "Cinerary urns" ]
-    technique: [ "Free-blown" ]
+    shape: [ "Cinerary Urns" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-80-AF-125-a", id: "fig-80-AF-125-b", id: "fig-80-AF-125-c", id: "fig-80-AF-125-d", id: "fig-80-AF-125-e", id: "fig-80-AF-125-f" ]
     path: /catalogue/cat-308/
 -
@@ -5614,7 +5614,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Jars" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-392-a", id: "fig-2003-392-b" ]
     path: /catalogue/cat-309/
 -
@@ -5632,7 +5632,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bowls", "Jars" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-394-a" ]
     path: /catalogue/cat-310/
 -
@@ -5650,7 +5650,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Jars" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-400-a" ]
     path: /catalogue/cat-311/
 -
@@ -5668,7 +5668,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Jars" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-398-a", id: "fig-2003-398-b" ]
     path: /catalogue/cat-312/
 -
@@ -5686,7 +5686,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Jars" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-399-a" ]
     path: /catalogue/cat-313/
 -
@@ -5704,7 +5704,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Jars" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-411-a" ]
     path: /catalogue/cat-314/
 -
@@ -5722,7 +5722,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; pinched"
     inscription: "No"
     shape: [ "Jars" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-78-AF-25-a", id: "fig-78-AF-25-b", id: "fig-78-AF-25-c", id: "fig-78-AF-25-d" ]
     path: /catalogue/cat-315/
 -
@@ -5740,7 +5740,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Jars" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-375-a", id: "fig-2003-375-b" ]
     path: /catalogue/cat-316/
 -
@@ -5758,7 +5758,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-270-a", id: "fig-2003-270-b", id: "fig-2003-270-c", id: "fig-2003-270-d" ]
     path: /catalogue/cat-317/
 -
@@ -5776,7 +5776,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-269-a", id: "fig-2003-269-b", id: "fig-2003-269-c", id: "fig-2003-269-d" ]
     path: /catalogue/cat-318/
 -
@@ -5794,7 +5794,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-271-a" ]
     path: /catalogue/cat-319/
 -
@@ -5812,7 +5812,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-272-a" ]
     path: /catalogue/cat-320/
 -
@@ -5830,7 +5830,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-282-a", id: "fig-2003-282-b", id: "fig-2003-282-c", id: "fig-2003-282-d", id: "fig-2003-282-e" ]
     path: /catalogue/cat-321/
 -
@@ -5848,7 +5848,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-286-a" ]
     path: /catalogue/cat-322/
 -
@@ -5861,12 +5861,12 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean or Italy"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Translucent purple glass"
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-244-a", id: "fig-2003-244-b", id: "fig-2003-244-c", id: "fig-2003-244-d" ]
     path: /catalogue/cat-323/
 -
@@ -5884,7 +5884,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-285-a", id: "fig-2003-285-b", id: "fig-2003-285-c", id: "fig-2003-285-d", id: "fig-2003-285-e", id: "fig-2003-285-f" ]
     path: /catalogue/cat-324/
 -
@@ -5902,7 +5902,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-268-a" ]
     path: /catalogue/cat-325/
 -
@@ -5920,7 +5920,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements; pinched"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-280-a" ]
     path: /catalogue/cat-326/
 -
@@ -5938,7 +5938,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-283-a", id: "fig-2003-283-b", id: "fig-2003-283-c", id: "fig-2003-283-d" ]
     path: /catalogue/cat-327/
 -
@@ -5956,7 +5956,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-397-a", id: "fig-2003-397-b", id: "fig-2003-397-c", id: "fig-2003-397-d" ]
     path: /catalogue/cat-328/
 -
@@ -5974,7 +5974,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-420-a" ]
     path: /catalogue/cat-329/
 -
@@ -5992,7 +5992,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2004-40-a" ]
     path: /catalogue/cat-330/
 -
@@ -6010,7 +6010,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-418-a", id: "fig-2003-418-b" ]
     path: /catalogue/cat-331/
 -
@@ -6028,7 +6028,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-415-a" ]
     path: /catalogue/cat-332/
 -
@@ -6046,7 +6046,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-416-a" ]
     path: /catalogue/cat-333/
 -
@@ -6064,7 +6064,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-242-a", id: "fig-2003-242-b", id: "fig-2003-242-c", id: "fig-2003-242-d" ]
     path: /catalogue/cat-334/
 -
@@ -6077,12 +6077,12 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Italy or eastern Mediterranean"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Opaque white glass"
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-243-a", id: "fig-2003-243-b", id: "fig-2003-243-c", id: "fig-2003-243-d" ]
     path: /catalogue/cat-335/
 -
@@ -6100,7 +6100,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: 
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-365-a" ]
     path: /catalogue/cat-336/
 -
@@ -6118,7 +6118,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown and pressed"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-82-AI-76-21-a", id: "fig-82-AI-76-21-b", id: "fig-82-AI-76-21-c", id: "fig-82-AI-76-21-d", id: "fig-82-AI-76-21-e" ]
     path: /catalogue/cat-337/
 -
@@ -6136,7 +6136,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Unguentaria" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-369-a" ]
     path: /catalogue/cat-338/
 -
@@ -6154,7 +6154,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Unguentaria" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-370-a" ]
     path: /catalogue/cat-339/
 -
@@ -6172,7 +6172,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Unguentaria" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-2-a", id: "fig-79-AF-184-2-b", id: "fig-79-AF-184-2-c", id: "fig-79-AF-184-2-d" ]
     path: /catalogue/cat-340/
 -
@@ -6190,7 +6190,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Unguentaria" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-3-a", id: "fig-79-AF-184-3-b", id: "fig-79-AF-184-3-c", id: "fig-79-AF-184-3-d" ]
     path: /catalogue/cat-341/
 -
@@ -6208,7 +6208,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-18-a", id: "fig-79-AF-184-18-b", id: "fig-79-AF-184-18-c", id: "fig-79-AF-184-18-d" ]
     path: /catalogue/cat-342/
 -
@@ -6226,7 +6226,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Unguentaria" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-98-AF-56-a", id: "fig-98-AF-56-b" ]
     path: /catalogue/cat-343/
 -
@@ -6244,7 +6244,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Sprinklers", "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-409-a" ]
     path: /catalogue/cat-344/
 -
@@ -6262,7 +6262,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements, pinched"
     inscription: "No"
     shape: [ "Sprinklers", "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-477-a", id: "fig-2003-477-b", id: "fig-2003-477-c", id: "fig-2003-477-d" ]
     path: /catalogue/cat-345/
 -
@@ -6280,7 +6280,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; pinched"
     inscription: "No"
     shape: [ "Sprinklers", "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-437-a" ]
     path: /catalogue/cat-346/
 -
@@ -6298,7 +6298,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; pinched"
     inscription: "No"
     shape: [ "Sprinklers", "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2004-42-a", id: "fig-2004-42-b", id: "fig-2004-42-c", id: "fig-2004-42-d" ]
     path: /catalogue/cat-347/
 -
@@ -6316,7 +6316,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Sprinklers", "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-289-a" ]
     path: /catalogue/cat-348/
 -
@@ -6334,7 +6334,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; pinched"
     inscription: "No"
     shape: [ "Sprinklers", "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-438-a" ]
     path: /catalogue/cat-349/
 -
@@ -6352,7 +6352,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown, pinched"
     inscription: "No"
     shape: [ "Sprinklers", "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-448-a" ]
     path: /catalogue/cat-350/
 -
@@ -6370,7 +6370,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-8-a", id: "fig-79-AF-184-8-b", id: "fig-79-AF-184-8-c", id: "fig-79-AF-184-8-d" ]
     path: /catalogue/cat-351/
 -
@@ -6388,7 +6388,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Aryballoi" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-292-a", id: "fig-2003-292-b" ]
     path: /catalogue/cat-352/
 -
@@ -6406,7 +6406,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Aryballoi" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-374-a" ]
     path: /catalogue/cat-353/
 -
@@ -6419,12 +6419,12 @@ object_list:
     start_date: "166"
     end_date: "232"
     production_area: "Western Roman Empire, probably Italy"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Opaque green, yellow, and red glass"
     modeling_technique_and_decoration: "Free-blown matrix of mosaic florets"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-241-a", id: "fig-2003-241-b" ]
     path: /catalogue/cat-354/
 -
@@ -6442,7 +6442,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; splashware"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-291-a" ]
     path: /catalogue/cat-355/
 -
@@ -6460,7 +6460,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-367-a", id: "fig-2003-367-b", id: "fig-2003-367-c", id: "fig-2003-367-d" ]
     path: /catalogue/cat-356/
 -
@@ -6478,7 +6478,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-368-a", id: "fig-2003-368-b", id: "fig-2003-368-c", id: "fig-2003-368-d" ]
     path: /catalogue/cat-357/
 -
@@ -6496,7 +6496,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-364-a", id: "fig-2003-364-b", id: "fig-2003-364-c", id: "fig-2003-364-d" ]
     path: /catalogue/cat-358/
 -
@@ -6514,7 +6514,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Amphoriskoi", "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-419-a" ]
     path: /catalogue/cat-359/
 -
@@ -6532,7 +6532,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-389-a", id: "fig-2003-389-b" ]
     path: /catalogue/cat-360/
 -
@@ -6550,7 +6550,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-425-a", id: "fig-2003-425-b" ]
     path: /catalogue/cat-361/
 -
@@ -6568,7 +6568,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks", "Amphoriskoi" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-430-a", id: "fig-2003-430-b", id: "fig-2003-430-c", id: "fig-2003-430-d" ]
     path: /catalogue/cat-362/
 -
@@ -6586,7 +6586,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; incised"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-350-a", id: "fig-2003-350-b", id: "fig-2003-350-c", id: "fig-2003-350-d", id: "fig-2003-350-e", id: "fig-2003-350-f" ]
     path: /catalogue/cat-363/
 -
@@ -6599,12 +6599,12 @@ object_list:
     start_date: "200"
     end_date: "399"
     production_area: "Eastern Mediterranean, Syro-Palestinian region"
-    culture: "Near Eastern (Syro-Palestinian)"
+    culture: "Byzantine"
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-78-AF-35-a", id: "fig-78-AF-35-b", id: "fig-78-AF-35-c", id: "fig-78-AF-35-d" ]
     path: /catalogue/cat-364/
 -
@@ -6622,7 +6622,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-426-a" ]
     path: /catalogue/cat-365/
 -
@@ -6640,7 +6640,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Amphoriskoi" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-417-a", id: "fig-2003-417-b" ]
     path: /catalogue/cat-366/
 -
@@ -6658,7 +6658,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-78-AF-19-a", id: "fig-78-AF-19-b", id: "fig-78-AF-19-c", id: "fig-78-AF-19-d" ]
     path: /catalogue/cat-367/
 -
@@ -6671,12 +6671,12 @@ object_list:
     start_date: "500"
     end_date: "599"
     production_area: "Syro-Palestinian region"
-    culture: "Byzantine (Syrian, Palestinian)"
+    culture: "Byzantine"
     material: "Transparent amber-brown and greenish glass"
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-71-AF-80-a", id: "fig-71-AF-80-b", id: "fig-71-AF-80-c", id: "fig-71-AF-80-d" ]
     path: /catalogue/cat-368/
 -
@@ -6693,8 +6693,8 @@ object_list:
     material: "Transparent dark green glass"
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
-    shape: [ "Kohl tubes" ]
-    technique: [ "Free-blown" ]
+    shape: [ "Kohl Tubes" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-431-a", id: "fig-2003-431-b" ]
     path: /catalogue/cat-369/
 -
@@ -6711,8 +6711,8 @@ object_list:
     material: "Transparent light green glass"
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
-    shape: [ "Kohl tubes" ]
-    technique: [ "Free-blown" ]
+    shape: [ "Kohl Tubes" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-432-a", id: "fig-2003-432-b", id: "fig-2003-432-c", id: "fig-2003-432-d" ]
     path: /catalogue/cat-370/
 -
@@ -6730,7 +6730,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-396-a", id: "fig-2003-396-b", id: "fig-2003-396-c", id: "fig-2003-396-d" ]
     path: /catalogue/cat-371/
 -
@@ -6743,12 +6743,12 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Possibly eastern Mediterranean"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Transparent dark blue glass"
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Inkwells" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-239-a", id: "fig-2003-239-b", id: "fig-2003-239-c", id: "fig-2003-239-d", id: "fig-2003-239-e", id: "fig-2003-239-f" ]
     path: /catalogue/cat-372/
 -
@@ -6761,12 +6761,12 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Possibly eastern Mediterranean"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Translucent amber-colored glass"
     modeling_technique_and_decoration: "Free-blown; tooled"
     inscription: "No"
     shape: [ "Inkwells" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-240-a", id: "fig-2003-240-b", id: "fig-2003-240-c", id: "fig-2003-240-d", id: "fig-2003-240-e", id: "fig-2003-240-f" ]
     path: /catalogue/cat-373/
 -
@@ -6784,7 +6784,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Inkwells" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-378-a" ]
     path: /catalogue/cat-374/
 -
@@ -6797,12 +6797,12 @@ object_list:
     start_date: "1"
     end_date: "199"
     production_area: "Roman Empire"
-    culture: "Byzantine"
+    culture: "Roman"
     material: "Translucent yellow-green glass"
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Inkwells" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-453-a", id: "fig-2003-453-b", id: "fig-2003-453-c" ]
     path: /catalogue/cat-375/
 -
@@ -6819,8 +6819,8 @@ object_list:
     material: "Translucent dark green glass"
     modeling_technique_and_decoration: "Rod-formed"
     inscription: "No"
-    shape: [ "Kohl tubes" ]
-    technique: [ "Rod-formed" ]
+    shape: [ "Kohl Tubes" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2003-470-a" ]
     path: /catalogue/cat-376/
 -
@@ -6837,8 +6837,8 @@ object_list:
     material: "Opaque turquoise glass"
     modeling_technique_and_decoration: "Rod-formed; applied elements"
     inscription: "No"
-    shape: [ "Kohl tubes" ]
-    technique: [ "Rod-formed" ]
+    shape: [ "Kohl Tubes" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2003-469-a" ]
     path: /catalogue/cat-377/
 -
@@ -6855,8 +6855,8 @@ object_list:
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Rod-formed; applied elements"
     inscription: "No"
-    shape: [ "Kohl tubes" ]
-    technique: [ "Rod-formed" ]
+    shape: [ "Kohl Tubes" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2003-468-a" ]
     path: /catalogue/cat-378/
 -
@@ -6869,12 +6869,12 @@ object_list:
     start_date: "600"
     end_date: "799"
     production_area: "Eastern Mediterranean, probably Syro-Palestinian region"
-    culture: "Byzantine or Islamic"
+    culture: "Islamic"
     material: "Dark green, seemingly black, glass"
     modeling_technique_and_decoration: "Rod-formed; applied elements"
     inscription: "No"
-    shape: [ "Kohl tubes" ]
-    technique: [ "Rod-formed" ]
+    shape: [ "Kohl Tubes" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2003-463-a", id: "fig-2003-463-b" ]
     path: /catalogue/cat-379/
 -
@@ -6892,7 +6892,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown; wheel-cutting"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-79-AF-184-19-a", id: "fig-79-AF-184-19-b", id: "fig-79-AF-184-19-c", id: "fig-79-AF-184-19-d" ]
     path: /catalogue/cat-380/
 -
@@ -6910,7 +6910,7 @@ object_list:
     modeling_technique_and_decoration: "Molded and cut"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-79-AF-184-33-a", id: "fig-79-AF-184-33-b", id: "fig-79-AF-184-33-c", id: "fig-79-AF-184-33-d" ]
     path: /catalogue/cat-381/
 -
@@ -6928,7 +6928,7 @@ object_list:
     modeling_technique_and_decoration: "Molded and cut"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-79-AF-184-43-a", id: "fig-79-AF-184-43-b", id: "fig-79-AF-184-43-c", id: "fig-79-AF-184-43-d" ]
     path: /catalogue/cat-382/
 -
@@ -6941,12 +6941,12 @@ object_list:
     start_date: "800"
     end_date: "999"
     production_area: "Eastern Mediterranean"
-    culture: "Byzantine or Islamic"
+    culture: "Islamic"
     material: "Transparent, colorless glass"
     modeling_technique_and_decoration: "Mold-blown; wheel-cutting"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-472-a" ]
     path: /catalogue/cat-383/
 -
@@ -6964,7 +6964,7 @@ object_list:
     modeling_technique_and_decoration: "Molded and cut"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-79-AF-184-39-a", id: "fig-79-AF-184-39-b", id: "fig-79-AF-184-39-c", id: "fig-79-AF-184-39-d" ]
     path: /catalogue/cat-384/
 -
@@ -6982,7 +6982,7 @@ object_list:
     modeling_technique_and_decoration: "Molded and cut"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-79-AF-184-37-a", id: "fig-79-AF-184-37-b", id: "fig-79-AF-184-37-c", id: "fig-79-AF-184-37-d" ]
     path: /catalogue/cat-385/
 -
@@ -7000,7 +7000,7 @@ object_list:
     modeling_technique_and_decoration: "Molded and cut"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-79-AF-184-35-a", id: "fig-79-AF-184-35-b", id: "fig-79-AF-184-35-c", id: "fig-79-AF-184-35-d" ]
     path: /catalogue/cat-386/
 -
@@ -7018,7 +7018,7 @@ object_list:
     modeling_technique_and_decoration: "Molded and cut"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-79-AF-184-36-a", id: "fig-79-AF-184-36-b", id: "fig-79-AF-184-36-c", id: "fig-79-AF-184-36-d" ]
     path: /catalogue/cat-387/
 -
@@ -7036,7 +7036,7 @@ object_list:
     modeling_technique_and_decoration: "Molded and cut"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-79-AF-184-44-a", id: "fig-79-AF-184-44-b", id: "fig-79-AF-184-44-c", id: "fig-79-AF-184-44-d" ]
     path: /catalogue/cat-388/
 -
@@ -7054,7 +7054,7 @@ object_list:
     modeling_technique_and_decoration: "Molded and cut"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-79-AF-184-45-a", id: "fig-79-AF-184-45-b", id: "fig-79-AF-184-45-c", id: "fig-79-AF-184-45-d" ]
     path: /catalogue/cat-389/
 -
@@ -7072,7 +7072,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-79-AF-184-28-a", id: "fig-79-AF-184-28-b", id: "fig-79-AF-184-28-c", id: "fig-79-AF-184-28-d" ]
     path: /catalogue/cat-390/
 -
@@ -7090,7 +7090,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-40-a", id: "fig-79-AF-184-40-b", id: "fig-79-AF-184-40-c", id: "fig-79-AF-184-40-d" ]
     path: /catalogue/cat-391/
 -
@@ -7108,7 +7108,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown and cut"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-79-AF-184-42-a", id: "fig-79-AF-184-42-b", id: "fig-79-AF-184-42-c", id: "fig-79-AF-184-42-d" ]
     path: /catalogue/cat-392/
 -
@@ -7126,7 +7126,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-79-AF-184-7-a", id: "fig-79-AF-184-7-b", id: "fig-79-AF-184-7-c", id: "fig-79-AF-184-7-d" ]
     path: /catalogue/cat-393/
 -
@@ -7139,12 +7139,12 @@ object_list:
     start_date: "800"
     end_date: "999"
     production_area: "Eastern Mediterranean"
-    culture: "Byzantine"
+    culture: "Islamic"
     material: "Translucent purple glass"
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-471-a" ]
     path: /catalogue/cat-394/
 -
@@ -7162,7 +7162,7 @@ object_list:
     modeling_technique_and_decoration: "Mold-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Mold-blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-338-a", id: "fig-2003-338-b", id: "fig-2003-338-c", id: "fig-2003-338-d", id: "fig-2003-338-e" ]
     path: /catalogue/cat-395/
 -
@@ -7180,7 +7180,7 @@ object_list:
     modeling_technique_and_decoration: "Dip mold–blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Dip mold–blown" ]
+    technique: [ "Dip Mold–Blown" ]
     figure: [ id: "fig-78-AF-36-a", id: "fig-78-AF-36-b", id: "fig-78-AF-36-c", id: "fig-78-AF-36-d" ]
     path: /catalogue/cat-396/
 -
@@ -7198,7 +7198,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-47-a", id: "fig-79-AF-184-47-b", id: "fig-79-AF-184-47-c", id: "fig-79-AF-184-47-d" ]
     path: /catalogue/cat-397/
 -
@@ -7211,12 +7211,12 @@ object_list:
     start_date: "700"
     end_date: "899"
     production_area: "Eastern Mediterranean, Syro-Palestinian region"
-    culture: "Near Eastern (Syro-Palestinian)"
+    culture: "Byzantine"
     material: "Opaque red glass"
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-478-a", id: "fig-2003-478-b", id: "fig-2003-478-c", id: "fig-2003-478-d", id: "fig-2003-478-e", id: "fig-2003-478-f", id: "fig-2003-478-g" ]
     path: /catalogue/cat-398/
 -
@@ -7229,12 +7229,12 @@ object_list:
     start_date: "600"
     end_date: "799"
     production_area: "Syrian region"
-    culture: "Byzantine-Islamic"
+    culture: "Islamic"
     material: "Greenish and turquoise glass"
     modeling_technique_and_decoration: "Free-blown; tooled"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-467-a", id: "fig-2003-467-b", id: "fig-2003-467-c", id: "fig-2003-467-d", id: "fig-2003-467-e" ]
     path: /catalogue/cat-399/
 -
@@ -7247,12 +7247,12 @@ object_list:
     start_date: "600"
     end_date: "799"
     production_area: "Syrian region"
-    culture: "Byzantine-Islamic"
+    culture: "Islamic"
     material: "Translucent greenish and yellowish glass"
     modeling_technique_and_decoration: "Free-blown and tooled"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-78-AF-29-a", id: "fig-78-AF-29-b", id: "fig-78-AF-29-c", id: "fig-78-AF-29-d", id: "fig-78-AF-29-e" ]
     path: /catalogue/cat-400/
 -
@@ -7270,7 +7270,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-12-a", id: "fig-79-AF-184-12-b", id: "fig-79-AF-184-12-c", id: "fig-79-AF-184-12-d" ]
     path: /catalogue/cat-401/
 -
@@ -7288,7 +7288,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown, applied base"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-9-a", id: "fig-79-AF-184-9-b", id: "fig-79-AF-184-9-c", id: "fig-79-AF-184-9-d" ]
     path: /catalogue/cat-402/
 -
@@ -7306,7 +7306,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Bottles" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-78-AF-23-a" ]
     path: /catalogue/cat-403/
 -
@@ -7324,7 +7324,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-464-a" ]
     path: /catalogue/cat-404/
 -
@@ -7342,7 +7342,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; pinched"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-465-a", id: "fig-2003-465-b" ]
     path: /catalogue/cat-405/
 -
@@ -7360,7 +7360,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2004-33-a" ]
     path: /catalogue/cat-406/
 -
@@ -7378,7 +7378,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; cutting"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-78-AK-30-a", id: "fig-78-AK-30-b", id: "fig-78-AK-30-c", id: "fig-78-AK-30-d" ]
     path: /catalogue/cat-407/
 -
@@ -7396,7 +7396,7 @@ object_list:
     modeling_technique_and_decoration: "Blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-11-a", id: "fig-79-AF-184-11-b", id: "fig-79-AF-184-11-c", id: "fig-79-AF-184-11-d" ]
     path: /catalogue/cat-408/
 -
@@ -7409,12 +7409,12 @@ object_list:
     start_date: "800"
     end_date: "1199"
     production_area: "Eastern Mediterranean"
-    culture: "Byzantine"
+    culture: "Islamic"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-446-a" ]
     path: /catalogue/cat-409/
 -
@@ -7427,12 +7427,12 @@ object_list:
     start_date: "800"
     end_date: "1199"
     production_area: "Eastern Mediterranean"
-    culture: "Byzantine or Islamic"
+    culture: "Islamic"
     material: "Translucent purple and opaque light blue-gray, green, yellow, and red glass"
     modeling_technique_and_decoration: "Free-blown; applied elements, marvered"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-466-a", id: "fig-2003-466-b", id: "fig-2003-466-c", id: "fig-2003-466-d", id: "fig-2003-466-e", id: "fig-2003-466-f" ]
     path: /catalogue/cat-410/
 -
@@ -7445,12 +7445,12 @@ object_list:
     start_date: "800"
     end_date: "1099"
     production_area: "Eastern Mediterranean"
-    culture: "Byzantine"
+    culture: "Islamic"
     material: "Translucent dark green and opaque red glass"
     modeling_technique_and_decoration: "Free-blown; marvered, tooled"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-461-a", id: "fig-2003-461-b", id: "fig-2003-461-c", id: "fig-2003-461-d", id: "fig-2003-461-e", id: "fig-2003-461-f" ]
     path: /catalogue/cat-411/
 -
@@ -7468,7 +7468,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-23-a", id: "fig-79-AF-184-23-b", id: "fig-79-AF-184-23-c", id: "fig-79-AF-184-23-d" ]
     path: /catalogue/cat-412/
 -
@@ -7486,7 +7486,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-46-a", id: "fig-79-AF-184-46-b", id: "fig-79-AF-184-46-c", id: "fig-79-AF-184-46-d" ]
     path: /catalogue/cat-413/
 -
@@ -7504,7 +7504,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-27-a", id: "fig-79-AF-184-27-b", id: "fig-79-AF-184-27-c", id: "fig-79-AF-184-27-d" ]
     path: /catalogue/cat-414/
 -
@@ -7522,7 +7522,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-21-a", id: "fig-79-AF-184-21-b", id: "fig-79-AF-184-21-c", id: "fig-79-AF-184-21-d" ]
     path: /catalogue/cat-415/
 -
@@ -7540,7 +7540,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-41-a", id: "fig-79-AF-184-41-b", id: "fig-79-AF-184-41-c" ]
     path: /catalogue/cat-416/
 -
@@ -7558,7 +7558,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; wheel-cutting"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-473-a", id: "fig-2003-473-b", id: "fig-2003-473-c", id: "fig-2003-473-d" ]
     path: /catalogue/cat-417/
 -
@@ -7576,7 +7576,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown and ground"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-24-a", id: "fig-79-AF-184-24-b", id: "fig-79-AF-184-24-c", id: "fig-79-AF-184-24-d" ]
     path: /catalogue/cat-418/
 -
@@ -7594,7 +7594,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown and ground"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-15-a", id: "fig-79-AF-184-15-b", id: "fig-79-AF-184-15-c", id: "fig-79-AF-184-15-d" ]
     path: /catalogue/cat-419/
 -
@@ -7612,7 +7612,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-25-a", id: "fig-79-AF-184-25-b", id: "fig-79-AF-184-25-c", id: "fig-79-AF-184-25-d" ]
     path: /catalogue/cat-420/
 -
@@ -7630,7 +7630,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-29-a", id: "fig-79-AF-184-29-b", id: "fig-79-AF-184-29-c", id: "fig-79-AF-184-29-d" ]
     path: /catalogue/cat-421/
 -
@@ -7648,7 +7648,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-14-a", id: "fig-79-AF-184-14-b", id: "fig-79-AF-184-14-c", id: "fig-79-AF-184-14-d" ]
     path: /catalogue/cat-422/
 -
@@ -7666,7 +7666,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; incised and tooled"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-16-a", id: "fig-79-AF-184-16-b", id: "fig-79-AF-184-16-c", id: "fig-79-AF-184-16-d" ]
     path: /catalogue/cat-423/
 -
@@ -7684,7 +7684,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-6-a", id: "fig-79-AF-184-6-b", id: "fig-79-AF-184-6-c", id: "fig-79-AF-184-6-d" ]
     path: /catalogue/cat-424/
 -
@@ -7702,7 +7702,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-10-a", id: "fig-79-AF-184-10-b", id: "fig-79-AF-184-10-c", id: "fig-79-AF-184-10-d" ]
     path: /catalogue/cat-425/
 -
@@ -7720,7 +7720,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-31-a", id: "fig-79-AF-184-31-b", id: "fig-79-AF-184-31-c", id: "fig-79-AF-184-31-d" ]
     path: /catalogue/cat-426/
 -
@@ -7738,7 +7738,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-32-a", id: "fig-79-AF-184-32-b", id: "fig-79-AF-184-32-c", id: "fig-79-AF-184-32-d" ]
     path: /catalogue/cat-427/
 -
@@ -7756,7 +7756,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-34-a", id: "fig-79-AF-184-34-b", id: "fig-79-AF-184-34-c", id: "fig-79-AF-184-34-d" ]
     path: /catalogue/cat-428/
 -
@@ -7774,7 +7774,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-38-a", id: "fig-79-AF-184-38-b", id: "fig-79-AF-184-38-c", id: "fig-79-AF-184-38-d" ]
     path: /catalogue/cat-429/
 -
@@ -7792,7 +7792,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-26-a", id: "fig-79-AF-184-26-b", id: "fig-79-AF-184-26-c", id: "fig-79-AF-184-26-d" ]
     path: /catalogue/cat-430/
 -
@@ -7810,7 +7810,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; applied elements, incised"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-81-AF-1-a", id: "fig-81-AF-1-b", id: "fig-81-AF-1-c", id: "fig-81-AF-1-d", id: "fig-81-AF-1-e" ]
     path: /catalogue/cat-431/
 -
@@ -7828,7 +7828,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Ibriks" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-79-AF-184-17-a", id: "fig-79-AF-184-17-b", id: "fig-79-AF-184-17-c", id: "fig-79-AF-184-17-d" ]
     path: /catalogue/cat-432/
 -
@@ -7846,7 +7846,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Jars" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-451-a", id: "fig-2003-451-b", id: "fig-2003-451-c", id: "fig-2003-451-d" ]
     path: /catalogue/cat-433/
 -
@@ -7864,7 +7864,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Jars" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-384-a", id: "fig-2003-384-b" ]
     path: /catalogue/cat-434/
 -
@@ -7882,7 +7882,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Jars" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-385-a", id: "fig-2003-385-b", id: "fig-2003-385-c", id: "fig-2003-385-d" ]
     path: /catalogue/cat-435/
 -
@@ -7900,7 +7900,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Jars" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-386-a", id: "fig-2003-386-b", id: "fig-2003-386-c", id: "fig-2003-386-d" ]
     path: /catalogue/cat-436/
 -
@@ -7918,7 +7918,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; mosaic"
     inscription: "No"
     shape: [ "Bowls" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-254-a", id: "fig-2003-254-b" ]
     path: /catalogue/cat-437/
 -
@@ -7936,7 +7936,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; gold glass"
     inscription: "Yes"
     shape: [ "Medallions" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-296-a" ]
     path: /catalogue/cat-438/
 -
@@ -7954,7 +7954,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown; gold-glass trail"
     inscription: "Yes"
     shape: [ "Unidentified" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-83-AK-29-a", id: "fig-83-AK-29-b", id: "fig-83-AK-29-c", id: "fig-83-AK-29-d", id: "fig-83-AK-29-e" ]
     path: /catalogue/cat-439/
 -
@@ -7972,7 +7972,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Cups" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-442-a", id: "fig-2003-442-b" ]
     path: /catalogue/cat-440/
 -
@@ -7990,7 +7990,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Jars" ]
-    technique: [ "Free-blown" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-395-a", id: "fig-2003-395-b", id: "fig-2003-395-c", id: "fig-2003-395-d" ]
     path: /catalogue/cat-441/
 -
@@ -8008,7 +8008,7 @@ object_list:
     modeling_technique_and_decoration: "Cast in an open, one-piece mold"
     inscription: "No"
     shape: [ "Appliqués" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-149-a" ]
     path: /catalogue/cat-442/
 -
@@ -8021,12 +8021,12 @@ object_list:
     start_date: "-400"
     end_date: "-201"
     production_area: "Egypt"
-    culture: "Greco-Egyptian"
+    culture: "Egyptian"
     material: "Opaque red glass"
     modeling_technique_and_decoration: "Cast"
     inscription: "No"
     shape: [ "Appliqués" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-150-a" ]
     path: /catalogue/cat-443/
 -
@@ -8044,7 +8044,7 @@ object_list:
     modeling_technique_and_decoration: "Cast"
     inscription: "No"
     shape: [ "Appliqués" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-151-a" ]
     path: /catalogue/cat-444/
 -
@@ -8062,7 +8062,7 @@ object_list:
     modeling_technique_and_decoration: "Cast"
     inscription: "No"
     shape: [ "Appliqués" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-152-a" ]
     path: /catalogue/cat-445/
 -
@@ -8080,7 +8080,7 @@ object_list:
     modeling_technique_and_decoration: "Cast"
     inscription: "No"
     shape: [ "Appliqués" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-153-a" ]
     path: /catalogue/cat-446/
 -
@@ -8098,7 +8098,7 @@ object_list:
     modeling_technique_and_decoration: "Casting"
     inscription: "No"
     shape: [ "Appliqués" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-158-a", id: "fig-2003-158-b", id: "fig-2003-158-c" ]
     path: /catalogue/cat-447/
 -
@@ -8116,7 +8116,7 @@ object_list:
     modeling_technique_and_decoration: "Cast"
     inscription: "No"
     shape: [ "Appliqués" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-154-a", id: "fig-2003-154-b", id: "fig-2003-154-c" ]
     path: /catalogue/cat-448/
 -
@@ -8147,7 +8147,7 @@ object_list:
     start_date: "-100"
     end_date: "99"
     production_area: "Egypt or Italy"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Opaque white, green, red, black/purple, and beige glass, on translucent blue background"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
@@ -8201,7 +8201,7 @@ object_list:
     start_date: "-100"
     end_date: "99"
     production_area: "Egypt or Italy"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Opaque yellow, turquoise, and red and translucent purple glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
@@ -8237,7 +8237,7 @@ object_list:
     start_date: "-100"
     end_date: "99"
     production_area: "Egypt or Italy"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Translucent blue and opaque red, white, and yellow glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
@@ -8255,7 +8255,7 @@ object_list:
     start_date: "-100"
     end_date: "99"
     production_area: "Italy or Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Opaque white, red, and yellow and translucent blue glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
@@ -8273,7 +8273,7 @@ object_list:
     start_date: "-100"
     end_date: "99"
     production_area: "Italy or Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Translucent (?) dark blue and opaque white, red, turquoise, and yellow glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
@@ -8291,7 +8291,7 @@ object_list:
     start_date: "-100"
     end_date: "99"
     production_area: "Italy or Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Translucent (?) blue and opaque white and yellow glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
@@ -8309,7 +8309,7 @@ object_list:
     start_date: "-100"
     end_date: "99"
     production_area: "Italy or Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Translucent blue and opaque red, white, and yellow glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
@@ -8327,7 +8327,7 @@ object_list:
     start_date: "-100"
     end_date: "99"
     production_area: "Italy or Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Opaque red, yellow, white, and green and translucent green glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
@@ -8345,7 +8345,7 @@ object_list:
     start_date: "-100"
     end_date: "99"
     production_area: "Italy or Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Translucent light blue and opaque white, yellow, and red glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
@@ -8386,7 +8386,7 @@ object_list:
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
-    technique: 
+    technique: [ "Fusion" ]
     figure: [ id: "fig-83-AF-28-24-a", id: "fig-83-AF-28-24-b" ]
     path: /catalogue/cat-463/
 -
@@ -8867,7 +8867,7 @@ object_list:
     start_date: "-100"
     end_date: "99"
     production_area: "Egypt or Italy"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Translucent light and dark amber-colored and opaque white glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
@@ -8885,7 +8885,7 @@ object_list:
     start_date: "-100"
     end_date: "99"
     production_area: "Egypt or Italy"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Opaque red, yellow, green, and white and translucent blue glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
@@ -8921,7 +8921,7 @@ object_list:
     start_date: "-100"
     end_date: "99"
     production_area: "Egypt or Italy"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Opaque red, white, and gray and translucent purple glass"
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
@@ -8975,7 +8975,7 @@ object_list:
     start_date: "200"
     end_date: "299"
     production_area: "Egypt or Rome"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: "Opaque yellow, red, green, white, blue, and turquoise glass"
     modeling_technique_and_decoration: "Mosaic"
     inscription: "No"
@@ -9070,7 +9070,7 @@ object_list:
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Appliqués" ]
-    technique: 
+    technique: [ "Fusion" ]
     figure: [ id: "fig-76-AF-70-11-a", id: "fig-76-AF-70-11-b" ]
     path: /catalogue/cat-501/
 -
@@ -9106,7 +9106,7 @@ object_list:
     modeling_technique_and_decoration: "Mold pressed"
     inscription: "No"
     shape: [ "Appliqués" ]
-    technique: 
+    technique: [ "Mold-Pressed" ]
     figure: [ id: "fig-2003-355-a" ]
     path: /catalogue/cat-503/
 -
@@ -9214,7 +9214,7 @@ object_list:
     modeling_technique_and_decoration: "Mold pressed in an open mold"
     inscription: "No"
     shape: [ "Beads" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-214-1-a" ]
     path: /catalogue/cat-509/
 -
@@ -9232,7 +9232,7 @@ object_list:
     modeling_technique_and_decoration: "Mold pressed in an open mold"
     inscription: "No"
     shape: [ "Beads" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-214-2-a" ]
     path: /catalogue/cat-510/
 -
@@ -9250,7 +9250,7 @@ object_list:
     modeling_technique_and_decoration: "Mold pressed in an open mold"
     inscription: "No"
     shape: [ "Beads" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-214-3-a" ]
     path: /catalogue/cat-511/
 -
@@ -9268,7 +9268,7 @@ object_list:
     modeling_technique_and_decoration: "Mold pressed in an open mold"
     inscription: "No"
     shape: [ "Beads" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-214-4-a" ]
     path: /catalogue/cat-512/
 -
@@ -9286,7 +9286,7 @@ object_list:
     modeling_technique_and_decoration: "Mold pressed in an open mold"
     inscription: "No"
     shape: [ "Beads" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-214-5-a" ]
     path: /catalogue/cat-513/
 -
@@ -9304,7 +9304,7 @@ object_list:
     modeling_technique_and_decoration: "Mold pressed in an open mold"
     inscription: "No"
     shape: [ "Beads" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-214-6-a" ]
     path: /catalogue/cat-514/
 -
@@ -9322,7 +9322,7 @@ object_list:
     modeling_technique_and_decoration: "Mold pressed in an open mold"
     inscription: "No"
     shape: [ "Beads" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-214-7-a" ]
     path: /catalogue/cat-515/
 -
@@ -9340,7 +9340,7 @@ object_list:
     modeling_technique_and_decoration: "Mold pressed in an open mold"
     inscription: "No"
     shape: [ "Beads" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-214-8-a" ]
     path: /catalogue/cat-516/
 -
@@ -9358,7 +9358,7 @@ object_list:
     modeling_technique_and_decoration: "Mold pressed in an open mold"
     inscription: "No"
     shape: [ "Beads" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-214-9-a" ]
     path: /catalogue/cat-517/
 -
@@ -9376,7 +9376,7 @@ object_list:
     modeling_technique_and_decoration: "Mold pressed in an open mold"
     inscription: "No"
     shape: [ "Beads" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-214-10-a" ]
     path: /catalogue/cat-518/
 -
@@ -9394,7 +9394,7 @@ object_list:
     modeling_technique_and_decoration: "Mold pressed in an open mold"
     inscription: "No"
     shape: [ "Beads" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-214-11-a" ]
     path: /catalogue/cat-519/
 -
@@ -9412,7 +9412,7 @@ object_list:
     modeling_technique_and_decoration: "Mold pressed in an open mold"
     inscription: "No"
     shape: [ "Beads" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-214-12-a" ]
     path: /catalogue/cat-520/
 -
@@ -9430,7 +9430,7 @@ object_list:
     modeling_technique_and_decoration: "Mold pressed in an open mold"
     inscription: "No"
     shape: [ "Beads" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-214-13-a" ]
     path: /catalogue/cat-521/
 -
@@ -9448,7 +9448,7 @@ object_list:
     modeling_technique_and_decoration: "Mold pressed in an open mold"
     inscription: "No"
     shape: [ "Beads" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-214-14-a" ]
     path: /catalogue/cat-522/
 -
@@ -9466,7 +9466,7 @@ object_list:
     modeling_technique_and_decoration: "Mold pressed in an open mold"
     inscription: "No"
     shape: [ "Beads" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-214-15-a" ]
     path: /catalogue/cat-523/
 -
@@ -9484,7 +9484,7 @@ object_list:
     modeling_technique_and_decoration: "Mold pressed in an open mold"
     inscription: "No"
     shape: [ "Beads" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-214-16-a" ]
     path: /catalogue/cat-524/
 -
@@ -9502,7 +9502,7 @@ object_list:
     modeling_technique_and_decoration: "Mold pressed in an open mold"
     inscription: "No"
     shape: [ "Beads" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-214-17-a" ]
     path: /catalogue/cat-525/
 -
@@ -9520,7 +9520,7 @@ object_list:
     modeling_technique_and_decoration: "Mold pressed in an open mold"
     inscription: "No"
     shape: [ "Beads" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2004-15-1-a", id: "fig-2004-15-1-b", id: "fig-2004-15-1-c" ]
     path: /catalogue/cat-526/
 -
@@ -9538,7 +9538,7 @@ object_list:
     modeling_technique_and_decoration: "Mold pressed in an open mold"
     inscription: "No"
     shape: [ "Beads" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2004-15-2-a", id: "fig-2004-15-2-b", id: "fig-2004-15-2-c" ]
     path: /catalogue/cat-527/
 -
@@ -9556,7 +9556,7 @@ object_list:
     modeling_technique_and_decoration: "Mold pressed in an open mold"
     inscription: "No"
     shape: [ "Beads" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2004-15-3-a", id: "fig-2004-15-3-b", id: "fig-2004-15-3-c" ]
     path: /catalogue/cat-528/
 -
@@ -9574,7 +9574,7 @@ object_list:
     modeling_technique_and_decoration: "Mold pressed in an open mold"
     inscription: "No"
     shape: [ "Beads" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2004-15-4-a", id: "fig-2004-15-4-b", id: "fig-2004-15-4-c" ]
     path: /catalogue/cat-529/
 -
@@ -9592,7 +9592,7 @@ object_list:
     modeling_technique_and_decoration: "Mold pressed in an open mold"
     inscription: "No"
     shape: [ "Beads" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2004-15-5-a", id: "fig-2004-15-5-b", id: "fig-2004-15-5-c" ]
     path: /catalogue/cat-530/
 -
@@ -9610,7 +9610,7 @@ object_list:
     modeling_technique_and_decoration: "Mold pressed in an open mold"
     inscription: "No"
     shape: [ "Beads" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2004-15-6-a", id: "fig-2004-15-6-b", id: "fig-2004-15-6-c" ]
     path: /catalogue/cat-531/
 -
@@ -9628,7 +9628,7 @@ object_list:
     modeling_technique_and_decoration: "Mold pressed in an open mold"
     inscription: "No"
     shape: [ "Beads" ]
-    technique: [ "“Cast”-rotary pressed" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2004-15-7-a", id: "fig-2004-15-7-b", id: "fig-2004-15-7-c" ]
     path: /catalogue/cat-532/
 -
@@ -9641,7 +9641,7 @@ object_list:
     start_date: "-50"
     end_date: "49"
     production_area: "Eastern Mediterranean, or Black Sea coast. Allegedly found in Panticapaeum (Kerch), Crimea"
-    culture: "Greek"
+    culture: "Near Eastern"
     material: "Colorless glass; gold"
     modeling_technique_and_decoration: "Rolled and molded"
     inscription: "No"
@@ -9659,7 +9659,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -9678,7 +9678,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -9697,7 +9697,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -9716,7 +9716,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -9735,7 +9735,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -9754,7 +9754,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -9773,7 +9773,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -9792,7 +9792,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -9811,7 +9811,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -9830,7 +9830,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -9849,7 +9849,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -9868,7 +9868,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -9887,7 +9887,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -9906,7 +9906,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -9925,7 +9925,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -9944,7 +9944,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -9963,7 +9963,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -9982,7 +9982,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -10001,7 +10001,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -10020,7 +10020,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -10039,7 +10039,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -10058,7 +10058,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -10077,7 +10077,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -10096,7 +10096,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -10115,7 +10115,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -10134,7 +10134,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -10153,7 +10153,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -10172,7 +10172,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -10191,7 +10191,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -10210,7 +10210,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -10229,7 +10229,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean, probably Egypt"
-    culture: "Greek or Roman"
+    culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
     inscription: "No"
@@ -10253,7 +10253,7 @@ object_list:
     modeling_technique_and_decoration: "Fusion"
     inscription: "No"
     shape: [ "Beads" ]
-    technique: 
+    technique: [ "Fusion" ]
     figure: [ id: "fig-78-AF-324-1-a", id: "fig-78-AF-324-1-b" ]
     path: /catalogue/cat-535/
 -
@@ -10266,7 +10266,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Egypt or Italy"
-    culture: "Greek"
+    culture: "Roman"
     material: "Translucent purple and opaque yellow, white, and red glass"
     modeling_technique_and_decoration: "Fusion, cutting off, reheating, piercing, flattening"
     inscription: "No"
@@ -10284,7 +10284,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Egypt or Italy. Reportedly found in Olbia, Ukraine"
-    culture: "Roman?"
+    culture: "Byzantine"
     material: "Opaque yellow, red, white, and “black” glass"
     modeling_technique_and_decoration: "Fusion, folding, rolling"
     inscription: "No"
@@ -10302,7 +10302,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Egypt or Italy. Reportedly found in Olbia, Ukraine"
-    culture: "Greek"
+    culture: "Roman"
     material: "Opaque red, white, and yellow; translucent blue and greenish glass"
     modeling_technique_and_decoration: "Fusion of mosaic tesserae and winding"
     inscription: "No"
@@ -10320,7 +10320,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Egypt or Italy. Reportedly found in Olbia, Ukraine"
-    culture: "Greek"
+    culture: "Roman"
     material: "Translucent dark green, appearing black; opaque green, yellow, red, and white glass"
     modeling_technique_and_decoration: "Fusion of mosaic tesserae and winding"
     inscription: "No"
@@ -10356,7 +10356,7 @@ object_list:
     start_date: "1"
     end_date: "99"
     production_area: "Eastern Mediterranean"
-    culture: "Greek"
+    culture: "Roman"
     material: "Opaque white and red and translucent green glass"
     modeling_technique_and_decoration: "Fusion of mosaic tesserae and winding"
     inscription: "No"
@@ -10410,12 +10410,12 @@ object_list:
     start_date: "-450"
     end_date: "-101"
     production_area: "Punic, probably Carthage. Reportedly found in Olbia, Ukraine"
-    culture: "Greek"
+    culture: "Punic"
     material: "Dark blue, white, and yellowish glass"
     modeling_technique_and_decoration: "Rod-formed"
     inscription: "No"
     shape: [ "Amulets" ]
-    technique: [ "Rod-formed" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2003-206-a", id: "fig-2003-206-b", id: "fig-2003-206-c", id: "fig-2003-206-d" ]
     path: /catalogue/cat-544/
 -
@@ -10428,12 +10428,12 @@ object_list:
     start_date: "-450"
     end_date: "-301"
     production_area: "Punic, probably Carthage"
-    culture: "Greek"
+    culture: "Punic"
     material: "Opaque turquoise, yellow, and white; translucent dark blue and light blue glass"
     modeling_technique_and_decoration: "Rod-formed"
     inscription: "No"
     shape: [ "Amulets" ]
-    technique: [ "Rod-formed" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2003-208-a", id: "fig-2003-208-b", id: "fig-2003-208-c", id: "fig-2003-208-d", id: "fig-2003-208-e", id: "fig-2003-208-f", id: "fig-2003-208-g" ]
     path: /catalogue/cat-545/
 -
@@ -10446,12 +10446,12 @@ object_list:
     start_date: "-650"
     end_date: "-401"
     production_area: "Punic, probably Carthage"
-    culture: "Greek or Punic"
+    culture: "Punic"
     material: "Opaque yellow, dark blue, and red glass"
     modeling_technique_and_decoration: "Rod-formed"
     inscription: "No"
     shape: [ "Amulets" ]
-    technique: [ "Rod-formed" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2004-9-a", id: "fig-2004-9-b", id: "fig-2004-9-c", id: "fig-2004-9-d" ]
     path: /catalogue/cat-546/
 -
@@ -10464,12 +10464,12 @@ object_list:
     start_date: "-650"
     end_date: "-501"
     production_area: "Punic, probably Carthage"
-    culture: "Greek or Phoenician"
+    culture: "Punic"
     material: "Opaque yellow, white, turquoise, and dark blue glass"
     modeling_technique_and_decoration: "Rod-formed"
     inscription: "No"
     shape: [ "Amulets" ]
-    technique: [ "Rod-formed" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2004-10-a", id: "fig-2004-10-b", id: "fig-2004-10-c", id: "fig-2004-10-d" ]
     path: /catalogue/cat-547/
 -
@@ -10482,12 +10482,12 @@ object_list:
     start_date: "-300"
     end_date: "-34"
     production_area: "Punic, probably Carthage"
-    culture: "Greek"
+    culture: "Punic"
     material: "Opaque white and translucent blue and purple glass"
     modeling_technique_and_decoration: "Rod-formed"
     inscription: "No"
     shape: [ "Amulets" ]
-    technique: [ "Rod-formed" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2003-205-a", id: "fig-2003-205-b", id: "fig-2003-205-c", id: "fig-2003-205-d" ]
     path: /catalogue/cat-548/
 -
@@ -10500,12 +10500,12 @@ object_list:
     start_date: "-600"
     end_date: "-401"
     production_area: "Punic, probably Carthage. Reportedly found in Olbia, Ukraine"
-    culture: "Greek"
+    culture: "Punic"
     material: "Blue, yellow, and white glass"
     modeling_technique_and_decoration: "Rod-formed"
     inscription: "No"
     shape: [ "Amulets" ]
-    technique: [ "Rod-formed" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2003-207-a", id: "fig-2003-207-b", id: "fig-2003-207-c", id: "fig-2003-207-d", id: "fig-2003-207-e" ]
     path: /catalogue/cat-549/
 -
@@ -10518,12 +10518,12 @@ object_list:
     start_date: "-350"
     end_date: "-201"
     production_area: "Punic, probably Carthage"
-    culture: "Etruscan and Punic"
+    culture: [ "Etruscan", "Punic" ]
     material: "Dark blue, white, and yellowish glass"
     modeling_technique_and_decoration: "Rod-formed"
     inscription: "No"
     shape: [ "Amulets" ]
-    technique: [ "Rod-formed" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-83-AM-1-1-a" ]
     path: /catalogue/cat-550/
 -
@@ -10536,12 +10536,12 @@ object_list:
     start_date: "-350"
     end_date: "-234"
     production_area: "Punic, probably Carthage"
-    culture: "Etruscan and Punic"
+    culture: [ "Etruscan", "Punic" ]
     material: "Dark blue, white, and yellowish glass"
     modeling_technique_and_decoration: "Rod-formed"
     inscription: "No"
     shape: [ "Amulets" ]
-    technique: [ "Rod-formed" ]
+    technique: [ "Rod-Formed" ]
     figure: [ id: "fig-83-AM-1-2-a" ]
     path: /catalogue/cat-551/
 -
@@ -10572,7 +10572,7 @@ object_list:
     start_date: "-333"
     end_date: "-201"
     production_area: "Western Mediterranean"
-    culture: "Greek"
+    culture: "Punic"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Molded"
     inscription: "No"
@@ -10720,7 +10720,7 @@ object_list:
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Tooling"
     inscription: "No"
-    shape: 
+    shape: [ "Bracelets" ]
     technique: 
     figure: [ id: "fig-79-AF-184-1-a", id: "fig-79-AF-184-1-b", id: "fig-79-AF-184-1-c" ]
     path: /catalogue/cat-561/
@@ -10806,7 +10806,7 @@ object_list:
     start_date: "200"
     end_date: "1199"
     production_area: "Roman or Byzantine Empire"
-    culture: "Roman or Byzantine"
+    culture: [ "Roman", "Byzantine" ]
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Tooling"
     inscription: "No"
@@ -10828,7 +10828,7 @@ object_list:
     material: "Glass, gold, bronze, iron"
     modeling_technique_and_decoration: "Hammering, soldering"
     inscription: "No"
-    shape: 
+    shape: [ "Chain Links", "Beads" ]
     technique: 
     figure: [ id: "fig-2003-295-1-a", id: "fig-2003-295-1-b", id: "fig-2003-295-1-c", id: "fig-2003-295-2-b", id: "fig-2003-295-2-c" ]
     path: /catalogue/cat-567/
@@ -10846,7 +10846,7 @@ object_list:
     material: "Opaque dark green and white glass"
     modeling_technique_and_decoration: "Tooled; applied elements"
     inscription: "No"
-    shape: [ "Spindle whorls" ]
+    shape: [ "Spindle Whorls" ]
     technique: 
     figure: [ id: "fig-2003-460-a", id: "fig-2003-460-b" ]
     path: /catalogue/cat-568/
@@ -10882,7 +10882,7 @@ object_list:
     material: "Translucent dark green glass"
     modeling_technique_and_decoration: "Tooled"
     inscription: "No"
-    shape: 
+    shape: [ "Rods" ]
     technique: 
     figure: [ id: "fig-2003-403-a" ]
     path: /catalogue/cat-570/
@@ -10900,7 +10900,7 @@ object_list:
     material: "Translucent light blue and opaque white glass"
     modeling_technique_and_decoration: "Tooled"
     inscription: "No"
-    shape: 
+    shape: [ "Rods" ]
     technique: 
     figure: [ id: "fig-82-AC-22-315-a", id: "fig-82-AC-22-315-b" ]
     path: /catalogue/cat-571/
@@ -10918,7 +10918,7 @@ object_list:
     material: "Translucent light yellow glass"
     modeling_technique_and_decoration: "Tooled"
     inscription: "No"
-    shape: 
+    shape: [ "Pins" ]
     technique: 
     figure: [ id: "fig-2003-404-a", id: "fig-2003-404-b", id: "fig-2003-404-c", id: "fig-2003-404-d" ]
     path: /catalogue/cat-572/
@@ -10932,12 +10932,12 @@ object_list:
     start_date: "300"
     end_date: "599"
     production_area: "Eastern Mediterranean, Syro-Palestinian region?"
-    culture: "Roman?"
+    culture: "Byzantine"
     material: "Translucent purple glass"
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
-    shape: 
-    technique: [ "Free-blown" ]
+    shape: [ "Pipes" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-401-a" ]
     path: /catalogue/cat-573/
 -
@@ -10954,8 +10954,8 @@ object_list:
     material: "Translucent green glass"
     modeling_technique_and_decoration: "Molded. No mold seams are noticeable"
     inscription: "No"
-    shape: 
-    technique: [ "“Cast”-rotary pressed" ]
+    shape: [ "Busts", "Heads" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-356-a", id: "fig-2003-356-b", id: "fig-2003-356-c", id: "fig-2003-356-d" ]
     path: /catalogue/cat-574/
 -
@@ -10972,8 +10972,8 @@ object_list:
     material: "Red opaque glass"
     modeling_technique_and_decoration: "Molded"
     inscription: "No"
-    shape: 
-    technique: [ "“Cast”-rotary pressed" ]
+    shape: [ "Busts", "Heads" ]
+    technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-357-a", id: "fig-2003-357-b", id: "fig-2003-357-c", id: "fig-2003-357-d" ]
     path: /catalogue/cat-575/
 -
@@ -10990,7 +10990,7 @@ object_list:
     material: "Opaque white and yellow glass; translucent turquoise glass; bronze"
     modeling_technique_and_decoration: "Rod formed"
     inscription: "No"
-    shape: 
+    shape: [ "Earplugs" ]
     technique: 
     figure: [ id: "fig-2003-155-a" ]
     path: /catalogue/cat-576/
@@ -11008,7 +11008,7 @@ object_list:
     material: "Opaque white and yellow and translucent amber-colored glass"
     modeling_technique_and_decoration: "Rod formed"
     inscription: "No"
-    shape: 
+    shape: [ "Earplugs" ]
     technique: 
     figure: [ id: "fig-2003-156-a" ]
     path: /catalogue/cat-577/
@@ -11022,12 +11022,12 @@ object_list:
     start_date: "550"
     end_date: "1700?"
     production_area: "Eastern Mediterranean"
-    culture: "Islamic, Byzantine, or Ottoman"
+    culture: [ "Islamic", "Byzantine", "Ottoman" ]
     material: "Transparent greenish glass"
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
-    shape: 
-    technique: [ "Free-blown" ]
+    shape: [ "Window Panes" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-371-a", id: "fig-2003-371-b" ]
     path: /catalogue/cat-578/
 -
@@ -11040,11 +11040,11 @@ object_list:
     start_date: "300"
     end_date: "1978"
     production_area: "Probably eastern Mediterranean"
-    culture: "Greek"
+    culture: "Byzantine"
     material: "Amber-colored translucent glass"
     modeling_technique_and_decoration: "Tooling"
     inscription: "No"
-    shape: 
+    shape: [ "Unidentified" ]
     technique: 
     figure: [ id: "fig-78-AC-381-77-a", id: "fig-78-AC-381-77-b", id: "fig-78-AC-381-77-c", id: "fig-78-AC-381-77-d" ]
     path: /catalogue/cat-579/
@@ -11062,7 +11062,7 @@ object_list:
     material: "Dark greenish glass"
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
-    shape: 
+    shape: [ "Cups" ]
     technique: 
     figure: [ id: "fig-79-AF-184-20-a", id: "fig-79-AF-184-20-b", id: "fig-79-AF-184-20-c", id: "fig-79-AF-184-20-d" ]
     path: /catalogue/cat-580/
@@ -11080,7 +11080,7 @@ object_list:
     material: "Dark greenish glass"
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
-    shape: 
+    shape: [ "Cups" ]
     technique: 
     figure: [ id: "fig-79-AF-184-22-c", id: "fig-79-AF-184-22-a", id: "fig-79-AF-184-22-d", id: "fig-79-AF-184-22-b" ]
     path: /catalogue/cat-581/
@@ -11098,7 +11098,7 @@ object_list:
     material: "Dark greenish glass"
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
-    shape: 
+    shape: [ "Cups" ]
     technique: 
     figure: [ id: "fig-79-AF-184-30-a", id: "fig-79-AF-184-30-b", id: "fig-79-AF-184-30-c", id: "fig-79-AF-184-30-d" ]
     path: /catalogue/cat-582/
@@ -11112,11 +11112,11 @@ object_list:
     start_date: "800"
     end_date: "1199"
     production_area: "Eastern Mediterranean and Europe"
-    culture: [ "Byzantine", "Modern" ]
+    culture: [ "Islamic" ]
     material: "Dark green, dark turquoise, and off-white glass; resin"
     modeling_technique_and_decoration: "Free-blown; applied and tooled features"
     inscription: "No"
-    shape: 
+    shape: [ "Cups" ]
     technique: 
     figure: [ id: "fig-2003-462-a", id: "fig-2003-462-b", id: "fig-2003-462-c", id: "fig-2003-462-d", id: "fig-2003-462-e" ]
     path: /catalogue/cat-583/
@@ -11134,7 +11134,7 @@ object_list:
     material: "Translucent yellowish glass"
     modeling_technique_and_decoration: "Free-blown; applied elements"
     inscription: "No"
-    shape: 
-    technique: [ "Free-blown" ]
+    shape: [ "Cups" ]
+    technique: [ "Free-Blown" ]
     figure: [ id: "fig-2003-406-a", id: "fig-2003-406-b" ]
     path: /catalogue/cat-584/

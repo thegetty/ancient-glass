@@ -16,7 +16,7 @@ Intact. A few areas of discoloration and iridescence on both the interior and th
 
 ## Description
 
-Flared rim, rounded by grinding and polishing; cylindrical body; small, uneven, flaring ring-base; flat bottom. The bottom has been lathe-cut to form a flared base-ring, a fine ring 1 cm wide, and a boss in the center of the underside. There are two fine, lathe-cut grooves in the rim on the interior.
+Flared rim, rounded by grinding and polishing; cylindrical body; small, uneven, flaring base-ring; flat bottom. The bottom has been lathe-cut to form a flared base-ring, a fine ring 1 cm wide, and a boss in the center of the underside. There are two fine, lathe-cut grooves in the rim on the interior.
 
 ## Comments and Comparanda
 

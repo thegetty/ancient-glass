@@ -1,13 +1,6 @@
----
-title: "Director's Foreword"
-layout: page
-order: 6 
-contributor:
-    - full_name: "Timothy Potts"
-      title: "Maria Hummer-Tuttle and Robert Tuttle Director"
-      affiliation: "J. Paul Getty Museum"
-byline_format: false
----
+Ancient Glass in the J. Paul Getty Museum
+
+Foreword
 
 Ancient artisans first discovered the technology of glassmaking as early as the third millennium BCE, likely in Mesopotamia, through the heated mixture of raw materials found in nature. By the late Bronze Age (1550–1200 BCE), glass was being manufactured for usable objects, such as vessels and pendants, and fashioned as ingots for transport. In the centuries that followed, craftspeople across the Mediterranean and Near East developed new methods for mixing and shaping this versatile material. The earliest glass products—beads, inlays, and small vessels for precious oils and perfume—were treasured objects, likely made for use in religious practices and burials. As the art of glassmaking evolved, notably with the development of glass blowing in the first century BCE, glass became more affordable while the market for luxury glass, such as mosaic and cameo glass, also continued to thrive.
 
@@ -27,4 +20,8 @@ The Getty’s team of photographers, led by Tahnee Louise Cracchiola, created ne
 
 We are most grateful to Dr. Antonaras and the Getty staff who have contributed to this catalogue, for ensuring that the work continued across time zones and despite the difficulties of the pandemic. There can be no doubt that this open-access digital publication will become an essential resource to scholars and art lovers across the globe.
 
-{% contributors context=pageContributors format='name-title-block' %}
+Timothy Potts
+
+Maria Hummer-Tuttle and Robert Tuttle Director
+
+J. Paul Getty Museum
