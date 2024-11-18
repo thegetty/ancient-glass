@@ -401,7 +401,7 @@ figure.cat-thumbnail a {
   }
 
   /*Make front and back matter two-column*/
-  #page-abbreviations .quire-page__content, #page-map .quire-page__content, 
+  #page-abbreviations .quire-page__content,
   #page-overview .quire-page__content, #page-intro .quire-page__content, #page-glossary .quire-page__content,
   #page-works-cited .quire-page__content{
     column-count: 2;

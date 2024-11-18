@@ -122,7 +122,7 @@ const geojsonFeature = [{
       "type": "Point",
       "coordinates": [
         33.19039255,
-        34.99913532
+        35.2
       ]
     }
   },
@@ -171,6 +171,22 @@ const geojsonFeature = [{
       "coordinates": [
         36.248917,
         37.087181
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Greece",
+      "pleiadesID": "",
+      "tgnID": "1000074",
+      "featureType": "region"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.60,
+        40.00
       ]
     }
   },
@@ -394,7 +410,7 @@ const geojsonFeature = [{
       "type": "Point",
       "coordinates": [
         8,
-        47
+        46.8
       ]
     }
   },
@@ -409,8 +425,8 @@ const geojsonFeature = [{
     "geometry": {
       "type": "Point",
       "coordinates": [
-        37.5,
-        37.5
+        37.7,
+        37.2
       ]
     }
   },
@@ -442,7 +458,7 @@ const geojsonFeature = [{
       "type": "Point",
       "coordinates": [
         8.7906,
-        46.2845
+        46.2
       ]
     }
   },
