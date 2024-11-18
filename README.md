@@ -73,6 +73,10 @@ TK
 
 ### Customizations
 
+**_includes/components/analytics.js**
+**_layouts/base.11ty.js**
+Added Google Analytics 4
+
 **_includes/components/menu/item.js**
 **_includes/components/table-of-contents/item/list.js**
 **_includes/components/table-of-contents/item/grid.js**
