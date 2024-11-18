@@ -430,9 +430,23 @@ figure.cat-thumbnail a {
     max-width: 100%;
     margin: 0;
   }
+
+  .q-figure.pdf-float-top {
+    float: none;
+    -prince-float: top;
+    margin-top: 0 !important;
+  }
+  
+  .q-figure.pdf-two-column {
+    column-span: all;
+  }
+  #fig-23-appendix {
+    column-span: all;
+  }
+  
 }
 
-/* LOC Cataloguing in Publication format 
+/* LOC Cataloguing in Publication format */
 .quire-page__content .container .content .cip-data {
   break-inside: avoid;
   page-break-inside: avoid;
@@ -457,7 +471,7 @@ figure.cat-thumbnail a {
 .block-of-text {
   break-inside: avoid;
 }
-*/
+
 
 
 /* Project Team */
@@ -473,12 +487,3 @@ figure.cat-thumbnail a {
   content: "";
 }
 
-
-@media print {
-  /* Only works with PrinceXML */
-  #fig-23-appendix {
-    q-figure__image{
-      column-span: 2;
-    }
-  }
-}

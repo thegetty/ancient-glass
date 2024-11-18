@@ -137,14 +137,14 @@ subject:
 
 library_of_congress_cip: | 
   Library of Congress Cataloging-in-Publication Data
-  - Names: 
-  - Title: 
-  - Description: 
-  - Identifiers:   
-  - Subjects: 
-  - Classification: 
-  - LC record available at 
-  - LC ebook record available at 
+  - Names: J. Paul Getty Museum, author. | Antonaras, Anastassios C., author.
+  - Title: Ancient glass in the J. Paul Getty Museum / Anastassios Antonaras.
+  - Description: First edition. | Los Angeles : J. Paul Getty Museum, 2025. | Includes bibliographical references. | Summary: "This illustrated book catalogues the J. Paul Getty Museum's collection of ancient glass"— Provided by publisher.
+  - Identifiers: LCCN 2024037436 (print) | LCCN 2024037437 (ebook) | ISBN 9781606069196 (paperback) | ISBN 9781606069219 (pdf) | ISBN 9781606069202 (epub) | ISBN 9781606069226  
+  - Subjects: LCSH: J. Paul Getty Museum—Catalogs. | Glassware, Ancient—Catalogs. | Glassware—California—Los Angeles—Catalogs. | LCGFT: Collection catalogs.
+  - Classification: LCC NK5107 .J25 2025 (print) | LCC NK5107 (ebook) | DDC 748.074/79494—dc23/eng/20240926
+  - LC record available at https://lccn.loc.gov/2024037436
+  - LC ebook record available at https://lccn.loc.gov/2024037437
 
 # ------------------------------------------------------------------------------
 # Revision History
