@@ -446,5 +446,60 @@ figure.cat-thumbnail a {
     max-width: 100%;
     margin: 0;
   }
+
+  .q-figure.pdf-float-top {
+    float: none;
+    -prince-float: top;
+    margin-top: 0 !important;
+  }
+  
+  .q-figure.pdf-two-column {
+    column-span: all;
+  }
+  #fig-23-appendix {
+    column-span: all;
+  }
+  
+}
+
+/* LOC Cataloguing in Publication format */
+.quire-page__content .container .content .cip-data {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+.quire-page__content .container .content .cip-data p {
+  margin-bottom: 0;
+}
+.quire-page__content .container .content .cip-data ul {
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: .5rem;
+}
+.quire-page__content .container .content .cip-data ul li {
+  line-height: 1.6;
+  margin: 0;
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
+.quire-page__content .container .content .cip-data ul li::before {
+  display: none;
+}
+.block-of-text {
+  break-inside: avoid;
+}
+
+
+
+/* Project Team */
+.quire-page__content .container .content .project-team ul {
+  list-style-type: none;
+  margin-left: 0;
+  margin-bottom: 1em;
+}
+.quire-page__content .container .content .project-team ul * {
+  margin: 0;
+}
+.quire-page__content .container .content .project-team ul li::before {
+  content: "";
 }
 
