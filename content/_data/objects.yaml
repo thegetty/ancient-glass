@@ -13,6 +13,8 @@ object_filters:
   - inscription
   - shape
   - technique
+  - date
+  - production_area
 
 object_card:
   - thumbnail
