@@ -195,108 +195,115 @@ figure.cat-thumbnail a {
  
 /* MAP
 ============================================================================= */
-.quire-page.map .quire-page__header {
-  z-index: 1;
-  position: relative;
-  background-color: transparent;
-  width: fit-content;
-  margin: 0 auto;
-  position: absolute;
-  top: 3rem;
-  left: 0;
-  right: 0;
+@media screen {
+  .quire-page.map .quire-page__header {
+    z-index: 1;
+    position: relative;
+    background-color: transparent;
+    width: fit-content;
+    margin: 0 auto;
+    position: absolute;
+    top: 3rem;
+    left: 0;
+    right: 0;
+  }
+  .quire-page.map .quire-page__header .hero-body {
+    padding: 0;
+    margin: 0;
+  }
+  .quire-page.map .quire-page__content:nth-child(2) {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: calc(100vh - 3rem);
+    z-index: 0;
+  }
+  .quire-page.map .quire-page__content:nth-child(2) .content,
+  .quire-page.map .quire-page__content:nth-child(2) .container {
+    padding: 0;
+    margin: 0;
+    max-width: none;
+    width: 100%;
+  }
+  #leafletmap {
+    width: 100%;
+    height: calc(100vh - 3rem);
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .quire-page.map .quire-page__content:last-child {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+  #leafletmap .region, 
+  #leafletmap .sea,
+  #leafletmap .city {
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+    text-shadow: 1px 1px 2px white;
+  }
+  #leafletmap .region, 
+  #leafletmap .sea {
+    font-size: 1.25rem;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  #leafletmap .region {
+    color: rgb(45, 23, 2);
+    text-shadow: 1px 1px 2px rgb(216, 211, 204);
+  }
+  #leafletmap .sea {
+    color: rgb(5, 63, 110);
+    font-style: italic;
+    text-shadow: 1px 1px 2px rgb(140, 187, 249);
+  }
+  #leafletmap .city {
+    font-weight: bold;
+    font-size: .875rem;
+    font-family: 'Noto Sans', Arial, sans-serif;
+  }
+  #leafletmap .leaflet-tooltip.region, 
+  #leafletmap .leaflet-tooltip.sea {
+    margin-top: 30px;
+    text-align: center;
+    line-height: 1.2;
+    max-width: 200px;
+    white-space: break-spaces;
+  }
+  .leaflet-popup-content-wrapper .leaflet-popup-content * {
+    display: block;
+  }
+  .leaflet-popup-content-wrapper .leaflet-popup-content strong {
+    font-size: 1.25em;
+    margin-bottom: .25em;
+  }
+  .leaflet-popup-content-wrapper .leaflet-popup-content a {
+    border-bottom-width: 0 !important;
+    color: var(--accent-color) !important;
+  }
+  .leaflet-container a.leaflet-popup-close-button {
+    border-bottom-width: 0 !important;
+  }
+  .quire-page__content .content .leaflet-popup-content-wrapper .leaflet-popup-content a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {
+    color: black !important;
+    border-bottom-width: 0 !important;
+  }
+  .quire-page__content .content a.leaflet-popup-close-button:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {
+    border-bottom-width: 0 !important;
+  }
+  .leaflet-attribution-flag {
+    display: none !important;
+  }
 }
-.quire-page.map .quire-page__header .hero-body {
-  padding: 0;
-  margin: 0;
-}
-.quire-page.map .quire-page__content:nth-child(2) {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: calc(100vh - 3rem);
-  z-index: 0;
-}
-.quire-page.map .quire-page__content:nth-child(2) .content,
-.quire-page.map .quire-page__content:nth-child(2) .container {
-  padding: 0;
-  margin: 0;
-  max-width: none;
-  width: 100%;
-}
-#leafletmap {
-  width: 100%;
-  height: calc(100vh - 3rem);
-  font-family: 'Times New Roman', Times, serif;
-}
-.quire-page.map .quire-page__content:last-child {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
+@media print {
+  .quire-page.map .quire-page__content {
+    max-width: none;
+  }  
 }
 
-#leafletmap .region, 
-#leafletmap .sea,
-#leafletmap .city {
-  background-color: transparent;
-  border: none;
-  box-shadow: none;
-  text-shadow: 1px 1px 2px white;
-}
-#leafletmap .region, 
-#leafletmap .sea {
-  font-size: 1.25rem;
-  text-transform: uppercase;
-  font-weight: bold;
-}
-#leafletmap .region {
-  color: rgb(45, 23, 2);
-  text-shadow: 1px 1px 2px rgb(216, 211, 204);
-}
-#leafletmap .sea {
-  color: rgb(5, 63, 110);
-  font-style: italic;
-  text-shadow: 1px 1px 2px rgb(140, 187, 249);
-}
-#leafletmap .city {
-  font-weight: bold;
-  font-size: .875rem;
-  font-family: 'Noto Sans', Arial, sans-serif;
-}
-#leafletmap .leaflet-tooltip.region, 
-#leafletmap .leaflet-tooltip.sea {
-  margin-top: 30px;
-  text-align: center;
-  line-height: 1.2;
-  max-width: 200px;
-  white-space: break-spaces;
-}
-.leaflet-popup-content-wrapper .leaflet-popup-content * {
-  display: block;
-}
-.leaflet-popup-content-wrapper .leaflet-popup-content strong {
-  font-size: 1.25em;
-  margin-bottom: .25em;
-}
-.leaflet-popup-content-wrapper .leaflet-popup-content a {
-  border-bottom-width: 0 !important;
-  color: var(--accent-color) !important;
-}
-.leaflet-container a.leaflet-popup-close-button {
-  border-bottom-width: 0 !important;
-}
-.quire-page__content .content .leaflet-popup-content-wrapper .leaflet-popup-content a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {
-  color: black !important;
-  border-bottom-width: 0 !important;
-}
-.quire-page__content .content a.leaflet-popup-close-button:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {
-  border-bottom-width: 0 !important;
-}
-.leaflet-attribution-flag {
-  display: none !important;
-}
 
 /* PRINT
 ============================================================================= */
@@ -304,6 +311,14 @@ figure.cat-thumbnail a {
   /*  Title page */
   .title-page * {
     max-width: 4.52in;
+  }
+  .title-page .contributor {
+    font-weight: bold;
+  }
+  .title-page .contributor.additional-contributor {
+    display: block;
+    font-weight: normal;
+    margin-top: 1rem;
   }
   /* Hide objects grid */
   objects-catalog {
