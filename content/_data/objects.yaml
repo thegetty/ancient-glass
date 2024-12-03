@@ -14,6 +14,7 @@ object_filters:
   - shape
   - technique
   - production_area
+  - date_range_sorted
 
 object_card:
   - thumbnail
@@ -74,6 +75,7 @@ object_list:
     technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-146-a", id: "fig-2003-146-b", id: "fig-2003-146-c", id: "fig-2003-146-d" ]
     path: /catalogue/cat-1/
+    date_range_sorted: [ "01: 500–400 BCE" ]
 -
     id: cat-2
     label: "Cat. 2"
@@ -92,6 +94,7 @@ object_list:
     technique: [ "Core-Formed" ]
     figure: [ id: "fig-2004-3-a", id: "fig-2004-3-b" ]
     path: /catalogue/cat-2/
+    date_range_sorted: [ "01: 500–400 BCE" ]
 -
     id: cat-3
     label: "Cat. 3"
@@ -110,6 +113,7 @@ object_list:
     technique: [ "Core-Formed" ]
     figure: [ id: "fig-2004-2-a", id: "fig-2004-2-b", id: "fig-2004-2-c", id: "fig-2004-2-d" ]
     path: /catalogue/cat-3/
+    date_range_sorted: [ "02: 400–300 BCE" ]
 -
     id: cat-4
     label: "Cat. 4"
@@ -128,6 +132,7 @@ object_list:
     technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-148-a", id: "fig-2003-148-b", id: "fig-2003-148-c", id: "fig-2003-148-d" ]
     path: /catalogue/cat-4/
+    date_range_sorted: [ "02: 400–300 BCE" ]
 -
     id: cat-5
     label: "Cat. 5"
@@ -146,6 +151,7 @@ object_list:
     technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-147-a" ]
     path: /catalogue/cat-5/
+    date_range_sorted: [ "03: 300–200 BCE" ]
 -
     id: cat-6
     label: "Cat. 6"
@@ -164,6 +170,7 @@ object_list:
     technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2004-16-a" ]
     path: /catalogue/cat-6/
+    date_range_sorted: [ "03: 300–200 BCE" ]
 -
     id: cat-7
     label: "Cat. 7"
@@ -182,6 +189,7 @@ object_list:
     technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2003-160-a" ]
     path: /catalogue/cat-7/
+    date_range_sorted: [ "04: 200–100 BCE" ]
 -
     id: cat-8
     label: "Cat. 8"
@@ -200,6 +208,7 @@ object_list:
     technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2003-162-a" ]
     path: /catalogue/cat-8/
+    date_range_sorted: [ "04: 200–100 BCE" ]
 -
     id: cat-9
     label: "Cat. 9"
@@ -218,6 +227,7 @@ object_list:
     technique: [ "Rod-Formed" ]
     figure: [ id: "fig-2003-163-a" ]
     path: /catalogue/cat-9/
+    date_range_sorted: [ "05: 100–0 BCE" ]
 -
     id: cat-10
     label: "Cat. 10"
@@ -236,6 +246,7 @@ object_list:
     technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-180-a" ]
     path: /catalogue/cat-10/
+    date_range_sorted: [ "05: 100–0 BCE" ]
 -
     id: cat-11
     label: "Cat. 11"
@@ -254,6 +265,7 @@ object_list:
     technique: [ "Core-Formed" ]
     figure: [ id: "fig-2004-5-a" ]
     path: /catalogue/cat-11/
+    date_range_sorted: [ "06: 0–100 CE" ]
 -
     id: cat-12
     label: "Cat. 12"
@@ -272,6 +284,7 @@ object_list:
     technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-181-a" ]
     path: /catalogue/cat-12/
+    date_range_sorted: [ "06: 0–100 CE" ]
 -
     id: cat-13
     label: "Cat. 13"
@@ -290,6 +303,7 @@ object_list:
     technique: [ "Core-Formed" ]
     figure: [ id: "fig-2004-6-a" ]
     path: /catalogue/cat-13/
+    date_range_sorted: [ "07: 100–200 CE" ]
 -
     id: cat-14
     label: "Cat. 14"
@@ -308,6 +322,7 @@ object_list:
     technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-190-a", id: "fig-2003-190-b" ]
     path: /catalogue/cat-14/
+    date_range_sorted: [ "07: 100–200 CE" ]
 -
     id: cat-15
     label: "Cat. 15"
@@ -326,6 +341,7 @@ object_list:
     technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-196-a" ]
     path: /catalogue/cat-15/
+    date_range_sorted: [ "08: 200–300 CE" ]
 -
     id: cat-16
     label: "Cat. 16"
@@ -344,6 +360,7 @@ object_list:
     technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-185-a", id: "fig-2003-185-b" ]
     path: /catalogue/cat-16/
+    date_range_sorted: [ "08: 200–300 CE" ]
 -
     id: cat-17
     label: "Cat. 17"
@@ -362,6 +379,7 @@ object_list:
     technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-182-a" ]
     path: /catalogue/cat-17/
+    date_range_sorted: [ "09: 300–400 CE" ]
 -
     id: cat-18
     label: "Cat. 18"
@@ -380,6 +398,7 @@ object_list:
     technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-183-a" ]
     path: /catalogue/cat-18/
+    date_range_sorted: [ "09: 300–400 CE" ]
 -
     id: cat-19
     label: "Cat. 19"
@@ -398,6 +417,7 @@ object_list:
     technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-184-a" ]
     path: /catalogue/cat-19/
+    date_range_sorted: [ "10: 400–500 CE" ]
 -
     id: cat-20
     label: "Cat. 20"
@@ -416,6 +436,7 @@ object_list:
     technique: [ "Core-Formed" ]
     figure: [ id: "fig-2003-189-a" ]
     path: /catalogue/cat-20/
+    date_range_sorted: [ "10: 400–500 CE" ]
 -
     id: cat-21
     label: "Cat. 21"

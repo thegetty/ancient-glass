@@ -1,9 +1,13 @@
+<!-- 
+  CUSTOMIZED FILE
+  Add formatOptionLabel function to strip out custom sort encoding for date ranges
+-->
 <div class="object-filters__list">
   <div webc:for="filter of getFilters(getFilterOrder($data), objects)" class="object-filters__item">
     <label :for="filter.id" @html="filter.fieldLabel"></label>
     <div class="object-filters__select">
       <select :id="filter.id" data-control-filter :data-control-name="filter.fieldName">
-        <option webc:for="option of filter.options" :value="option.value" @text="option.label"></option>;
+        <option webc:for="option of filter.options" :value="option.value" @text="formatOptionLabel(option.label)"></option>;
       </select>
     </div>
   </div>
@@ -93,7 +97,7 @@ const getFilterOrder = ($data) => {
 const getFilters = (filterOrder, objects) => {
   if (filterOrder === false) {
     return [];
-  }
+  } 
 
   const filterNames = filterOrder
     ? filterOrder
@@ -114,6 +118,14 @@ const getFilters = (filterOrder, objects) => {
       options
     };
   });
+};
+
+/**
+ * Format the option label by removing the pattern if it matches
+ */
+const formatOptionLabel = (label) => {
+  const pattern = /^\d{2}: /;
+  return pattern.test(label) ? label.slice(4) : label;
 };
 </script>
 
