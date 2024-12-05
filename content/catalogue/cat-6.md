@@ -8,7 +8,6 @@ presentation: side-by-side
 #menu: false 
 object:
   - id: "cat-6"
-previousPage: /catalogue/a_vessels/i_ancient/1_core-formed/1_pharonic/4_flask/cat-5/
 ---
 
 ## Condition
