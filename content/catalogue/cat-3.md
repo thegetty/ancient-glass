@@ -16,7 +16,7 @@ Mended, fills in several parts of the body.
 
 ## Description
 
-Dark blue ground; opaque white, yellow, and turquoise décor. Flattened, horizontal rim with rounded edge; wide, cylindrical neck, slightly tapering toward the body; almost horizontal rounded shoulder; squat, bulbous body; tall, conical footed base with rounded edge. On the upper body, right below the shoulder, three dark blue loop handles are arranged at equal distances.
+Translucent dark blue ground; opaque white, yellow, and turquoise décor. Flattened, horizontal rim with rounded edge; wide, cylindrical neck, slightly tapering toward the body; almost horizontal rounded shoulder; squat, bulbous body; tall, conical footed base with rounded edge. On the upper body, right below the shoulder, three dark blue loop handles are arranged at equal distances.
 
 A marvered turquoise thread is wound around the rim. Around the neck and on the lower part of the body, three marvered threads—opaque white, yellow, and turquoise—are spirally wound and dragged upward, forming a festooned pattern. A marvered turquoise thread encircles the base.
 
@@ -28,7 +28,9 @@ Comparanda include finds kept in the Museum für Kunst und Gewerbe Hamburg, the 
 
 ## Provenance
 
-By 1965, Private Collection (Stuttgart, Germany); by 1968–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheritance to his daughter, Ingrid Reisser, 1988 [Source: described in {% cite 'Nolte 1968' %} as from “Grab auf Zypern”]; 1988–2004, Ingrid Reisser (Böblingen, Germany), sold to the J. Paul Getty Museum, 2004
+By 1965, Private Collection (Stuttgart, Germany); by 1968–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheritance to his daughter, Ingrid Reisser, 1988; 1988–2004, Ingrid Reisser (Böblingen, Germany), sold to the J. Paul Getty Museum, 2004
+
+Note: described in Nolte 1968 as found in a Mycenaean grave in Cyprus: "aus einem myken. Grab auf Zypern"
 
 ## Bibliography
 
@@ -36,8 +38,8 @@ By 1965, Private Collection (Stuttgart, Germany); by 1968–1988, Erwin Oppenlä
 
 {% cite 'Nolte 1968' %}, p. 93, no. 15, plate VIII:15; reference to the export of glass p. 93, no. 15, plate 8, pp. 15ff. and 89.
 
-Said to have been found in a Mycenaean grave in Cyprus: “aus einem myken. Grab auf Zypern” ({% cite 'von Saldern et al. 1974' %}, p. 18, no. 1).
+{% cite 'von Saldern et al. 1974' %}, p. 18, no. 1.
 
 ## Exhibitions
 
-None
+Gläser der Antike: Sammlung Erwin Oppenländer (Hamburg and Cologne, 1974–1975)
