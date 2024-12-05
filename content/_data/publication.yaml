@@ -9,7 +9,7 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'https://third-pages--ancient-glass.netlify.app'
+url: 'http://localhost:8080/'
 
 # ------------------------------------------------------------------------------
 # Title & Description
@@ -60,7 +60,7 @@ project_team:
   - Greg Albers, *Digital Publications Manager*
   - Erin Cecele Dunigan, *Digital Project Lead*
   - Jenny Park, *Digital Production*
-  - Kate Justement, *Digital Assistant*
+  - Kate Justement and Alex Hallenbeck, *Digital Assistants*
 
 # ------------------------------------------------------------------------------
 # Contributors
