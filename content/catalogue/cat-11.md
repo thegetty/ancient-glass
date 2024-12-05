@@ -16,7 +16,7 @@ Fully preserved, mended.
 
 ## Description
 
-Opaque white ground with purple decoration. Broad, horizontal, translucent rim-disk; very short, cylindrical neck; cylindrical body, wider at the lower part, curving in toward a convex bottom. Below the shoulder, two opposing, small vertical ring handles with knobbed tails set at different heights on the body. Remains of a whitish core in the interior.
+Opaque white ground with translucent purple decoration. Broad, horizontal, translucent rim-disk; very short, cylindrical neck; cylindrical body, wider at the lower part, curving in toward a convex bottom. Below the shoulder, two opposing, small vertical ring handles with knobbed tails set at different heights on the body. Remains of a whitish core in the interior.
 
 The body and the handles are made of opaque white glass. An unmarvered translucent purple thread is wound around the rim. A marvered translucent purple thread is spirally wound 28 times from neck to bottom and dragged alternately nine times upwards and nine times downwards, forming a feather pattern.
 
@@ -26,7 +26,7 @@ On core-formed alabastra, see comments on {% cat '2003.180' %}. For the classifi
 
 ## Provenance
 
-By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheritance to his son, Gert Oppenländer, 1988; 1988–2003, Gert Oppenländer (Waiblingen, Germany), sold to the J. Paul Getty Museum, 2003
+By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheritance to his daughter, Ingrid Reisser, 1988; 1988–2004, Ingrid Reisser (Böblingen, Germany), sold to the J. Paul Getty Museum, 2004
 
 ## Bibliography
 

@@ -26,11 +26,9 @@ On core-formed alabastra of this period, see comments on {% cat '2003.193' %}. F
 
 ## Provenance
 
-Louis de Clercq, French, 1836–1901 (Paris, France); by 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheritance to his daughter, Ingrid Reisser, 1988; 1988–2004, Ingrid Reisser (Böblingen, Germany), sold to the J. Paul Getty Museum, 2004
+By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheritance to his daughter, Ingrid Reisser, 1988; 1988–2004, Ingrid Reisser (Böblingen, Germany), sold to the J. Paul Getty Museum, 2004
 
 ## Bibliography
-
-{% cite 'de Ridder 1909' %}, no. 581, plate 31.
 
 {% cite 'von Saldern et al. 1974' %}, p. 112, no. 300.
 
@@ -38,8 +36,4 @@ Louis de Clercq, French, 1836–1901 (Paris, France); by 1974–1988, Erwin Oppe
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2007)
 
-Gläser der Antike: Sammlung Erwin Oppenländer
-
-Museum für Kunst und Gewerbe Hamburg (Hamburg, October 4 to November 17, 1974)
-
-Römisch-Germanisches Museum (Cologne, June 20 to September 14, 1975)
+Gläser der Antike: Sammlung Erwin Oppenländer (Hamburg and Cologne, 1974-1975)
