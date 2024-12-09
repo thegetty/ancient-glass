@@ -34,6 +34,8 @@ By 1968–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 {% cite 'von Saldern et al. 1974' %}, p. 92, no. 241.
 
+{cite 'Wight 2011' %} pp. 18, 24, fig. 12.
+
 ## Exhibitions
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
