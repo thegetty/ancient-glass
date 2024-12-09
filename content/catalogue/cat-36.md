@@ -32,6 +32,8 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 {% cite 'von Saldern et al. 1974' %}, p. 60, no. 132; p. 59, plate no. 132.
 
+{% cite 'Wight 2011' %} pp. 103, 112, fig. 80.
+
 ## Exhibitions
 
-None
+Gläser der Antike: Sammlung Erwin Oppenländer (Hamburg and Cologne, 1974–1975)
