@@ -38,7 +38,7 @@ By 1962–1985, Ernst Kofler, 1899–1989, and Marthe Truniger, 1918–1999 (Luc
 
 {% cite 'Jucker 1965' %}, p. 46; plates 15, 16.2, .4; figs. 5, 6.
 
-{% cite '3000 Jahre Glaskunst' %}, p. 33, full page ill.; p. 72, no. 226, ill.
+{% cite '*3000 Jahre Glaskunst*' %}, p. 33, full page ill.; p. 72, no. 226, ill.
 
 {% cite 'Goldstein et al. 1982' %}, p. 15, no. 8; p. 23, fig. 4; p. 99, cat. no. 4.
 

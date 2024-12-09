@@ -38,7 +38,7 @@ By 1964–1985, Ernst Kofler, 1899–1989, and Marthe Truniger, 1918–1999 (Luc
 
 {% cite 'Kunsthaus Zurich 1964' %}, p. 47, no. 459; plate 36.
 
-{% cite '3000 Jahre Glaskunst' %}, p. 15, color plate (center); p. 63, no. 160 (not ill.).
+{% cite '*3000 Jahre Glaskunst*' %}, p. 15, color plate (center); p. 63, no. 160 (not ill.).
 
 {% cite 'Christie’s 1985' %}, lot 183.
 
