@@ -8,7 +8,6 @@ presentation: side-by-side
 #menu: false 
 object:
   - id: "cat-58"
-nextPage: /catalogue/a_vessels/i_ancient/2_cast_rotary/1_single_colored/
 ---
 
 ## Condition

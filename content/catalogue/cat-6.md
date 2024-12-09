@@ -8,7 +8,6 @@ presentation: side-by-side
 #menu: false 
 object:
   - id: "cat-6"
-previousPage: /catalogue/a_vessels/i_ancient/1_core-formed/1_pharonic/4_flask/cat-5/
 ---
 
 ## Condition
@@ -37,6 +36,8 @@ By 1968–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 ## Exhibitions
 
-Meisterwerke der Glaskunst aus internationalem Privatbesitz (Düsseldorf, 1968–1969)
-
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
+
+Gläser der Antike: Sammlung Erwin Oppenländer (Hamburg and Cologne, 1974–1975)
+
+Meisterwerke der Glaskunst aus internationalem Privatbesitz (Düsseldorf, 1968–1969)

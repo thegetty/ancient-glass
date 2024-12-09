@@ -22,7 +22,7 @@ A yellow and a turquoise thread—both marvered—are spirally wound 27 times fr
 
 ## Comments and Comparanda
 
-On core-formed amphoriskoi of this period, see comments on {% cat '2003.200' %}. For the classification of this particular amphoriskos, see {% cite 'Grose 1989' %}, class III:E, amphoriskos form III:2B: pp. 170–172, nos. 170–174. The shoulder area was restored, forming an unexpected obtuse angle between the neck and the shoulder/body, compared for instance with {% cat '2003.204' %}, which is more typical for the form.
+On core-formed amphoriskoi of this period, see comments on {% cat '2003.200' %}. For the classification of this particular amphoriskos, see {% cite 'Grose 1989' %}, class III:E, amphoriskos form III:2B: pp. 170–172, nos. 170–174. The shoulder area was restored, forming an unexpected obtuse angle between the neck and the body, compared for instance with {% cat '2003.204' %}, which is more typical for the form.
 
 ## Provenance
 

@@ -35,7 +35,7 @@ classes:
 
                 - Amphoriskoi | [cats. 34](/catalogue/cat-34/)–[47](/catalogue/cat-47/)
 
-                - Oinochae | [cats. 48](/catalogue/cat-48/)–[52](/catalogue/cat-52/)
+                - Oinochoae | [cats. 48](/catalogue/cat-48/)–[52](/catalogue/cat-52/)
 
                 - Aryballoi | [cats. 53](/catalogue/cat-53/)–[56](/catalogue/cat-56/)
 
@@ -133,9 +133,9 @@ classes:
 
                     - Amphoriskoi | [cats. 354](/catalogue/cat-354/)–[366](/catalogue/cat-366/)
 
-                - Multihandled | [cats. 367](/catalogue/cat-367/)–[368](/catalogue/cat-368/)
+                    - Multihandled | [cats. 367](/catalogue/cat-367/)–[368](/catalogue/cat-368/)
 
-                - Kohl Tubes | [cats. 369](/catalogue/cat-369/)–[371](/catalogue/cat-371/)
+                    - Kohl Tubes | [cats. 369](/catalogue/cat-369/)–[371](/catalogue/cat-371/)
 
             - Inkwells | [cats. 372](/catalogue/cat-372/)–[375](/catalogue/cat-375/)
 
@@ -191,7 +191,7 @@ classes:
 
         - Sculpture | [cats. 574](/catalogue/cat-574/)–[575](/catalogue/cat-575/)
 
-        -  Earplugs | [cats. 576](/catalogue/cat-576/)–[577](/catalogue/cat-577/)
+        - Earplugs | [cats. 576](/catalogue/cat-576/)–[577](/catalogue/cat-577/)
 
         - Window Pane | [cat. 578](/catalogue/cat-578/)
 

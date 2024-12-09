@@ -134,7 +134,7 @@ object_list:
     production_area: "Egypt"
     production_area_filter: [ "Egypt" ]
     culture: "Egyptian"
-    material: "Dark blue and opaque yellow and green glass"
+    material: "Translucent dark blue and opaque yellow and green glass"
     modeling_technique_and_decoration: "Core-formed; applied handles and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Lentoid Flasks" ]
@@ -663,7 +663,7 @@ object_list:
     production_area: "Eastern Mediterranean, possibly Syro-Palestinian region"
     production_area_filter: [ "Eastern Mediterranean, possibly Syro-Palestinian region" ]
     culture: "Greek"
-    material: "Translucent dark blue and opaque yellow glass"
+    material: "Translucent dark blue and opaque yellow, now appearing white, glass"
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and unmarvered and marvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
@@ -683,7 +683,7 @@ object_list:
     production_area_filter: [ "Eastern Mediterranean, possibly Syro-Palestinian region" ]
     culture: "Greek"
     material: "Translucent dark blue and opaque turquoise and yellow glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and marvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and marvered and umarvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-Formed" ]
@@ -2298,7 +2298,7 @@ object_list:
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Roman"
     material: "Dark blue, white, green, and light blue glass"
-    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths of mosaic canes; slumped; rotary polished"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Slumped" ]
@@ -3419,7 +3419,7 @@ object_list:
     production_area_filter: [ "Eastern Mediterranean, Syro-Palestinian region" ]
     culture: "Roman"
     material: "Translucent slightly greenish glass"
-    modeling_technique_and_decoration: "Mold-blown; applied elements"
+    modeling_technique_and_decoration: "Mold-blown; blown in bipartite mold of two unequal vertical sections, open at the base; applied elements"
     inscription: "No"
     shape: [ "Head Flasks" ]
     technique: [ "Mold-Blown" ]
@@ -3514,7 +3514,7 @@ object_list:
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Roman"
     material: "Translucent dark blue and dark green glass"
-    modeling_technique_and_decoration: "Mold-blown"
+    modeling_technique_and_decoration: "Mold-blown; blown in a bipartite mold with open base"
     inscription: "No"
     shape: [ "Head Jugs" ]
     technique: [ "Mold-Blown" ]
@@ -3533,7 +3533,7 @@ object_list:
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Roman"
     material: "Translucent dark blue and dark green glass"
-    modeling_technique_and_decoration: "Mold-blown; applied handle and base"
+    modeling_technique_and_decoration: "Mold-blown; blown in a bipartite mold with open base; applied handle and base"
     inscription: "No"
     shape: [ "Head Jugs" ]
     technique: [ "Mold-Blown" ]
@@ -7507,7 +7507,7 @@ object_list:
     modeling_technique_and_decoration: "Free-blown"
     inscription: "No"
     shape: [ "Flasks" ]
-    technique: [ "Free-Blown" ]
+    technique: [ "Mold-Blown" ]
     figure: [ id: "fig-79-AF-184-40-a", id: "fig-79-AF-184-40-b", id: "fig-79-AF-184-40-c", id: "fig-79-AF-184-40-d" ]
     path: /catalogue/cat-391/
 -
@@ -7668,7 +7668,7 @@ object_list:
     accession_number: "78.AF.29"
     link: <https://www.getty.edu/art/collection/objects/8163>
     dimensions: "Flask: H. 8.7, Diam. rim 2.8, max. Diam. 3.9 cm; Basket: H. 5.0, Diam. rim 5.8, Diam. base 4.9 cm; Pack animal: H. 7.3, L. 8.2, W. 3.4 cm; Overall: H. 11.8 cm; Wt. 84.10 g"
-    date: "Seventh or, more probably, eighth century CE"
+    date: "Seventh–eighth century CE"
     start_date: "600"
     end_date: "799"
     production_area: "Syrian region"
@@ -7997,7 +7997,7 @@ object_list:
     production_area: "Eastern Mediterranean"
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Islamic"
-    material: "Colorized, slightly greenish, glass"
+    material: "Colorless, slightly greenish, glass"
     modeling_technique_and_decoration: "Free-blown; wheel-cutting"
     inscription: "No"
     shape: [ "Flasks" ]
@@ -8378,7 +8378,7 @@ object_list:
     production_area_filter: [ "Venice (possibly), Italy" ]
     culture: "Modern"
     material: "Opaque white, yellow, and blue; translucent purple; transparent glass"
-    modeling_technique_and_decoration: "Free-blown; mosaic"
+    modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused together lengths of round mosaic canes; slumped; applied rim. Polished inside and outside"
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Free-Blown" ]

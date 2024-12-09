@@ -9081,7 +9081,7 @@ figure_list:
     src: figures/fig-1-history.jpg
     #zoom: true
     label: "Figure 1."
-    caption: "Harry Leonard Simmons sale, Parke-Bernet Galleries, New York, 1940, p. 31. J. Paul Getty acquired seven of the nine objects in this catalogue illustration: nos. 99 (cat. 400, 78.AF.29), 101 (cat. 89, 78.AF.32), 102 (cat. 227, 78.AF.20), 104 (cat. 188, 78.AF.24), 106 (cat. 248, 78.AF.21), 107 (cat. 249, 78.AF.22), and 108 (cat. 71, 78.AF.27)."
+    caption: "Harry Leonard Simmons sale, Parke-Bernet Galleries, New York, 1940, p. 31. J. Paul Getty acquired seven of the nine objects in this catalogue illustration: nos. 99 (cat. 400), 101 (cat. 89), 102 (cat. 227), 104 (cat. 188), 106 (cat. 248), 107 (cat. 249), and 108 (cat. 71)."
 
   - id: fig-2-history
     src: figures/fig-2-history.jpg
@@ -9105,7 +9105,7 @@ figure_list:
     src: figures/fig-5-history.jpg
     #zoom: true
     label: "Figure 5."
-    caption: "Cat. 82, Cameo Glass Skyphos, 15 BCE, 84.AF.85"
+    caption: "Cat. 82, Cameo Glass Skyphos, 15 BCE–25 CE, 84.AF.85"
 
   - id: fig-6-history
     src: figures/fig-6-history.jpg
@@ -9162,20 +9162,22 @@ figure_list:
     src: figures/fig-14-intro.jpg
     #zoom: true
     label: "Figure 14."
-    caption: "**Slumping technique**"
+    caption: "**Slumping technique** <br>
+    a) Glass rods of various colors bundled together; (b) heated; (c) stretched and cut in small disks, i.e., florets; (d) florets arranged and heated to form a disk framed by a twisted glass rod; (e) Disk slumped over a former mold to assume vessel’s final shape."
 
   - id: fig-15-intro
     src: figures/fig-15-intro.jpg
     #zoom: true
     label: "Figure 15."
-    caption: "**Rotary-pressing technique for a ribbed bowl**"
+    caption: "**Rotary-pressing technique for a ribbed bowl** <br>
+    (a) Heated mass of glass slumped on former mold placed on a potter’s wheel.; shaping (b) and decorating (c) vessel while slowly rotating."
 
   - id: fig-16-intro
     src: figures/fig-16-intro.jpg
     #zoom: true
     label: "Figure 16."
     caption: "**Rotary-pressing technique for a Cretan pyxis, 3rd–1st century BCE** <br>
-    (a) The vessel is formed on a potter’s wheel. The viscous glass is pressed down with a plunger on the rotating lathe. &#40;c) A paddle shapes the outside."
+    (a) The vessel is formed on a potter’s wheel. (b) The viscous glass is pressed down with a plunger on the rotating lathe. &#40;c) A paddle shapes the outside."
 
   - id: fig-17-intro
     src: figures/fig-17-intro.jpg
