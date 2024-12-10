@@ -32,7 +32,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 {% cite 'von Saldern et al. 1974' %}, p. 66, no. 154.
 
-{cite 'Wight 2011' %} pp. 28, 31, fig. 16.
+{% cite 'Wight 2011' %} pp. 28, 31, fig. 16.
 
 ## Exhibitions
 

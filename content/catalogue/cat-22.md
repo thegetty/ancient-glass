@@ -36,7 +36,7 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 {% cite '*JPGM Handbook Antiquities* rev. ed.' %}, p. 103.
 
-{cite 'Wight 2011' %} pp. 29, 33, fig. 18.
+{% cite 'Wight 2011' %} pp. 29, 33, fig. 18.
 
 ## Exhibitions
 
