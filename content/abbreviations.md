@@ -43,7 +43,7 @@ In some catalogue entries, when the orientation of the fragment is uncertain or 
 
 Date: Based on the comparanda, and given in a range of centuries or parts of centuries
 
-Production area: Most of the objects lack any kind of information regarding their provenance, so production areas were deduced on the basis of comparanda that have been unearthed in controlled excavations and can provide such geographical indications.
+Production area: Most of the objects lack any kind of information regarding their provenience, so production areas were deduced on the basis of comparanda that have been unearthed in controlled excavations and can provide such geographical indications.
 
 Material: Color and quality of glass are described, noting first the degree of transparency (opaque, translucent, or transparent), followed by the color of the glass. The description of color always refers to the original color of the object and not to its present state, which may have been seriously affected by weathering.
 
@@ -51,9 +51,9 @@ Modeling technique and decoration: The techniques applied to the shaping and the
 
 Condition: The state of preservation, the extent and nature of the different types of weathering, and the missing parts and occasional fills are noted. Those that are basically undamaged are considered “intact”; those that have been repaired without loss are considered “complete.”
 
-Description. The overall form and the shape of each part of the vessel are described first, starting from the rim and moving toward the base. Unless stated to the contrary, there are no pontil marks. The description of the decoration, if any exists, follows.
+Description: The overall form and the shape of each part of the vessel are described first, starting from the rim and moving toward the base. Unless stated to the contrary, there are no pontil marks. The description of the decoration, if any exists, follows.
 
-Comments and Comparanda. For most of the catalogue entries, parallels are cited, and, whenever possible, some comments were added referring either to this particular object or to a whole group or class of objects that provide a context for the find.
+Comments and Comparanda: For most of the catalogue entries, parallels are cited, and, whenever possible, some comments were added referring either to this particular object or to a whole group or class of objects that provide a context for the find. The equal sign (=) is used to indicate the various publications in which a single object has been presented.
 
 Provenance: The recorded sequence of entities that owned the object prior to its acquisition by the Getty Museum
 

@@ -73,10 +73,17 @@ TK
 
 ### Customizations
 
+**_includes/components/analytics.js**
+**_layouts/base.11ty.js**
+Added Google Analytics 4
+
 **_includes/components/menu/item.js**
 **_includes/components/table-of-contents/item/list.js**
 **_includes/components/table-of-contents/item/grid.js**
 Don't render menu or TOC links if page is `landing: false`
+
+**_includes/components/object-filters/object-filters.webc**
+Add formatOptionLabel function to strip out custom sort encoding for date ranges
 
 **_includes/components/table-of-contents/item/list.js**
 Add a `data-layout` attribute to facilitate CSS hiding of cat. entries

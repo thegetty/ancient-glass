@@ -9,7 +9,7 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'https://third-pages--ancient-glass.netlify.app'
+url: 'http://localhost:8080/'
 
 # ------------------------------------------------------------------------------
 # Title & Description
@@ -60,7 +60,7 @@ project_team:
   - Greg Albers, *Digital Publications Manager*
   - Erin Cecele Dunigan, *Digital Project Lead*
   - Jenny Park, *Digital Production*
-  - Kate Justement, *Digital Assistant*
+  - Kate Justement and Alex Hallenbeck, *Digital Assistants*
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -68,19 +68,25 @@ project_team:
 
 contributor_as_it_appears:
 
-additional_contributors:
+additional_contributors: "With additional contributions by Nicole&#160;Budrovich and Monica&#160;Ganio"
 
 contributor:
   - id: aantonaras
     type: primary
     first_name: Anastassios
     last_name: Antonaras
-    title: 
-    affiliation: 
-    bio: 
-    url: 
-    image: 
-
+    bio: "Anastassios Antonaras, a specialist in the history of glass, jewelry, and textiles, is an archaeologist, a curator and Head of Department at the Museum of Byzantine Culture, Thessaloniki. He has participated in the organization of numerous exhibitions in Greece and abroad and has organized several international conferences and symposia. He has participated in several excavations in Greece and the western Balkans. Antonaras has extensively published and given lectures in several museums and universities in the USA and Europe. He is a member of the editorial board of scientific journals in Europe and the USA and is the president of the International Association for the History of Glass."
+  - id: nbudrovich
+    type: secondary
+    first_name: Nicole 
+    last_name: Budrovich
+    bio: "Nicole Budrovich is a curatorial assistant in the Department of Antiquities at the J. Paul Getty Museum. She has worked on the Antiquities Provenance Project, contributed to collection and exhibition catalogues, including *Roman Mosaics in the J. Paul Getty Museum* (2016) and *Princes of Pylos: Treasures from Bronze Age Greece* (forthcoming, 2025), and is a coauthor of the book *Provenance Research for Mediterranean Antiquities* (forthcoming, 2026)."
+  - id: mganio
+    type: secondary
+    first_name: Monica 
+    last_name: Ganio
+    bio: "Monica Ganio is an associate scientist at the Getty Conservation Institute (GCI). Since 2015 she has been part of the Technical Studies Research group within the GCI’s Science Department, where she leads research into antiquities in the collection of the J. Paul Getty Museum and investigates the application and optimization of new techniques for the study of archaeological materials. Ganio is also active in creating opportunities to facilitate interdisciplinary exchanges through workshops and conferences."
+ 
 # ------------------------------------------------------------------------------
 # Copyright & License
 # ------------------------------------------------------------------------------

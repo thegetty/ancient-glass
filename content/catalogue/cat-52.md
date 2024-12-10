@@ -31,7 +31,7 @@ The projecting knobs that cover the surface of the body, which give it a spiky a
 
 ## Provenance
 
-By 1972, Gawain McKinley Ltd.; by 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheritance to his son, Gert Oppenländer, 1988; 1988–2003, Gert Oppenländer (Waiblingen, Germany), sold to the J. Paul Getty Museum, 2003
+By 1972, Gawain McKinley Ltd.; by 1973–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheritance to his son, Gert Oppenländer, 1988; 1988–2003, Gert Oppenländer (Waiblingen, Germany), sold to the J. Paul Getty Museum, 2003
 
 ## Bibliography
 

@@ -26,7 +26,7 @@ On core-formed alabastra of this period, see comments on {% cat '2003.193' %}. F
 
 ## Provenance
 
-By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheritance to his son, Gert Oppenländer, 1988; 1988–2003, Gert Oppenländer (Waiblingen, Germany), sold to the J. Paul Getty Museum, 2003
+By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheritance to his daughter, Ingrid Reisser, 1988; 1988–2004, Ingrid Reisser (Böblingen, Germany), sold to the J. Paul Getty Museum, 2004
 
 ## Bibliography
 
