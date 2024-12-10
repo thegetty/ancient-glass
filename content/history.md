@@ -116,10 +116,10 @@ This catalogue is the first comprehensive presentation of the Getty Museum’s a
 
 [^29]: {% cite 'Moltesen 2007' %}, pp. 156–158, fig. 3.
 
-[^30]: [*Molten Color: Glassmaking in Antiquity*](https://www.getty.edu/art/collection/exhibition/103P50), J. Paul Getty Museum at the Getty Villa, January 28–August 6, 2006, reinstalled in 2007 (January 11–April 23, 2007), 2009 (October 8, 2009–February 22, 2010), and became part of the permanent collection in 2010 (October 8, 2010–February 26, 2017). <https://www.getty.edu/art/collection/exhibition/103P50>. 
+[^30]: [*Molten Color: Glassmaking in Antiquity*](https://www.getty.edu/art/collection/exhibition/103P50), J. Paul Getty Museum at the Getty Villa, January 28–August 6, 2006, reinstalled in 2007 (January 11–April 23, 2007), 2009 (October 8, 2009–February 22, 2010), and became part of the permanent collection in 2010 (October 8, 2010–February 26, 2017): <https://www.getty.edu/art/collection/exhibition/103P50>. 
 
-[^31]: *Reflecting Antiquity: Modern Glass Inspired by Ancient Rome*, J. Paul Getty Museum at the Getty Villa, October 8, 2007–January 14, 2008, and at the Corning Museum of Glass, February 15–May 27, 2008.
+[^31]: *Reflecting Antiquity: Modern Glass Inspired by Ancient Rome*, J. Paul Getty Museum at the Getty Villa, October 8, 2007–January 14, 2008, and at the Corning Museum of Glass, February 15–May 27, 2008: <https://www.getty.edu/art/collection/exhibition/103P2Z>.
 
 [^32]: “[Reinstallation of Antiquities Collection Begins at the Getty Villa](https://www.getty.edu/news/getty-museum-begins-reinstallation-antiquities-collection-getty-villa/),” *Getty News & Stories*, December 6, 2016; Tim Potts, “[A New Vision for the Collection at the Getty Villa](https://www.getty.edu/news/a-new-vision-for-the-collection-at-the-getty-villa/),” Getty News & Stories, April 2, 2018.
 
-[^33]: For a description of the current gallery and its contents, see Getty Villa, Gallery 214, Greek and Roman Glass, https://www.getty.edu/art/collection/gallery/113ZAX.
+[^33]: For a description of the current gallery and its contents, see Getty Villa, Gallery 214, Greek and Roman Glass, <https://www.getty.edu/art/collection/gallery/113ZAX>.
