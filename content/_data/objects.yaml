@@ -3537,7 +3537,7 @@ object_list:
     inscription: "No"
     shape: [ "Head Jugs" ]
     technique: [ "Mold-Blown" ]
-    figure: [ id: "fig-2004-44-a", id: "fig-2004-44-b", id: "fig-2004-44-c", id: "fig-2004-44-d", id: "fig-2004-44-e", id: "fig-2004-44-f", id: "fig-2004-44-g", id: "fig-2004-44-h" ]
+    figure: [ id: "fig-2004-44-b", id: "fig-2004-44-h", id: "fig-2004-44-e", id: "fig-2004-44-f", id: "fig-2004-44-g", id: "fig-2004-44-a", id: "fig-2004-44-d", id: "fig-2004-44-c" ]
     path: /catalogue/cat-182/
 -
     id: cat-183
