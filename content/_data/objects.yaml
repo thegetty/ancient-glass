@@ -3311,7 +3311,7 @@ object_list:
     inscription: "No"
     shape: [ "Head jugs" ]
     technique: [ "Mold-blown" ]
-    figure: [ id: "fig-85-AF-320-a", id: "fig-85-AF-320-b", id: "fig-85-AF-320-c", id: "fig-85-AF-320-d", id: "fig-85-AF-320-e" ]
+    figure: [ id: "fig-85-AF-320-c", id: "fig-85-AF-320-a", id: "fig-85-AF-320-d", id: "fig-85-AF-320-b", id: "fig-85-AF-320-e" ]
     path: /catalogue/cat-181/
 -
     id: cat-182
@@ -3365,7 +3365,7 @@ object_list:
     inscription: "No"
     shape: [ "Jugs" ]
     technique: [ "Mold-blown" ]
-    figure: [ id: "fig-2003-332-a", id: "fig-2003-332-b", id: "fig-2003-332-c", id: "fig-2003-332-d" ]
+    figure: [ id: "fig-2003-332-c", id: "fig-2003-332-b", id: "fig-2003-332-d", id: "fig-2003-332-a" ]
     path: /catalogue/cat-184/
 -
     id: cat-185
@@ -3383,7 +3383,7 @@ object_list:
     inscription: "No"
     shape: [ "Jugs" ]
     technique: [ "Mold-blown" ]
-    figure: [ id: "fig-79-AF-184-13-a", id: "fig-79-AF-184-13-b", id: "fig-79-AF-184-13-c", id: "fig-79-AF-184-13-d" ]
+    figure: [ id: "fig-79-AF-184-13-c", id: "fig-79-AF-184-13-a", id: "fig-79-AF-184-13-d", id: "fig-79-AF-184-13-b" ]
     path: /catalogue/cat-185/
 -
     id: cat-186
@@ -3437,7 +3437,7 @@ object_list:
     inscription: "No"
     shape: [ "Jugs" ]
     technique: [ "Mold-blown" ]
-    figure: [ id: "fig-78-AF-24-a", id: "fig-78-AF-24-b", id: "fig-78-AF-24-c", id: "fig-78-AF-24-d", id: "fig-78-AF-24-e", id: "fig-78-AF-24-f", id: "fig-78-AF-24-g" ]
+    figure: [ id: "fig-78-AF-24-e", id: "fig-78-AF-24-c", id: "fig-78-AF-24-a", id: "fig-78-AF-24-b", id: "fig-78-AF-24-d", id: "fig-78-AF-24-f", id: "fig-78-AF-24-g" ]
     path: /catalogue/cat-188/
 -
     id: cat-189
@@ -10272,7 +10272,7 @@ object_list:
     inscription: "No"
     shape: [ "Beads" ]
     technique: 
-    figure: [ id: "fig-76-AM-61-15-a", id: "fig-76-AM-61-15-b" ]
+    figure: [ id: "fig-76-AM-61-15-b", id: "fig-76-AM-61-15-a" ]
     path: /catalogue/cat-536/
 -
     id: cat-537
