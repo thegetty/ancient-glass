@@ -34,4 +34,4 @@ On this form of vessel, see {% cat '78.AF.27' %}. Also see {% cite 'Harden 1940�
 
 ## Exhibitions
 
-None
+Gläser der Antike: Sammlung Erwin Oppenländer (Hamburg and Cologne, 1974–1975)

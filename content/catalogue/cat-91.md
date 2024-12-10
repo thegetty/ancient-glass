@@ -35,3 +35,5 @@ For the production technique, see {% cite 'Dawes 2002' %} and comments on {% cat
 ## Exhibitions
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2009–2010)
+
+Gläser der Antike: Sammlung Erwin Oppenländer (Hamburg and Cologne, 1974–1975)

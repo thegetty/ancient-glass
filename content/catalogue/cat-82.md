@@ -72,6 +72,8 @@ By 1962–1985, Ernst Kofler, 1899–1989, and Marthe Truniger, 1918–1999 (Luc
 
 {% cite 'Lierke 2011' %}, p. 77, fig. 15; p. 91, fig. 27a.
 
+{% cite 'Wight 2011' %}, pp. 55, 60, fig. 37.
+
 {% cite 'Swetnam-Burland 2015' %}, pp. 56–57, fig. 1.20, plate 3.
 
 {% cite 'Sofroniew 2015' %}, pp. 108–109, fig. 84.
