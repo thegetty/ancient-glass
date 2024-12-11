@@ -96,11 +96,11 @@ Every effort has been made to contact the owners and photographers of illustrati
 Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings.
 Fig. 1: From {% cite 'Parke-Bernet Galleries 1940' %}
 Fig. 2: Institutional Archives, The Getty Research Institute, Los Angeles (2010.IA.04)
-Fig. 3: Los Angeles Times Photographic Archive: "Julie Frazier standing next to case of objects." January 24, 1958. (Collection 1429. Box 328. Neg. #108387). UCLA Library Special Collections
+Fig. 3: *Los Angeles Times* Photographic Archive: "Julie Frazier standing next to case of objects." January 24, 1958. (Collection 1429. Box 328. Neg. #108387). UCLA Library Special Collections
 Fig. 4: Bibliothèque nationale de France
 Fig. 11: From {% cite 'Lierke 1999' %}, p. 33, fig. 59
 Fig. 12: From {% cite 'Lierke 1999' %}, p. 42, fig. 42 
-Fig. 13: From Schuler, F. “Ancient Glassmaking Techniques 1: The Molding Process.” Archaeology 12 (1959): p. 48
+Fig. 13: From Schuler, F. “Ancient Glassmaking Techniques 1: The Molding Process.” *Archaeology* 12 (1959): p. 48
 Fig. 14: From {% cite 'Lierke 1999' %}, p. 42
 Fig. 15: From {% cite 'Lierke 1999' %}, p. 30 
 Fig. 16: From {% cite 'Lierke 1999' %}, p. 40
