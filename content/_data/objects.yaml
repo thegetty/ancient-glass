@@ -117,7 +117,7 @@ object_list:
     material: "Translucent dark blue and opaque white, yellow, and turquoise glass"
     modeling_technique_and_decoration: "Core-formed; applied handles, foot, and marvered threads"
     inscription: "No"
-    shape: [ "Kratoriskoi" ]
+    shape: [ "Krateriskoi" ]
     technique: [ "Core-Formed" ]
     figure: [ id: "fig-2004-2-a", id: "fig-2004-2-b", id: "fig-2004-2-c", id: "fig-2004-2-d" ]
     path: /catalogue/cat-3/
@@ -648,7 +648,7 @@ object_list:
     modeling_technique_and_decoration: "Sagging or blowing"
     inscription: "No"
     shape: [ "Alabastra" ]
-    technique: [ "Cast", Core-Formed" ]
+    technique: [ "Cast", "Core-Formed" ]
     figure: [ id: "fig-2004-22-a" ]
     path: /catalogue/cat-30/
 -
@@ -3421,7 +3421,7 @@ object_list:
     material: "Translucent slightly greenish glass"
     modeling_technique_and_decoration: "Mold-blown; blown in bipartite mold of two unequal vertical sections, open at the base; applied elements"
     inscription: "No"
-    shape: [ "Head Flasks" ]
+    shape: [ "Flasks" ]
     technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-326-a", id: "fig-2003-326-b", id: "fig-2003-326-c", id: "fig-2003-326-d", id: "fig-2003-326-e" ]
     path: /catalogue/cat-176/
@@ -3440,7 +3440,7 @@ object_list:
     material: "Translucent bluish glass"
     modeling_technique_and_decoration: "The neck and rim were free-blown. The body was mold-blown in a two-part mold of two vertical sections, which did not fit well: the seams are visible, and from the ears downward, the back side seems to be larger than the front"
     inscription: "No"
-    shape: [ "Head Flasks" ]
+    shape: [ "Flasks" ]
     technique: [ "Free-Blown", "Mold-Blown" ]
     figure: [ id: "fig-2003-327-a", id: "fig-2003-327-b", id: "fig-2003-327-c", id: "fig-2003-327-d", id: "fig-2003-327-e" ]
     path: /catalogue/cat-177/
@@ -3516,7 +3516,7 @@ object_list:
     material: "Translucent dark blue and dark green glass"
     modeling_technique_and_decoration: "Mold-blown; blown in a bipartite mold with open base"
     inscription: "No"
-    shape: [ "Head Jugs" ]
+    shape: [ "Jugs" ]
     technique: [ "Mold-Blown" ]
     figure: [ id: "fig-85-AF-320-c", id: "fig-85-AF-320-a", id: "fig-85-AF-320-d", id: "fig-85-AF-320-b", id: "fig-85-AF-320-e" ]
     path: /catalogue/cat-181/
@@ -3535,7 +3535,7 @@ object_list:
     material: "Translucent dark blue and dark green glass"
     modeling_technique_and_decoration: "Mold-blown; blown in a bipartite mold with open base; applied handle and base"
     inscription: "No"
-    shape: [ "Head Jugs" ]
+    shape: [ "Jugs" ]
     technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2004-44-a", id: "fig-2004-44-b", id: "fig-2004-44-c", id: "fig-2004-44-d", id: "fig-2004-44-e", id: "fig-2004-44-f", id: "fig-2004-44-g", id: "fig-2004-44-h" ]
     path: /catalogue/cat-182/
@@ -3554,7 +3554,7 @@ object_list:
     material: "Transparent dark purple glass with pinprick bubbles. The handle is made of a dark blue glass, covered by a brownish crust"
     modeling_technique_and_decoration: "Mold-blown; blown in a bipartite mold of vertical sections, open at base; faint vertical seams at the junction of the heads"
     inscription: "No"
-    shape: [ "Head Jugs" ]
+    shape: [ "Jugs" ]
     technique: [ "Mold-Blown" ]
     figure: [ id: "fig-2003-324-a", id: "fig-2003-324-b", id: "fig-2003-324-c", id: "fig-2003-324-d", id: "fig-2003-324-e", id: "fig-2003-324-f" ]
     path: /catalogue/cat-183/
@@ -10991,7 +10991,7 @@ object_list:
     end_date: "-1401"
     production_area: "Western Asiatic"
     production_area_filter: [ "Western Asiatic" ]
-    culture: "Near Eastern (Mesopotamian, Syrian?)"
+    culture: "Near Eastern"
     material: "Dark blue or turquoise translucent glass"
     modeling_technique_and_decoration: "Cast in an open one-piece mold"
     inscription: "No"
@@ -11584,7 +11584,7 @@ object_list:
     material: "Translucent green glass"
     modeling_technique_and_decoration: "Molded. No mold seams are noticeable"
     inscription: "No"
-    shape: [ "Busts", "Heads" ]
+    shape: [ "Sculpture" ]
     technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-356-a", id: "fig-2003-356-b", id: "fig-2003-356-c", id: "fig-2003-356-d" ]
     path: /catalogue/cat-574/
@@ -11603,7 +11603,7 @@ object_list:
     material: "Red opaque glass"
     modeling_technique_and_decoration: "Molded"
     inscription: "No"
-    shape: [ "Busts", "Heads" ]
+    shape: [ "Sculpture" ]
     technique: [ "“Cast”-Rotary Pressed" ]
     figure: [ id: "fig-2003-357-a", id: "fig-2003-357-b", id: "fig-2003-357-c", id: "fig-2003-357-d" ]
     path: /catalogue/cat-575/
