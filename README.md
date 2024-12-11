@@ -112,6 +112,9 @@ Add custom thumb shortcode to create thumbnails based on cat numbers
 **_plugins/shortcodes/tombstone.js**
 Allow for optional custom labels with `field` and `label` attributes
 
+**_plugins/transforms/outputs/pdf/transform.js**
+Fixed transform that was converting external links to slugified anchor links
+
 **content/_assets/javascript/application/index.js**
 Display only one pop-up at a time
 

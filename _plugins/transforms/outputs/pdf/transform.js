@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Fixed transform that was converting external links to slugified anchor links, lines 62–66
+//
 const jsdom = require('jsdom')
 const filterOutputs = require('../filter.js')
 const truncate = require('~lib/truncate')
@@ -55,7 +59,11 @@ module.exports = function(eleventyConfig, collections, content) {
     const nodes = element.querySelectorAll('a:not(.footnote-backref, .footnote-ref-anchor)')
     nodes.forEach((a) => {
       const url = a.getAttribute('href')
-      a.setAttribute('href', slugify(`page-${url}`).replace(/^([^#])/, '#$1'))
+      if (url && url.includes('http')) {
+        a
+      } else {
+        a.setAttribute('href', slugify(`page-${url}`).replace(/^([^#])/, '#$1'))
+      }
     })
     return element
   }
