@@ -36,4 +36,4 @@ On core-formed alabastra, see comments on {% cat '2003.180' %}. For the classifi
 
 ## Exhibitions
 
-None
+Gläser der Antike: Sammlung Erwin Oppenländer (Hamburg and Cologne, 1974–1975)

@@ -48,7 +48,7 @@ By 1981, Private Collection (Switzerland); 1985, Ernst Kofler, 1899–1989, and 
 
 ## Bibliography
 
-{% cite '*3000 Jahre Glaskunst*' %}, p. 62, no. 157, ill.
+{% cite '**3000 Jahre Glaskunst**' %}, p. 62, no. 157, ill.
 
 {% cite 'Christie’s 1985' %}, lot 191.
 

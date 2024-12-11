@@ -38,4 +38,4 @@ This alabastron belongs to the earliest group of Aegean core-formed vessels, dat
 
 ## Exhibitions
 
-None
+Gläser der Antike: Sammlung Erwin Oppenländer (Hamburg and Cologne, 1974–1975)

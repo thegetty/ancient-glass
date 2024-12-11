@@ -30,8 +30,12 @@ By 1974–1988, Erwin Oppenländer, 1901–1988 (Waiblingen, Germany), by inheri
 
 {% cite 'von Saldern et al. 1974' %}, p. 105, no. 281.
 
+{% cite 'Wight 2011' %}, pp. 55, 58, fig. 34.
+
 ## Exhibitions
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
 
 Pompeii and the Roman Villa: Art and Culture around the Bay of Naples (Los Angeles, 2009)
+
+Gläser der Antike: Sammlung Erwin Oppenländer (Hamburg and Cologne, 1974–1975)

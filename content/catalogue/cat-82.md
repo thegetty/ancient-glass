@@ -42,7 +42,7 @@ By 1962–1985, Ernst Kofler, 1899–1989, and Marthe Truniger, 1918–1999 (Luc
 
 {% cite 'Jucker 1965' %}, p. 46; plates 15, 16.2, .4; figs. 5, 6.
 
-{% cite '3000 Jahre Glaskunst' %}, p. 33, full page ill.; p. 72, no. 226, ill.
+{% cite '*3000 Jahre Glaskunst*' %}, p. 33, full page ill.; p. 72, no. 226, ill.
 
 {% cite 'Goldstein et al. 1982' %}, p. 15, no. 8; p. 23, fig. 4; p. 99, cat. no. 4.
 
@@ -72,6 +72,8 @@ By 1962–1985, Ernst Kofler, 1899–1989, and Marthe Truniger, 1918–1999 (Luc
 
 {% cite 'Lierke 2011' %}, p. 77, fig. 15; p. 91, fig. 27a.
 
+{% cite 'Wight 2011' %}, pp. 55, 60, fig. 37.
+
 {% cite 'Swetnam-Burland 2015' %}, pp. 56–57, fig. 1.20, plate 3.
 
 {% cite 'Sofroniew 2015' %}, pp. 108–109, fig. 84.
@@ -94,14 +96,22 @@ By 1962–1985, Ernst Kofler, 1899–1989, and Marthe Truniger, 1918–1999 (Luc
 
 ## Exhibitions
 
-Sammlung E. und M. Kofler-Truniger, Luzern (Zurich, 1964)
-
-Glass of the Caesars (Corning, 1987; Mainz, 1988)
-
-Cleopatra’s Egypt: Age of the Ptolemies (Brooklyn, 1988–1989; Detroit, 1989; Munich, 1989)
-
-Ancient Art from the Permanent Collection (Los Angeles, 1999–2004)
+Beyond the Nile: Egypt and the Classical World (Los Angeles, 2018)
 
 Reflecting Antiquity: Modern Glass Inspired by Ancient Rome (Malibu, 2007–2008; Corning, 2008)
 
-Beyond the Nile: Egypt and the Classical World (Los Angeles, 2018)
+Ancient Art from the Permanent Collection (Los Angeles, 1999–2004)
+
+Cleopatra’s Egypt: Age of the Ptolemies (Brooklyn, 1988–1989; Detroit, 1989; Munich, 1989)
+
+Glass of the Caesars (Corning, 1987; Mainz, 1988)
+
+Sammlung E. und M. Kofler-Truniger, Luzern (Zurich, 1964)
+
+
+
+
+
+
+
+

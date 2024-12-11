@@ -37,3 +37,5 @@ See comments on {% cat '2003.174' %}. For the classification of this particular 
 ## Exhibitions
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
+
+Gläser der Antike: Sammlung Erwin Oppenländer (Hamburg and Cologne, 1974–1975)

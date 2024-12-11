@@ -49,6 +49,10 @@ By 1972, Gawain McKinley Ltd.; by 1973–1988, Erwin Oppenländer, 1901–1988 (
 
 {% cite 'von Saldern 2004' %}, p. 88, no. 3.
 
+{% cite 'Wight 2011' %}, pp. 34, 36, fig. 19.
+
 ## Exhibitions
 
 Molten Color: Glassmaking in Antiquity (Malibu, 2005–2006; 2007; 2009–2010)
+
+Gläser der Antike: Sammlung Erwin Oppenländer (Hamburg and Cologne, 1974–1975)

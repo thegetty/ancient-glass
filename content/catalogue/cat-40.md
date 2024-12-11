@@ -36,4 +36,4 @@ On core-formed amphoriskoi of this period, see comments on {% cat '2003.178' %}.
 
 ## Exhibitions
 
-None
+Gläser der Antike: Sammlung Erwin Oppenländer (Hamburg and Cologne, 1974–1975)
