@@ -104,8 +104,8 @@ Fig. 13: From Schuler, F. “Ancient Glassmaking Techniques 1: The Molding Proce
 Fig. 14: From {% cite 'Lierke 1999' %}, p. 42
 Fig. 15: From {% cite 'Lierke 1999' %}, p. 30 
 Fig. 16: From {% cite 'Lierke 1999' %}, p. 40
-Fig. 17: Courtesy of Bologna, Museo Civico Archeologico. From Meconcelli Notarianni, Gioia, and Daniela Ferrari. *Vetri Antichi: Arte e Tecnica*. Exh. cat. Bologna, Museo Civico Archeologico, 1998, p. 13
-Fig. 18: Courtesy of Bologna, Museo Civico Archeologico. From Meconcelli Notarianni, Gioia, and Daniela Ferrari. *Vetri Antichi: Arte e Tecnica*. Exh. cat. Bologna, Museo Civico Archeologico, 1998, p. 14
+Fig. 17: Courtesy of Bologna, Museo Civico Archeologico. From Meconcelli Notarianni, Gioia, and Daniela Ferrari. *Vetri Antichi: Arte e Tecnica*. Exh. cat. Bologna, Museo Civico Archeologico, 1998, p.&nbsp;13
+Fig. 18: Courtesy of Bologna, Museo Civico Archeologico. From Meconcelli Notarianni, Gioia, and Daniela Ferrari. *Vetri Antichi: Arte e Tecnica*. Exh. cat. Bologna, Museo Civico Archeologico, 1998, p.&nbsp;14
 Fig. 19: University of Pennsylvania Museum of Archaeology and Anthropology. From {% cite 'Fleming 1999' %}, p. 199, figs. 51–52
 Fig. 20: From {% cite 'Lierke 1999' %}, p. 24, fig. 44
 
