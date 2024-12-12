@@ -1,8 +1,4 @@
-//
-// CUSTOMIZED FILE
-// Don't render TOC link if page is `landing: false`
-// Add a `data-layout` attribute to facilitate CSS hiding of cat. entries
-//
+const path = require('path')
 const { html, oneLine } = require('~lib/common-tags')
 
 /**
@@ -20,6 +16,7 @@ module.exports = function (eleventyConfig) {
   const contributors = eleventyConfig.getFilter('contributors')
   const icon = eleventyConfig.getFilter('icon')
   const markdownify = eleventyConfig.getFilter('markdownify')
+  const slugify = eleventyConfig.getFilter('slugify')
   const pageTitle = eleventyConfig.getFilter('pageTitle')
   const removeHTML = eleventyConfig.getFilter('removeHTML')
   const { contributorDivider } = eleventyConfig.globalData.config.tableOfContents
@@ -36,7 +33,6 @@ module.exports = function (eleventyConfig) {
       abstract,
       contributor: pageContributors,
       label,
-      landing,
       layout,
       short_title,
       subtitle,
@@ -48,7 +44,7 @@ module.exports = function (eleventyConfig) {
      * Check if item is a reference to a built page or just a heading
      * @type {Boolean}
      */
-    const isPage = landing == false ? false : true
+    const isPage = !!layout
 
     const pageContributorsElement = pageContributors
       ? `<span class="contributor-divider">${contributorDivider}</span><span class="contributor">${contributors({ context: pageContributors, format: 'string' })}</span>`
@@ -60,12 +56,13 @@ module.exports = function (eleventyConfig) {
     } else {
       pageTitleElement = oneLine`${pageTitle({ label, subtitle, title })}${pageContributorsElement}`
     }
+
     const arrowIcon = `<span class="arrow" data-outputs-exclude="epub,pdf">${icon({ type: 'arrow-forward', description: '' })}</span>`
 
     // Returns abstract with any links stripped out
     const abstractText =
       presentation === 'abstract' && (abstract || summary)
-        ? `<div class="abstract-text">${ removeHTML(markdownify(abstract)) }</div>`
+        ? `<div class="abstract-text">${removeHTML(markdownify(abstract))}</div>`
         : ''
 
     let mainElement = `${markdownify(pageTitleElement)}${isPage && !children ? arrowIcon : ''}`
@@ -73,11 +70,11 @@ module.exports = function (eleventyConfig) {
     if (isPage) {
       mainElement = `<a href="${page.url}">${mainElement}</a>`
     } else {
-      mainElement = `<span class="no-landing">${mainElement}</span>`
+      classes.push('no-landing')
     }
 
     return html`
-      <li class="${classes.join(' ')}" data-layout="${layout}">
+      <li class="${classes.join(' ')}">
         ${mainElement}
         ${abstractText}
         ${children}
