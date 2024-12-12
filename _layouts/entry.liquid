@@ -33,23 +33,22 @@ Entry content, including entry image and tombstone data
     </div>
   </div>
 
-  <div class="quire-entry__image-wrap" data-outputs-include="epub,pdf">
-    {% if image %}
-      {% comment %} 
-        @TODO: add support for images without ids defined in front matter
-        {% figure image %}
-      {% endcomment %}
-    {% elsif pageObjects %}
-      {% for object in pageObjects %}
-        {% for figure in object.figures %}
-          {% figure figure.id %}
-        {% endfor %}
-      {% endfor %}
-    {% endif %}
-  </div>
-
   <div class="quire-entry__content">
     <header class="quire-entry__header">
+      <div class="quire-entry__image-wrap" data-outputs-include="epub,pdf">
+        {% if image %}
+          {% comment %} 
+            @TODO: add support for images without ids defined in front matter
+            {% figure image %}
+          {% endcomment %}
+        {% elsif pageObjects %}
+          {% for object in pageObjects %}
+            {% for figure in object.figures %}
+              {% figure figure.id %}
+            {% endfor %}
+          {% endfor %}
+        {% endif %}
+      </div>
       <div class="container">
         <div class="quire-page__header__breadcrumbs">
         {% assign sections = page.filePathStem | split: "/" %}

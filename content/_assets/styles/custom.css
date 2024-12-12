@@ -369,6 +369,11 @@ figure.cat-thumbnail a {
   .catalogue-entries-wrapper .quire-page.quire-contents .quire-page__header {
     margin-bottom: 2rem;
   }
+  .quire-page.quire-entry .quire-entry__header {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    column-break-inside: avoid;
+  }
   .quire-page.quire-entry .quire-page__content {
     column-count: 1;
   }
