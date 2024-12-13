@@ -17,10 +17,13 @@ object_filters:
     label: Production Area
   - field: date_range
     label: date
+  - field: rotating
+    label: 360-Degree View
 
 object_card:
   - thumbnail
   - label
+  - rotating
 
 object_list:
 
@@ -119,7 +122,8 @@ object_list:
     inscription: "No"
     shape: [ "Kratoriskoi" ]
     technique: [ "Core-Formed" ]
-    figure: [ id: "fig-2004-2-a", id: "fig-2004-2-b", id: "fig-2004-2-c", id: "fig-2004-2-d" ]
+    figure: [ id: "fig-003-360", id: "fig-2004-2-a", id: "fig-2004-2-b", id: "fig-2004-2-c", id: "fig-2004-2-d" ]
+    rotating: "True"
     path: /catalogue/cat-3/
 -
     id: cat-4
@@ -1029,7 +1033,8 @@ object_list:
     inscription: "No"
     shape: [ "Oinochoai" ]
     technique: [ "Core-Formed" ]
-    figure: [ id: "fig-2003-165-a", id: "fig-2003-165-b", id: "fig-2003-165-c", id: "fig-2003-165-d" ]
+    figure: [ id: "fig-050-360", id: "fig-2003-165-a", id: "fig-2003-165-b", id: "fig-2003-165-c", id: "fig-2003-165-d" ]
+    rotating: "True"
     path: /catalogue/cat-50/
 -
     id: cat-51
@@ -1637,7 +1642,8 @@ object_list:
     inscription: "No"
     shape: [ "Skyphoi" ]
     technique: [ "“Cast”-Rotary Pressed" ]
-    figure: [ id: "fig-84-AF-85-a", id: "fig-84-AF-85-b", id: "fig-84-AF-85-c", id: "fig-84-AF-85-d", id: "fig-84-AF-85-e", id: "fig-84-AF-85-f", id: "fig-84-AF-85-g", id: "fig-84-AF-85-h", id: "fig-84-AF-85-i", id: "fig-84-AF-85-j", id: "fig-84-AF-85-k", id: "fig-84-AF-85-l", id: "fig-84-AF-85-m", id: "fig-84-AF-85-n", id: "fig-84-AF-85-o" ]
+    figure: [ id: "fig-082-360", id: "fig-84-AF-85-a", id: "fig-84-AF-85-b", id: "fig-84-AF-85-c", id: "fig-84-AF-85-d", id: "fig-84-AF-85-e", id: "fig-84-AF-85-f", id: "fig-84-AF-85-g", id: "fig-84-AF-85-h", id: "fig-84-AF-85-i", id: "fig-84-AF-85-j", id: "fig-84-AF-85-k", id: "fig-84-AF-85-l", id: "fig-84-AF-85-m", id: "fig-84-AF-85-n", id: "fig-84-AF-85-o" ]
+    rotating: "True"
     path: /catalogue/cat-82/
 -
     id: cat-83
@@ -1675,7 +1681,8 @@ object_list:
     inscription: "No"
     shape: [ "Flasks" ]
     technique: [ "“Cast”-Rotary Pressed", "Free-Blown" ]
-    figure: [ id: "fig-85-AF-84-a", id: "fig-85-AF-84-b", id: "fig-85-AF-84-c", id: "fig-85-AF-84-d", id: "fig-85-AF-84-e", id: "fig-85-AF-84-f", id: "fig-85-AF-84-g", id: "fig-85-AF-84-h", id: "fig-85-AF-84-i" ]
+    figure: [ id: "fig-084-360", id: "fig-85-AF-84-a", id: "fig-85-AF-84-b", id: "fig-85-AF-84-c", id: "fig-85-AF-84-d", id: "fig-85-AF-84-e", id: "fig-85-AF-84-f", id: "fig-85-AF-84-g", id: "fig-85-AF-84-h", id: "fig-85-AF-84-i" ]
+    rotating: "True"
     path: /catalogue/cat-84/
 -
     id: cat-85
@@ -2986,7 +2993,8 @@ object_list:
     inscription: "No"
     shape: [ "Flasks" ]
     technique: [ "Slumped and Blown" ]
-    figure: [ id: "fig-2003-278-a", id: "fig-2003-278-b", id: "fig-2003-278-c", id: "fig-2003-278-d" ]
+    figure: [ id: "fig-153-360", id: "fig-2003-278-a", id: "fig-2003-278-b", id: "fig-2003-278-c", id: "fig-2003-278-d" ]
+    rotating: "True"
     path: /catalogue/cat-153/
 -
     id: cat-154
@@ -3138,7 +3146,8 @@ object_list:
     inscription: "Yes"
     shape: [ "Beakers" ]
     technique: [ "Mold-Blown" ]
-    figure: [ id: "fig-2004-35-a", id: "fig-2004-35-b", id: "fig-2004-35-c", id: "fig-2004-35-d", id: "fig-2004-35-e", id: "fig-2004-35-f", id: "fig-2004-35-g" ]
+    figure: [ id: "fig-161-360", id: "fig-2004-35-a", id: "fig-2004-35-b", id: "fig-2004-35-c", id: "fig-2004-35-d", id: "fig-2004-35-e", id: "fig-2004-35-f", id: "fig-2004-35-g" ]
+    rotating: "True"
     path: /catalogue/cat-161/
 -
     id: cat-162
@@ -3537,7 +3546,8 @@ object_list:
     inscription: "No"
     shape: [ "Head Jugs" ]
     technique: [ "Mold-Blown" ]
-    figure: [ id: "fig-2004-44-b", id: "fig-2004-44-h", id: "fig-2004-44-e", id: "fig-2004-44-f", id: "fig-2004-44-g", id: "fig-2004-44-a", id: "fig-2004-44-d", id: "fig-2004-44-c" ]
+    figure: [ id: "fig-182-360", id: "fig-2004-44-b", id: "fig-2004-44-h", id: "fig-2004-44-e", id: "fig-2004-44-f", id: "fig-2004-44-g", id: "fig-2004-44-a", id: "fig-2004-44-d", id: "fig-2004-44-c" ]
+    rotating: "True"
     path: /catalogue/cat-182/
 -
     id: cat-183
@@ -3708,7 +3718,8 @@ object_list:
     inscription: "No"
     shape: [ "Bottles", "Flasks" ]
     technique: [ "Mold-Blown", "Free-Blown" ]
-    figure: [ id: "fig-2003-298-a", id: "fig-2003-298-b", id: "fig-2003-298-c", id: "fig-2003-298-d", id: "fig-2003-298-e" ]
+    figure: [ id: "fig-191-360", id: "fig-2003-298-a", id: "fig-2003-298-b", id: "fig-2003-298-c", id: "fig-2003-298-d", id: "fig-2003-298-e" ]
+    rotating: "True"
     path: /catalogue/cat-191/
 -
     id: cat-192
@@ -4620,7 +4631,8 @@ object_list:
     inscription: "No"
     shape: [ "Bowls" ]
     technique: [ "Free-Blown" ]
-    figure: [ id: "fig-2003-294-a", id: "fig-2003-294-b", id: "fig-2003-294-c", id: "fig-2003-294-d", id: "fig-2003-294-e" ]
+    figure: [ id: "fig-239-360", id: "fig-2003-294-a", id: "fig-2003-294-b", id: "fig-2003-294-c", id: "fig-2003-294-d", id: "fig-2003-294-e" ]
+    rotating: "True"
     path: /catalogue/cat-239/
 -
     id: cat-240
@@ -5209,7 +5221,8 @@ object_list:
     inscription: "No"
     shape: [ "Flasks" ]
     technique: [ "Free-Blown" ]
-    figure: [ id: "fig-96-AF-56-a", id: "fig-96-AF-56-b", id: "fig-96-AF-56-c", id: "fig-96-AF-56-d", id: "fig-96-AF-56-e" ]
+    figure: [ id: "fig-270-360", id: "fig-96-AF-56-a", id: "fig-96-AF-56-b", id: "fig-96-AF-56-c", id: "fig-96-AF-56-d", id: "fig-96-AF-56-e" ]
+    rotating: "True"
     path: /catalogue/cat-270/
 -
     id: cat-271
@@ -8002,7 +8015,8 @@ object_list:
     inscription: "No"
     shape: [ "Flasks" ]
     technique: [ "Free-Blown" ]
-    figure: [ id: "fig-2003-473-a", id: "fig-2003-473-b", id: "fig-2003-473-c", id: "fig-2003-473-d" ]
+    figure: [ id: "fig-417-360", id: "fig-2003-473-a", id: "fig-2003-473-b", id: "fig-2003-473-c", id: "fig-2003-473-d" ]
+    rotating: "True"
     path: /catalogue/cat-417/
 -
     id: cat-418
