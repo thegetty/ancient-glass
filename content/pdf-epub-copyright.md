@@ -17,6 +17,8 @@ menu: false
 
 {% copyright %}
 
+The section titled “An Introduction to the History and Technology of Ancient Glass Technology” is adapted from "A History of Ancient Glassmaking," originally published in Fire and Sand: Ancient Glass in the Princeton Art Museum by Anastassios Antonaras, © 2012 Trustees of Princeton University.
+
 First edition {{ publication.pub_date | date: "%Y" }}
 
 {{ publication.revision_statement | markdownify }}
@@ -54,18 +56,17 @@ Front cover: Clockwise from top left: Bowl (cat. 239), Flask (cat. 396), Flask (
 
 Illustration Credits
 
-Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions or below. 
-Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings.
+Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions listed below. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings.
 Fig. 1: From Parke-Bernet Galleries 1940
 Fig. 2: Institutional Archives, The Getty Research Institute, Los Angeles (2010.IA.04)
 Fig. 3: *Los Angeles Times* Photographic Archive: "Julie Frazier standing next to case of objects." January 24, 1958. (Collection 1429. Box 328. Neg. #108387). UCLA Library Special Collections
-Fig. 4: Bibliothèque nationale de France
+Fig. 4: Académie florimontane, 2013-155198
 Fig. 11: From Lierke 1999, p. 33, fig. 59
 Fig. 12: From Lierke 1999, p. 42, fig. 42 
 Fig. 13: From Schuler, F. “Ancient Glassmaking Techniques 1: The Molding Process.” *Archaeology* 12 (1959): p. 48
 Fig. 14: From Lierke 1999, p. 42
 Fig. 15: From Lierke 1999, p. 30 
-Fig. 16: From Lierke 1999, p. 40
+Fig. 16: From Lierke 1999, p. 32
 Fig. 17: Courtesy of Bologna, Museo Civico Archeologico. From Meconcelli Notarianni, Gioia, and Daniela Ferrari. *Vetri Antichi: Arte e Tecnica*. Exh. cat. Bologna, Museo Civico Archeologico, 1998, p.&nbsp;13
 Fig. 18: Courtesy of Bologna, Museo Civico Archeologico. From Meconcelli Notarianni, Gioia, and Daniela Ferrari. *Vetri Antichi: Arte e Tecnica*. Exh. cat. Bologna, Museo Civico Archeologico, 1998, p.&nbsp;14
 Fig. 19: University of Pennsylvania Museum of Archaeology and Anthropology. From Fleming 1999, p. 199, figs. 51–52
