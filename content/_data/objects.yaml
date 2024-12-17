@@ -683,7 +683,7 @@ object_list:
     production_area_filter: [ "Eastern Mediterranean, possibly Syro-Palestinian region" ]
     culture: "Greek"
     material: "Translucent dark blue and opaque turquoise and yellow glass"
-    modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and marvered and umarvered threads"
+    modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and marvered and unmarvered threads"
     inscription: "No"
     shape: [ "Alabastra" ]
     technique: [ "Core-Formed" ]
