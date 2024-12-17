@@ -92,7 +92,7 @@ Front cover: Clockwise from top left: Bowl ([cat. 239](/catalogue/cat-239/)), Fl
 
 Illustration Credits
 
-Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions listed below. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings.
+Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions or listed below. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings.
 Fig. 1: From {% cite 'Parke-Bernet Galleries 1940' %}
 Fig. 2: Institutional Archives, The Getty Research Institute, Los Angeles (2010.IA.04)
 Fig. 3: *Los Angeles Times* Photographic Archive: "Julie Frazier standing next to case of objects." January 24, 1958. (Collection 1429. Box 328. Neg. #108387). UCLA Library Special Collections
