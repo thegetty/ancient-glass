@@ -72,5 +72,7 @@ Fig. 18: Courtesy of Bologna, Museo Civico Archeologico. From Meconcelli Notaria
 Fig. 19: University of Pennsylvania Museum of Archaeology and Anthropology. From Fleming 1999, p. 199, figs. 51–52
 Fig. 20: From Lierke 1999, p. 24, fig. 44
 
+The complete manuscript of this work was peer reviewed through a single-masked process in which the reviewers remained anonymous.
+
 </div>
 
