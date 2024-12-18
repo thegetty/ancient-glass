@@ -493,6 +493,13 @@ figure.cat-thumbnail a {
     margin-bottom: 0;
   }
   
+  .quire-page#page-glossary dt,
+  .quire-page#page-works-cited dt {
+    break-after: avoid;
+    page-break-after: avoid;
+    column-break-after: avoid;
+  }
+  
 }
 
 /* LOC Cataloguing in Publication format */
