@@ -161,7 +161,9 @@ revision_history:
     summary:
       - First edition
 
-revision_statement: "Any revisions or corrections made to this publication after the first edition date will be listed in detail in the project repository at https://github.com/thegetty/ancient-glass. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here."
+revision_statement: | 
+
+  Any revisions or corrections made to this publication after the first edition date will be listed in detail in the project repository at https://github.com<wbr>/thegetty/ancient-glass. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here.
 
 repository_url: https://github.com/thegetty/ancient-glass
 
