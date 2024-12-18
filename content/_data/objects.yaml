@@ -70,7 +70,7 @@ object_list:
     date: "New Kingdom, Eighteenth Dynasty; Tuthmosis IV to Amenhotep IV/Akhenaten before Amarna period; 1401–1347 BCE"
     start_date: "-1401"
     end_date: "-1347"
-    date_range: [ "01: 500–400 BCE" ]
+    date_range: [ "02: 1400–1300 BCE" ]
     production_area: "Egypt"
     production_area_filter: [ "Egypt" ]
     culture: "Egyptian"
@@ -90,7 +90,7 @@ object_list:
     date: "New Kingdom; 1540–1075 BCE"
     start_date: "-1540"
     end_date: "-1075"
-    date_range: [ "01: 500–400 BCE" ]
+    date_range: [ "01: 1500–1400 BCE", "02: 1400–1300 BCE", "03: 1300–1200 BCE", "04: 1200–1100 BCE", "05: 1100–1000 BCE" ]
     production_area: "Egypt"
     production_area_filter: [ "Egypt" ]
     culture: "Egyptian"
@@ -110,7 +110,7 @@ object_list:
     date: "New Kingdom, Eighteenth Dynasty; probably the reigns of Tuthmosis IV [when handles are added to this form] to Amenhotep III; ca. 1397–1353 BCE"
     start_date: "-1397"
     end_date: "-1353"
-    date_range: [ "02: 400–300 BCE" ]
+    date_range: [ "02: 1400–1300 BCE" ]
     production_area: "Egypt"
     production_area_filter: [ "Egypt" ]
     culture: "Egyptian"
@@ -130,7 +130,7 @@ object_list:
     date: "New Kingdom, Nineteenth Dynasty; 1292–1202 BCE"
     start_date: "-1292"
     end_date: "-1202"
-    date_range: [ "02: 400–300 BCE" ]
+    date_range: [ "03: 1300–1200 BCE" ]
     production_area: "Egypt"
     production_area_filter: [ "Egypt" ]
     culture: "Egyptian"
@@ -150,7 +150,7 @@ object_list:
     date: "ca. 1403–1347 BCE"
     start_date: "-1403"
     end_date: "-1347"
-    date_range: [ "03: 300–200 BCE" ]
+    date_range: [ "02: 1400–1300 BCE" ]
     production_area: "Egypt"
     production_area_filter: [ "Egypt" ]
     culture: "Egyptian"
@@ -170,7 +170,7 @@ object_list:
     date: "Seventh–sixth centuries BCE"
     start_date: "-700"
     end_date: "-501"
-    date_range: [ "03: 300–200 BCE" ]
+    date_range: [ "09: 700–600 BCE", "10: 600–500 BCE" ]
     production_area: "Achaemenid Persian"
     production_area_filter: [ "Achaemenid Persian" ]
     culture: "Achaemenid (Persian)"
@@ -190,7 +190,7 @@ object_list:
     date: "Fifth century BCE"
     start_date: "-500"
     end_date: "-401"
-    date_range: [ "04: 200–100 BCE" ]
+    date_range: [ "11: 500–400 BCE" ]
     production_area: "Western Asiatic, probably northwestern Iran, perhaps Azerbaijan"
     production_area_filter: [ "Western Asiatic, probably northwestern Iran, perhaps Azerbaijan" ]
     culture: "Achaemenid (Persian)"
@@ -210,7 +210,7 @@ object_list:
     date: "Fifth century BCE"
     start_date: "-500"
     end_date: "-401"
-    date_range: [ "04: 200–100 BCE" ]
+    date_range: [ "11: 500–400 BCE" ]
     production_area: "Western Asiatic, probably northwestern Iran, area of Ardebil, perhaps Azerbaijan"
     production_area_filter: [ "Western Asiatic, probably northwestern Iran, area of Ardebil, perhaps Azerbaijan" ]
     culture: "Achaemenid (Persian)"
@@ -230,7 +230,7 @@ object_list:
     date: "Fifth century BCE"
     start_date: "-500"
     end_date: "-401"
-    date_range: [ "05: 100–0 BCE" ]
+    date_range: [ "11: 500–400 BCE" ]
     production_area: "Western Asiatic, probably northwestern Iran"
     production_area_filter: [ "Western Asiatic, probably northwestern Iran" ]
     culture: "Achaemenid (Persian)"
@@ -250,7 +250,7 @@ object_list:
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
-    date_range: [ "05: 100–0 BCE" ]
+    date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
     production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
     culture: "Greek"
@@ -270,7 +270,7 @@ object_list:
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
-    date_range: [ "06: 0–100 CE" ]
+    date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
     production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
     culture: "Greek"
@@ -290,7 +290,7 @@ object_list:
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
-    date_range: [ "06: 0–100 CE" ]
+    date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
     production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
     culture: "Greek"
@@ -310,7 +310,7 @@ object_list:
     date: "Fifth century BCE"
     start_date: "-500"
     end_date: "-401"
-    date_range: [ "07: 100–200 CE" ]
+    date_range: [ "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
     production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
     culture: "Greek"
@@ -330,7 +330,7 @@ object_list:
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
-    date_range: [ "07: 100–200 CE" ]
+    date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
     production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
     culture: "Greek"
@@ -350,7 +350,7 @@ object_list:
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
-    date_range: [ "08: 200–300 CE" ]
+    date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
     production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
     culture: "Greek"
@@ -370,7 +370,7 @@ object_list:
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
-    date_range: [ "08: 200–300 CE" ]
+    date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean"
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Greek"
@@ -390,7 +390,7 @@ object_list:
     date: "Fifth century BCE"
     start_date: "-500"
     end_date: "-401"
-    date_range: [ "09: 300–400 CE" ]
+    date_range: [ "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean"
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Greek"
@@ -410,7 +410,7 @@ object_list:
     date: "Fifth century BCE"
     start_date: "-500"
     end_date: "-401"
-    date_range: [ "09: 300–400 CE" ]
+    date_range: [ "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
     production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
     culture: "Greek"
@@ -430,7 +430,7 @@ object_list:
     date: "Fifth century BCE"
     start_date: "-500"
     end_date: "-401"
-    date_range: [ "10: 400–500 CE" ]
+    date_range: [ "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
     production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
     culture: "Greek"
@@ -450,7 +450,7 @@ object_list:
     date: "Fifth century BCE"
     start_date: "-500"
     end_date: "-401"
-    date_range: [ "10: 400–500 CE" ]
+    date_range: [ "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
     production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
     culture: "Greek"
@@ -470,6 +470,7 @@ object_list:
     date: "Fifth century BCE"
     start_date: "-500"
     end_date: "-401"
+    date_range: [ "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
     production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
     culture: "Greek"
@@ -489,6 +490,7 @@ object_list:
     date: "Mid-fourth–early third centuries BCE"
     start_date: "-350"
     end_date: "-267"
+    date_range: [ "12: 400–300 BCE", "13: 300–200 BCE" ]
     production_area: "Eastern Mediterranean"
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Greek"
@@ -508,6 +510,7 @@ object_list:
     date: "Mid-fourth–early third centuries BCE"
     start_date: "-350"
     end_date: "-267"
+    date_range: [ "12: 400–300 BCE", "13: 300–200 BCE" ]
     production_area: "Eastern Mediterranean. Allegedly from Olbia, Ukraine"
     production_area_filter: [ "Eastern Mediterranean. Allegedly from Olbia, Ukraine" ]
     culture: "Greek"
@@ -527,6 +530,7 @@ object_list:
     date: "Second half of the fourth century BCE"
     start_date: "-350"
     end_date: "-301"
+    date_range: [ "12: 400–300 BCE" ]
     production_area: "Eastern Mediterranean"
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Greek"
@@ -546,6 +550,7 @@ object_list:
     date: "Mid-fourth–early third centuries BCE"
     start_date: "-366"
     end_date: "-267"
+    date_range: [ "12: 400–300 BCE", "13: 300–200 BCE" ]
     production_area: "Eastern Mediterranean or Italy"
     production_area_filter: [ "Eastern Mediterranean or Italy" ]
     culture: "Greek"
@@ -565,6 +570,7 @@ object_list:
     date: "Mid-fourth–early third centuries BCE"
     start_date: "-366"
     end_date: "-267"
+    date_range: [ "12: 400–300 BCE", "13: 300–200 BCE" ]
     production_area: "Eastern Mediterranean or Italy"
     production_area_filter: [ "Eastern Mediterranean or Italy" ]
     culture: "Greek"
@@ -584,6 +590,7 @@ object_list:
     date: "Possibly fourth–first centuries BCE, quite probably nineteenth or twentieth century CE"
     start_date: "-400"
     end_date: "-1"
+    date_range: [ "12: 400–300 BCE", "13: 300–200 BCE", "14: 200–100 BCE", "15: 100–0 BCE" ]
     production_area: "Eastern Mediterranean"
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Greek"
@@ -603,6 +610,7 @@ object_list:
     date: "Third–second centuries BCE"
     start_date: "-300"
     end_date: "-101"
+    date_range: [ "13: 300–200 BCE", "14: 200–100 BCE" ]
     production_area: "Eastern Mediterranean"
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Greek"
@@ -622,6 +630,7 @@ object_list:
     date: "Second–mid-first centuries BCE"
     start_date: "-200"
     end_date: "-34"
+    date_range: [ "14: 200–100 BCE", "15: 100–0 BCE" ]
     production_area: "Eastern Mediterranean"
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Greek"
@@ -641,6 +650,7 @@ object_list:
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean or Italy"
     production_area_filter: [ "Eastern Mediterranean or Italy" ]
     culture: "Greek"
@@ -660,6 +670,7 @@ object_list:
     date: "Second–mid-first centuries BCE"
     start_date: "-200"
     end_date: "-34"
+    date_range: [ "14: 200–100 BCE", "15: 100–0 BCE" ]
     production_area: "Eastern Mediterranean, possibly Syro-Palestinian region"
     production_area_filter: [ "Eastern Mediterranean, possibly Syro-Palestinian region" ]
     culture: "Greek"
@@ -679,6 +690,7 @@ object_list:
     date: "Second–mid-first centuries BCE"
     start_date: "-200"
     end_date: "-34"
+    date_range: [ "14: 200–100 BCE", "15: 100–0 BCE" ]
     production_area: "Eastern Mediterranean, possibly Syro-Palestinian region"
     production_area_filter: [ "Eastern Mediterranean, possibly Syro-Palestinian region" ]
     culture: "Greek"
@@ -698,6 +710,7 @@ object_list:
     date: "Mid-second–mid-first centuries BCE"
     start_date: "-166"
     end_date: "-34"
+    date_range: [ "14: 200–100 BCE", "15: 100–0 BCE" ]
     production_area: "Eastern Mediterranean, possibly Syro-Palestinian region"
     production_area_filter: [ "Eastern Mediterranean, possibly Syro-Palestinian region" ]
     culture: "Greek"
@@ -717,6 +730,7 @@ object_list:
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
+    date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
     production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
     culture: "Greek"
@@ -736,6 +750,7 @@ object_list:
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
+    date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
     production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
     culture: "Greek"
@@ -755,6 +770,7 @@ object_list:
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
+    date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
     production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
     culture: "Greek"
@@ -774,6 +790,7 @@ object_list:
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
+    date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
     production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
     culture: "Greek"
@@ -793,6 +810,7 @@ object_list:
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
+    date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
     production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
     culture: "Greek"
@@ -812,6 +830,7 @@ object_list:
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
+    date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
     production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
     culture: "Greek"
@@ -831,6 +850,7 @@ object_list:
     date: "Fifth century BCE"
     start_date: "-500"
     end_date: "-401"
+    date_range: [ "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
     production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
     culture: "Greek"
