@@ -432,6 +432,15 @@ figure.cat-thumbnail a {
   .quire-page.quire-entry .quire-entry__tombstone table td:last-child {
     padding-left: .5rem;
   }
+  .quire-page.quire-entry .quire-entry__tombstone table td:first-child {
+    width: 1.25in;
+  }
+  .quire-page.quire-entry .quire-entry__tombstone table tr,
+  .quire-page.quire-entry .quire-entry__tombstone table tr td {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    column-break-inside: avoid;
+  }
   .quire-page__content__references.backmatter {
     display: none;
   }
@@ -478,6 +487,10 @@ figure.cat-thumbnail a {
   }
   #fig-23-appendix {
     column-span: all;
+  }
+
+  .copyright-page .quire-page__content .container .content .publisher p {
+    margin-bottom: 0;
   }
   
 }
