@@ -1,6 +1,7 @@
 //
 // CUSTOMIZED FILE
 // Fixed transform that was converting external links to slugified anchor links, lines 62–66
+// Remove truncation for PDF footer titles
 //
 const jsdom = require('jsdom')
 const filterOutputs = require('../filter.js')
@@ -28,7 +29,7 @@ module.exports = function(eleventyConfig, collections, content) {
    * @return {String} Formatted page or section title
    */
   const formatTitle = ({ label, short_title: shortTitle, title }) => {
-    const truncatedTitle = shortTitle || truncate(title, 35)
+    const truncatedTitle = shortTitle || title
     return pageTitle({ label, title: truncatedTitle })
   }
 
