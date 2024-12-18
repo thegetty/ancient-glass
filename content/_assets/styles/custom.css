@@ -304,6 +304,16 @@ figure.cat-thumbnail a {
   }  
 }
 
+/* ABOUT PAGE
+============================================================================= */
+@media screen {
+  .copyright-page .quire-page__content .copyright__publisher-logo {
+    display: none;
+  }
+  .copyright-page .quire-page__content .quire-copyright__icon__link {
+    border-bottom-width: 0 !important;
+  }
+}
 
 /* PRINT
 ============================================================================= */
@@ -492,7 +502,7 @@ figure.cat-thumbnail a {
   .copyright-page .quire-page__content .container .content .publisher p {
     margin-bottom: 0;
   }
-  
+
   .quire-page#page-glossary dt,
   .quire-page#page-works-cited dt {
     break-after: avoid;
