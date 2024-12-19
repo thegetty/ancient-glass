@@ -870,6 +870,7 @@ object_list:
     date: "Probably late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
+    date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
     production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
     culture: "Greek"
@@ -889,6 +890,7 @@ object_list:
     date: "Third century BCE"
     start_date: "-300"
     end_date: "-201"
+    date_range: [ "13: 300–200 BCE" ]
     production_area: "Eastern Mediterranean, possibly Syro-Palestinian region"
     production_area_filter: [ "Eastern Mediterranean, possibly Syro-Palestinian region" ]
     culture: "Greek"
@@ -908,6 +910,7 @@ object_list:
     date: "Mid-second–mid-first centuries BCE"
     start_date: "-166"
     end_date: "-34"
+    date_range: [ "14: 200–100 BCE", "15: 100–0 BCE" ]
     production_area: "Eastern Mediterranean, probably Syro-Palestinian region or Cyprus"
     production_area_filter: [ "Eastern Mediterranean, probably Syro-Palestinian region or Cyprus" ]
     culture: "Greek"
@@ -927,6 +930,7 @@ object_list:
     date: "Mid-second–mid-first centuries BCE"
     start_date: "-166"
     end_date: "-34"
+    date_range: [ "14: 200–100 BCE", "15: 100–0 BCE" ]
     production_area: "Eastern Mediterranean, probably Syro-Palestinian region or Cyprus"
     production_area_filter: [ "Eastern Mediterranean, probably Syro-Palestinian region or Cyprus" ]
     culture: "Greek"
@@ -946,6 +950,7 @@ object_list:
     date: "Second–mid-first century BCE, with modern restorations"
     start_date: "-200"
     end_date: "-34"
+    date_range: [ "14: 200–100 BCE", "15: 100–0 BCE" ]
     production_area: "Eastern Mediterranean, possibly Syro-Palestinian region"
     production_area_filter: [ "Eastern Mediterranean, possibly Syro-Palestinian region" ]
     culture: "Greek"
@@ -965,6 +970,7 @@ object_list:
     date: "Second–mid-first centuries BCE"
     start_date: "-200"
     end_date: "-34"
+    date_range: [ "14: 200–100 BCE", "15: 100–0 BCE" ]
     production_area: "Eastern Mediterranean, possibly Syro-Palestinian region"
     production_area_filter: [ "Eastern Mediterranean, possibly Syro-Palestinian region" ]
     culture: "Greek"
@@ -984,6 +990,7 @@ object_list:
     date: "Mid-second–mid-first centuries BCE"
     start_date: "-166"
     end_date: "-34"
+    date_range: [ "14: 200–100 BCE", "15: 100–0 BCE" ]
     production_area: "Eastern Mediterranean, possibly Syro-Palestinian region"
     production_area_filter: [ "Eastern Mediterranean, possibly Syro-Palestinian region" ]
     culture: "Greek"
@@ -1003,6 +1010,7 @@ object_list:
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
+    date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
     production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
     culture: "Greek"
@@ -1022,6 +1030,7 @@ object_list:
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
+    date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
     production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
     culture: "Greek"
@@ -1041,6 +1050,7 @@ object_list:
     date: "Mid-fourth–early third centuries BCE"
     start_date: "-366"
     end_date: "-267"
+    date_range: [ "12: 400–300 BCE", "13: 300–200 BCE" ]
     production_area: "Eastern Mediterranean or Italy"
     production_area_filter: [ "Eastern Mediterranean or Italy" ]
     culture: "Greek"
@@ -1060,6 +1070,7 @@ object_list:
     date: "Late fourth–early third centuries BCE"
     start_date: "-333"
     end_date: "-267"
+    date_range: [ "12: 400–300 BCE", "13: 300–200 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
     production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
     culture: "Greek"
@@ -1079,6 +1090,7 @@ object_list:
     date: "Mid-seventh–early sixth centuries BCE"
     start_date: "-666"
     end_date: "–567"
+    date_range: [ "09: 700–600 BCE", "10: 600–500 BCE" ]
     production_area: "Italy"
     production_area_filter: [ "Italy" ]
     culture: "Etruscan"
@@ -1098,6 +1110,7 @@ object_list:
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
+    date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
     production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
     culture: "Greek"
@@ -1117,6 +1130,7 @@ object_list:
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
+    date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
     production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
     culture: "Greek"
@@ -1136,6 +1150,7 @@ object_list:
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
+    date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
     production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
     culture: "Greek"
@@ -1155,6 +1170,7 @@ object_list:
     date: "Late sixth–fifth centuries BCE"
     start_date: "-533"
     end_date: "-401"
+    date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
     production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
     culture: "Greek"
@@ -1174,6 +1190,7 @@ object_list:
     date: "Sixth–fifth centuries BCE"
     start_date: "-600"
     end_date: "-401"
+    date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, Aegean?"
     production_area_filter: [ "Eastern Mediterranean, Aegean?" ]
     culture: "Greek"
@@ -1193,6 +1210,7 @@ object_list:
     date: "First century CE"
     start_date: "1"
     end_date: "99"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, Aegean?"
     production_area_filter: [ "Eastern Mediterranean, Aegean?" ]
     culture: "Roman"
@@ -1212,6 +1230,7 @@ object_list:
     date: "Ca. 150–50 BCE"
     start_date: "-150"
     end_date: "-50"
+    date_range: [ "14: 200–100 BCE", "15: 100–0 BCE" ]
     production_area: "Eastern Mediterranean"
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Greek"
@@ -1231,6 +1250,7 @@ object_list:
     date: "Ca. 150–50 BCE"
     start_date: "-150"
     end_date: "-50"
+    date_range: [ "14: 200–100 BCE", "15: 100–0 BCE" ]
     production_area: "Eastern Mediterranean"
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Greek"
@@ -1250,6 +1270,7 @@ object_list:
     date: "Ca. 150–50 BCE"
     start_date: "-150"
     end_date: "-50"
+    date_range: [ "14: 200–100 BCE", "15: 100–0 BCE" ]
     production_area: "Eastern Mediterranean"
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Greek"
@@ -1269,6 +1290,7 @@ object_list:
     date: "Second–first centuries BCE"
     start_date: "-200"
     end_date: "-1"
+    date_range: [ "14: 200–100 BCE", "15: 100–0 BCE" ]
     production_area: "Probably eastern Mediterranean"
     production_area_filter: [ "Probably eastern Mediterranean" ]
     culture: "Greek"
@@ -1288,6 +1310,7 @@ object_list:
     date: "Third century BCE"
     start_date: "-300"
     end_date: "-201"
+    date_range: [ "13: 300–200 BCE" ]
     production_area: "Probably eastern Mediterranean"
     production_area_filter: [ "Probably eastern Mediterranean" ]
     culture: "Greek"
@@ -1307,6 +1330,7 @@ object_list:
     date: "Third–second centuries BCE"
     start_date: "-300"
     end_date: "-101"
+    date_range: [ "13: 300–200 BCE", "14: 200–100 BCE" ]
     production_area: "Possibly Italy"
     production_area_filter: [ "Possibly Italy" ]
     culture: "Greek"
@@ -1326,6 +1350,7 @@ object_list:
     date: "First half of the first century CE"
     start_date: "1"
     end_date: "49"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean"
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Roman"
@@ -1345,6 +1370,7 @@ object_list:
     date: "Ca. 50 BCE–ca. 50 CE"
     start_date: "-50"
     end_date: "50"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean; a western European origin cannot be excluded"
     production_area_filter: [ "Eastern Mediterranean; a western European origin cannot be excluded" ]
     culture: "Roman"
@@ -1364,6 +1390,7 @@ object_list:
     date: "Ca. 50 BCE–ca. 50 CE"
     start_date: "-50"
     end_date: "50"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean; a western European origin cannot be excluded"
     production_area_filter: [ "Eastern Mediterranean; a western European origin cannot be excluded" ]
     culture: "Roman"
@@ -1383,6 +1410,7 @@ object_list:
     date: "Ca. 50 BCE–ca. 50 CE"
     start_date: "-50"
     end_date: "50"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean; a western European origin cannot be excluded"
     production_area_filter: [ "Eastern Mediterranean; a western European origin cannot be excluded" ]
     culture: "Roman"
@@ -1402,6 +1430,7 @@ object_list:
     date: "Ca. 50 BCE–ca. 50 CE"
     start_date: "-50"
     end_date: "50"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean; a western European origin cannot be excluded"
     production_area_filter: [ "Eastern Mediterranean; a western European origin cannot be excluded" ]
     culture: "Roman"
@@ -1421,6 +1450,7 @@ object_list:
     date: "Ca. 50 BCE–ca. 50 CE"
     start_date: "-50"
     end_date: "50"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean; a western European origin cannot be excluded"
     production_area_filter: [ "Eastern Mediterranean; a western European origin cannot be excluded" ]
     culture: "Roman"
@@ -1440,6 +1470,7 @@ object_list:
     date: "Ca. 50 BCE–ca. 50 CE"
     start_date: "-50"
     end_date: "50"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean; a western European origin cannot be excluded"
     production_area_filter: [ "Eastern Mediterranean; a western European origin cannot be excluded" ]
     culture: "Roman"
@@ -1459,6 +1490,7 @@ object_list:
     date: "Ca. 50 BCE–ca. 50 CE"
     start_date: "-50"
     end_date: "50"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean; a western European origin cannot be excluded"
     production_area_filter: [ "Eastern Mediterranean; a western European origin cannot be excluded" ]
     culture: "Roman"
@@ -1478,6 +1510,7 @@ object_list:
     date: "Ca. 50 BCE–ca. 50 CE"
     start_date: "-50"
     end_date: "50"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean; a western European origin cannot be excluded"
     production_area_filter: [ "Eastern Mediterranean; a western European origin cannot be excluded" ]
     culture: "Roman"
@@ -1497,6 +1530,7 @@ object_list:
     date: "Ca. 50 BCE–ca. 50 CE"
     start_date: "-50"
     end_date: "50"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean; a western European origin cannot be excluded"
     production_area_filter: [ "Eastern Mediterranean; a western European origin cannot be excluded" ]
     culture: "Roman"
@@ -1516,6 +1550,7 @@ object_list:
     date: "First half of the first century CE, probably second quarter of the first century CE"
     start_date: "1"
     end_date: "49"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Italy"
     production_area_filter: [ "Probably Italy" ]
     culture: "Roman"
@@ -1535,6 +1570,7 @@ object_list:
     date: "First half of the first century CE, probably second quarter of the first century CE"
     start_date: "1"
     end_date: "49"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Italy"
     production_area_filter: [ "Probably Italy" ]
     culture: "Roman"
@@ -1554,6 +1590,7 @@ object_list:
     date: "First half of the first century CE, probably second quarter of the first century CE"
     start_date: "1"
     end_date: "49"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Italy"
     production_area_filter: [ "Probably Italy" ]
     culture: "Roman"
@@ -1573,6 +1610,7 @@ object_list:
     date: "First half of the first century CE, probably second quarter of the first century CE"
     start_date: "1"
     end_date: "49"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Italy"
     production_area_filter: [ "Probably Italy" ]
     culture: "Roman"
@@ -1592,6 +1630,7 @@ object_list:
     date: "First half of the first century CE, probably second quarter of the first century CE"
     start_date: "1"
     end_date: "49"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Italy"
     production_area_filter: [ "Probably Italy" ]
     culture: "Roman"
@@ -1611,6 +1650,7 @@ object_list:
     date: "End of the first century BCE–first half of the first century CE"
     start_date: "-33"
     end_date: "49"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy"
     production_area_filter: [ "Italy" ]
     culture: "Roman"
@@ -1630,6 +1670,7 @@ object_list:
     date: "First century CE"
     start_date: "1"
     end_date: "99"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Western Roman Empire, probably Italy"
     production_area_filter: [ "Western Roman Empire, probably Italy" ]
     culture: "Roman"
@@ -1649,6 +1690,7 @@ object_list:
     date: "15 BCE–25 CE"
     start_date: "-15"
     end_date: "25"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Probably Italy"
     production_area_filter: [ "Probably Italy" ]
     culture: "Roman"
@@ -1668,6 +1710,7 @@ object_list:
     date: "15 BCE–25 CE"
     start_date: "-15"
     end_date: "25"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Probably Italy"
     production_area_filter: [ "Probably Italy" ]
     culture: "Roman"
@@ -1687,6 +1730,7 @@ object_list:
     date: "15 BCE–25 CE"
     start_date: "-15"
     end_date: "25"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Probably Italy. Said to come from near Eskişehir, Türkiye"
     production_area_filter: [ "Probably Italy. Said to come from near Eskişehir, Türkiye" ]
     culture: "Roman"
@@ -1706,6 +1750,7 @@ object_list:
     date: "15 BCE–25 CE"
     start_date: "-15"
     end_date: "25"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Probably Italy"
     production_area_filter: [ "Probably Italy" ]
     culture: "Roman"
@@ -1725,6 +1770,7 @@ object_list:
     date: "Late first century BCE–early first century&nbsp;CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly eastern Mediterranean"
     production_area_filter: [ "Italy or possibly eastern Mediterranean" ]
     culture: "Roman"
@@ -1744,6 +1790,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Probably Italy, or eastern Mediterranean"
     production_area_filter: [ "Probably Italy, or eastern Mediterranean" ]
     culture: "Roman"
@@ -1763,6 +1810,7 @@ object_list:
     date: "Early first century BCE"
     start_date: "-100"
     end_date: "-67"
+    date_range: [ "15: 100–0 BCE" ]
     production_area: "Italy or possibly eastern Mediterranean"
     production_area_filter: [ "Italy or possibly eastern Mediterranean" ]
     culture: "Roman"
@@ -1782,6 +1830,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly eastern Mediterranean"
     production_area_filter: [ "Italy or possibly eastern Mediterranean" ]
     culture: "Roman"
@@ -1801,6 +1850,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly eastern Mediterranean"
     production_area_filter: [ "Italy or possibly eastern Mediterranean" ]
     culture: "Roman"
@@ -1820,6 +1870,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly eastern Mediterranean"
     production_area_filter: [ "Italy or possibly eastern Mediterranean" ]
     culture: "Roman"
@@ -1839,6 +1890,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly eastern Mediterranean"
     production_area_filter: [ "Italy or possibly eastern Mediterranean" ]
     culture: "Roman"
@@ -1858,6 +1910,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly eastern Mediterranean. Allegedly found at Kerch"
     production_area_filter: [ "Italy or possibly eastern Mediterranean. Allegedly found at Kerch" ]
     culture: "Roman"
@@ -1877,6 +1930,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly eastern Mediterranean"
     production_area_filter: [ "Italy or possibly eastern Mediterranean" ]
     culture: "Roman"
@@ -1896,6 +1950,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
     production_area_filter: [ "Italy or Egypt" ]
     culture: "Roman"
@@ -1915,6 +1970,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
     production_area_filter: [ "Italy or Egypt" ]
     culture: "Roman"
@@ -1934,6 +1990,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
     production_area_filter: [ "Italy or Egypt" ]
     culture: "Roman"
@@ -1953,6 +2010,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
     production_area_filter: [ "Italy or Egypt" ]
     culture: "Roman"
@@ -1972,6 +2030,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
     production_area_filter: [ "Italy or possibly Egypt" ]
     culture: "Roman"
@@ -1991,6 +2050,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
     production_area_filter: [ "Italy or possibly Egypt" ]
     culture: "Roman"
@@ -2010,6 +2070,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
     production_area_filter: [ "Italy or possibly Egypt" ]
     culture: "Roman"
@@ -2029,6 +2090,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
     production_area_filter: [ "Italy or possibly Egypt" ]
     culture: "Roman"
@@ -2048,6 +2110,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
     production_area_filter: [ "Italy or possibly Egypt" ]
     culture: "Roman"
@@ -2067,6 +2130,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
     production_area_filter: [ "Italy or possibly Egypt" ]
     culture: "Roman"
@@ -2086,6 +2150,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
     production_area_filter: [ "Italy or possibly Egypt" ]
     culture: "Roman"
@@ -2105,6 +2170,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
     production_area_filter: [ "Italy or possibly Egypt" ]
     culture: "Roman"
@@ -2124,6 +2190,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
     production_area_filter: [ "Italy or possibly Egypt" ]
     culture: "Roman"
@@ -2143,6 +2210,7 @@ object_list:
     date: "First century BCE–first century CE"
     start_date: "-100"
     end_date: "99"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
     production_area_filter: [ "Italy or possibly Egypt" ]
     culture: "Roman"
@@ -2162,6 +2230,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
     production_area_filter: [ "Italy or possibly Egypt" ]
     culture: "Roman"
@@ -2181,6 +2250,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
     production_area_filter: [ "Italy or possibly Egypt" ]
     culture: "Roman"
@@ -2200,6 +2270,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
     production_area_filter: [ "Italy or possibly Egypt" ]
     culture: "Roman"
@@ -2219,6 +2290,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
     production_area_filter: [ "Italy or possibly Egypt" ]
     culture: "Roman"
@@ -2238,6 +2310,7 @@ object_list:
     date: "Ninth–tenth centuries CE"
     start_date: "800"
     end_date: "999"
+    date_range: [ "24: 800–900 CE", "25: 900–1000" ]
     production_area: "Eastern Mediterranean"
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Islamic"
@@ -2257,6 +2330,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
     production_area_filter: [ "Italy or possibly Egypt" ]
     culture: "Roman"
@@ -2276,6 +2350,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
     production_area_filter: [ "Italy or possibly Egypt" ]
     culture: "Roman"
@@ -2295,6 +2370,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
     production_area_filter: [ "Italy or possibly Egypt" ]
     culture: "Roman"
@@ -2314,6 +2390,7 @@ object_list:
     date: "Early first century BCE"
     start_date: "-100"
     end_date: "-67"
+    date_range: [ "15: 100–0 BCE" ]
     production_area: "Eastern Mediterranean"
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Roman"
@@ -2333,6 +2410,7 @@ object_list:
     date: "Early first century BCE"
     start_date: "-100"
     end_date: "-67"
+    date_range: [ "15: 100–0 BCE" ]
     production_area: "Eastern Mediterranean"
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Roman"
@@ -2352,6 +2430,7 @@ object_list:
     date: "Early first century BCE"
     start_date: "-100"
     end_date: "-67"
+    date_range: [ "15: 100–0 BCE" ]
     production_area: "Eastern Mediterranean"
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Roman"
@@ -2371,6 +2450,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
     production_area_filter: [ "Italy or Egypt" ]
     culture: "Roman"
@@ -2390,6 +2470,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
     production_area_filter: [ "Italy or Egypt" ]
     culture: "Roman"
@@ -2409,6 +2490,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
     production_area_filter: [ "Italy or Egypt" ]
     culture: "Roman"
@@ -2428,6 +2510,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
     production_area_filter: [ "Italy or Egypt" ]
     culture: "Roman"
@@ -2447,6 +2530,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
     production_area_filter: [ "Italy or Egypt" ]
     culture: "Roman"
@@ -2466,6 +2550,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
     production_area_filter: [ "Italy or Egypt" ]
     culture: "Roman"
@@ -2485,6 +2570,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
     production_area_filter: [ "Italy or Egypt" ]
     culture: "Roman"
@@ -2504,6 +2590,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
     production_area_filter: [ "Italy or Egypt" ]
     culture: "Roman"
@@ -2523,6 +2610,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
     production_area_filter: [ "Italy or Egypt" ]
     culture: "Roman"
@@ -2542,6 +2630,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
     production_area_filter: [ "Italy or Egypt" ]
     culture: "Roman"
@@ -2561,6 +2650,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Egypt, or possibly Italy"
     production_area_filter: [ "Egypt, or possibly Italy" ]
     culture: "Roman"
@@ -2580,6 +2670,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
     production_area_filter: [ "Italy or Egypt" ]
     culture: "Roman"
@@ -2599,6 +2690,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
     production_area_filter: [ "Italy or Egypt" ]
     culture: "Roman"
@@ -2618,6 +2710,7 @@ object_list:
     date: "Ca. 50 BCE–ca. 50 CE"
     start_date: "-50"
     end_date: "50"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Roman Empire, probably Italy. Found: park of the Château de Ripaille, Thonon-les-Bains, France, 1764"
     production_area_filter: [ "Roman Empire, probably Italy. Found: park of the Château de Ripaille, Thonon-les-Bains, France, 1764" ]
     culture: "Roman"
@@ -2637,6 +2730,7 @@ object_list:
     date: "Ca. 50 BCE–ca. 50 CE"
     start_date: "-50"
     end_date: "50"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Roman Empire, probably Italy"
     production_area_filter: [ "Roman Empire, probably Italy" ]
     culture: "Roman"
@@ -2656,6 +2750,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Roman Empire, probably Italy"
     production_area_filter: [ "Roman Empire, probably Italy" ]
     culture: "Roman"
@@ -2675,6 +2770,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Roman Empire, probably Italy"
     production_area_filter: [ "Roman Empire, probably Italy" ]
     culture: "Roman"
@@ -2694,6 +2790,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly eastern Mediterranean"
     production_area_filter: [ "Italy or possibly eastern Mediterranean" ]
     culture: "Roman"
@@ -2713,6 +2810,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly eastern Mediterranean"
     production_area_filter: [ "Italy or possibly eastern Mediterranean" ]
     culture: "Roman"
@@ -2732,6 +2830,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly eastern Mediterranean"
     production_area_filter: [ "Italy or possibly eastern Mediterranean" ]
     culture: "Roman"
@@ -2751,6 +2850,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly eastern Mediterranean"
     production_area_filter: [ "Italy or possibly eastern Mediterranean" ]
     culture: "Roman"
@@ -2770,6 +2870,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
     production_area_filter: [ "Italy or Egypt" ]
     culture: "Roman"
@@ -2789,6 +2890,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
     production_area_filter: [ "Italy or Egypt" ]
     culture: "Roman"
@@ -2808,6 +2910,7 @@ object_list:
     date: "First century BCE, possibly to early first century&nbsp;CE"
     start_date: "-100"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Egypt"
     production_area_filter: [ "Egypt" ]
     culture: "Roman"
@@ -2827,6 +2930,7 @@ object_list:
     date: "First century BCE, possibly to early first century&nbsp;CE"
     start_date: "-100"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Egypt"
     production_area_filter: [ "Egypt" ]
     culture: "Roman"
@@ -2846,6 +2950,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Italy"
     production_area_filter: [ "Eastern Mediterranean, probably Italy" ]
     culture: "Roman"
@@ -2865,6 +2970,7 @@ object_list:
     date: "Late first century BCE–early first century CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy"
     production_area_filter: [ "Italy" ]
     culture: "Roman"
@@ -2884,6 +2990,7 @@ object_list:
     date: "Late first century BCE–early first century&nbsp;CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy"
     production_area_filter: [ "Italy" ]
     culture: "Roman"
@@ -2903,6 +3010,7 @@ object_list:
     date: "Early first century CE"
     start_date: "1"
     end_date: "32"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Italy"
     production_area_filter: [ "Italy" ]
     culture: "Roman"
@@ -2922,6 +3030,7 @@ object_list:
     date: "Early–mid-first century CE"
     start_date: "1"
     end_date: "65"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Italy"
     production_area_filter: [ "Probably Italy" ]
     culture: "Roman"
@@ -2941,6 +3050,7 @@ object_list:
     date: "Early–mid-first century CE"
     start_date: "1"
     end_date: "65"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Italy"
     production_area_filter: [ "Probably Italy" ]
     culture: "Roman"
@@ -2960,6 +3070,7 @@ object_list:
     date: "Early–mid-first century CE"
     start_date: "1"
     end_date: "65"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Italy"
     production_area_filter: [ "Probably Italy" ]
     culture: "Roman"
@@ -2979,6 +3090,7 @@ object_list:
     date: "Early first century CE"
     start_date: "1"
     end_date: "32"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Italy"
     production_area_filter: [ "Probably Italy" ]
     culture: "Roman"
@@ -2998,6 +3110,7 @@ object_list:
     date: "Early first century CE"
     start_date: "1"
     end_date: "32"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Italy"
     production_area_filter: [ "Probably Italy" ]
     culture: "Roman"
@@ -3017,6 +3130,7 @@ object_list:
     date: "Early first century CE"
     start_date: "1"
     end_date: "32"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Italy"
     production_area_filter: [ "Probably Italy" ]
     culture: "Roman"
@@ -3036,6 +3150,7 @@ object_list:
     date: "Early first century CE"
     start_date: "1"
     end_date: "32"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Italy"
     production_area_filter: [ "Probably Italy" ]
     culture: "Roman"
@@ -3055,6 +3170,7 @@ object_list:
     date: "Early first century CE"
     start_date: "1"
     end_date: "32"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Italy or eastern Mediterranean"
     production_area_filter: [ "Italy or eastern Mediterranean" ]
     culture: "Roman"
@@ -3074,6 +3190,7 @@ object_list:
     date: "Early first century CE"
     start_date: "1"
     end_date: "32"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Italy or western Roman Empire"
     production_area_filter: [ "Italy or western Roman Empire" ]
     culture: "Roman"
@@ -3093,6 +3210,7 @@ object_list:
     date: "Late first century BCE–early first century&nbsp;CE"
     start_date: "-33"
     end_date: "32"
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or western Roman Empire"
     production_area_filter: [ "Italy or western Roman Empire" ]
     culture: "Roman"
@@ -3112,6 +3230,7 @@ object_list:
     date: "Second century CE"
     start_date: "100"
     end_date: "199"
+    date_range: [ "17: 100–200 CE" ]
     production_area: "Syro-Palestinian region"
     production_area_filter: [ "Syro-Palestinian region" ]
     culture: "Roman"
@@ -3131,6 +3250,7 @@ object_list:
     date: "Second half of the first century CE"
     start_date: "50"
     end_date: "99"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Syro-Palestinian coast"
     production_area_filter: [ "Syro-Palestinian coast" ]
     culture: "Roman"
@@ -3150,6 +3270,7 @@ object_list:
     date: "Second half of the first century CE"
     start_date: "50"
     end_date: "99"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Syro-Palestinian coast"
     production_area_filter: [ "Syro-Palestinian coast" ]
     culture: "Roman"
@@ -3169,6 +3290,7 @@ object_list:
     date: "Second half of the first century CE"
     start_date: "50"
     end_date: "99"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Syro-Palestinian coast"
     production_area_filter: [ "Syro-Palestinian coast" ]
     culture: "Roman"
@@ -3188,6 +3310,7 @@ object_list:
     date: "Third quarter of the first century CE"
     start_date: "50"
     end_date: "74"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Syro-Palestinian coast"
     production_area_filter: [ "Syro-Palestinian coast" ]
     culture: "Roman"
@@ -3207,6 +3330,7 @@ object_list:
     date: "Second half of the first century CE"
     start_date: "50"
     end_date: "99"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Syro-Palestinian coast"
     production_area_filter: [ "Syro-Palestinian coast" ]
     culture: "Roman"
@@ -3226,6 +3350,7 @@ object_list:
     date: "First century CE"
     start_date: "1"
     end_date: "99"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Syro-Palestinian coast"
     production_area_filter: [ "Syro-Palestinian coast" ]
     culture: "Roman"
@@ -3245,6 +3370,7 @@ object_list:
     date: "Middle of the first century CE"
     start_date: "33"
     end_date: "65"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Syro-Palestinian coast"
     production_area_filter: [ "Syro-Palestinian coast" ]
     culture: "Roman"
@@ -3264,6 +3390,7 @@ object_list:
     date: "Middle of the first century CE"
     start_date: "33"
     end_date: "65"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Syro-Palestinian coast"
     production_area_filter: [ "Syro-Palestinian coast" ]
     culture: "Roman"
@@ -3283,6 +3410,7 @@ object_list:
     date: "First century CE"
     start_date: "1"
     end_date: "99"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean or Italy"
     production_area_filter: [ "Eastern Mediterranean or Italy" ]
     culture: "Roman"
@@ -3302,6 +3430,7 @@ object_list:
     date: "Third quarter of the first century CE"
     start_date: "50"
     end_date: "74"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Said to be from the Syro-Palestinian coast"
     production_area_filter: [ "Said to be from the Syro-Palestinian coast" ]
     culture: "Roman"
@@ -3321,6 +3450,7 @@ object_list:
     date: "Second half of the first century CE"
     start_date: "50"
     end_date: "99"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean"
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Roman"
@@ -3340,6 +3470,7 @@ object_list:
     date: "First century CE"
     start_date: "1"
     end_date: "99"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Roman Empire, probably Italy"
     production_area_filter: [ "Roman Empire, probably Italy" ]
     culture: "Roman"
@@ -3359,6 +3490,7 @@ object_list:
     date: "First century CE"
     start_date: "1"
     end_date: "99"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Roman Empire, probably Italy"
     production_area_filter: [ "Roman Empire, probably Italy" ]
     culture: "Roman"
@@ -3378,6 +3510,7 @@ object_list:
     date: "First century CE"
     start_date: "1"
     end_date: "99"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Italy"
     production_area_filter: [ "Italy" ]
     culture: "Roman"
@@ -3397,6 +3530,7 @@ object_list:
     date: "First century CE"
     start_date: "1"
     end_date: "99"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Roman Empire"
     production_area_filter: [ "Roman Empire" ]
     culture: "Roman"
@@ -3416,6 +3550,7 @@ object_list:
     date: "Possibly late first century CE, more likely third century CE"
     start_date: "66"
     end_date: "299"
+    date_range: [ "16: 0–100 CE", "17: 100–200 CE", "18: 200–300 CE" ]
     production_area: "Roman Empire"
     production_area_filter: [ "Roman Empire" ]
     culture: "Roman"
@@ -3435,6 +3570,7 @@ object_list:
     date: "Second century CE"
     start_date: "100"
     end_date: "199"
+    date_range: [ "17: 100–200 CE" ]
     production_area: "Eastern Mediterranean, Syro-Palestinian region"
     production_area_filter: [ "Eastern Mediterranean, Syro-Palestinian region" ]
     culture: "Roman"
@@ -3454,6 +3590,7 @@ object_list:
     date: "Ca. second century CE"
     start_date: "100"
     end_date: "199"
+    date_range: [ "17: 100–200 CE" ]
     production_area: "Eastern Mediterranean [Saldern said probably Syrian]"
     production_area_filter: [ "Eastern Mediterranean [Saldern said probably Syrian]" ]
     culture: "Roman"
@@ -3473,6 +3610,7 @@ object_list:
     date: "Ca. second–third centuries CE"
     start_date: "100"
     end_date: "299"
+    date_range: [ "17: 100–200 CE", "18: 200–300 CE" ]
     production_area: "Eastern Mediterranean"
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Roman"
@@ -3492,6 +3630,7 @@ object_list:
     date: "Fourth century CE"
     start_date: "300"
     end_date: "399"
+    date_range: [ "19: 300–400 CE" ]
     production_area: "Eastern Mediterranean, Syro-Palestinian region"
     production_area_filter: [ "Eastern Mediterranean, Syro-Palestinian region" ]
     culture: "Byzantine"
@@ -3511,6 +3650,7 @@ object_list:
     date: "Second half of the fourth century CE"
     start_date: "350"
     end_date: "399"
+    date_range: [ "19: 300–400 CE" ]
     production_area: "Eastern Mediterranean, Syro-Palestinian region"
     production_area_filter: [ "Eastern Mediterranean, Syro-Palestinian region" ]
     culture: "Roman"
@@ -3530,6 +3670,7 @@ object_list:
     date: "Mid-fourth–mid-fifth centuries CE"
     start_date: "333"
     end_date: "465"
+    date_range: [ "19: 300–400 CE", "20: 400–500 CE" ]
     production_area: "Eastern Mediterranean"
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Roman"
@@ -3549,6 +3690,7 @@ object_list:
     date: "Mid-fourth–mid-fifth centuries CE"
     start_date: "333"
     end_date: "465"
+    date_range: [ "19: 300–400 CE", "20: 400–500 CE" ]
     production_area: "Eastern Mediterranean"
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Roman"
@@ -3568,6 +3710,7 @@ object_list:
     date: "About second century CE"
     start_date: "100"
     end_date: "199"
+    date_range: [ "17: 100–200 CE" ]
     production_area: "Syro-Palestinian region"
     production_area_filter: [ "Syro-Palestinian region" ]
     culture: "Roman"
@@ -3587,6 +3730,7 @@ object_list:
     date: "Late second–third centuries CE"
     start_date: "166"
     end_date: "299"
+    date_range: [ "17: 100–200 CE", "18: 200–300 CE" ]
     production_area: "Rhine region"
     production_area_filter: [ "Rhine region" ]
     culture: "Roman"
@@ -3606,6 +3750,7 @@ object_list:
     date: "Fourth century CE"
     start_date: "300"
     end_date: "399"
+    date_range: [ "19: 300–400 CE" ]
     production_area: "Syro-Palestinian region"
     production_area_filter: [ "Syro-Palestinian region" ]
     culture: "Roman"
@@ -3625,6 +3770,7 @@ object_list:
     date: "Fourth century CE"
     start_date: "300"
     end_date: "399"
+    date_range: [ "19: 300–400 CE" ]
     production_area: "Eastern Mediterranean"
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Roman"
@@ -3644,6 +3790,7 @@ object_list:
     date: "End of fourth–sixth centuries CE"
     start_date: "366"
     end_date: "599"
+    date_range: [ "19: 300–400 CE", "20: 400–500 CE", "21: 500–600 CE" ]
     production_area: "Syro-Palestinian region"
     production_area_filter: [ "Syro-Palestinian region" ]
     culture: "Byzantine"
@@ -3663,6 +3810,7 @@ object_list:
     date: "Sixth–early seventh centuries CE"
     start_date: "500"
     end_date: "632"
+    date_range: [ "21: 500–600 CE", "22: 600–700 CE" ]
     production_area: "Syro-Palestinian region"
     production_area_filter: [ "Syro-Palestinian region" ]
     culture: "Roman"
@@ -3682,6 +3830,7 @@ object_list:
     date: "Mid-fifth–early seventh centuries"
     start_date: "433"
     end_date: "632"
+    date_range: [ "20: 400–500", "21: 500–600 CE", "22: 600–700 CE" ]
     production_area: "Syro-Palestinian region"
     production_area_filter: [ "Syro-Palestinian region" ]
     culture: "Byzantine"
@@ -3701,6 +3850,7 @@ object_list:
     date: "First half of the first century CE"
     start_date: "1"
     end_date: "49"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Phoenician region"
     production_area_filter: [ "Phoenician region" ]
     culture: "Roman"
@@ -3720,6 +3870,7 @@ object_list:
     date: "First half of the first century CE"
     start_date: "1"
     end_date: "49"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Phoenician region"
     production_area_filter: [ "Phoenician region" ]
     culture: "Roman"
@@ -3739,6 +3890,7 @@ object_list:
     date: "First half of the first century CE"
     start_date: "1"
     end_date: "49"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Phoenician region"
     production_area_filter: [ "Phoenician region" ]
     culture: "Roman"
@@ -3758,6 +3910,7 @@ object_list:
     date: "Middle of the first century CE"
     start_date: "33"
     end_date: "65"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Syro-Palestinian region, maybe Sidon"
     production_area_filter: [ "Syro-Palestinian region, maybe Sidon" ]
     culture: "Roman"
@@ -3777,6 +3930,7 @@ object_list:
     date: "Middle of the first century CE"
     start_date: "33"
     end_date: "65"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Syro-Palestinian region, maybe Sidon"
     production_area_filter: [ "Syro-Palestinian region, maybe Sidon" ]
     culture: "Roman"
@@ -3796,6 +3950,7 @@ object_list:
     date: "First–early second centuries CE"
     start_date: "1"
     end_date: "132"
+    date_range: [ "16: 0–100 CE", "17: 100–200 CE" ]
     production_area: "Syro-Palestinian coast"
     production_area_filter: [ "Syro-Palestinian coast" ]
     culture: "Roman"
@@ -3815,6 +3970,7 @@ object_list:
     date: "First–early second centuries CE"
     start_date: "1"
     end_date: "132"
+    date_range: [ "16: 0–100 CE", "17: 100–200 CE" ]
     production_area: "Syro-Palestinian coast"
     production_area_filter: [ "Syro-Palestinian coast" ]
     culture: "Roman"
@@ -3834,6 +3990,7 @@ object_list:
     date: "Late first–second centuries CE"
     start_date: "66"
     end_date: "199"
+    date_range: [ "16: 0–100 CE", "17: 100–200 CE" ]
     production_area: "Probably Syro-Palestinian region"
     production_area_filter: [ "Probably Syro-Palestinian region" ]
     culture: "Roman"
@@ -3853,6 +4010,7 @@ object_list:
     date: "Late first–second centuries CE"
     start_date: "66"
     end_date: "199"
+    date_range: [ "16: 0–100 CE", "17: 100–200 CE" ]
     production_area: "Probably Syro-Palestinian region"
     production_area_filter: [ "Probably Syro-Palestinian region" ]
     culture: "Roman"
@@ -3872,6 +4030,7 @@ object_list:
     date: "Middle to second half of the first century CE"
     start_date: "33"
     end_date: "99"
+    date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Syro-Palestinian region"
     production_area_filter: [ "Probably Syro-Palestinian region" ]
     culture: "Roman"
@@ -3891,6 +4050,7 @@ object_list:
     date: "Third–fifth centuries CE"
     start_date: "200"
     end_date: "499"
+    date_range: [ "18: 200–300 CE", "19: 300–400 CE", "20: 400–500" ]
     production_area: "Eastern Mediterranean, possibly Syro-Palestinian region"
     production_area_filter: [ "Eastern Mediterranean, possibly Syro-Palestinian region" ]
     culture: "Roman"
