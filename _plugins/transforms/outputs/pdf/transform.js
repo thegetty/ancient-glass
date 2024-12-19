@@ -44,11 +44,10 @@ module.exports = function(eleventyConfig, collections, content) {
     const { dataset } = element
     const { parentPage } = page.data
 
-    dataset.footerPageTitle = formatTitle(page.data)
-
-    if (parentPage) {
-      dataset.footerSectionTitle = formatTitle(parentPage.data)
-    }
+    dataset.footerPageTitle = parentPage
+      ? formatTitle(parentPage.data)
+      : formatTitle(page.data)
+      
   }
 
   /**
