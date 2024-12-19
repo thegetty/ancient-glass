@@ -9,7 +9,7 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'https://final-pages--ancient-glass.netlify.app'
+url: 'https://final-pages-v2--ancient-glass.netlify.app'
 
 # ------------------------------------------------------------------------------
 # Title & Description
@@ -49,7 +49,7 @@ publisher:
       Getty Publications
       1200 Getty Center Drive, Suite 500
       Los Angeles, California 90049-1682
-      [getty.edu/publications/](https://www.getty.edu/publications/)
+      [getty.edu/publications](https://www.getty.edu/publications/)
 
 project_team: 
   - Ruth Evans Lane, *Project Editor*
@@ -68,7 +68,7 @@ project_team:
 
 contributor_as_it_appears:
 
-additional_contributors: "With additional contributions by Nicole&#160;Budrovich and Monica&#160;Ganio"
+additional_contributors: "With contributions by Nicole&#160;Budrovich and Monica&#160;Ganio"
 
 contributor:
   - id: aantonaras
@@ -161,7 +161,9 @@ revision_history:
     summary:
       - First edition
 
-revision_statement: "Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at https://github.com/thegetty/ancient-glass, where a more detailed version history is available. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here."
+revision_statement: | 
+
+  Any revisions or corrections made to this publication after the first edition date will be listed in detail in the project repository at https://github.com<wbr>/thegetty/ancient-glass. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here.
 
 repository_url: https://github.com/thegetty/ancient-glass
 

@@ -9093,7 +9093,7 @@ figure_list:
     src: figures/fig-3-history.jpg
     zoom: true
     label: "Figure 3."
-    caption: "Roman Glass display in J. Paul Getty Museum, “Getty Art Bids Viewers,” *Los Angeles Times*, January 24, 1958, photo by Harry Chase."
+    caption: "Roman Glass display in J. Paul Getty Museum, “Getty Art Bids Viewers,” *Los Angeles Times*, January 24, 1958, photo by Harry Chase"
     
   - id: fig-4-history
     src: figures/fig-4-history.jpg
@@ -9163,14 +9163,14 @@ figure_list:
     zoom: true
     label: "Figure 14."
     caption: "**Slumping technique** <br>
-    a) Glass rods of various colors bundled together; (b) heated; (c) stretched and cut in small disks, i.e., florets; (d) florets arranged and heated to form a disk framed by a twisted glass rod; (e) Disk slumped over a former mold to assume vessel’s final shape."
+    (a) Glass rods of various colors bundled together; (b) heated; &#40;c) stretched and cut in small disks, i.e., florets; (d) florets arranged and heated to form a disk framed by a twisted glass rod; (e) disk slumped over a former mold to assume vessel’s final shape."
 
   - id: fig-15-intro
     src: figures/fig-15-intro.jpg
     zoom: true
     label: "Figure 15."
     caption: "**Rotary-pressing technique for a ribbed bowl** <br>
-    (a) Heated mass of glass slumped on former mold placed on a potter’s wheel.; shaping (b) and decorating (c) vessel while slowly rotating."
+    (a) Heated mass of glass slumped on former mold placed on a potter’s wheel; shaping (b) and decorating &#40;c) vessel while slowly rotating."
 
   - id: fig-16-intro
     src: figures/fig-16-intro.jpg
