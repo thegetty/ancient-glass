@@ -509,6 +509,10 @@ figure.cat-thumbnail a {
     page-break-after: avoid;
     column-break-after: avoid;
   }
+
+  .pdf-column-break-before {
+    column-break-before: always;
+  }
   
 }
 
