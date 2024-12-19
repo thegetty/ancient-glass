@@ -9079,149 +9079,149 @@ figure_list:
 
   - id: fig-1-history
     src: figures/fig-1-history.jpg
-    #zoom: true
+    zoom: true
     label: "Figure 1."
     caption: "Harry Leonard Simmons sale, Parke-Bernet Galleries, New York, 1940, p. 31. J. Paul Getty acquired seven of the nine objects in this catalogue illustration: nos. 99 (cat. 400), 101 (cat. 89), 102 (cat. 227), 104 (cat. 188), 106 (cat. 248), 107 (cat. 249), and 108 (cat. 71)."
 
   - id: fig-2-history
     src: figures/fig-2-history.jpg
-    #zoom: true
+    zoom: true
     label: "Figure 2."
     caption: "Getty Ranch House, circa 1948–57, Getty Institutional Archives"
   
   - id: fig-3-history
     src: figures/fig-3-history.jpg
-    #zoom: true
+    zoom: true
     label: "Figure 3."
     caption: "Roman Glass display in J. Paul Getty Museum, “Getty Art Bids Viewers,” *Los Angeles Times*, January 24, 1958, photo by Harry Chase"
     
   - id: fig-4-history
     src: figures/fig-4-history.jpg
-    #zoom: true
+    zoom: true
     label: "Figure 4."
     caption: "Cat. 133, Ribbed Bowl, 50 BCE–50 CE, 72.AF.37. Photo from the 1907 publication of *Le Chateau de Ripaille* by Max Bruchet (Paris), p. 20; ill."
 
   - id: fig-5-history
     src: figures/fig-5-history.jpg
-    #zoom: true
+    zoom: true
     label: "Figure 5."
     caption: "Cat. 82, Cameo Glass Skyphos, 15 BCE–25 CE, 84.AF.85"
 
   - id: fig-6-history
     src: figures/fig-6-history.jpg
-    #zoom: true
+    zoom: true
     label: "Figure 6."
     caption: "Cat. 169, Mythological Beaker, late 1st century CE, 85.AF.83"
 
   - id: fig-7-history
     src: figures/fig-7-history.jpg
-    #zoom: true
+    zoom: true
     label: "Figure 7."
     caption: "View of Gallery 101E in 2006, *Glass in Antiquity*, J. Paul Getty Museum at the Getty Villa"
 
   - id: fig-8-history
     src: figures/fig-8-history.jpg
-    #zoom: true
+    zoom: true
     label: "Figure 8."
     caption: "View of Gallery 214 in 2010, *Molten Color: Glassmaking in Antiquity*, J. Paul Getty Museum at the Getty Villa"
 
   - id: fig-9-history
     src: figures/fig-9-history.jpg
-    #zoom: true
+    zoom: true
     label: "Figure 9."
     caption: "View of Gallery 214 in 2017, Greek and Roman Glass, J. Paul Getty Museum at the Getty Villa"
 
   - id: fig-10-history
     src: figures/fig-10-history.jpg
-    #zoom: true
+    zoom: true
     label: "Figure 10."
     caption: "View of Gallery 214 in 2023, Greek and Roman Glass, J. Paul Getty Museum at the Getty Villa"
 
   - id: fig-11-intro
     src: figures/fig-11-intro.jpg
-    #zoom: true
+    zoom: true
     label: "Figure 11."
     caption: "**Core-forming technique** <br>
     A core of organic and inorganic materials is made on the end of a metal rod; the metal rod is then rolled on crushed glass and is inserted in the kiln until the glass melts and covers the core. The glassworker uses tools to form the rim and neck of the vessel, and then adds handles and base. The decoration is usually made by winding threads of colored glass that are often combed to create a zigzag or feathered pattern."
 
   - id: fig-12-intro
     src: figures/fig-12-intro.jpg
-    #zoom: true
+    zoom: true
     label: "Figure 12."
     caption: "**Rod-forming technique** <br>
     A glass object is formed around a core or metal mandrel. Most beads, pendants, and some core-formed vessels are made by winding the molten glass around a rod."
   
   - id: fig-13-intro
     src: figures/fig-13-intro.jpg
-    #zoom: true
+    zoom: true
     label: "Figure 13."
     caption: "**Cast, lost wax technique** <br>
     (a) Former. (b) Lower part of the mold is placed on the former. &#40;c) Upper part of the mold is placed on top of the lower part and heated. (d) Cullet of glass is poured into the cavity between the two parts of the mold, then heated and fused to form the vessel."
     
   - id: fig-14-intro
     src: figures/fig-14-intro.jpg
-    #zoom: true
+    zoom: true
     label: "Figure 14."
     caption: "**Slumping technique** <br>
     (a) Glass rods of various colors bundled together; (b) heated; &#40;c) stretched and cut in small disks, i.e., florets; (d) florets arranged and heated to form a disk framed by a twisted glass rod; (e) disk slumped over a former mold to assume vessel’s final shape."
 
   - id: fig-15-intro
     src: figures/fig-15-intro.jpg
-    #zoom: true
+    zoom: true
     label: "Figure 15."
     caption: "**Rotary-pressing technique for a ribbed bowl** <br>
     (a) Heated mass of glass slumped on former mold placed on a potter’s wheel; shaping (b) and decorating &#40;c) vessel while slowly rotating."
 
   - id: fig-16-intro
     src: figures/fig-16-intro.jpg
-    #zoom: true
+    zoom: true
     label: "Figure 16."
     caption: "**Rotary-pressing technique for a Cretan pyxis, 3rd–1st century BCE** <br>
     (a) The vessel is formed on a potter’s wheel. (b) The viscous glass is pressed down with a plunger on the rotating lathe. &#40;c) A paddle shapes the outside."
 
   - id: fig-17-intro
     src: figures/fig-17-intro.jpg
-    #zoom: true
+    zoom: true
     label: "Figure 17."
     caption: "**Free-blowing technique** <br>
     Forming an object by blowing into a mass of hot glass. (a) Blowing is done with the blowpipe, on whose lower end the gob (molten glass) has already been picked up. (b) The parison (bubble of glass at the end of the blowpipe) is produced by the initial act of blowing, and the final product is then formed. &#40;c) The neck and the body are finalized while still attached to the blowpipe. (d) Then a metal rod (pontil/pounty) is attached to the bottom of the vessel and the blowpipe is cut off/removed. (e) While still on the pontil, the vessel’s rim is shaped, and additional elements (handles or decorative elements, e.g., blobs or threads) are applied. (f) The vessel is left to cool (anneal) gradually."
 
   - id: fig-18-intro
     src: figures/fig-18-intro.jpg
-    #zoom: true
+    zoom: true
     label: "Figure 18."
     caption: "**Mold-blowing technique** <br>
     The vessel is formed by blowing into a concave or a specially shaped mold; the vessel is completed with the free-blowing of its rim and the attachment of handles."
 
   - id: fig-19-intro
     src: figures/fig-19-intro.jpg
-    #zoom: true
+    zoom: true
     label: "Figure 19."
     caption: "**Dip mold-blowing technique** <br>
     A vessel is partially formed by blowing into an intaglio or specially shaped mold; the vessel then acquires its finished dimensions through free blowing during which the original mold-made decoration is blunted or altered."
 
   - id: fig-20-intro
     src: figures/fig-20-intro.jpg
-    #zoom: true
+    zoom: true
     label: "Figure 20."
     caption: "**Rotary pressing technique for a cameo vessel** <br>
     (a) Wax model with decoration in relief. (b) Plaster mold with spaces. &#40;c) Spaces are filled with glass powder, perhaps also with binders. (d) Glass is pressed in. Hot glass melts the powdered glass that is being pressed in. (e) The plaster mold is turned and broken off. (f) The newly made glass is turned upside down. (g) The new glass sags and the rim flows. (h) The rim on the new glass is constricted. (i) The new glass is turned right side up and annealed (cooled)."
 
   - id: fig-21-appendix
     src: figures/fig-21-appendix.jpg
-    #zoom: true
+    zoom: true
     label: "Figure 21."
     caption: "Schematic showing the typology, chronology, and color distribution of the vessels investigated."
   
   - id: fig-22-appendix
     src: figures/fig-22-appendix.jpg
-    #zoom: true
+    zoom: true
     label: "Figure 22."
     caption: "Chart listing the chemicals detected in colored glass, with their most common sources."
 
   - id: fig-23-appendix
     src: figures/fig-23-appendix.jpg
-    #zoom: true
+    zoom: true
     label: "Figure 23."
     caption: "Three-dimensional Principal Component Analysis (PCA) plot reporting data for the most abundant colors: blue, white, turquoise, and yellow. Each circle represents a data point for each color of glass found on an individual vessel; the data point color corresponds to the vessel’s color. Individual points corresponding to the blue, white, and turquoise analyzed in vessel 2003.203 ([cat. 42](/catalogue/cat-42/)) are highlighted with a red outline. Circled data points correspond to the identified groups White 1 (W1 – purple) and White 2 (W2a, W2b, W2c in incrementally darker shades of green respectively). Representative vessels for each group discussed in the text: White 1 (W1), White 2 (including W2a, W2b, W2c), Turquoise 1 (T1), Turquoise 2 (T2), and yellow, are shown: a. [2003.180](/catalogue/cat-10/) (W1), b. [2003.203](/catalogue/cat-42/) (W2a), c. [2003.198](/catalogue/cat-33/) (W2b), d. [2003.199](/catalogue/cat-47/) (W3c), e. [2003.197](/catalogue/cat-32/) (T1), f. [2003.196](/catalogue/cat-15/) (T2), g. [2003.172](/catalogue/cat-38/) (Y)."
 
