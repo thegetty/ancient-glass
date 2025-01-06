@@ -590,7 +590,7 @@ object_list:
     date: "Possibly fourth–first centuries BCE, quite probably nineteenth or twentieth century CE"
     start_date: "-400"
     end_date: "-1"
-    date_range: [ "12: 400–300 BCE", "13: 300–200 BCE", "14: 200–100 BCE", "15: 100–0 BCE" ]
+    date_range: [ "12: 400–300 BCE", "13: 300–200 BCE", "14: 200–100 BCE", "15: 100–0 BCE", "28: 1200–present" ]
     production_area: "Eastern Mediterranean"
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Greek"
@@ -8430,7 +8430,7 @@ object_list:
     date: "Ninth–eleventh centuries CE (body and neck) and twentieth century CE (bottom)"
     start_date: "800"
     end_date: "1099"
-    date_range: [ "24: 800–900 CE", "25: 900–1000 CE", "26: 1000–1100 CE" ]
+    date_range: [ "24: 800–900 CE", "25: 900–1000 CE", "26: 1000–1100 CE", "28: 1200–present" ]
     production_area: "Eastern Mediterranean"
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: [ "Islamic", "Modern" ]
@@ -8450,7 +8450,7 @@ object_list:
     date: "Ninth–tenth centuries CE (neck and body) and twentieth century CE (bottom)"
     start_date: "800"
     end_date: "999"
-    date_range: [ "24: 800–900 CE", "25: 900–1000 CE" ]
+    date_range: [ "24: 800–900 CE", "25: 900–1000 CE", "28: 1200–present" ]
     production_area: "Eastern Mediterranean"
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: [ "Islamic", "Modern" ]
@@ -8470,7 +8470,7 @@ object_list:
     date: "Ninth–eleventh centuries CE (neck and body) and twentieth century CE (bottom)"
     start_date: "800"
     end_date: "1099"
-    date_range: [ "24: 800–900 CE", "25: 900–1000 CE", "26: 1000–1100 CE" ]
+    date_range: [ "24: 800–900 CE", "25: 900–1000 CE", "26: 1000–1100 CE", "28: 1200–present" ]
     production_area: "Eastern Mediterranean"
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: [ "Islamic", "Modern" ]
@@ -8850,7 +8850,7 @@ object_list:
     date: "Ca. third–fourth centuries CE and twentieth century"
     start_date: "300"
     end_date: "399"
-    date_range: [ "19: 300–400 CE" ]
+    date_range: [ "19: 300–400 CE", "28: 1200–present" ]
     production_area: "Eastern Mediterranean"
     production_area_filter: [ "Eastern Mediterranean" ]
     culture: [ "Roman", "Modern" ]
@@ -12341,7 +12341,7 @@ object_list:
     date: "Ninth–twelfth and nineteenth–twentieth centuries CE"
     start_date: "800"
     end_date: "1199"
-    date_range: [ "24: 800–900 CE", "25: 900–1000 CE", "26: 1000–1100 CE", "27: 1100–1200 CE" ]
+    date_range: [ "24: 800–900 CE", "25: 900–1000 CE", "26: 1000–1100 CE", "27: 1100–1200 CE", "28: 1200–present" ]
     production_area: "Eastern Mediterranean and Europe"
     production_area_filter: [ "Eastern Mediterranean and Europe" ]
     culture: [ "Islamic" ]
