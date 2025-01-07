@@ -65,7 +65,7 @@ outputs:
 
 {% copyright %}
 
-The section titled “An Introduction to the History and Technology of Ancient Glass Technology” is adapted from "A History of Ancient Glassmaking," originally published in Fire and Sand: Ancient Glass in the Princeton Art Museum by Anastassios Antonaras, © 2012 Trustees of Princeton University.
+The section titled “An Introduction to the History and Technology of Ancient Glass Production” is adapted from "A History of Ancient Glassmaking," originally published in *Fire and Sand: Ancient Glass in the Princeton Art Museum* by Anastassios Antonaras, © 2012 Trustees of Princeton University.
 <br>
 
 </div>
