@@ -11761,7 +11761,7 @@ object_list:
     date: "First century BCE–first century CE; possibly second half of eighth–first half of ninth centuries CE"
     start_date: "-100"
     end_date: "99"
-    date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
+    date_range: [ "15: 100–0 BCE", "16: 0–100 CE", "23: 700–800 CE", "24: 800–900 CE"  ]
     production_area: "Egypt or Italy or Samara region (Russia)"
     production_area_filter: [ "Egypt or Italy" ]
     culture: "Roman"
