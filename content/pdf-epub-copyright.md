@@ -50,7 +50,7 @@ Distributed outside the United States and Canada by Yale University&nbsp;Press,&
 {{ publication.library_of_congress_cip | markdownify }}
 
 </div>
-<div class="cover-image-credits">
+<div class="cover-image-credits pdf-column-break-before">
 
 Front cover: Clockwise from top left: Bowl (cat. 239), Flask (cat. 396), Flask (cat. 153), Sprinkler Flask (cat. 347), Date-Shaped Unguentarium (cat. 195), Head Jug (cat. 182), Gold-Band Flask (cat. 146), Flask (cat. 363), Flask (cat. 270), Mosaic Bowl (cat. 90), Discoid Mosaic Face Bead (cat. 535), Fragment of a Mosaic Inlay with Floral Motif (cat. 453), Alabastron (cat. 117), Cameo Glass Skyphos (cat. 82)
 
