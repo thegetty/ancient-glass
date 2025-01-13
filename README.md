@@ -65,6 +65,10 @@ git clone --recursive https://github.com/thegetty/ancient-glass.git
     magick mogrify -profile bin/adobe-rgb-1998.icm _site/iiif/**/print-image.jpg
     ```
 
+    ```
+    magick mogrify -colorspace Gray -profile bin/gray-gamma-2-2.icm _site/iiif/**--bw/**/print-image.jpg
+    ```
+
 4. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
 
 ### Creating an EPUB Version
