@@ -129,6 +129,9 @@ Allow for optional custom labels with `field` and `label` attributes
 **_plugins/transforms/outputs/pdf/transform.js**
 Fixed transform that was converting external links to slugified anchor links
 
+**_plugins/transforms/outputs/epub/manifest.js**
+Make epub.defaultCoverImage the first choice, and then promoImage second
+
 **content/_assets/javascript/application/index.js**
 Display only one pop-up at a time
 
