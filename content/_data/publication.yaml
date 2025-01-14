@@ -9,7 +9,7 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'https://final-pages-v2--ancient-glass.netlify.app'
+url: 'https://final-pages-v3b--ancient-glass.netlify.app'
 
 # ------------------------------------------------------------------------------
 # Title & Description
@@ -32,7 +32,7 @@ description:
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2025-02-01 # YYYY-MM-DD
+pub_date: 2025-04-08 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
@@ -157,7 +157,7 @@ library_of_congress_cip: |
 # ------------------------------------------------------------------------------
 
 revision_history:
-  - date:
+  - date: April 8, 2025
     summary:
       - First edition
 
@@ -171,4 +171,4 @@ repository_url: https://github.com/thegetty/ancient-glass
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: static-cover.jpg
+promo_image: cover-promo.jpg
