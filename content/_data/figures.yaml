@@ -9137,28 +9137,28 @@ figure_list:
     label: "Figure 10."
     caption: "View of Gallery 214 in 2023, Greek and Roman Glass, J. Paul Getty Museum at the Getty Villa"
 
-  - id: fig-11-intro--bw
+  - id: fig-11-intro-bw
     src: figures/fig-11-intro.jpg
     zoom: true
     label: "Figure 11."
     caption: "**Core-forming technique** <br>
     A core of organic and inorganic materials is made on the end of a metal rod; the metal rod is then rolled on crushed glass and is inserted in the kiln until the glass melts and covers the core. The glassworker uses tools to form the rim and neck of the vessel, and then adds handles and base. The decoration is usually made by winding threads of colored glass that are often combed to create a zigzag or feathered pattern."
 
-  - id: fig-12-intro--bw
+  - id: fig-12-intro-bw
     src: figures/fig-12-intro.jpg
     zoom: true
     label: "Figure 12."
     caption: "**Rod-forming technique** <br>
     A glass object is formed around a core or metal mandrel. Most beads, pendants, and some core-formed vessels are made by winding the molten glass around a rod."
   
-  - id: fig-13-intro--bw
+  - id: fig-13-intro-bw
     src: figures/fig-13-intro.jpg
     zoom: true
     label: "Figure 13."
     caption: "**Cast, lost wax technique** <br>
     (a) Former. (b) Lower part of the mold is placed on the former. &#40;c) Upper part of the mold is placed on top of the lower part and heated. (d) Cullet of glass is poured into the cavity between the two parts of the mold, then heated and fused to form the vessel."
     
-  - id: fig-14-intro--bw
+  - id: fig-14-intro-bw
     src: figures/fig-14-intro.jpg
     zoom: true
     label: "Figure 14."
@@ -9172,28 +9172,28 @@ figure_list:
     caption: "**Rotary-pressing technique for a ribbed bowl** <br>
     (a) Heated mass of glass slumped on former mold placed on a potter’s wheel; shaping (b) and decorating &#40;c) vessel while slowly rotating."
 
-  - id: fig-16-intro--bw
+  - id: fig-16-intro-bw
     src: figures/fig-16-intro.jpg
     zoom: true
     label: "Figure 16."
     caption: "**Rotary-pressing technique for a Cretan pyxis, 3rd–1st century BCE** <br>
     (a) The vessel is formed on a potter’s wheel. (b) The viscous glass is pressed down with a plunger on the rotating lathe. &#40;c) A paddle shapes the outside."
 
-  - id: fig-17-intro--bw
+  - id: fig-17-intro-bw
     src: figures/fig-17-intro.jpg
     zoom: true
     label: "Figure 17."
     caption: "**Free-blowing technique** <br>
     Forming an object by blowing into a mass of hot glass. (a) Blowing is done with the blowpipe, on whose lower end the gob (molten glass) has already been picked up. (b) The parison (bubble of glass at the end of the blowpipe) is produced by the initial act of blowing, and the final product is then formed. &#40;c) The neck and the body are finalized while still attached to the blowpipe. (d) Then a metal rod (pontil/pounty) is attached to the bottom of the vessel and the blowpipe is cut off/removed. (e) While still on the pontil, the vessel’s rim is shaped, and additional elements (handles or decorative elements, e.g., blobs or threads) are applied. (f) The vessel is left to cool (anneal) gradually."
 
-  - id: fig-18-intro--bw
+  - id: fig-18-intro-bw
     src: figures/fig-18-intro.jpg
     zoom: true
     label: "Figure 18."
     caption: "**Mold-blowing technique** <br>
     The vessel is formed by blowing into a concave or a specially shaped mold; the vessel is completed with the free-blowing of its rim and the attachment of handles."
 
-  - id: fig-19-intro--bw
+  - id: fig-19-intro-bw
     src: figures/fig-19-intro.jpg
     zoom: true
     label: "Figure 19."
