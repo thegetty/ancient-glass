@@ -105,20 +105,20 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF
+    name: PDF (12 MB)
     media_type: application/pdf
     link_relation: alternate
-    url: #
+    url: /_assets/downloads/Antonaras_AncientGlass.pdf
   - type: other-format
-    name: EPUB
+    name: EPUB (74 MB)
     media_type: application/epub+zip
     link_relation: alternate
-    url: #
+    url: /_assets/downloads/Antonaras_AncientGlass.epub
   - type: other-format
     name: Paperback
     media_type: print
     link_relation: alternate
-    url: #
+    url: https://shop.getty.edu/products/ancient-glass-in-the-j-paul-getty-museum-978-1606069196
   - type: footer-link
     name: About
     link_relation: about
