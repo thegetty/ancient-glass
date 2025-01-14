@@ -1,2 +1,6 @@
-<script data-objects webc:keep type="application/json" @raw="JSON.stringify(objects)">
+<!-- 
+  CUSTOMIZED FILE
+  Exclude script element from epub output
+-->
+<script data-objects webc:keep type="application/json" @raw="JSON.stringify(objects)" data-outputs-exclude="pdf,epub">
 </script>

@@ -1,11 +1,14 @@
 ---
+## CUSTOMIZED FILE
+## Exclude <objects-catalog> and <style> elements from epub and pdf output
+## 
 layout: base.11ty.js
 classes:
   - objects-page
 ---
 <template webc:nokeep>
   <template @html="pageHeader(this.$data)" webc:nokeep></template>
-  <style @raw="getBundle('css')" webc:keep></style>
+  <style @raw="getBundle('css')" data-outputs-exclude="pdf,epub" webc:keep></style>
   <section webc:if="content" class="objects-page-content section quire-page__content">
     <div class="container">
       <div class="content">
@@ -14,7 +17,7 @@ classes:
       </div>
     </div>
   </section>
-  <objects-catalog></objects-catalog>
+  <objects-catalog data-outputs-exclude="pdf,epub"></objects-catalog>
   <template @html="pageButtons(this)" webc:nokeep></template>
 </template>
 <style>

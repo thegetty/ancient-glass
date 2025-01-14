@@ -1,6 +1,7 @@
 ---
 ## CUSTOMIZED FILE
 ## Added section breadcrumbs based on the file path, lines 54–72
+## Limited entry figures to just 1 for epub and pdf
 ##
 classes:
   - quire-entry
@@ -43,8 +44,8 @@ Entry content, including entry image and tombstone data
           {% endcomment %}
         {% elsif pageObjects %}
           {% for object in pageObjects %}
-            {% for figure in object.figures %}
-              {% figure figure.id %}
+            {% for figure in object.figures limit:1 %}
+              {% figure figure.id %} 
             {% endfor %}
           {% endfor %}
         {% endif %}
