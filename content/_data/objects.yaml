@@ -192,7 +192,7 @@ object_list:
     end_date: "-401"
     date_range: [ "11: 500–400 BCE" ]
     production_area: "Western Asiatic, probably northwestern Iran, perhaps Azerbaijan"
-    production_area_filter: [ "Western Asiatic, probably northwestern Iran, perhaps Azerbaijan" ]
+    production_area_filter: [ "Western Asiatic", "Iran", "Azerbaijan" ]
     culture: "Achaemenid (Persian)"
     material: "Translucent dark blue and greenish and opaque white, orange, and turquoise glass"
     modeling_technique_and_decoration: "Rod-formed; applied unmarvered and marvered threads"
@@ -212,7 +212,7 @@ object_list:
     end_date: "-401"
     date_range: [ "11: 500–400 BCE" ]
     production_area: "Western Asiatic, probably northwestern Iran, area of Ardebil, perhaps Azerbaijan"
-    production_area_filter: [ "Western Asiatic, probably northwestern Iran, area of Ardebil, perhaps Azerbaijan" ]
+    production_area_filter: [ "Western Asiatic", "Iran", "Ardebil", "Azerbaijan" ]
     culture: "Achaemenid (Persian)"
     material: "Dark blue; opaque red and yellow glass"
     modeling_technique_and_decoration: "Rod-formed; applied marvered threads"
@@ -232,7 +232,7 @@ object_list:
     end_date: "-401"
     date_range: [ "11: 500–400 BCE" ]
     production_area: "Western Asiatic, probably northwestern Iran"
-    production_area_filter: [ "Western Asiatic, probably northwestern Iran" ]
+    production_area_filter: [ "Western Asiatic", "Iran" ]
     culture: "Achaemenid (Persian)"
     material: "Dark green glass, appearing black"
     modeling_technique_and_decoration: "Rod-formed; applied unmarvered thread"
@@ -252,7 +252,7 @@ object_list:
     end_date: "-401"
     date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
-    production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
+    production_area_filter: [ "Eastern Mediterranean", "Rhodes" ]
     culture: "Greek"
     material: "Opaque white and translucent purple glass"
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
@@ -272,7 +272,7 @@ object_list:
     end_date: "-401"
     date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
-    production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
+    production_area_filter: [ "Eastern Mediterranean", "Rhodes" ]
     culture: "Greek"
     material: "Opaque white and translucent purple glass"
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
@@ -292,7 +292,7 @@ object_list:
     end_date: "-401"
     date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
-    production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
+    production_area_filter: [ "Eastern Mediterranean", "Rhodes" ]
     culture: "Greek"
     material: "Opaque green and yellow glass"
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered thread"
@@ -312,7 +312,7 @@ object_list:
     end_date: "-401"
     date_range: [ "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
-    production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
+    production_area_filter: [ "Eastern Mediterranean", "Rhodes" ]
     culture: "Greek"
     material: "Dark purple (seemingly black) and opaque white glass"
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
@@ -332,7 +332,7 @@ object_list:
     end_date: "-401"
     date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
-    production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
+    production_area_filter: [ "Eastern Mediterranean", "Rhodes" ]
     culture: "Greek"
     material: "Translucent dark blue and opaque white and yellow glass, with bronze"
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
@@ -352,7 +352,7 @@ object_list:
     end_date: "-401"
     date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
-    production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
+    production_area_filter: [ "Eastern Mediterranean", "Rhodes" ]
     culture: "Greek"
     material: "Translucent dark blue and opaque turquoise and yellow glass"
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
@@ -412,7 +412,7 @@ object_list:
     end_date: "-401"
     date_range: [ "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
-    production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
+    production_area_filter: [ "Eastern Mediterranean", "Rhodes" ]
     culture: "Greek"
     material: "Brownish-purple and opaque white, appearing turquoise, glass"
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
@@ -432,7 +432,7 @@ object_list:
     end_date: "-401"
     date_range: [ "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
-    production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
+    production_area_filter: [ "Eastern Mediterranean", "Rhodes" ]
     culture: "Greek"
     material: "Brown, opaque yellow, and turquoise glass"
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
@@ -452,7 +452,7 @@ object_list:
     end_date: "-401"
     date_range: [ "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
-    production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
+    production_area_filter: [ "Eastern Mediterranean", "Rhodes" ]
     culture: "Greek"
     material: "Translucent brown, and opaque yellow, turquoise glass"
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
@@ -472,7 +472,7 @@ object_list:
     end_date: "-401"
     date_range: [ "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
-    production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
+    production_area_filter: [ "Eastern Mediterranean", "Rhodes" ]
     culture: "Greek"
     material: "Translucent light green/gray and opaque turquoise and yellow glass"
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
@@ -512,7 +512,7 @@ object_list:
     end_date: "-267"
     date_range: [ "12: 400–300 BCE", "13: 300–200 BCE" ]
     production_area: "Eastern Mediterranean. Allegedly from Olbia, Ukraine"
-    production_area_filter: [ "Eastern Mediterranean. Allegedly from Olbia, Ukraine" ]
+    production_area_filter: [ "Eastern Mediterranean", "Olbia" ]
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow glass"
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
@@ -552,7 +552,7 @@ object_list:
     end_date: "-267"
     date_range: [ "12: 400–300 BCE", "13: 300–200 BCE" ]
     production_area: "Eastern Mediterranean or Italy"
-    production_area_filter: [ "Eastern Mediterranean or Italy" ]
+    production_area_filter: [ "Eastern Mediterranean", "Italy" ]
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow glass"
     modeling_technique_and_decoration: "Core-formed; applied rim, lugs, and unmarvered and marvered threads"
@@ -572,7 +572,7 @@ object_list:
     end_date: "-267"
     date_range: [ "12: 400–300 BCE", "13: 300–200 BCE" ]
     production_area: "Eastern Mediterranean or Italy"
-    production_area_filter: [ "Eastern Mediterranean or Italy" ]
+    production_area_filter: [ "Eastern Mediterranean", "Italy" ]
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow glass"
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handles, and unmarvered and marvered threads"
@@ -652,7 +652,7 @@ object_list:
     end_date: "99"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean or Italy"
-    production_area_filter: [ "Eastern Mediterranean or Italy" ]
+    production_area_filter: [ "Eastern Mediterranean", "Italy" ]
     culture: "Greek"
     material: "Opaque light bluish glass with white striations"
     modeling_technique_and_decoration: "Sagging or blowing"
@@ -672,7 +672,7 @@ object_list:
     end_date: "-34"
     date_range: [ "14: 200–100 BCE", "15: 100–0 BCE" ]
     production_area: "Eastern Mediterranean, possibly Syro-Palestinian region"
-    production_area_filter: [ "Eastern Mediterranean, possibly Syro-Palestinian region" ]
+    production_area_filter: [ "Eastern Mediterranean", "Syro-Palestinian" ]
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow, now appearing white, glass"
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and unmarvered and marvered threads"
@@ -692,7 +692,7 @@ object_list:
     end_date: "-34"
     date_range: [ "14: 200–100 BCE", "15: 100–0 BCE" ]
     production_area: "Eastern Mediterranean, possibly Syro-Palestinian region"
-    production_area_filter: [ "Eastern Mediterranean, possibly Syro-Palestinian region" ]
+    production_area_filter: [ "Eastern Mediterranean", "Syro-Palestinian" ]
     culture: "Greek"
     material: "Translucent dark blue and opaque turquoise and yellow glass"
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and marvered and unmarvered threads"
@@ -712,7 +712,7 @@ object_list:
     end_date: "-34"
     date_range: [ "14: 200–100 BCE", "15: 100–0 BCE" ]
     production_area: "Eastern Mediterranean, possibly Syro-Palestinian region"
-    production_area_filter: [ "Eastern Mediterranean, possibly Syro-Palestinian region" ]
+    production_area_filter: [ "Eastern Mediterranean", "Syro-Palestinian" ]
     culture: "Greek"
     material: "Opaque dark blue and white glass"
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, lugs, and unmarvered and marvered threads"
@@ -732,7 +732,7 @@ object_list:
     end_date: "-401"
     date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
-    production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
+    production_area_filter: [ "Eastern Mediterranean", "Rhodes" ]
     culture: "Greek"
     material: "Opaque white and translucent purple glass"
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
@@ -752,7 +752,7 @@ object_list:
     end_date: "-401"
     date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
-    production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
+    production_area_filter: [ "Eastern Mediterranean", "Rhodes" ]
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow and turquoise glass, with bronze chain"
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
@@ -772,7 +772,7 @@ object_list:
     end_date: "-401"
     date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
-    production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
+    production_area_filter: [ "Eastern Mediterranean", "Rhodes" ]
     culture: "Greek"
     material: "Translucent dark green (appearing black) and opaque white and turquoise glass"
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
@@ -792,7 +792,7 @@ object_list:
     end_date: "-401"
     date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
-    production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
+    production_area_filter: [ "Eastern Mediterranean", "Rhodes" ]
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow and turquoise glass"
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
@@ -812,7 +812,7 @@ object_list:
     end_date: "-401"
     date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
-    production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
+    production_area_filter: [ "Eastern Mediterranean", "Rhodes" ]
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow glass"
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
@@ -832,7 +832,7 @@ object_list:
     end_date: "-401"
     date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
-    production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
+    production_area_filter: [ "Eastern Mediterranean", "Rhodes" ]
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow and turquoise glass"
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, and unmarvered and marvered threads"
@@ -852,7 +852,7 @@ object_list:
     end_date: "-401"
     date_range: [ "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
-    production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
+    production_area_filter: [ "Eastern Mediterranean", "Rhodes" ]
     culture: "Greek"
     material: "Opaque dark red, yellow, and turquoise glass"
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
@@ -872,7 +872,7 @@ object_list:
     end_date: "-401"
     date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
-    production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
+    production_area_filter: [ "Eastern Mediterranean", "Rhodes" ]
     culture: "Greek"
     material: "Translucent dark green (appearing black) and opaque white glass"
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base-knob, and unmarvered threads"
@@ -892,7 +892,7 @@ object_list:
     end_date: "-201"
     date_range: [ "13: 300–200 BCE" ]
     production_area: "Eastern Mediterranean, possibly Syro-Palestinian region"
-    production_area_filter: [ "Eastern Mediterranean, possibly Syro-Palestinian region" ]
+    production_area_filter: [ "Eastern Mediterranean", "Syro-Palestinian" ]
     culture: "Greek"
     material: "Translucent dark blue and opaque white and yellow glass"
     modeling_technique_and_decoration: "Core-formed; applied handles, base, and marvered threads"
@@ -912,7 +912,7 @@ object_list:
     end_date: "-34"
     date_range: [ "14: 200–100 BCE", "15: 100–0 BCE" ]
     production_area: "Eastern Mediterranean, probably Syro-Palestinian region or Cyprus"
-    production_area_filter: [ "Eastern Mediterranean, probably Syro-Palestinian region or Cyprus" ]
+    production_area_filter: [ "Eastern Mediterranean", "Syro-Palestinian", "Cyprus" ]
     culture: "Greek"
     material: "Translucent dark blue, almost transparent greenish, and opaque yellow glass"
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base-knob, and marvered threads"
@@ -932,7 +932,7 @@ object_list:
     end_date: "-34"
     date_range: [ "14: 200–100 BCE", "15: 100–0 BCE" ]
     production_area: "Eastern Mediterranean, probably Syro-Palestinian region or Cyprus"
-    production_area_filter: [ "Eastern Mediterranean, probably Syro-Palestinian region or Cyprus" ]
+    production_area_filter: [ "Eastern Mediterranean", "Syro-Palestinian", "Cyprus" ]
     culture: "Greek"
     material: "Translucent dark green; translucent to almost transparent amber-colored; opaque white and yellow glass"
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base-knob, and marvered threads"
@@ -952,7 +952,7 @@ object_list:
     end_date: "-34"
     date_range: [ "14: 200–100 BCE", "15: 100–0 BCE" ]
     production_area: "Eastern Mediterranean, possibly Syro-Palestinian region"
-    production_area_filter: [ "Eastern Mediterranean, possibly Syro-Palestinian region" ]
+    production_area_filter: [ "Eastern Mediterranean", "Syro-Palestinian" ]
     culture: "Greek"
     material: "Translucent dark blue-green; transparent greenish; opaque turquoise and yellow glass"
     modeling_technique_and_decoration: "Core-formed; applied handles and marvered threads"
@@ -972,7 +972,7 @@ object_list:
     end_date: "-34"
     date_range: [ "14: 200–100 BCE", "15: 100–0 BCE" ]
     production_area: "Eastern Mediterranean, possibly Syro-Palestinian region"
-    production_area_filter: [ "Eastern Mediterranean, possibly Syro-Palestinian region" ]
+    production_area_filter: [ "Eastern Mediterranean", "Syro-Palestinian" ]
     culture: "Greek"
     material: "Translucent dark blue and green; opaque white and red glass"
     modeling_technique_and_decoration: "Core-formed; applied handles, base-knob, and marvered threads"
@@ -992,7 +992,7 @@ object_list:
     end_date: "-34"
     date_range: [ "14: 200–100 BCE", "15: 100–0 BCE" ]
     production_area: "Eastern Mediterranean, possibly Syro-Palestinian region"
-    production_area_filter: [ "Eastern Mediterranean, possibly Syro-Palestinian region" ]
+    production_area_filter: [ "Eastern Mediterranean", "Syro-Palestinian" ]
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow and white glass"
     modeling_technique_and_decoration: "Core-formed; applied rim-disk and marvered threads"
@@ -1012,7 +1012,7 @@ object_list:
     end_date: "-401"
     date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
-    production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
+    production_area_filter: [ "Eastern Mediterranean", "Rhodes" ]
     culture: "Greek"
     material: "Opaque white and translucent purple glass"
     modeling_technique_and_decoration: "Core-formed; applied rim-disk, handle, base, and unmarvered and marvered threads"
@@ -1032,7 +1032,7 @@ object_list:
     end_date: "-401"
     date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
-    production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
+    production_area_filter: [ "Eastern Mediterranean", "Rhodes" ]
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow and turquoise glass"
     modeling_technique_and_decoration: "Core-formed; applied handle, rim-disk, base, and unmarvered and marvered threads"
@@ -1052,7 +1052,7 @@ object_list:
     end_date: "-267"
     date_range: [ "12: 400–300 BCE", "13: 300–200 BCE" ]
     production_area: "Eastern Mediterranean or Italy"
-    production_area_filter: [ "Eastern Mediterranean or Italy" ]
+    production_area_filter: [ "Eastern Mediterranean", "Italy" ]
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow, turquoise, and white glass"
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, base, and unmarvered and marvered threads"
@@ -1072,7 +1072,7 @@ object_list:
     end_date: "-267"
     date_range: [ "12: 400–300 BCE", "13: 300–200 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
-    production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
+    production_area_filter: [ "Eastern Mediterranean", "Rhodes" ]
     culture: "Greek"
     material: "Translucent dark blue and opaque white and turquoise glass"
     modeling_technique_and_decoration: "Core-formed; applied handle, rim-disk, base, and unmarvered and marvered threads"
@@ -1112,7 +1112,7 @@ object_list:
     end_date: "-401"
     date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
-    production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
+    production_area_filter: [ "Eastern Mediterranean", "Rhodes" ]
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow and turquoise glass"
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, and unmarvered and marvered threads"
@@ -1132,7 +1132,7 @@ object_list:
     end_date: "-401"
     date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
-    production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
+    production_area_filter: [ "Eastern Mediterranean", "Rhodes" ]
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow and turquoise glass"
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, and unmarvered and marvered threads"
@@ -1152,7 +1152,7 @@ object_list:
     end_date: "-401"
     date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
-    production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
+    production_area_filter: [ "Eastern Mediterranean", "Rhodes" ]
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow and turquoise glass"
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, unmarvered and marvered threads, and dots"
@@ -1172,7 +1172,7 @@ object_list:
     end_date: "-401"
     date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, possibly Rhodes"
-    production_area_filter: [ "Eastern Mediterranean, possibly Rhodes" ]
+    production_area_filter: [ "Eastern Mediterranean", "Rhodes" ]
     culture: "Greek"
     material: "Translucent dark blue and opaque yellow and white glass"
     modeling_technique_and_decoration: "Core-formed; applied rim, handles, and unmarvered and marvered threads"
@@ -1192,7 +1192,7 @@ object_list:
     end_date: "-401"
     date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Eastern Mediterranean, Aegean?"
-    production_area_filter: [ "Eastern Mediterranean, Aegean?" ]
+    production_area_filter: [ "Eastern Mediterranean", "Aegean" ]
     culture: "Greek"
     material: "Translucent dark blue and opaque turquoise and white glass"
     modeling_technique_and_decoration: "Core-formed; applied marvered threads"
@@ -1212,7 +1212,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, Aegean?"
-    production_area_filter: [ "Eastern Mediterranean, Aegean?" ]
+    production_area_filter: [ "Eastern Mediterranean", "Aegean" ]
     culture: "Roman"
     material: "Translucent dark blue and opaque white glass"
     modeling_technique_and_decoration: "Core-formed; applied elements"
@@ -1292,7 +1292,7 @@ object_list:
     end_date: "-1"
     date_range: [ "14: 200–100 BCE", "15: 100–0 BCE" ]
     production_area: "Probably eastern Mediterranean"
-    production_area_filter: [ "Probably eastern Mediterranean" ]
+    production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Greek"
     material: "Translucent amber-colored glass"
     modeling_technique_and_decoration: "Molded"
@@ -1312,7 +1312,7 @@ object_list:
     end_date: "-201"
     date_range: [ "13: 300–200 BCE" ]
     production_area: "Probably eastern Mediterranean"
-    production_area_filter: [ "Probably eastern Mediterranean" ]
+    production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Greek"
     material: "Decolorized glass"
     modeling_technique_and_decoration: "Rotary pressed"
@@ -1332,7 +1332,7 @@ object_list:
     end_date: "-101"
     date_range: [ "13: 300–200 BCE", "14: 200–100 BCE" ]
     production_area: "Possibly Italy"
-    production_area_filter: [ "Possibly Italy" ]
+    production_area_filter: [ "Italy" ]
     culture: "Greek"
     material: "Transparent greenish glass"
     modeling_technique_and_decoration: "Cast and cut"
@@ -1372,7 +1372,7 @@ object_list:
     end_date: "50"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean; a western European origin cannot be excluded"
-    production_area_filter: [ "Eastern Mediterranean; a western European origin cannot be excluded" ]
+    production_area_filter: [ "Eastern Mediterranean", "Western Europe" ]
     culture: "Roman"
     material: "Translucent bluish glass"
     modeling_technique_and_decoration: "Rotary pressed"
@@ -1392,7 +1392,7 @@ object_list:
     end_date: "50"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean; a western European origin cannot be excluded"
-    production_area_filter: [ "Eastern Mediterranean; a western European origin cannot be excluded" ]
+    production_area_filter: [ "Eastern Mediterranean", "Western Europe" ]
     culture: "Roman"
     material: "Translucent bluish glass"
     modeling_technique_and_decoration: "Rotary pressed"
@@ -1412,7 +1412,7 @@ object_list:
     end_date: "50"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean; a western European origin cannot be excluded"
-    production_area_filter: [ "Eastern Mediterranean; a western European origin cannot be excluded" ]
+    production_area_filter: [ "Eastern Mediterranean", "Western Europe" ]
     culture: "Roman"
     material: "Translucent light bluish-green glass"
     modeling_technique_and_decoration: "Rotary pressed"
@@ -1432,7 +1432,7 @@ object_list:
     end_date: "50"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean; a western European origin cannot be excluded"
-    production_area_filter: [ "Eastern Mediterranean; a western European origin cannot be excluded" ]
+    production_area_filter: [ "Eastern Mediterranean", "Western Europe" ]
     culture: "Roman"
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Rotary pressed"
@@ -1452,7 +1452,7 @@ object_list:
     end_date: "50"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean; a western European origin cannot be excluded"
-    production_area_filter: [ "Eastern Mediterranean; a western European origin cannot be excluded" ]
+    production_area_filter: [ "Eastern Mediterranean", "Western Europe" ]
     culture: "Roman"
     material: "Translucent amber-colored glass"
     modeling_technique_and_decoration: "Rotary pressed"
@@ -1472,7 +1472,7 @@ object_list:
     end_date: "50"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean; a western European origin cannot be excluded"
-    production_area_filter: [ "Eastern Mediterranean; a western European origin cannot be excluded" ]
+    production_area_filter: [ "Eastern Mediterranean", "Western Europe" ]
     culture: "Roman"
     material: "Translucent amber-colored glass"
     modeling_technique_and_decoration: "Rotary pressed"
@@ -1492,7 +1492,7 @@ object_list:
     end_date: "50"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean; a western European origin cannot be excluded"
-    production_area_filter: [ "Eastern Mediterranean; a western European origin cannot be excluded" ]
+    production_area_filter: [ "Eastern Mediterranean", "Western Europe" ]
     culture: "Roman"
     material: "Translucent yellow-green glass"
     modeling_technique_and_decoration: "Rotary pressed"
@@ -1512,7 +1512,7 @@ object_list:
     end_date: "50"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean; a western European origin cannot be excluded"
-    production_area_filter: [ "Eastern Mediterranean; a western European origin cannot be excluded" ]
+    production_area_filter: [ "Eastern Mediterranean", "Western Europe" ]
     culture: "Roman"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Rotary pressed"
@@ -1532,7 +1532,7 @@ object_list:
     end_date: "50"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean; a western European origin cannot be excluded"
-    production_area_filter: [ "Eastern Mediterranean; a western European origin cannot be excluded" ]
+    production_area_filter: [ "Eastern Mediterranean", "Western Europe" ]
     culture: "Roman"
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Rotary pressed"
@@ -1552,7 +1552,7 @@ object_list:
     end_date: "49"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Italy"
-    production_area_filter: [ "Probably Italy" ]
+    production_area_filter: [ "Italy" ]
     culture: "Roman"
     material: "Opaque red glass; green speckles are visible on both interior and exterior"
     modeling_technique_and_decoration: "Cast"
@@ -1572,7 +1572,7 @@ object_list:
     end_date: "49"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Italy"
-    production_area_filter: [ "Probably Italy" ]
+    production_area_filter: [ "Italy" ]
     culture: "Roman"
     material: "Opaque green glass"
     modeling_technique_and_decoration: "Cast"
@@ -1592,7 +1592,7 @@ object_list:
     end_date: "49"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Italy"
-    production_area_filter: [ "Probably Italy" ]
+    production_area_filter: [ "Italy" ]
     culture: "Roman"
     material: "Opaque light blue glass"
     modeling_technique_and_decoration: "Cast"
@@ -1612,7 +1612,7 @@ object_list:
     end_date: "49"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Italy"
-    production_area_filter: [ "Probably Italy" ]
+    production_area_filter: [ "Italy" ]
     culture: "Roman"
     material: "Opaque red glass"
     modeling_technique_and_decoration: "Cast"
@@ -1632,7 +1632,7 @@ object_list:
     end_date: "49"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Italy"
-    production_area_filter: [ "Probably Italy" ]
+    production_area_filter: [ "Italy" ]
     culture: "Roman"
     material: "Opaque white glass"
     modeling_technique_and_decoration: "Cast"
@@ -1672,7 +1672,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Western Roman Empire, probably Italy"
-    production_area_filter: [ "Western Roman Empire, probably Italy" ]
+    production_area_filter: [ "Western Roman Empire", "Italy" ]
     culture: "Roman"
     material: "Translucent amber-colored and opaque white glass"
     modeling_technique_and_decoration: "Molded and ground"
@@ -1692,7 +1692,7 @@ object_list:
     end_date: "25"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Probably Italy"
-    production_area_filter: [ "Probably Italy" ]
+    production_area_filter: [ "Italy" ]
     culture: "Roman"
     material: "Opaque white over translucent dark blue glass"
     modeling_technique_and_decoration: "Mold cast; ground and polished"
@@ -1712,7 +1712,7 @@ object_list:
     end_date: "25"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Probably Italy"
-    production_area_filter: [ "Probably Italy" ]
+    production_area_filter: [ "Italy" ]
     culture: "Roman"
     material: "Opaque blue and white glass"
     modeling_technique_and_decoration: "Mold cast; ground and polished"
@@ -1732,7 +1732,7 @@ object_list:
     end_date: "25"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Probably Italy. Said to come from near Eskişehir, Türkiye"
-    production_area_filter: [ "Probably Italy. Said to come from near Eskişehir, Türkiye" ]
+    production_area_filter: [ "Italy", "Eskişehir" ]
     culture: "Roman"
     material: "Opaque white and translucent cobalt blue glass"
     modeling_technique_and_decoration: "Mold cast and free-blown"
@@ -1752,7 +1752,7 @@ object_list:
     end_date: "25"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Probably Italy"
-    production_area_filter: [ "Probably Italy" ]
+    production_area_filter: [ "Italy" ]
     culture: "Roman"
     material: "Translucent purple and opaque white glass"
     modeling_technique_and_decoration: "Mold cast; ground and polished"
@@ -1772,7 +1772,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly eastern Mediterranean"
-    production_area_filter: [ "Italy or possibly eastern Mediterranean" ]
+    production_area_filter: [ "Italy", "Eastern Mediterranean" ]
     culture: "Roman"
     material: "Opaque white and yellow and translucent purple and bluish glass"
     modeling_technique_and_decoration: "Assembled of slices of canes, cast, applied base-ring, rotary polished"
@@ -1792,7 +1792,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Probably Italy, or eastern Mediterranean"
-    production_area_filter: [ "Probably Italy, or eastern Mediterranean" ]
+    production_area_filter: [ "Italy", "Eastern Mediterranean" ]
     culture: "Roman"
     material: "Translucent purple, gray, and yellow and opaque white glass"
     modeling_technique_and_decoration: "Assembled of slices of canes, cast, applied base-ring; slumped; rotary polished"
@@ -1812,7 +1812,7 @@ object_list:
     end_date: "-67"
     date_range: [ "15: 100–0 BCE" ]
     production_area: "Italy or possibly eastern Mediterranean"
-    production_area_filter: [ "Italy or possibly eastern Mediterranean" ]
+    production_area_filter: [ "Italy", "Eastern Mediterranean" ]
     culture: "Roman"
     material: "Opaque white, yellow, green, and turquoise and translucent purple glass"
     modeling_technique_and_decoration: "Assembled of slices of canes, slumped, applied base-ring and rim; slumped; polished"
@@ -1832,7 +1832,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly eastern Mediterranean"
-    production_area_filter: [ "Italy or possibly eastern Mediterranean" ]
+    production_area_filter: [ "Italy", "Eastern Mediterranean" ]
     culture: "Roman"
     material: "Opaque white, red, and yellow and translucent purple glass"
     modeling_technique_and_decoration: "Assembled of slices of canes, cast, applied base-ring; slumped; rotary polished"
@@ -1852,7 +1852,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly eastern Mediterranean"
-    production_area_filter: [ "Italy or possibly eastern Mediterranean" ]
+    production_area_filter: [ "Italy", "Eastern Mediterranean" ]
     culture: "Roman"
     material: "Opaque red, white, and green and translucent blue glass"
     modeling_technique_and_decoration: "Assembled of slices of canes, cast, applied base-ring; slumped; rotary polished"
@@ -1872,7 +1872,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly eastern Mediterranean"
-    production_area_filter: [ "Italy or possibly eastern Mediterranean" ]
+    production_area_filter: [ "Italy", "Eastern Mediterranean" ]
     culture: "Roman"
     material: "Opaque red and yellow and translucent greenish and purple glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; cast, applied base-ring, rotary polished"
@@ -1892,7 +1892,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly eastern Mediterranean"
-    production_area_filter: [ "Italy or possibly eastern Mediterranean" ]
+    production_area_filter: [ "Italy", "Eastern Mediterranean" ]
     culture: "Roman"
     material: "Opaque white and translucent grayish and purple glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; cast, applied base-ring, rotary polished"
@@ -1912,7 +1912,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly eastern Mediterranean. Allegedly found at Kerch"
-    production_area_filter: [ "Italy or possibly eastern Mediterranean. Allegedly found at Kerch" ]
+    production_area_filter: [ "Italy", "Eastern Mediterranean", "Kerch" ]
     culture: "Roman"
     material: "Opaque red and yellow and translucent greenish and blue glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; cast, applied base-ring, rotary polished"
@@ -1932,7 +1932,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly eastern Mediterranean"
-    production_area_filter: [ "Italy or possibly eastern Mediterranean" ]
+    production_area_filter: [ "Italy", "Eastern Mediterranean" ]
     culture: "Roman"
     material: "Opaque red and white and translucent blue glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; cast; rotary polished"
@@ -1952,7 +1952,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
-    production_area_filter: [ "Italy or Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Translucent green and blue and opaque white, yellow, and red glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -1972,7 +1972,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
-    production_area_filter: [ "Italy or Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Translucent green and blue and opaque white, yellow, and red glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -1992,7 +1992,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
-    production_area_filter: [ "Italy or Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Opaque red, white, green, and yellow and translucent blue glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -2012,7 +2012,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
-    production_area_filter: [ "Italy or Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Translucent blue and opaque yellow, white, red, turquoise, and orange glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -2032,7 +2032,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
-    production_area_filter: [ "Italy or possibly Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Translucent purple and opaque turquoise, white, red, and yellow glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -2052,7 +2052,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
-    production_area_filter: [ "Italy or possibly Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Translucent purple and opaque turquoise, white, red, and yellow glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
