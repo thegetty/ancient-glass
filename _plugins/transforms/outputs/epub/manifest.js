@@ -1,3 +1,7 @@
+// 
+// CUSTOMIZED FILE
+// Make epub.defaultCoverImage the first choice, and then promoImage second
+//
 const chalkFactory = require('~lib/chalk')
 const path = require('path')
 
@@ -53,7 +57,7 @@ module.exports = (eleventyConfig) => {
   }
 
   const cover = () => {
-    const image = promoImage || epub.defaultCoverImage
+    const image = epub.defaultCoverImage || promoImage
     if (!image) {
       logger.error(`Epub requires a cover image defined in publication.promo_image or config.epub.defaultCoverImage.`)
       return

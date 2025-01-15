@@ -18,7 +18,7 @@
     padding-top: 1rem;
   }
   .quire::before {
-    content: "THIRD";
+    content: "FINAL";
     background-color: cyan;
     bottom: -115px;
     right: -115px;
@@ -318,6 +318,16 @@ figure.cat-thumbnail a {
   }  
 }
 
+/* ABOUT PAGE
+============================================================================= */
+@media screen {
+  .copyright-page .quire-page__content .copyright__publisher-logo {
+    display: none;
+  }
+  .copyright-page .quire-page__content .quire-copyright__icon__link {
+    border-bottom-width: 0 !important;
+  }
+}
 
 /* PRINT
 ============================================================================= */
@@ -383,6 +393,11 @@ figure.cat-thumbnail a {
   .catalogue-entries-wrapper .quire-page.quire-contents .quire-page__header {
     margin-bottom: 2rem;
   }
+  .quire-page.quire-entry .quire-entry__header {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    column-break-inside: avoid;
+  }
   .quire-page.quire-entry .quire-page__content {
     column-count: 1;
   }
@@ -441,6 +456,15 @@ figure.cat-thumbnail a {
   .quire-page.quire-entry .quire-entry__tombstone table td:last-child {
     padding-left: .5rem;
   }
+  .quire-page.quire-entry .quire-entry__tombstone table td:first-child {
+    width: 1.25in;
+  }
+  .quire-page.quire-entry .quire-entry__tombstone table tr,
+  .quire-page.quire-entry .quire-entry__tombstone table tr td {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    column-break-inside: avoid;
+  }
   .quire-page__content__references.backmatter {
     display: none;
   }
@@ -487,6 +511,21 @@ figure.cat-thumbnail a {
   }
   #fig-23-appendix {
     column-span: all;
+  }
+
+  .copyright-page .quire-page__content .container .content .publisher p {
+    margin-bottom: 0;
+  }
+
+  .quire-page#page-glossary dt,
+  .quire-page#page-works-cited dt {
+    break-after: avoid;
+    page-break-after: avoid;
+    column-break-after: avoid;
+  }
+
+  .pdf-column-break-before {
+    column-break-before: always;
   }
   
 }

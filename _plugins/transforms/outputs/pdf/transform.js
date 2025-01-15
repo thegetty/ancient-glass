@@ -1,6 +1,7 @@
 //
 // CUSTOMIZED FILE
 // Fixed transform that was converting external links to slugified anchor links, lines 62–66
+// Remove truncation for PDF footer titles
 //
 const chalkFactory = require('~lib/chalk')
 const filterOutputs = require('../filter.js')
@@ -36,7 +37,7 @@ module.exports = async function(eleventyConfig, collections, content) {
    * @return {String} Formatted page or section title
    */
   const formatTitle = ({ label, short_title: shortTitle, title }) => {
-    const truncatedTitle = shortTitle || truncate(title, 35)
+    const truncatedTitle = shortTitle || title
     return pageTitle({ label, title: truncatedTitle })
   }
 
@@ -55,7 +56,10 @@ module.exports = async function(eleventyConfig, collections, content) {
     const { parentPage, layout } = page.data
     const { pagePDF } = pdfConfig
 
-    dataset.footerPageTitle = formatTitle(page.data)
+    // dataset.footerPageTitle = formatTitle(page.data)
+    dataset.footerPageTitle = parentPage
+      ? formatTitle(parentPage.data)
+      : formatTitle(page.data)
 
     if (parentPage) {
       dataset.footerSectionTitle = formatTitle(parentPage.data)

@@ -57,12 +57,16 @@ git clone --recursive https://github.com/thegetty/ancient-glass.git
 
 2. Run `quire build`
 
-3. In the `_site/pdf.html` file, find `<section class="quire-page quire-entry" data-footer-page-title="1. Amphoriskos" data-footer-section-title="Catalogue" id="page-catalogue-cat-1">` and right before it, add `<div class="catalogue-entries-wrapper">`. And then find `<section class="quire-page quire-essay" data-footer-page-title="Appendix 1. Non-invasive Analytical Strategies" id="page-appendix-1">` and right before it, add `</div>`. (This creates a new element that wraps all of the catalogue entry pages into one group so that they can flow together in 2-columns.)  
+3. In the `_site/pdf.html` file, find `<section class="quire-page quire-entry" data-footer-page-title="Catalogue" id="page-catalogue-cat-1">` and right before it, add `<div class="catalogue-entries-wrapper">`. And then find `<section class="quire-page quire-essay" data-footer-page-title="Appendix 1. Noninvasive Analytical Strategies" id="page-appendix-1">` and right before it, add `</div>`. (This creates a new element that wraps all of the catalogue entry pages into one group so that they can flow together in 2-columns.)  
 
 3. If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
 
     ```
     magick mogrify -profile bin/adobe-rgb-1998.icm _site/iiif/**/print-image.jpg
+    ```
+
+    ```
+    magick mogrify -colorspace Gray -profile bin/gray-gamma-2-2.icm _site/iiif/**-bw/**/print-image.jpg
     ```
 
 4. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
@@ -77,8 +81,23 @@ TK
 **_layouts/base.11ty.js**
 Added Google Analytics 4
 
+**_includes/components/figure/modal-link.js**
+Add non-linked version for epub and pdf output
+
+**_includes/components/license-icons.js**
+Remove CC SVG icons from epub output
+
+**_includes/components/menu/item.js**
+**_includes/components/table-of-contents/item/list.js**
+**_includes/components/table-of-contents/item/grid.js**
+Don't render menu or TOC links if page is `landing: false`
+
 **_includes/components/object-filters/object-filters.webc**
 Add formatOptionLabel function to strip out custom sort encoding for date ranges
+
+**_includes/components/object-filters/objects-data.webc**
+**_layouts/objects-page.webc**
+Exclude various elements from epub output
 
 **_includes/components/table-of-contents/item/list.js**
 Add a `data-layout` attribute to facilitate CSS hiding of cat. entries
@@ -109,6 +128,9 @@ Allow for optional custom labels with `field` and `label` attributes
 
 **_plugins/transforms/outputs/pdf/transform.js**
 Fixed transform that was converting external links to slugified anchor links
+
+**_plugins/transforms/outputs/epub/manifest.js**
+Make epub.defaultCoverImage the first choice, and then promoImage second
 
 **content/_assets/javascript/application/index.js**
 Display only one pop-up at a time

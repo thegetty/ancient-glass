@@ -39,17 +39,17 @@ classes:
 
                 - Aryballoi | [cats. 53](/catalogue/cat-53/)–[56](/catalogue/cat-56/)
 
-                - Unidentified | [cats. 57](/catalogue/cat-57)-[58](/catalogue/cat-58/) 
+                - Unidentified | [cats. 57](/catalogue/cat-57/)-[58](/catalogue/cat-58/) 
 
         - 2\. “Cast”-Rotary Pressing
 
             - Single-Colored | [cats. 59](/catalogue/cat-59/)–[81](/catalogue/cat-81/)
 
-            - Cameos | [cats. 82](/catalogue/cat-82)–[85](/catalogue/cat-85/)
+            - Cameos | [cats. 82](/catalogue/cat-82/)–[85](/catalogue/cat-85/)
 
             - Mosaic
 
-                - Millefiori | [cats. 86](/catalogue/cat-86)–[116](/catalogue/cat-116/)
+                - Millefiori | [cats. 86](/catalogue/cat-86/)–[116](/catalogue/cat-116/)
 
                 - Striped and Reticello | [cats. 117](/catalogue/cat-117/)–[131](/catalogue/cat-131/)
 
@@ -71,7 +71,7 @@ classes:
 
                     - Bowls and Cups | [cats. 159](/catalogue/cat-159/)–[168](/catalogue/cat-168/)
 
-                    - Beakers | [cats. 169](/catalogue/cat-169)–[174](/catalogue/cat-174/)
+                    - Beakers | [cats. 169](/catalogue/cat-169/)–[174](/catalogue/cat-174/)
 
                     - Flasks | [cats. 175](/catalogue/cat-175/)–[179](/catalogue/cat-179/)
 
