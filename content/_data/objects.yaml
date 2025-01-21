@@ -4072,7 +4072,7 @@ object_list:
     end_date: "799"
     date_range: [ "20: 400–500 CE", "21: 500–600 CE", "22: 600–700 CE", "23: 700–800 CE" ]
     production_area: "Eastern Mediterranean, probably Palestine"
-    production_area_filter: [ "Eastern Mediterranean, probably Palestine" ]
+    production_area_filter: [ "Eastern Mediterranean", "Palestine" ]
     culture: "Byzantine"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Mold-blown"
@@ -4092,7 +4092,7 @@ object_list:
     end_date: "399"
     date_range: [ "18: 200–300 CE", "19: 300–400 CE" ]
     production_area: "Syrian region"
-    production_area_filter: [ "Syrian region" ]
+    production_area_filter: [ "Syria" ]
     culture: "Roman"
     material: "Transparent light greenish-yellow glass"
     modeling_technique_and_decoration: "Mold-blown; blown in a bipartite mold; neck, diaphragm, and rim free-tooled"
@@ -4112,7 +4112,7 @@ object_list:
     end_date: "399"
     date_range: [ "18: 200–300 CE", "19: 300–400 CE" ]
     production_area: "Syrian region"
-    production_area_filter: [ "Syrian region" ]
+    production_area_filter: [ "Syria" ]
     culture: "Roman"
     material: "Transparent light blueish glass"
     modeling_technique_and_decoration: "Mold-blown; blown in a bipartite mold"
@@ -4132,7 +4132,7 @@ object_list:
     end_date: "399"
     date_range: [ "18: 200–300 CE", "19: 300–400 CE" ]
     production_area: "Syrian region"
-    production_area_filter: [ "Syrian region" ]
+    production_area_filter: [ "Syria" ]
     culture: "Roman"
     material: "Translucent purplish glass"
     modeling_technique_and_decoration: "Mold-blown body; free-blown neck and rim"
@@ -4152,7 +4152,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Syro-Palestinian region"
-    production_area_filter: [ "Syro-Palestinian region" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Translucent amber-colored and dark gray (with purple striations) glass"
     modeling_technique_and_decoration: "Mold-blown"
@@ -4172,7 +4172,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Syro-Palestinian region"
-    production_area_filter: [ "Syro-Palestinian region" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Translucent amber-colored and dark blue glass"
     modeling_technique_and_decoration: "Mold-blown"
@@ -4192,7 +4192,7 @@ object_list:
     end_date: "49"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Syro-Palestinian coast"
-    production_area_filter: [ "Syro-Palestinian coast" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Opaque white and translucent dark blue glass"
     modeling_technique_and_decoration: "Body mold-blown in a four-part mold of three vertical sections joined to a cup-shaped base section; neck and rim free-blown and tooled"
@@ -4212,7 +4212,7 @@ object_list:
     end_date: "49"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Syro-Palestinian coast"
-    production_area_filter: [ "Syro-Palestinian coast" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Translucent amber-colored and opaque turquoise and dark blue glass"
     modeling_technique_and_decoration: "Body mold-blown in a four-part mold of three vertical sections joined to a cup-shaped base section; neck and rim free-blown and tooled"
@@ -4252,7 +4252,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Probably eastern Mediterranean"
-    production_area_filter: [ "Probably eastern Mediterranean" ]
+    production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Roman"
     material: "Translucent green, purple, and dark blue and opaque white glass"
     modeling_technique_and_decoration: "Body mold-blown in a two-part mold of two vertical sections; edges of mold carefully aligned; splashware"
@@ -4292,7 +4292,7 @@ object_list:
     end_date: "49"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Syro-Palestinian region, maybe Sidon"
-    production_area_filter: [ "Syro-Palestinian region, maybe Sidon" ]
+    production_area_filter: [ "Syro-Palestinian", "Sidon" ]
     culture: "Roman"
     material: "Greenish glass"
     modeling_technique_and_decoration: "Mold-blown in a two-part mold"
@@ -4312,7 +4312,7 @@ object_list:
     end_date: "49"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Syro-Palestinian region, maybe Sidon"
-    production_area_filter: [ "Syro-Palestinian region, maybe Sidon" ]
+    production_area_filter: [ "Syro-Palestinian", "Sidon" ]
     culture: "Roman"
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Mold-blown in a two-part mold"
@@ -4332,7 +4332,7 @@ object_list:
     end_date: "49"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Syro-Palestinian region"
-    production_area_filter: [ "Syro-Palestinian region" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Greenish glass"
     modeling_technique_and_decoration: "Mold-blown"
@@ -4412,7 +4412,7 @@ object_list:
     end_date: "399"
     date_range: [ "19: 300–400 CE" ]
     production_area: "Roman Empire, probably western part"
-    production_area_filter: [ "Roman Empire, probably western part" ]
+    production_area_filter: [ "Roman Empire", "Western Roman Empire" ]
     culture: "Roman"
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Dip mold–blown"
@@ -4452,7 +4452,7 @@ object_list:
     end_date: "399"
     date_range: [ "19: 300–400 CE" ]
     production_area: "Palestinian region"
-    production_area_filter: [ "Palestinian region" ]
+    production_area_filter: [ "Palestine" ]
     culture: "Roman"
     material: "Translucent greenish and turquoise glass"
     modeling_technique_and_decoration: "Dip mold–blown; applied elements"
@@ -4512,7 +4512,7 @@ object_list:
     end_date: "432"
     date_range: [ "19: 300–400 CE", "20: 400–500 CE" ]
     production_area: "Syrian region"
-    production_area_filter: [ "Syrian region" ]
+    production_area_filter: [ "Syria" ]
     culture: "Byzantine"
     material: "Transparent greenish glass"
     modeling_technique_and_decoration: "Dip mold–blown"
@@ -4532,7 +4532,7 @@ object_list:
     end_date: "432"
     date_range: [ "19: 300–400 CE" ]
     production_area: "Syrian region"
-    production_area_filter: [ "Syrian region" ]
+    production_area_filter: [ "Syria" ]
     culture: "Byzantine"
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Dip mold–blown"
@@ -4552,7 +4552,7 @@ object_list:
     end_date: "699"
     date_range: [ "21: 500–600 CE", "22: 600–700 CE" ]
     production_area: "Eastern Mediterranean, Syro-Palestinian region"
-    production_area_filter: [ "Eastern Mediterranean, Syro-Palestinian region" ]
+    production_area_filter: [ "Eastern Mediterranean", "Syro-Palestinian" ]
     culture: "Roman"
     material: "Transparent greenish glass"
     modeling_technique_and_decoration: "Dip mold–blown; applied elements"
@@ -4572,7 +4572,7 @@ object_list:
     end_date: "499"
     date_range: [ "19: 300–400 CE", "20: 400–500 CE" ]
     production_area: "Eastern Mediterranean, Syro-Palestinian region"
-    production_area_filter: [ "Eastern Mediterranean, Syro-Palestinian region" ]
+    production_area_filter: [ "Eastern Mediterranean", "Syro-Palestinian" ]
     culture: "Byzantine"
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Dip mold–blown; applied elements"
@@ -4592,7 +4592,7 @@ object_list:
     end_date: "499"
     date_range: [ "19: 300–400 CE", "20: 400–500 CE" ]
     production_area: "Syro-Palestinian region"
-    production_area_filter: [ "Syro-Palestinian region" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Translucent amber-colored and greenish glass"
     modeling_technique_and_decoration: "Dip mold–blown"
@@ -4612,7 +4612,7 @@ object_list:
     end_date: "399"
     date_range: [ "18: 200–300 CE", "19: 300–400 CE" ]
     production_area: "Eastern Mediterranean, Syro-Palestinian region"
-    production_area_filter: [ "Eastern Mediterranean, Syro-Palestinian region" ]
+    production_area_filter: [ "Eastern Mediterranean", "Syro-Palestinian" ]
     culture: "Roman"
     material: "Translucent bluish glass"
     modeling_technique_and_decoration: "Dip mold–blown"
@@ -4652,7 +4652,7 @@ object_list:
     end_date: "432"
     date_range: [ "19: 300–400 CE", "20: 400–500 CE" ]
     production_area: "Western or central Europe, or Italy"
-    production_area_filter: [ "Western or central Europe, or Italy" ]
+    production_area_filter: [ "Western Europe", "Central Europe", "Italy" ]
     culture: "Roman"
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Free-blown"
@@ -4672,7 +4672,7 @@ object_list:
     end_date: "399"
     date_range: [ "19: 300–400 CE" ]
     production_area: "Eastern Mediterranean. Probably Syro-Palestinian, with possible Egyptian influence"
-    production_area_filter: [ "Eastern Mediterranean. Probably Syro-Palestinian, with possible Egyptian influence" ]
+    production_area_filter: [ "Eastern Mediterranean", "Syro-Palestinian", "Egypt" ]
     culture: "Roman"
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Free-blown"
@@ -4712,7 +4712,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Italy, western Roman Empire"
-    production_area_filter: [ "Italy, western Roman Empire" ]
+    production_area_filter: [ "Italy", "Western Roman Empire" ]
     culture: "Roman"
     material: "Translucent dark blue and opaque light blue, white, and yellow glass"
     modeling_technique_and_decoration: "Free-blown; splashware"
@@ -4732,7 +4732,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Italy"
-    production_area_filter: [ "Probably Italy" ]
+    production_area_filter: [ "Italy" ]
     culture: "Roman"
     material: "Transparent light green glass"
     modeling_technique_and_decoration: "Free-blown"
@@ -4752,7 +4752,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Western Roman Empire, probably Italy"
-    production_area_filter: [ "Western Roman Empire, probably Italy" ]
+    production_area_filter: [ "Western Roman Empire", "Italy" ]
     culture: "Roman"
     material: "Translucent blue and opaque white glass"
     modeling_technique_and_decoration: "Free-blown mass of mosaic florets"
@@ -4852,7 +4852,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Italy or northwestern Europe"
-    production_area_filter: [ "Italy or northwestern Europe" ]
+    production_area_filter: [ "Italy", "Northwestern Europe" ]
     culture: "Roman"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Free-blown; engraved"
@@ -4872,7 +4872,7 @@ object_list:
     end_date: "199"
     date_range: [ "16: 0–100 CE", "17: 100–200 CE" ]
     production_area: "Roman Empire, eastern Mediterranean, possibly Cyprus"
-    production_area_filter: [ "Roman Empire, eastern Mediterranean, possibly Cyprus" ]
+    production_area_filter: [ "Roman Empire", "Eastern Mediterranean", "Cyprus" ]
     culture: "Roman"
     material: "Transparent greenish glass"
     modeling_technique_and_decoration: "Free-blown; applied elements"
@@ -4892,7 +4892,7 @@ object_list:
     end_date: "132"
     date_range: [ "16: 0–100 CE", "17: 100–200 CE" ]
     production_area: "Mediterranean, probably Italy"
-    production_area_filter: [ "Mediterranean, probably Italy" ]
+    production_area_filter: [ "Mediterranean", "Italy" ]
     culture: "Roman"
     material: "Transparent amber-colored glass"
     modeling_technique_and_decoration: "Free-blown"
@@ -4912,7 +4912,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Mediterranean, probably Italy"
-    production_area_filter: [ "Mediterranean, probably Italy" ]
+    production_area_filter: [ "Mediterranean", "Italy" ]
     culture: "Roman"
     material: "Opaque white glass"
     modeling_technique_and_decoration: "Free-blown"
@@ -4932,7 +4932,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Mediterranean, probably Italy"
-    production_area_filter: [ "Mediterranean, probably Italy" ]
+    production_area_filter: [ "Mediterranean", "Italy" ]
     culture: "Roman"
     material: "Transparent yellowish green glass"
     modeling_technique_and_decoration: "Free-blown"
@@ -4952,7 +4952,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Mediterranean, probably Italy"
-    production_area_filter: [ "Mediterranean, probably Italy" ]
+    production_area_filter: [ "Mediterranean", "Italy" ]
     culture: "Roman"
     material: "Translucent bluish glass"
     modeling_technique_and_decoration: "Free-blown"
@@ -5012,7 +5012,7 @@ object_list:
     end_date: "499"
     date_range: [ "19: 300–400 CE", "20: 400–500 CE" ]
     production_area: "Egypt, or Syro-Palestinian region"
-    production_area_filter: [ "Egypt, or Syro-Palestinian region" ]
+    production_area_filter: [ "Egypt", "Syro-Palestinian" ]
     culture: "Roman"
     material: "Transparent greenish glass"
     modeling_technique_and_decoration: "Free-blown"
@@ -5032,7 +5032,7 @@ object_list:
     end_date: "499"
     date_range: [ "19: 300–400 CE", "20: 400–500 CE" ]
     production_area: "Syro-Palestinian region"
-    production_area_filter: [ "Syro-Palestinian region" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Transparent greenish glass"
     modeling_technique_and_decoration: "Free-blown; pinched"
@@ -5092,7 +5092,7 @@ object_list:
     end_date: "399"
     date_range: [ "18: 200–300 CE", "19: 300–400 CE" ]
     production_area: "Eastern Mediterranean or Europe"
-    production_area_filter: [ "Eastern Mediterranean or Europe" ]
+    production_area_filter: [ "Eastern Mediterranean", "Europe" ]
     culture: "Roman"
     material: "Transparent greenish glass"
     modeling_technique_and_decoration: "Free-blown; faceted"
@@ -5112,7 +5112,7 @@ object_list:
     end_date: "399"
     date_range: [ "18: 200–300 CE", "19: 300–400 CE" ]
     production_area: "Eastern Mediterranean or Europe"
-    production_area_filter: [ "Eastern Mediterranean or Europe" ]
+    production_area_filter: [ "Eastern Mediterranean", "Europe" ]
     culture: "Roman"
     material: "Transparent greenish glass, probably decolorized"
     modeling_technique_and_decoration: "Free-blown; faceted"
@@ -5132,7 +5132,7 @@ object_list:
     end_date: "399"
     date_range: [ "18: 200–300 CE", "19: 300–400 CE" ]
     production_area: "Eastern Mediterranean or Europe"
-    production_area_filter: [ "Eastern Mediterranean or Europe" ]
+    production_area_filter: [ "Eastern Mediterranean", "Europe" ]
     culture: "Roman"
     material: "Transparent greenish and translucent blue glass"
     modeling_technique_and_decoration: "Free-blown; engraved; applied elements"
@@ -5152,7 +5152,7 @@ object_list:
     end_date: "399"
     date_range: [ "18: 200–300 CE", "19: 300–400 CE" ]
     production_area: "Eastern Mediterranean or Europe"
-    production_area_filter: [ "Eastern Mediterranean or Europe" ]
+    production_area_filter: [ "Eastern Mediterranean", "Europe" ]
     culture: "Roman"
     material: "Transparent greenish and translucent blue glass"
     modeling_technique_and_decoration: "Free-blown; engraved; applied elements"
@@ -5172,7 +5172,7 @@ object_list:
     end_date: "132"
     date_range: [ "16: 0–100 CE", "17: 100–200 CE" ]
     production_area: "Italy or northwestern Europe"
-    production_area_filter: [ "Italy or northwestern Europe" ]
+    production_area_filter: [ "Italy", "Northwestern Europe" ]
     culture: "Roman"
     material: "Decolorized glass"
     modeling_technique_and_decoration: "Free-blown or molded; wheel-cut and polished"
@@ -5192,7 +5192,7 @@ object_list:
     end_date: "149"
     date_range: [ "16: 0–100 CE", "17: 100–200 CE" ]
     production_area: "Italy or eastern Mediterranean"
-    production_area_filter: [ "Italy or eastern Mediterranean" ]
+    production_area_filter: [ "Italy", "Eastern Mediterranean" ]
     culture: "Roman"
     material: "Colorless glass"
     modeling_technique_and_decoration: "Free-blown or molded; wheel-cut and polished"
@@ -5232,7 +5232,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Italy or northwestern Europe"
-    production_area_filter: [ "Italy or northwestern Europe" ]
+    production_area_filter: [ "Italy", "Northwestern Europe" ]
     culture: "Roman"
     material: "Translucent amber-greenish glass"
     modeling_technique_and_decoration: "Free-blown; incised"
@@ -5312,7 +5312,7 @@ object_list:
     end_date: "399"
     date_range: [ "18: 200–300 CE", "19: 300–400 CE" ]
     production_area: "Northwestern European Roman provinces"
-    production_area_filter: [ "Northwestern European Roman provinces" ]
+    production_area_filter: [ "Northwestern Europe" ]
     culture: "Roman"
     material: "Transparent bluish-green glass"
     modeling_technique_and_decoration: "Free-blown; applied elements"
@@ -5372,7 +5372,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Mediterranean area, probably Italy"
-    production_area_filter: [ "Mediterranean area, probably Italy" ]
+    production_area_filter: [ "Mediterranean", "Italy" ]
     culture: "Roman"
     material: "Transparent bluish-green glass"
     modeling_technique_and_decoration: "Free-blown"
@@ -5392,7 +5392,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Possibly Italy"
-    production_area_filter: [ "Possibly Italy" ]
+    production_area_filter: [ "Italy" ]
     culture: "Roman"
     material: "Translucent dark blue and opaque white glass"
     modeling_technique_and_decoration: "Free-blown"
@@ -5412,7 +5412,7 @@ object_list:
     end_date: "499"
     date_range: [ "19: 300–400 CE", "20: 400–500 CE" ]
     production_area: "Eastern Mediterranean, probably Syria"
-    production_area_filter: [ "Eastern Mediterranean, probably Syria" ]
+    production_area_filter: [ "Eastern Mediterranean", "Syria" ]
     culture: "Roman"
     material: "Transparent greenish and translucent turquoise glass"
     modeling_technique_and_decoration: "Free-blown; applied elements"
@@ -5432,7 +5432,7 @@ object_list:
     end_date: "499"
     date_range: [ "19: 300–400 CE", "20: 400–500 CE" ]
     production_area: "Eastern Mediterranean, probably Palestine"
-    production_area_filter: [ "Eastern Mediterranean, probably Palestine" ]
+    production_area_filter: [ "Eastern Mediterranean", "Palestine" ]
     culture: "Byzantine"
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Free-blown; applied handles"
@@ -5472,7 +5472,7 @@ object_list:
     end_date: "299"
     date_range: [ "18: 200–300 CE" ]
     production_area: "Western Europe, probably Rhine region"
-    production_area_filter: [ "Western Europe, probably Rhine region" ]
+    production_area_filter: [ "Western Europe", "Rhine region" ]
     culture: "Roman"
     material: "Colorless, probably slightly greenish glass"
     modeling_technique_and_decoration: "Free-blown; indented"
@@ -5492,7 +5492,7 @@ object_list:
     end_date: "299"
     date_range: [ "18: 200–300 CE" ]
     production_area: "Western Europe, probably Rhine region"
-    production_area_filter: [ "Western Europe, probably Rhine region" ]
+    production_area_filter: [ "Western Europe", "Rhine region" ]
     culture: "Roman"
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Free-blown; incised"
@@ -5512,7 +5512,7 @@ object_list:
     end_date: "332"
     date_range: [ "18: 200–300 CE", "19: 300–400 CE" ]
     production_area: "Western Europe, probably Rhine region"
-    production_area_filter: [ "Western Europe, probably Rhine region" ]
+    production_area_filter: [ "Western Europe", "Rhine region" ]
     culture: "Roman"
     material: "Decolorized glass"
     modeling_technique_and_decoration: "Free-blown; incised"
@@ -5532,7 +5532,7 @@ object_list:
     end_date: "399"
     date_range: [ "19: 300–400 CE" ]
     production_area: "Eastern Mediterranean, probably western Asia Minor"
-    production_area_filter: [ "Eastern Mediterranean, probably western Asia Minor" ]
+    production_area_filter: [ "Eastern Mediterranean", "Western Asia Minor" ]
     culture: "Roman"
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Free-blown; incised"
@@ -5572,7 +5572,7 @@ object_list:
     end_date: "249"
     date_range: [ "17: 100–200 CE", "18: 200–300 CE" ]
     production_area: "Syro-Palestinian region"
-    production_area_filter: [ "Syro-Palestinian region" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Translucent slightly greenish, quite probably decolorized glass"
     modeling_technique_and_decoration: "Free-blown"
@@ -5592,7 +5592,7 @@ object_list:
     end_date: "399"
     date_range: [ "18: 200–300 CE", "19: 300–400 CE" ]
     production_area: "Probably eastern Mediterranean"
-    production_area_filter: [ "Probably eastern Mediterranean" ]
+    production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Roman"
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Free-blown"
@@ -5612,7 +5612,7 @@ object_list:
     end_date: "399"
     date_range: [ "18: 200–300 CE", "19: 300–400 CE" ]
     production_area: "Eastern Mediterranean, probably Syria"
-    production_area_filter: [ "Eastern Mediterranean, probably Syria" ]
+    production_area_filter: [ "Eastern Mediterranean", "Syria" ]
     culture: "Roman"
     material: "Translucent dark green, yellow, and blue glass"
     modeling_technique_and_decoration: "Free-blown; applied elements"
@@ -5632,7 +5632,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Roman Empire, possibly western part"
-    production_area_filter: [ "Roman Empire, possibly western part" ]
+    production_area_filter: [ "Roman Empire", "Western Roman Empire" ]
     culture: "Roman"
     material: "Translucent bluish glass"
     modeling_technique_and_decoration: "Free-blown"
@@ -5672,7 +5672,7 @@ object_list:
     end_date: "649"
     date_range: [ "21: 500–600 CE", "22: 600–700 CE" ]
     production_area: "Eastern Mediterranean, Palestine"
-    production_area_filter: [ "Eastern Mediterranean, Palestine" ]
+    production_area_filter: [ "Eastern Mediterranean", "Palestine" ]
     culture: "Byzantine"
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Free-blown; applied elements"
@@ -5692,7 +5692,7 @@ object_list:
     end_date: "699"
     date_range: [ "20: 400–500 CE", "21: 500–600 CE", "22: 600–700 CE" ]
     production_area: "Syro-Palestinian region"
-    production_area_filter: [ "Syro-Palestinian region" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Free-blown; pinched"
@@ -5712,7 +5712,7 @@ object_list:
     end_date: "699"
     date_range: [ "21: 500–600 CE", "22: 600–700 CE" ]
     production_area: "Syrian region"
-    production_area_filter: [ "Syrian region" ]
+    production_area_filter: [ "Syria" ]
     culture: "Roman"
     material: "Transparent yellow-greenish glass"
     modeling_technique_and_decoration: "Free-blown; pinched"
@@ -5732,7 +5732,7 @@ object_list:
     end_date: "32"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Italy or eastern Mediterranean"
-    production_area_filter: [ "Italy or eastern Mediterranean" ]
+    production_area_filter: [ "Italy", "Eastern Mediterranean" ]
     culture: "Roman"
     material: "Opaque white and probably yellow glass"
     modeling_technique_and_decoration: "Free-blown; applied thread; pierced spout"
@@ -5812,7 +5812,7 @@ object_list:
     end_date: "399"
     date_range: [ "18: 200–300 CE", "19: 300–400 CE" ]
     production_area: "Eastern Mediterranean, Syro-Palestinian region"
-    production_area_filter: [ "Eastern Mediterranean, Syro-Palestinian region" ]
+    production_area_filter: [ "Eastern Mediterranean", "Syro-Palestinian" ]
     culture: "Byzantine"
     material: "Translucent, slightly greenish glass"
     modeling_technique_and_decoration: "Free-blown; tooled"
@@ -5832,7 +5832,7 @@ object_list:
     end_date: "32"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Italy"
-    production_area_filter: [ "Probably Italy" ]
+    production_area_filter: [ "Italy" ]
     culture: "Roman"
     material: "Semitranslucent dark blue and opaque white glass"
     modeling_technique_and_decoration: "Free-blown"
@@ -5852,7 +5852,7 @@ object_list:
     end_date: "132"
     date_range: [ "16: 0–100 CE", "17: 100–200 CE" ]
     production_area: "Italy or northwestern Europe"
-    production_area_filter: [ "Italy or northwestern Europe" ]
+    production_area_filter: [ "Italy", "Northwestern Europe" ]
     culture: "Roman"
     material: "Decolorized glass"
     modeling_technique_and_decoration: "Free-blown; wheel-cut and polished"
@@ -5872,7 +5872,7 @@ object_list:
     end_date: "399"
     date_range: [ "17: 100–200 CE", "18: 200–300 CE", "19: 300–400 CE" ]
     production_area: "Probably Italy"
-    production_area_filter: [ "Probably Italy" ]
+    production_area_filter: [ "Italy" ]
     culture: "Roman"
     material: "Opaque blue and white glass"
     modeling_technique_and_decoration: "Free-blown; applied elements"
@@ -5892,7 +5892,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean or Italy"
-    production_area_filter: [ "Eastern Mediterranean or Italy" ]
+    production_area_filter: [ "Eastern Mediterranean", "Italy" ]
     culture: "Roman"
     material: "Translucent blue and opaque white glass"
     modeling_technique_and_decoration: "Free-blown; applied elements"
@@ -6012,7 +6012,7 @@ object_list:
     end_date: "432"
     date_range: [ "19: 300–400 CE", "20: 400–500 CE" ]
     production_area: "Syro-Palestinian region"
-    production_area_filter: [ "Syro-Palestinian region" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Translucent greenish and turquoise glass"
     modeling_technique_and_decoration: "Free-blown"
@@ -6052,7 +6052,7 @@ object_list:
     end_date: "399"
     date_range: [ "18: 200–300 CE", "19: 300–400 CE" ]
     production_area: "Syro-Palestinian region"
-    production_area_filter: [ "Syro-Palestinian region" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Free-blown; applied elements"
