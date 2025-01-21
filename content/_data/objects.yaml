@@ -2072,7 +2072,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
-    production_area_filter: [ "Italy or possibly Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Translucent purple and opaque white, red, and gray glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -2092,7 +2092,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
-    production_area_filter: [ "Italy or possibly Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Translucent blue and opaque white and red glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -2112,7 +2112,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
-    production_area_filter: [ "Italy or possibly Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Opaque red, yellow, and white and translucent purple glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -2132,7 +2132,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
-    production_area_filter: [ "Italy or possibly Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Opaque red, yellow, and white and translucent purple glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -2152,7 +2152,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
-    production_area_filter: [ "Italy or possibly Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Translucent purple and opaque turquoise, white, yellow, and green glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -2172,7 +2172,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
-    production_area_filter: [ "Italy or possibly Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Translucent green and purple and opaque white glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -2192,7 +2192,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
-    production_area_filter: [ "Italy or possibly Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Translucent purple and green and opaque white and yellow glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -2212,7 +2212,7 @@ object_list:
     end_date: "99"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
-    production_area_filter: [ "Italy or possibly Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Translucent purple and opaque yellow, white, and red glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; applied base; rotary polished"
@@ -2232,7 +2232,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
-    production_area_filter: [ "Italy or possibly Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Translucent dark blue and purple and opaque yellow and red glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -2252,7 +2252,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
-    production_area_filter: [ "Italy or possibly Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Translucent blue and opaque pinkish, white, and red glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -2272,7 +2272,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
-    production_area_filter: [ "Italy or possibly Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Translucent blue and opaque yellow and white glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -2292,7 +2292,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
-    production_area_filter: [ "Italy or possibly Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Translucent blue and green and opaque white, red, and yellowish green glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -2332,7 +2332,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
-    production_area_filter: [ "Italy or possibly Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Opaque white, red, and yellow and translucent blue glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -2352,7 +2352,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
-    production_area_filter: [ "Italy or possibly Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Translucent dark blue and green and opaque white, red, yellow, and green glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -2372,7 +2372,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly Egypt"
-    production_area_filter: [ "Italy or possibly Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Opaque white and red and translucent green, blue, and purple glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -2452,7 +2452,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
-    production_area_filter: [ "Italy or Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Translucent amber-colored and purple and opaque light blue, white, green, and yellow glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped over a convex former mold; applied base and rim; rotary polished"
@@ -2472,7 +2472,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
-    production_area_filter: [ "Italy or Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Translucent purple and opaque white, yellow, and grayish-green glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together sections and lengths (for the base-ring) of round mosaic canes; slumped over a convex former mold; applied base; rotary polished"
@@ -2492,7 +2492,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
-    production_area_filter: [ "Italy or Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Translucent brownish and opaque white glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together sections of round mosaic canes; slumped over a convex former mold; applied base; rotary polished"
@@ -2512,7 +2512,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
-    production_area_filter: [ "Italy or Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Translucent blue and opaque white glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic rods; slumped; rotary polished"
@@ -2532,7 +2532,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
-    production_area_filter: [ "Italy or Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Translucent blue and opaque white glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -2552,7 +2552,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
-    production_area_filter: [ "Italy or Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Almost colorless, translucent purple and opaque white and yellow glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -2572,7 +2572,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
-    production_area_filter: [ "Italy or Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Transparent colorless, opaque white, and translucent blue glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -2592,7 +2592,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
-    production_area_filter: [ "Italy or Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Translucent purple, blue, and turquoise and opaque white glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -2612,7 +2612,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
-    production_area_filter: [ "Italy or Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Opaque green, yellow, and white; translucent blue; and transparent pinkish glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -2632,7 +2632,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
-    production_area_filter: [ "Italy or Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Opaque green, yellow, white, and red glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -2652,7 +2652,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Egypt, or possibly Italy"
-    production_area_filter: [ "Egypt, or possibly Italy" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Transparent decolorized; translucent blue and green; opaque white, red, and yellow glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; applied rim; rotary polished"
@@ -2672,7 +2672,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
-    production_area_filter: [ "Italy or Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Translucent amber-colored and opaque white and blue glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -2692,7 +2692,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
-    production_area_filter: [ "Italy or Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Translucent purple and amber-colored and opaque white glass"
     modeling_technique_and_decoration: "Slumped; rotary polished"
@@ -2712,7 +2712,7 @@ object_list:
     end_date: "50"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Roman Empire, probably Italy. Found: park of the Château de Ripaille, Thonon-les-Bains, France, 1764"
-    production_area_filter: [ "Roman Empire, probably Italy. Found: park of the Château de Ripaille, Thonon-les-Bains, France, 1764" ]
+    production_area_filter: [ "Roman Empire", "Italy", "France" ]
     culture: "Roman"
     material: "Translucent amber-colored and opaque white glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary pressed and polished"
@@ -2732,7 +2732,7 @@ object_list:
     end_date: "50"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Roman Empire, probably Italy"
-    production_area_filter: [ "Roman Empire, probably Italy" ]
+    production_area_filter: [ "Roman Empire", "Italy" ]
     culture: "Roman"
     material: "Translucent blue and opaque white glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary pressed and polished"
@@ -2752,7 +2752,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Roman Empire, probably Italy"
-    production_area_filter: [ "Roman Empire, probably Italy" ]
+    production_area_filter: [ "Roman Empire", "Italy" ]
     culture: "Roman"
     material: "Translucent purple and opaque white glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary pressed and polished"
@@ -2772,7 +2772,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Roman Empire, probably Italy"
-    production_area_filter: [ "Roman Empire, probably Italy" ]
+    production_area_filter: [ "Roman Empire", "Italy" ]
     culture: "Roman"
     material: "Translucent amber-colored and opaque white glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary pressed and polished; wheel-cut"
@@ -2792,7 +2792,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly eastern Mediterranean"
-    production_area_filter: [ "Italy or possibly eastern Mediterranean" ]
+    production_area_filter: [ "Italy", "Eastern Mediterranean" ]
     culture: "Roman"
     material: "Opaque yellow and translucent purple glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -2812,7 +2812,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly eastern Mediterranean"
-    production_area_filter: [ "Italy or possibly eastern Mediterranean" ]
+    production_area_filter: [ "Italy", "Eastern Mediterranean" ]
     culture: "Roman"
     material: "Opaque white and translucent purple glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -2832,7 +2832,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly eastern Mediterranean"
-    production_area_filter: [ "Italy or possibly eastern Mediterranean" ]
+    production_area_filter: [ "Italy", "Eastern Mediterranean" ]
     culture: "Roman"
     material: "Opaque white and translucent purple glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -2852,7 +2852,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or possibly eastern Mediterranean"
-    production_area_filter: [ "Italy or possibly eastern Mediterranean" ]
+    production_area_filter: [ "Italy", "Eastern Mediterranean" ]
     culture: "Roman"
     material: "Opaque white and translucent purple glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished; wheel-cut"
@@ -2872,7 +2872,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
-    production_area_filter: [ "Italy or Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Opaque white and translucent purple glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; rotary polished"
@@ -2892,7 +2892,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or Egypt"
-    production_area_filter: [ "Italy or Egypt" ]
+    production_area_filter: [ "Italy", "Egypt" ]
     culture: "Roman"
     material: "Opaque white and purple glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped or cast; rotary polished"
@@ -2952,7 +2952,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Italy"
-    production_area_filter: [ "Eastern Mediterranean, probably Italy" ]
+    production_area_filter: [ "Eastern Mediterranean", "Italy" ]
     culture: "Roman"
     material: "Translucent blue, purple, and amber-colored; transparent greenish; opaque white glass; gold"
     modeling_technique_and_decoration: "Fusion and rod-forming. Assembled from prefabricated, composite mosaic canes and sandwich gold-glass strips which were applied lengthwise to a dark blue layer/matrix of glass, around a rod, slumped, and dragged sidewise seven times to create a wavy pattern"
@@ -3032,7 +3032,7 @@ object_list:
     end_date: "65"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Italy"
-    production_area_filter: [ "Probably Italy" ]
+    production_area_filter: [ "Italy" ]
     culture: "Roman"
     material: "Translucent amber-colored and opaque white glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; blown"
@@ -3052,7 +3052,7 @@ object_list:
     end_date: "65"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Italy"
-    production_area_filter: [ "Probably Italy" ]
+    production_area_filter: [ "Italy" ]
     culture: "Roman"
     material: "Translucent dark blue and opaque white glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; blown"
@@ -3072,7 +3072,7 @@ object_list:
     end_date: "65"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Italy"
-    production_area_filter: [ "Probably Italy" ]
+    production_area_filter: [ "Italy" ]
     culture: "Roman"
     material: "Translucent blue and opaque white glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; blown"
@@ -3092,7 +3092,7 @@ object_list:
     end_date: "32"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Italy"
-    production_area_filter: [ "Probably Italy" ]
+    production_area_filter: [ "Italy" ]
     culture: "Roman"
     material: "Opaque white and translucent blue and purple glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; blown"
@@ -3112,7 +3112,7 @@ object_list:
     end_date: "32"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Italy"
-    production_area_filter: [ "Probably Italy" ]
+    production_area_filter: [ "Italy" ]
     culture: "Roman"
     material: "Translucent purple and opaque white glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; blown"
@@ -3132,7 +3132,7 @@ object_list:
     end_date: "32"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Italy"
-    production_area_filter: [ "Probably Italy" ]
+    production_area_filter: [ "Italy" ]
     culture: "Roman"
     material: "Translucent blue and greenish and opaque white and yellow glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; blown"
@@ -3152,7 +3152,7 @@ object_list:
     end_date: "32"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Italy"
-    production_area_filter: [ "Probably Italy" ]
+    production_area_filter: [ "Italy" ]
     culture: "Roman"
     material: "Translucent blue, purple, and amber-colored and opaque white glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; blown"
@@ -3172,7 +3172,7 @@ object_list:
     end_date: "32"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Italy or eastern Mediterranean"
-    production_area_filter: [ "Italy or eastern Mediterranean" ]
+    production_area_filter: [ "Italy", "Eastern Mediterranean" ]
     culture: "Roman"
     material: "Translucent dark blue and opaque white glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; slumped; blown"
@@ -3192,7 +3192,7 @@ object_list:
     end_date: "32"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Italy or western Roman Empire"
-    production_area_filter: [ "Italy or western Roman Empire" ]
+    production_area_filter: [ "Italy", "Western Roman Empire" ]
     culture: "Roman"
     material: "Green, yellow, red, and white glass"
     modeling_technique_and_decoration: "Fused and blown mosaic glass"
@@ -3212,7 +3212,7 @@ object_list:
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Italy or western Roman Empire"
-    production_area_filter: [ "Italy or western Roman Empire" ]
+    production_area_filter: [ "Italy", "Western Roman Empire" ]
     culture: "Roman"
     material: "Translucent dark blue and opaque white and red glass"
     modeling_technique_and_decoration: "Slumped; applied splashware"
@@ -3232,7 +3232,7 @@ object_list:
     end_date: "199"
     date_range: [ "17: 100–200 CE" ]
     production_area: "Syro-Palestinian region"
-    production_area_filter: [ "Syro-Palestinian region" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Transparent, almost colorless, slightly greenish glass"
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold consisting of two vertical sections joined to a disk-shaped base section; the vertical seams are hidden in the hair"
@@ -3252,7 +3252,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Syro-Palestinian coast"
-    production_area_filter: [ "Syro-Palestinian coast" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Translucent yellowish glass"
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical and one disk-shaped section for the base; vertical mold seams from rim to base through the stems of two of the palm fronds"
@@ -3272,7 +3272,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Syro-Palestinian coast"
-    production_area_filter: [ "Syro-Palestinian coast" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Transparent greenish glass"
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold; mold marks visible as two lines on the sides; separate mold used for bottom; relief crisp"
@@ -3292,7 +3292,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Syro-Palestinian coast"
-    production_area_filter: [ "Syro-Palestinian coast" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Translucent yellow-greenish glass"
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical and one disk-shaped section for the base; vertical mold seams from rim to base through the stems of two of the plants"
@@ -3312,7 +3312,7 @@ object_list:
     end_date: "74"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Syro-Palestinian coast"
-    production_area_filter: [ "Syro-Palestinian coast" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Translucent yellowish green glass"
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical and one disk-shaped section for the base; vertical mold seams from rim to base left uncovered"
@@ -3332,7 +3332,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Syro-Palestinian coast"
-    production_area_filter: [ "Syro-Palestinian coast" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical sections and one disk-shaped section for the base."
@@ -3352,7 +3352,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Syro-Palestinian coast"
-    production_area_filter: [ "Syro-Palestinian coast" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Translucent amber-colored and opaque yellow glass"
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical semicircular parts for the body and a discoid for the base. Splashware accents"
@@ -3372,7 +3372,7 @@ object_list:
     end_date: "65"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Syro-Palestinian coast"
-    production_area_filter: [ "Syro-Palestinian coast" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Transparent, almost colorless, slightly greenish glass"
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical sections on either side of EYΦΡAINOΥ from rim to second ridge below inscription, cup-shaped base section; relief crisp"
@@ -3392,7 +3392,7 @@ object_list:
     end_date: "65"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Syro-Palestinian coast"
-    production_area_filter: [ "Syro-Palestinian coast" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Transparent greenish glass"
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical sections on either side of ΕΥΦΡΑΙΝΟΥ from rim to second ridge below inscription, cup-shaped base section; relief crisp"
@@ -3412,7 +3412,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean or Italy"
-    production_area_filter: [ "Eastern Mediterranean or Italy" ]
+    production_area_filter: [ "Eastern Mediterranean", "Italy" ]
     culture: "Roman"
     material: "Translucent bluish glass"
     modeling_technique_and_decoration: "Mold-blown; blown in a three-part mold: two vertical sections and one for the base"
@@ -3432,7 +3432,7 @@ object_list:
     end_date: "74"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Said to be from the Syro-Palestinian coast"
-    production_area_filter: [ "Said to be from the Syro-Palestinian coast" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Translucent bluish-green glass"
     modeling_technique_and_decoration: "Mold-blown; blown in a five-part mold"
@@ -3472,7 +3472,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Roman Empire, probably Italy"
-    production_area_filter: [ "Roman Empire, probably Italy" ]
+    production_area_filter: [ "Roman Empire", "Italy" ]
     culture: "Roman"
     material: "Translucent bluish glass"
     modeling_technique_and_decoration: "Mold-blown; blown in a four-part mold: three vertical sections and one disk-shaped base section; relief is crisp, from either a not yet worn-out or a new mold"
@@ -3492,7 +3492,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Roman Empire, probably Italy"
-    production_area_filter: [ "Roman Empire, probably Italy" ]
+    production_area_filter: [ "Roman Empire", "Italy" ]
     culture: "Roman"
     material: "Translucent amber-colored glass"
     modeling_technique_and_decoration: "Mold-blown; blown in a four-part mold: three vertical sections and one disk-shaped base section; relief is crisp, from a not yet worn-out or a new mold"
@@ -3572,7 +3572,7 @@ object_list:
     end_date: "199"
     date_range: [ "17: 100–200 CE" ]
     production_area: "Eastern Mediterranean, Syro-Palestinian region"
-    production_area_filter: [ "Eastern Mediterranean, Syro-Palestinian region" ]
+    production_area_filter: [ "Eastern Mediterranean", "Syro-Palestinian" ]
     culture: "Roman"
     material: "Translucent slightly greenish glass"
     modeling_technique_and_decoration: "Mold-blown; blown in bipartite mold of two unequal vertical sections, open at the base; applied elements"
@@ -3592,7 +3592,7 @@ object_list:
     end_date: "199"
     date_range: [ "17: 100–200 CE" ]
     production_area: "Eastern Mediterranean [Saldern said probably Syrian]"
-    production_area_filter: [ "Eastern Mediterranean [Saldern said probably Syrian]" ]
+    production_area_filter: [ "Eastern Mediterranean", "Syria" ]
     culture: "Roman"
     material: "Translucent bluish glass"
     modeling_technique_and_decoration: "The neck and rim were free-blown. The body was mold-blown in a two-part mold of two vertical sections, which did not fit well: the seams are visible, and from the ears downward, the back side seems to be larger than the front"
@@ -3632,7 +3632,7 @@ object_list:
     end_date: "399"
     date_range: [ "19: 300–400 CE" ]
     production_area: "Eastern Mediterranean, Syro-Palestinian region"
-    production_area_filter: [ "Eastern Mediterranean, Syro-Palestinian region" ]
+    production_area_filter: [ "Eastern Mediterranean", "Syro-Palestinian" ]
     culture: "Byzantine"
     material: "Translucent purple glass"
     modeling_technique_and_decoration: "Mold-blown"
@@ -3652,7 +3652,7 @@ object_list:
     end_date: "399"
     date_range: [ "19: 300–400 CE" ]
     production_area: "Eastern Mediterranean, Syro-Palestinian region"
-    production_area_filter: [ "Eastern Mediterranean, Syro-Palestinian region" ]
+    production_area_filter: [ "Eastern Mediterranean", "Syro-Palestinian" ]
     culture: "Roman"
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Mold-blown"
@@ -3712,7 +3712,7 @@ object_list:
     end_date: "199"
     date_range: [ "17: 100–200 CE" ]
     production_area: "Syro-Palestinian region"
-    production_area_filter: [ "Syro-Palestinian region" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Transparent dark purple glass with pinprick bubbles. The handle is made of a dark blue glass, covered by a brownish crust"
     modeling_technique_and_decoration: "Mold-blown; blown in a bipartite mold of vertical sections, open at base; faint vertical seams at the junction of the heads"
@@ -3752,7 +3752,7 @@ object_list:
     end_date: "399"
     date_range: [ "19: 300–400 CE" ]
     production_area: "Syro-Palestinian region"
-    production_area_filter: [ "Syro-Palestinian region" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Translucent purple and greenish glass"
     modeling_technique_and_decoration: "Mold-blown; applied elements"
@@ -3792,7 +3792,7 @@ object_list:
     end_date: "599"
     date_range: [ "19: 300–400 CE", "20: 400–500 CE", "21: 500–600 CE" ]
     production_area: "Syro-Palestinian region"
-    production_area_filter: [ "Syro-Palestinian region" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Byzantine"
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Mold-blown"
@@ -3812,7 +3812,7 @@ object_list:
     end_date: "632"
     date_range: [ "21: 500–600 CE", "22: 600–700 CE" ]
     production_area: "Syro-Palestinian region"
-    production_area_filter: [ "Syro-Palestinian region" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Translucent bluish-green glass"
     modeling_technique_and_decoration: "Mold-blown"
@@ -3832,7 +3832,7 @@ object_list:
     end_date: "632"
     date_range: [ "20: 400–500 CE", "21: 500–600 CE", "22: 600–700 CE" ]
     production_area: "Syro-Palestinian region"
-    production_area_filter: [ "Syro-Palestinian region" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Byzantine"
     material: "Translucent olive-green glass"
     modeling_technique_and_decoration: "Mold-blown; blown in a two-part mold"
@@ -3912,7 +3912,7 @@ object_list:
     end_date: "65"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Syro-Palestinian region, maybe Sidon"
-    production_area_filter: [ "Syro-Palestinian region, maybe Sidon" ]
+    production_area_filter: [ "Syro-Palestinian", "Sidon" ]
     culture: "Roman"
     material: "Opaque white glass"
     modeling_technique_and_decoration: "Body mold-blown in a three-part mold of three vertical sections; vertical mold seams visible after panels 1, 3, 5; free-blown and tooled neck and rim; relief is not crisp"
@@ -3932,7 +3932,7 @@ object_list:
     end_date: "65"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Syro-Palestinian region, maybe Sidon"
-    production_area_filter: [ "Syro-Palestinian region, maybe Sidon" ]
+    production_area_filter: [ "Syro-Palestinian", "Sidon" ]
     culture: "Roman"
     material: "Opaque light blue glass"
     modeling_technique_and_decoration: "Body mold-blown in a three-part mold of three vertical sections; vertical mold seams visible after panels 1, 3, and 5; free-blown and tooled neck and rim"
@@ -3952,7 +3952,7 @@ object_list:
     end_date: "132"
     date_range: [ "16: 0–100 CE", "17: 100–200 CE" ]
     production_area: "Syro-Palestinian coast"
-    production_area_filter: [ "Syro-Palestinian coast" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Transparent bluish glass"
     modeling_technique_and_decoration: "Mold-blown"
@@ -3972,7 +3972,7 @@ object_list:
     end_date: "132"
     date_range: [ "16: 0–100 CE", "17: 100–200 CE" ]
     production_area: "Syro-Palestinian coast"
-    production_area_filter: [ "Syro-Palestinian coast" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Transparent yellow-brown glass"
     modeling_technique_and_decoration: "Mold-blown"
@@ -3992,7 +3992,7 @@ object_list:
     end_date: "199"
     date_range: [ "16: 0–100 CE", "17: 100–200 CE" ]
     production_area: "Probably Syro-Palestinian region"
-    production_area_filter: [ "Probably Syro-Palestinian region" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Transparent purple-colored glass"
     modeling_technique_and_decoration: "Mold-blown"
@@ -4012,7 +4012,7 @@ object_list:
     end_date: "199"
     date_range: [ "16: 0–100 CE", "17: 100–200 CE" ]
     production_area: "Probably Syro-Palestinian region"
-    production_area_filter: [ "Probably Syro-Palestinian region" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Transparent purple-colored glass"
     modeling_technique_and_decoration: "Mold-blown"
@@ -4032,7 +4032,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Syro-Palestinian region"
-    production_area_filter: [ "Probably Syro-Palestinian region" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Transparent greenish glass"
     modeling_technique_and_decoration: "Mold-blown"
@@ -4052,7 +4052,7 @@ object_list:
     end_date: "499"
     date_range: [ "18: 200–300 CE", "19: 300–400 CE", "20: 400–500 CE" ]
     production_area: "Eastern Mediterranean, possibly Syro-Palestinian region"
-    production_area_filter: [ "Eastern Mediterranean, possibly Syro-Palestinian region" ]
+    production_area_filter: [ "Eastern Mediterranean", "Syro-Palestinian" ]
     culture: "Roman"
     material: "Transparent light green glass"
     modeling_technique_and_decoration: "Mold-blown"
