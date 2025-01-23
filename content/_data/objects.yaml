@@ -10072,7 +10072,7 @@ object_list:
     end_date: "99"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Egypt or Italy"
-    production_area_filter: [ "Egypt or Italy" ]
+    production_area_filter: [ "Egypt", "Italy" ]
     culture: "Roman"
     material: "Opaque white and turquoise and translucent purple glass"
     modeling_technique_and_decoration: "Fusion"
@@ -10092,7 +10092,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Italy"
-    production_area_filter: [ "Eastern Mediterranean, probably Italy" ]
+    production_area_filter: [ "Eastern Mediterranean", "Italy" ]
     culture: "Roman"
     material: "Opaque white and green glass"
     modeling_technique_and_decoration: "Cast in a mold, ground and polished"
@@ -10112,7 +10112,7 @@ object_list:
     end_date: "32"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Probably Italy"
-    production_area_filter: [ "Probably Italy" ]
+    production_area_filter: [ "Italy" ]
     culture: "Roman"
     material: "Opaque light blue glass"
     modeling_technique_and_decoration: "Mold pressed"
@@ -10212,7 +10212,7 @@ object_list:
     end_date: "332"
     date_range: [ "18: 200–300 CE", "19: 300–400 CE" ]
     production_area: "Cologne or Trier"
-    production_area_filter: [ "Cologne or Trier" ]
+    production_area_filter: [ "Cologne", "Trier" ]
     culture: "Roman"
     material: "Transparent greenish glass"
     modeling_technique_and_decoration: "Free-blown and tooled"
@@ -10232,7 +10232,7 @@ object_list:
     end_date: "-1200"
     date_range: [ "02: 1400–1300 BCE", "03: 1300–1200 BCE" ]
     production_area: "Aegean region"
-    production_area_filter: [ "Aegean region" ]
+    production_area_filter: [ "Aegean" ]
     culture: "Greek (Mycenaean)"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Mold pressed in an open mold"
@@ -10252,7 +10252,7 @@ object_list:
     end_date: "-1200"
     date_range: [ "02: 1400–1300 BCE", "03: 1300–1200 BCE" ]
     production_area: "Aegean region"
-    production_area_filter: [ "Aegean region" ]
+    production_area_filter: [ "Aegean" ]
     culture: "Greek (Mycenaean)"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Mold pressed in an open mold"
@@ -10272,7 +10272,7 @@ object_list:
     end_date: "-1200"
     date_range: [ "02: 1400–1300 BCE", "03: 1300–1200 BCE" ]
     production_area: "Aegean region"
-    production_area_filter: [ "Aegean region" ]
+    production_area_filter: [ "Aegean" ]
     culture: "Greek (Mycenaean)"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Mold pressed in an open mold"
@@ -10292,7 +10292,7 @@ object_list:
     end_date: "-1200"
     date_range: [ "02: 1400–1300 BCE", "03: 1300–1200 BCE" ]
     production_area: "Aegean region"
-    production_area_filter: [ "Aegean region" ]
+    production_area_filter: [ "Aegean" ]
     culture: "Greek (Mycenaean)"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Mold pressed in an open mold"
@@ -10312,7 +10312,7 @@ object_list:
     end_date: "-1200"
     date_range: [ "02: 1400–1300 BCE", "03: 1300–1200 BCE" ]
     production_area: "Aegean region"
-    production_area_filter: [ "Aegean region" ]
+    production_area_filter: [ "Aegean" ]
     culture: "Greek (Mycenaean)"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Mold pressed in an open mold"
@@ -10332,7 +10332,7 @@ object_list:
     end_date: "-1200"
     date_range: [ "02: 1400–1300 BCE", "03: 1300–1200 BCE" ]
     production_area: "Aegean region"
-    production_area_filter: [ "Aegean region" ]
+    production_area_filter: [ "Aegean" ]
     culture: "Greek (Mycenaean)"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Mold pressed in an open mold"
@@ -10352,7 +10352,7 @@ object_list:
     end_date: "-1200"
     date_range: [ "02: 1400–1300 BCE", "03: 1300–1200 BCE" ]
     production_area: "Aegean region"
-    production_area_filter: [ "Aegean region" ]
+    production_area_filter: [ "Aegean" ]
     culture: "Greek (Mycenaean)"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Mold pressed in an open mold"
@@ -10372,7 +10372,7 @@ object_list:
     end_date: "-1200"
     date_range: [ "02: 1400–1300 BCE", "03: 1300–1200 BCE" ]
     production_area: "Aegean region"
-    production_area_filter: [ "Aegean region" ]
+    production_area_filter: [ "Aegean" ]
     culture: "Greek (Mycenaean)"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Mold pressed in an open mold"
@@ -10392,7 +10392,7 @@ object_list:
     end_date: "-1200"
     date_range: [ "02: 1400–1300 BCE", "03: 1300–1200 BCE" ]
     production_area: "Aegean region"
-    production_area_filter: [ "Aegean region" ]
+    production_area_filter: [ "Aegean" ]
     culture: "Greek (Mycenaean)"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Mold pressed in an open mold"
@@ -10412,7 +10412,7 @@ object_list:
     end_date: "-1200"
     date_range: [ "02: 1400–1300 BCE", "03: 1300–1200 BCE" ]
     production_area: "Aegean region"
-    production_area_filter: [ "Aegean region" ]
+    production_area_filter: [ "Aegean" ]
     culture: "Greek (Mycenaean)"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Mold pressed in an open mold"
@@ -10432,7 +10432,7 @@ object_list:
     end_date: "-1200"
     date_range: [ "02: 1400–1300 BCE", "03: 1300–1200 BCE" ]
     production_area: "Aegean region"
-    production_area_filter: [ "Aegean region" ]
+    production_area_filter: [ "Aegean" ]
     culture: "Greek (Mycenaean)"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Mold pressed in an open mold"
@@ -10452,7 +10452,7 @@ object_list:
     end_date: "-1200"
     date_range: [ "02: 1400–1300 BCE", "03: 1300–1200 BCE" ]
     production_area: "Aegean region"
-    production_area_filter: [ "Aegean region" ]
+    production_area_filter: [ "Aegean" ]
     culture: "Greek (Mycenaean)"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Mold pressed in an open mold"
@@ -10472,7 +10472,7 @@ object_list:
     end_date: "-1200"
     date_range: [ "02: 1400–1300 BCE", "03: 1300–1200 BCE" ]
     production_area: "Aegean region"
-    production_area_filter: [ "Aegean region" ]
+    production_area_filter: [ "Aegean" ]
     culture: "Greek (Mycenaean)"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Mold pressed in an open mold"
@@ -10492,7 +10492,7 @@ object_list:
     end_date: "-1200"
     date_range: [ "02: 1400–1300 BCE", "03: 1300–1200 BCE" ]
     production_area: "Aegean region"
-    production_area_filter: [ "Aegean region" ]
+    production_area_filter: [ "Aegean" ]
     culture: "Greek (Mycenaean)"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Mold pressed in an open mold"
@@ -10512,7 +10512,7 @@ object_list:
     end_date: "-1200"
     date_range: [ "02: 1400–1300 BCE", "03: 1300–1200 BCE" ]
     production_area: "Aegean region"
-    production_area_filter: [ "Aegean region" ]
+    production_area_filter: [ "Aegean" ]
     culture: "Greek (Mycenaean)"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Mold pressed in an open mold"
@@ -10532,7 +10532,7 @@ object_list:
     end_date: "-1200"
     date_range: [ "02: 1400–1300 BCE", "03: 1300–1200 BCE" ]
     production_area: "Aegean region"
-    production_area_filter: [ "Aegean region" ]
+    production_area_filter: [ "Aegean" ]
     culture: "Greek (Mycenaean)"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Mold pressed in an open mold"
@@ -10552,7 +10552,7 @@ object_list:
     end_date: "-1200"
     date_range: [ "02: 1400–1300 BCE", "03: 1300–1200 BCE" ]
     production_area: "Aegean region"
-    production_area_filter: [ "Aegean region" ]
+    production_area_filter: [ "Aegean" ]
     culture: "Greek (Mycenaean)"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Mold pressed in an open mold"
@@ -10572,7 +10572,7 @@ object_list:
     end_date: "-1200"
     date_range: [ "02: 1400–1300 BCE", "03: 1300–1200 BCE" ]
     production_area: "Aegean region"
-    production_area_filter: [ "Aegean region" ]
+    production_area_filter: [ "Aegean" ]
     culture: "Greek (Mycenaean)"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Mold pressed in an open mold"
@@ -10592,7 +10592,7 @@ object_list:
     end_date: "-1200"
     date_range: [ "02: 1400–1300 BCE", "03: 1300–1200 BCE" ]
     production_area: "Aegean region"
-    production_area_filter: [ "Aegean region" ]
+    production_area_filter: [ "Aegean" ]
     culture: "Greek (Mycenaean)"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Mold pressed in an open mold"
@@ -10612,7 +10612,7 @@ object_list:
     end_date: "-1200"
     date_range: [ "02: 1400–1300 BCE", "03: 1300–1200 BCE" ]
     production_area: "Aegean region"
-    production_area_filter: [ "Aegean region" ]
+    production_area_filter: [ "Aegean" ]
     culture: "Greek (Mycenaean)"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Mold pressed in an open mold"
@@ -10632,7 +10632,7 @@ object_list:
     end_date: "-1200"
     date_range: [ "02: 1400–1300 BCE", "03: 1300–1200 BCE" ]
     production_area: "Aegean region"
-    production_area_filter: [ "Aegean region" ]
+    production_area_filter: [ "Aegean" ]
     culture: "Greek (Mycenaean)"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Mold pressed in an open mold"
@@ -10652,7 +10652,7 @@ object_list:
     end_date: "-1200"
     date_range: [ "02: 1400–1300 BCE", "03: 1300–1200 BCE" ]
     production_area: "Aegean region"
-    production_area_filter: [ "Aegean region" ]
+    production_area_filter: [ "Aegean" ]
     culture: "Greek (Mycenaean)"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Mold pressed in an open mold"
@@ -10672,7 +10672,7 @@ object_list:
     end_date: "-1200"
     date_range: [ "02: 1400–1300 BCE", "03: 1300–1200 BCE" ]
     production_area: "Aegean region"
-    production_area_filter: [ "Aegean region" ]
+    production_area_filter: [ "Aegean" ]
     culture: "Greek (Mycenaean)"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Mold pressed in an open mold"
@@ -10692,7 +10692,7 @@ object_list:
     end_date: "-1200"
     date_range: [ "02: 1400–1300 BCE", "03: 1300–1200 BCE" ]
     production_area: "Aegean region"
-    production_area_filter: [ "Aegean region" ]
+    production_area_filter: [ "Aegean" ]
     culture: "Greek (Mycenaean)"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Mold pressed in an open mold"
@@ -10712,7 +10712,7 @@ object_list:
     end_date: "49"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, or Black Sea coast. Allegedly found in Panticapaeum (Kerch), Crimea"
-    production_area_filter: [ "Eastern Mediterranean, or Black Sea coast. Allegedly found in Panticapaeum (Kerch), Crimea" ]
+    production_area_filter: [ "Eastern Mediterranean", "Black Sea coast", "Panticapaeum (Kerch)" ]
     culture: "Near Eastern"
     material: "Colorless glass; gold"
     modeling_technique_and_decoration: "Rolled and molded"
@@ -10732,7 +10732,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -10753,7 +10753,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -10774,7 +10774,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -10795,7 +10795,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -10816,7 +10816,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -10837,7 +10837,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -10858,7 +10858,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -10879,7 +10879,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -10900,7 +10900,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -10921,7 +10921,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -10942,7 +10942,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -10963,7 +10963,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -10984,7 +10984,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -11005,7 +11005,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -11026,7 +11026,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -11047,7 +11047,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -11068,7 +11068,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -11089,7 +11089,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -11110,7 +11110,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -11131,7 +11131,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -11152,7 +11152,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -11173,7 +11173,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -11194,7 +11194,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -11215,7 +11215,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -11236,7 +11236,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -11257,7 +11257,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -11278,7 +11278,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -11299,7 +11299,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -11320,7 +11320,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -11341,7 +11341,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -11362,7 +11362,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Eastern Mediterranean, probably Egypt"
-    production_area_filter: [ "Eastern Mediterranean, probably Egypt" ]
+    production_area_filter: [ "Eastern Mediterranean", "Egypt" ]
     culture: "Roman"
     material: ""
     modeling_technique_and_decoration: "Wound around a mandrel and inlaid with sections of mosaic composite canes"
@@ -11383,7 +11383,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Egypt or Italy"
-    production_area_filter: [ "Egypt or Italy" ]
+    production_area_filter: [ "Egypt", "Italy" ]
     culture: "Roman"
     material: "Opaque green, red, white, and blue and translucent dark purple glass"
     modeling_technique_and_decoration: "Fusion"
@@ -11403,7 +11403,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Egypt or Italy"
-    production_area_filter: [ "Egypt or Italy" ]
+    production_area_filter: [ "Egypt", "Italy" ]
     culture: "Roman"
     material: "Translucent purple and opaque yellow, white, and red glass"
     modeling_technique_and_decoration: "Fusion, cutting off, reheating, piercing, flattening"
@@ -11423,7 +11423,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Egypt or Italy. Reportedly found in Olbia, Ukraine"
-    production_area_filter: [ "Egypt or Italy. Reportedly found in Olbia, Ukraine" ]
+    production_area_filter: [ "Egypt", "Italy", "Olbia" ]
     culture: "Byzantine"
     material: "Opaque yellow, red, white, and “black” glass"
     modeling_technique_and_decoration: "Fusion, folding, rolling"
@@ -11443,7 +11443,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Egypt or Italy. Reportedly found in Olbia, Ukraine"
-    production_area_filter: [ "Egypt or Italy. Reportedly found in Olbia, Ukraine" ]
+    production_area_filter: [ "Egypt", "Italy", "Olbia" ]
     culture: "Roman"
     material: "Opaque red, white, and yellow; translucent blue and greenish glass"
     modeling_technique_and_decoration: "Fusion of mosaic tesserae and winding"
@@ -11463,7 +11463,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Egypt or Italy. Reportedly found in Olbia, Ukraine"
-    production_area_filter: [ "Egypt or Italy. Reportedly found in Olbia, Ukraine" ]
+    production_area_filter: [ "Egypt", "Italy", "Olbia" ]
     culture: "Roman"
     material: "Translucent dark green, appearing black; opaque green, yellow, red, and white glass"
     modeling_technique_and_decoration: "Fusion of mosaic tesserae and winding"
@@ -11483,7 +11483,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Egypt or Italy"
-    production_area_filter: [ "Egypt or Italy" ]
+    production_area_filter: [ "Egypt", "Italy" ]
     culture: "Roman"
     material: "Opaque red, white, green and blue; translucent greenish and dark purple(?) glass"
     modeling_technique_and_decoration: "Fusion of mosaic tesserae and winding"
@@ -11563,7 +11563,7 @@ object_list:
     end_date: "-101"
     date_range: [ "11: 500–400 BCE", "12: 400–300 BCE", "13: 300–200 BCE", "14: 200–100 BCE" ]
     production_area: "Punic, probably Carthage. Reportedly found in Olbia, Ukraine"
-    production_area_filter: [ "Punic, probably Carthage. Reportedly found in Olbia, Ukraine" ]
+    production_area_filter: [ "Punic", "Carthage", "Olbia" ]
     culture: "Punic"
     material: "Dark blue, white, and yellowish glass"
     modeling_technique_and_decoration: "Rod-formed"
@@ -11583,7 +11583,7 @@ object_list:
     end_date: "-301"
     date_range: [ "11: 500–400 BCE", "12: 400–300 BCE" ]
     production_area: "Punic, probably Carthage"
-    production_area_filter: [ "Punic, probably Carthage" ]
+    production_area_filter: [ "Punic", "Carthage" ]
     culture: "Punic"
     material: "Opaque turquoise, yellow, and white; translucent dark blue and light blue glass"
     modeling_technique_and_decoration: "Rod-formed"
@@ -11603,7 +11603,7 @@ object_list:
     end_date: "-401"
     date_range: [ "09: 700–600 BCE", "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Punic, probably Carthage"
-    production_area_filter: [ "Punic, probably Carthage" ]
+    production_area_filter: [ "Punic", "Carthage" ]
     culture: "Punic"
     material: "Opaque yellow, dark blue, and red glass"
     modeling_technique_and_decoration: "Rod-formed"
@@ -11623,7 +11623,7 @@ object_list:
     end_date: "-501"
     date_range: [ "09: 700–600 BCE", "10: 600–500 BCE" ]
     production_area: "Punic, probably Carthage"
-    production_area_filter: [ "Punic, probably Carthage" ]
+    production_area_filter: [ "Punic", "Carthage" ]
     culture: "Punic"
     material: "Opaque yellow, white, turquoise, and dark blue glass"
     modeling_technique_and_decoration: "Rod-formed"
@@ -11643,7 +11643,7 @@ object_list:
     end_date: "-34"
     date_range: [ "13: 300–200 BCE", "14: 200–100 BCE", "15: 100–0 BCE" ]
     production_area: "Punic, probably Carthage"
-    production_area_filter: [ "Punic, probably Carthage" ]
+    production_area_filter: [ "Punic", "Carthage" ]
     culture: "Punic"
     material: "Opaque white and translucent blue and purple glass"
     modeling_technique_and_decoration: "Rod-formed"
@@ -11663,7 +11663,7 @@ object_list:
     end_date: "-401"
     date_range: [ "10: 600–500 BCE", "11: 500–400 BCE" ]
     production_area: "Punic, probably Carthage. Reportedly found in Olbia, Ukraine"
-    production_area_filter: [ "Punic, probably Carthage. Reportedly found in Olbia, Ukraine" ]
+    production_area_filter: [ "Punic", "Carthage", "Olbia" ]
     culture: "Punic"
     material: "Blue, yellow, and white glass"
     modeling_technique_and_decoration: "Rod-formed"
@@ -11683,7 +11683,7 @@ object_list:
     end_date: "-201"
     date_range: [ "12: 400–300 BCE", "13: 300–200 BCE" ]
     production_area: "Punic, probably Carthage"
-    production_area_filter: [ "Punic, probably Carthage" ]
+    production_area_filter: [ "Punic", "Carthage" ]
     culture: [ "Etruscan", "Punic" ]
     material: "Dark blue, white, and yellowish glass"
     modeling_technique_and_decoration: "Rod-formed"
@@ -11703,7 +11703,7 @@ object_list:
     end_date: "-234"
     date_range: [ "12: 400–300 BCE", "13: 300–200 BCE" ]
     production_area: "Punic, probably Carthage"
-    production_area_filter: [ "Punic, probably Carthage" ]
+    production_area_filter: [ "Punic", "Carthage" ]
     culture: [ "Etruscan", "Punic" ]
     material: "Dark blue, white, and yellowish glass"
     modeling_technique_and_decoration: "Rod-formed"
@@ -11723,7 +11723,7 @@ object_list:
     end_date: "-201"
     date_range: [ "12: 400–300 BCE", "13: 300–200 BCE" ]
     production_area: "Aegean region"
-    production_area_filter: [ "Aegean region" ]
+    production_area_filter: [ "Aegean" ]
     culture: "Roman"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Molded"
@@ -11763,7 +11763,7 @@ object_list:
     end_date: "99"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE", "23: 700–800 CE", "24: 800–900 CE"  ]
     production_area: "Egypt or Italy or Samara region (Russia)"
-    production_area_filter: [ "Egypt or Italy" ]
+    production_area_filter: [ "Egypt", "Italy" ]
     culture: "Roman"
     material: "Translucent purple and opaque white, red, yellow, and green glass"
     modeling_technique_and_decoration: "Fusion"
@@ -11783,7 +11783,7 @@ object_list:
     end_date: "499"
     date_range: [ "18: 200–300 CE", "19: 300–400 CE", "20: 400–500 CE" ]
     production_area: "Probably Syro-Palestinian region"
-    production_area_filter: [ "Probably Syro-Palestinian region" ]
+    production_area_filter: [ "Syro-Palestinian" ]
     culture: "Roman"
     material: "Translucent dark blue glass"
     modeling_technique_and_decoration: "Tooled and rod-pierced"
@@ -11803,7 +11803,7 @@ object_list:
     end_date: "432"
     date_range: [ "19: 300–400 CE", "20: 400–500 CE" ]
     production_area: "Eastern Mediterranean, probably Syro-Palestinian region"
-    production_area_filter: [ "Eastern Mediterranean, probably Syro-Palestinian region" ]
+    production_area_filter: [ "Eastern Mediterranean", Syro-Palestinian" ]
     culture: "Roman"
     material: "Translucent yellowish glass"
     modeling_technique_and_decoration: "Stamped"
@@ -11823,7 +11823,7 @@ object_list:
     end_date: "432"
     date_range: [ "19: 300–400 CE", "20: 400–500 CE" ]
     production_area: "Eastern Mediterranean, probably Syro-Palestinian region"
-    production_area_filter: [ "Eastern Mediterranean, probably Syro-Palestinian region" ]
+    production_area_filter: [ "Eastern Mediterranean", "Syro-Palestinian" ]
     culture: "Roman"
     material: "Translucent yellowish glass"
     modeling_technique_and_decoration: "Stamped"
@@ -11843,7 +11843,7 @@ object_list:
     end_date: "432"
     date_range: [ "19: 300–400 CE", "20: 400–500 CE" ]
     production_area: "Eastern Mediterranean, probably Syro-Palestinian region"
-    production_area_filter: [ "Eastern Mediterranean, probably Syro-Palestinian region" ]
+    production_area_filter: [ "Eastern Mediterranean", "Syro-Palestinian" ]
     culture: "Roman"
     material: "Translucent yellowish glass"
     modeling_technique_and_decoration: "Stamped"
@@ -11863,7 +11863,7 @@ object_list:
     end_date: "432"
     date_range: [ "19: 300–400 CE", "20: 400–500 CE" ]
     production_area: "Eastern Mediterranean, probably Syro-Palestinian region"
-    production_area_filter: [ "Eastern Mediterranean, probably Syro-Palestinian region" ]
+    production_area_filter: [ "Eastern Mediterranean", "Syro-Palestinian" ]
     culture: "Roman"
     material: "Translucent yellowish glass"
     modeling_technique_and_decoration: "Stamped"
@@ -11883,7 +11883,7 @@ object_list:
     end_date: "432"
     date_range: [ "19: 300–400 CE", "20: 400–500 CE" ]
     production_area: "Eastern Mediterranean, probably Syro-Palestinian region"
-    production_area_filter: [ "Eastern Mediterranean, probably Syro-Palestinian region" ]
+    production_area_filter: [ "Eastern Mediterranean", "Syro-Palestinian" ]
     culture: "Roman"
     material: "Translucent yellowish glass"
     modeling_technique_and_decoration: "Stamped"
@@ -12003,7 +12003,7 @@ object_list:
     end_date: "1199"
     date_range: [ "18: 200–300 CE", "19: 300–400 CE", "20: 400–500 CE", "21: 500–600 CE", "22: 600–700 CE", "23: 700–800 CE", "24: 800–900 CE", "25: 900–1000 CE", "26: 1000–1100 CE", "27: 1100–1200 CE" ]
     production_area: "Roman or Byzantine Empire"
-    production_area_filter: [ "Roman or Byzantine Empire" ]
+    production_area_filter: [ "Roman Empire", "Byzantine Empire" ]
     culture: [ "Roman", "Byzantine" ]
     material: "Translucent greenish glass"
     modeling_technique_and_decoration: "Tooling"
@@ -12023,7 +12023,7 @@ object_list:
     end_date: "399"
     date_range: [ "19: 300–400 CE" ]
     production_area: "Perhaps Italy"
-    production_area_filter: [ "Perhaps Italy" ]
+    production_area_filter: [ "Italy" ]
     culture: "Roman"
     material: "Glass, gold, bronze, iron"
     modeling_technique_and_decoration: "Hammering, soldering"
@@ -12043,7 +12043,7 @@ object_list:
     end_date: "99"
     date_range: [ "16: 0–100 CE" ]
     production_area: "Continental Europe or Mediterranean region"
-    production_area_filter: [ "Continental Europe or Mediterranean region" ]
+    production_area_filter: [ "Continental Europe", "Mediterranean" ]
     culture: "Roman"
     material: "Opaque dark green and white glass"
     modeling_technique_and_decoration: "Tooled; applied elements"
@@ -12143,7 +12143,7 @@ object_list:
     end_date: "599"
     date_range: [ "19: 300–400 CE", "20: 400–500 CE", "21: 500–600 CE" ]
     production_area: "Eastern Mediterranean, Syro-Palestinian region?"
-    production_area_filter: [ "Eastern Mediterranean, Syro-Palestinian region?" ]
+    production_area_filter: [ "Eastern Mediterranean", "Syro-Palestinian" ]
     culture: "Byzantine"
     material: "Translucent purple glass"
     modeling_technique_and_decoration: "Free-blown"
@@ -12263,7 +12263,7 @@ object_list:
     end_date: "1978"
     date_range: [ "19: 300–400 CE", "20: 400–500 CE", "21: 500–600 CE", "22: 600–700 CE", "23: 700–800 CE", "24: 800–900 CE", "25: 900–1000 CE", "26: 1000–1100 CE", "27: 1100–1200 CE", "28: 1200–present" ]
     production_area: "Probably eastern Mediterranean"
-    production_area_filter: [ "Probably eastern Mediterranean" ]
+    production_area_filter: [ "Eastern Mediterranean" ]
     culture: "Byzantine"
     material: "Amber-colored translucent glass"
     modeling_technique_and_decoration: "Tooling"
@@ -12343,7 +12343,7 @@ object_list:
     end_date: "1199"
     date_range: [ "24: 800–900 CE", "25: 900–1000 CE", "26: 1000–1100 CE", "27: 1100–1200 CE", "28: 1200–present" ]
     production_area: "Eastern Mediterranean and Europe"
-    production_area_filter: [ "Eastern Mediterranean and Europe" ]
+    production_area_filter: [ "Eastern Mediterranean", "Europe" ]
     culture: [ "Islamic" ]
     material: "Dark green, dark turquoise, and off-white glass; resin"
     modeling_technique_and_decoration: "Free-blown; applied and tooled features"
@@ -12363,7 +12363,7 @@ object_list:
     end_date: "1799"
     date_range: [ "28: 1200–present" ]
     production_area: "Probably Europe"
-    production_area_filter: [ "Probably Europe" ]
+    production_area_filter: [ "Europe" ]
     culture: "Modern"
     material: "Translucent yellowish glass"
     modeling_technique_and_decoration: "Free-blown; applied elements"
