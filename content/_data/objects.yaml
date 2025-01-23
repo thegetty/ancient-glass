@@ -12103,7 +12103,7 @@ object_list:
     end_date: "99"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
     production_area: "Uncertain"
-    production_area_filter: [ "Uncertain" ]
+    production_area_filter: [ "" ]
     culture: "Roman"
     material: "Translucent light blue and opaque white glass"
     modeling_technique_and_decoration: "Tooled"
