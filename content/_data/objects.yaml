@@ -1911,8 +1911,8 @@ object_list:
     start_date: "-33"
     end_date: "32"
     date_range: [ "15: 100–0 BCE", "16: 0–100 CE" ]
-    production_area: "Italy or possibly eastern Mediterranean. Allegedly found at Kerch"
-    production_area_filter: [ "Italy", "Eastern Mediterranean", "Kerch" ]
+    production_area: "Italy or possibly eastern Mediterranean. Allegedly found at Panticapaeum (Kerch), Crimea"
+    production_area_filter: [ "Italy", "Eastern Mediterranean", "Panticapaeum (Kerch)" ]
     culture: "Roman"
     material: "Opaque red and yellow and translucent greenish and blue glass"
     modeling_technique_and_decoration: "Made from a polychrome disk-shaped blank assembled from fused-together lengths and sections of round mosaic canes; cast, applied base-ring, rotary polished"
