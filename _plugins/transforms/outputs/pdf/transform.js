@@ -57,13 +57,14 @@ module.exports = async function(eleventyConfig, collections, content) {
     const { pagePDF } = pdfConfig
 
     // dataset.footerPageTitle = formatTitle(page.data)
+
+    // if (parentPage) {
+    //   dataset.footerSectionTitle = formatTitle(parentPage.data)
+    // }
+
     dataset.footerPageTitle = parentPage
       ? formatTitle(parentPage.data)
       : formatTitle(page.data)
-
-    if (parentPage) {
-      dataset.footerSectionTitle = formatTitle(parentPage.data)
-    }
 
     if (!generatePagedPDF) {
       return
