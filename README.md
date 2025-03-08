@@ -16,8 +16,8 @@ The primary content pieces of the book can be found in the `content` directory. 
 
 This project was last built with the following software versions:
 
-- Node 18.16.0
-- Quire CLI 1.0.0-rc.11
+- Node 20.18.1
+- Quire CLI 1.0.0-rc.25
 
 ### Branches
 

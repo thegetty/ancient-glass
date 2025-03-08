@@ -9239,3 +9239,105 @@ figure_list:
     src: figures/cat-534.jpg
     zoom: true
     label: "Main view"
+
+  - id: fig-082-360
+    zoom: true
+    label: "360–Degree View"
+    sequences:
+      - id: figures/082/
+        behavior:
+          - continuous
+          - sequence
+  
+  - id: fig-084-360
+    zoom: true
+    label: "360–Degree View"
+    sequences:
+      - id: figures/084/
+        behavior:
+          - continuous
+          - sequence
+        regex: /\d{4}\.jpg/
+  
+  - id: fig-270-360
+    zoom: true
+    label: "360–Degree View"
+    sequences:
+      - id: figures/270/
+        behavior:
+          - continuous
+          - sequence
+
+  - id: fig-050-360
+    zoom: true
+    label: "360–Degree View"
+    sequences:
+      - id: figures/050/
+        behavior:
+          - continuous
+          - sequence
+
+  - id: fig-153-360
+    zoom: true
+    label: "360–Degree View"
+    sequences:
+      - id: figures/153/
+        behavior:
+          - continuous
+          - sequence
+
+  - id: fig-239-360
+    zoom: true
+    label: "360–Degree View"
+    sequences:
+      - id: figures/239/
+        behavior:
+          - continuous
+          - sequence
+
+  - id: fig-191-360
+    zoom: true
+    label: "360–Degree View"
+    sequences:
+      - id: figures/191/
+        behavior:
+          - continuous
+          - sequence
+
+  - id: fig-417-360
+    zoom: true
+    label: "360–Degree View"
+    sequences:
+      - id: figures/417/
+        behavior:
+          - continuous
+          - sequence
+        regex: /\d{4}\.jpg/
+  
+  - id: fig-003-360
+    zoom: true
+    label: "360–Degree View"
+    sequences:
+      - id: figures/003/
+        behavior:
+          - continuous
+          - sequence
+  
+  - id: fig-161-360
+    zoom: true
+    label: "360–Degree View"
+    sequences:
+      - id: figures/161/
+        behavior:
+          - continuous
+          - sequence
+  
+  - id: fig-182-360
+    zoom: true
+    label: "360–Degree View"
+    sequences:
+      - id: figures/182/
+        behavior:
+          - continuous
+          - sequence
+        start: 041.jpg

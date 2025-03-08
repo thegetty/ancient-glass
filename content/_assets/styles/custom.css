@@ -157,7 +157,21 @@ figure.cat-thumbnail a {
 }
 .object-card .arrow {
   display: none;
+} 
+/* Display icon on rotating objects 
+    Icon: https://fonts.google.com/icons?selected=Material+Symbols+Outlined:360:FILL@0;wght@500;GRAD@0;opsz@24&icon.query=rotate&icon.size=24&icon.color=%235f6368
+    SVG --> CSS Encoder: https://yoksel.github.io/url-encoder/ */
+.object-card__content {
+  display: block !important;
 }
+.object-card__field[data-field-name="rotating"] {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='24px' viewBox='0 -960 960 960' width='24px' fill='%232E7F79'%3E%3Cpath d='m358.8-153.78-58.39-58.63 66.89-68.66q-132.54-17.47-213.98-71.79Q71.87-407.17 71.87-480q0-89.7 117.65-148.91Q307.17-688.13 480-688.13t290.48 59.1Q888.13-569.93 888.13-480q0 67.02-68.65 118.41T640-287.87v-92.76q77-18.8 117.07-47.59Q797.13-457 797.13-480q0-32.48-83.59-74.8-83.58-42.33-233.54-42.33-149.96 0-233.54 42.33-83.59 42.32-83.59 74.8 0 24 48.13 56.07 48.13 32.06 142.13 49.06l-52.72-52.72 58.39-58.63L525.02-320 358.8-153.78Z'/%3E%3C/svg%3E");
+  color: transparent;
+  background-repeat: no-repeat;
+  position: absolute;
+  margin-left: .75rem;
+}
+
 
 /* ENTRIES
 ============================================================================= */

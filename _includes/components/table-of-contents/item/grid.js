@@ -1,7 +1,3 @@
-//
-// CUSTOMIZED FILE
-// Don't render TOC link if page is `landing: false`
-//
 const path = require ('path')
 const { html, oneLine } = require('~lib/common-tags')
 
@@ -38,7 +34,6 @@ module.exports = function (eleventyConfig) {
       figure: pageFigure,
       image,
       label,
-      landing,
       layout,
       object: pageObject,
       short_title,
@@ -51,7 +46,7 @@ module.exports = function (eleventyConfig) {
      * Check if item is a reference to a built page or just a heading
      * @type {Boolean}
      */
-    const isPage = landing == false ? false : true
+    const isPage = !!layout
 
     const pageContributorsElement = pageContributors
       ? `<span class="contributor-divider">${contributorDivider}</span><span class="contributor">${contributors({ context: pageContributors, format: 'string' })}</span>`
