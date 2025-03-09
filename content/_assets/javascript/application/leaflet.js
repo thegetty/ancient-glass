@@ -22,9 +22,9 @@ if (mapContainer) {
 
     let iconType = ''
     if (type == 'city') {
-      iconType = '/_assets/images/icons/marker-yellow.png'
+      iconType = 'https://www.getty.edu/publications/ancient-glass/_assets/images/icons/marker-yellow.png'
     } else {
-      iconType = '/_assets/images/icons/marker-blank.png'
+      iconType = 'https://www.getty.edu/publications/ancient-glass/_assets/images/icons/marker-blank.png'
     }
 
     var myIcon = L.icon({
