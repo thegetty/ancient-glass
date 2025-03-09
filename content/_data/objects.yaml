@@ -10,13 +10,13 @@ object_display_order:
 
 object_filters:
   - culture
-  - inscription
-  - shape
-  - technique
-  - field: production_area_filter
-    label: Production Area
   - field: date_range
     label: Date
+  - inscription
+  - field: production_area_filter
+    label: Production Area
+  - shape
+  - technique
   - field: rotating
     label: 360-Degree View
 
