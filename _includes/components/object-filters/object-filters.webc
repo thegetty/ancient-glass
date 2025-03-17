@@ -107,7 +107,7 @@ const getFilters = (filterOrder, objects) => {
     const fieldLabel = typeof item === 'string' ? humanize(item) : item.label;
     const fieldName = typeof item === 'string' ? item : item.field;
     const options = [
-      { label: 'All', value: '' },
+      { label: '', value: '' },
       ...getUniqueOptionsFromObjectData(objects, fieldName)
     ];
 
