@@ -11779,7 +11779,7 @@ object_list:
     end_date: "432"
     date_range: [ "19: 300–400 CE", "20: 400–500 CE" ]
     production_area: "Eastern Mediterranean, probably Syro-Palestinian region"
-    production_area_filter: [ "Eastern Mediterranean", Syro-Palestinian" ]
+    production_area_filter: [ "Eastern Mediterranean", "Syro-Palestinian" ]
     culture: "Roman"
     material: "Translucent yellowish glass"
     modeling_technique_and_decoration: "Stamped"
