@@ -16335,110 +16335,66 @@ figure_list:
 
   - id: fig-1-history
     src: figures/fig-1-history.jpg
-    printImage: figures/fig-1-history.jpg
-    thumbnail: figures/thumbnails/fig-1-history_th.jpg
-    manifestId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-1-history/manifest.json
-    canvasId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-1-history/canvas
     zoom: true
     label: "Figure 1."
     caption: "Harry Leonard Simmons sale, Parke-Bernet Galleries, New York, 1940, p. 31. J. Paul Getty acquired seven of the nine objects in this catalogue illustration: nos. 99 (cat. 400), 101 (cat. 89), 102 (cat. 227), 104 (cat. 188), 106 (cat. 248), 107 (cat. 249), and 108 (cat. 71)."
 
   - id: fig-2-history
     src: figures/fig-2-history.jpg
-    printImage: figures/fig-2-history.jpg
-    thumbnail: figures/thumbnails/fig-2-history_th.jpg
-    manifestId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-2-history/manifest.json
-    canvasId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-2-history/canvas
     zoom: true
     label: "Figure 2."
     caption: "Getty Ranch House, circa 1948–57, Getty Institutional Archives"
   
   - id: fig-3-history
     src: figures/fig-3-history.jpg
-    printImage: figures/fig-3-history.jpg
-    thumbnail: figures/thumbnails/fig-3-history_th.jpg
-    manifestId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-3-history/manifest.json
-    canvasId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-3-history/canvas
     zoom: true
     label: "Figure 3."
     caption: "Roman Glass display in J. Paul Getty Museum, “Getty Art Bids Viewers,” *Los Angeles Times*, January 24, 1958, photo by Harry Chase"
     
   - id: fig-4-history
     src: figures/fig-4-history.jpg
-    printImage: figures/fig-4-history.jpg
-    thumbnail: figures/thumbnails/fig-4-history_th.jpg
-    manifestId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-4-history/manifest.json
-    canvasId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-4-history/canvas
     zoom: true
     label: "Figure 4."
     caption: "Cat. 133, Ribbed Bowl, 50 BCE–50 CE, 72.AF.37. Photo from the 1907 publication of *Le Chateau de Ripaille* by Max Bruchet (Paris), p. 20; ill."
 
   - id: fig-5-history
     src: figures/fig-5-history.jpg
-    printImage: figures/fig-5-history.jpg
-    thumbnail: figures/thumbnails/fig-5-history_th.jpg
-    manifestId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-5-history/manifest.json
-    canvasId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-5-history/canvas
     zoom: true
     label: "Figure 5."
     caption: "Cat. 82, Cameo Glass Skyphos, 15 BCE–25 CE, 84.AF.85"
 
   - id: fig-6-history
     src: figures/fig-6-history.jpg
-    printImage: figures/fig-6-history.jpg
-    thumbnail: figures/thumbnails/fig-6-history_th.jpg
-    manifestId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-6-history/manifest.json
-    canvasId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-6-history/canvas
     zoom: true
     label: "Figure 6."
     caption: "Cat. 169, Mythological Beaker, late 1st century CE, 85.AF.83"
 
   - id: fig-7-history
     src: figures/fig-7-history.jpg
-    printImage: figures/fig-7-history.jpg
-    thumbnail: figures/thumbnails/fig-7-history_th.jpg
-    manifestId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-7-history/manifest.json
-    canvasId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-7-history/canvas
     zoom: true
     label: "Figure 7."
     caption: "View of Gallery 101E in 2006, *Glass in Antiquity*, J. Paul Getty Museum at the Getty Villa"
 
   - id: fig-8-history
     src: figures/fig-8-history.jpg
-    printImage: figures/fig-8-history.jpg
-    thumbnail: figures/thumbnails/fig-8-history_th.jpg
-    manifestId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-8-history/manifest.json
-    canvasId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-8-history/canvas
     zoom: true
     label: "Figure 8."
     caption: "View of Gallery 214 in 2010, *Molten Color: Glassmaking in Antiquity*, J. Paul Getty Museum at the Getty Villa"
 
   - id: fig-9-history
     src: figures/fig-9-history.jpg
-    printImage: figures/fig-9-history.jpg
-    thumbnail: figures/thumbnails/fig-9-history_th.jpg
-    manifestId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-9-history/manifest.json
-    canvasId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-9-history/canvas
     zoom: true
     label: "Figure 9."
     caption: "View of Gallery 214 in 2017, Greek and Roman Glass, J. Paul Getty Museum at the Getty Villa"
 
   - id: fig-10-history
     src: figures/fig-10-history.jpg
-    printImage: figures/fig-10-history.jpg
-    thumbnail: figures/thumbnails/fig-10-history_th.jpg
-    manifestId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-10-history/manifest.json
-    canvasId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-10-history/canvas
     zoom: true
     label: "Figure 10."
     caption: "View of Gallery 214 in 2023, Greek and Roman Glass, J. Paul Getty Museum at the Getty Villa"
 
   - id: fig-11-intro-bw
     src: figures/fig-11-intro.jpg
-    printImage: figures/fig-11-intro.jpg
-    thumbnail: figures/thumbnails/fig-11-intro_th.jpg
-    manifestId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-11-intro-bw/manifest.json
-    canvasId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-11-intro-bw/canvas
     zoom: true
     label: "Figure 11."
     caption: "**Core-forming technique** <br>
@@ -16446,10 +16402,6 @@ figure_list:
 
   - id: fig-12-intro-bw
     src: figures/fig-12-intro.jpg
-    printImage: figures/fig-12-intro.jpg
-    thumbnail: figures/thumbnails/fig-12-intro_th.jpg
-    manifestId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-12-intro-bw/manifest.json
-    canvasId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-12-intro-bw/canvas
     zoom: true
     label: "Figure 12."
     caption: "**Rod-forming technique** <br>
@@ -16457,10 +16409,6 @@ figure_list:
   
   - id: fig-13-intro-bw
     src: figures/fig-13-intro.jpg
-    printImage: figures/fig-13-intro.jpg
-    thumbnail: figures/thumbnails/fig-13-intro_th.jpg
-    manifestId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-13-intro-bw/manifest.json
-    canvasId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-13-intro-bw/canvas
     zoom: true
     label: "Figure 13."
     caption: "**Cast, lost wax technique** <br>
@@ -16468,10 +16416,6 @@ figure_list:
     
   - id: fig-14-intro-bw
     src: figures/fig-14-intro.jpg
-    printImage: figures/fig-14-intro.jpg
-    thumbnail: figures/thumbnails/fig-14-intro_th.jpg
-    manifestId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-14-intro-bw/manifest.json
-    canvasId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-14-intro-bw/canvas
     zoom: true
     label: "Figure 14."
     caption: "**Slumping technique** <br>
@@ -16479,10 +16423,6 @@ figure_list:
 
   - id: fig-15-intro
     src: figures/fig-15-intro.jpg
-    printImage: figures/fig-15-intro.jpg
-    thumbnail: figures/thumbnails/fig-15-intro_th.jpg
-    manifestId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-15-intro/manifest.json
-    canvasId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-15-intro/canvas
     zoom: true
     label: "Figure 15."
     caption: "**Rotary-pressing technique for a ribbed bowl** <br>
@@ -16490,10 +16430,6 @@ figure_list:
 
   - id: fig-16-intro-bw
     src: figures/fig-16-intro.jpg
-    printImage: figures/fig-16-intro.jpg
-    thumbnail: figures/thumbnails/fig-16-intro_th.jpg
-    manifestId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-16-intro-bw/manifest.json
-    canvasId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-16-intro-bw/canvas
     zoom: true
     label: "Figure 16."
     caption: "**Rotary-pressing technique for a Cretan pyxis, 3rd–1st century BCE** <br>
@@ -16501,10 +16437,6 @@ figure_list:
 
   - id: fig-17-intro-bw
     src: figures/fig-17-intro.jpg
-    printImage: figures/fig-17-intro.jpg
-    thumbnail: figures/thumbnails/fig-17-intro_th.jpg
-    manifestId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-17-intro-bw/manifest.json
-    canvasId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-17-intro-bw/canvas
     zoom: true
     label: "Figure 17."
     caption: "**Free-blowing technique** <br>
@@ -16512,10 +16444,6 @@ figure_list:
 
   - id: fig-18-intro-bw
     src: figures/fig-18-intro.jpg
-    printImage: figures/fig-18-intro.jpg
-    thumbnail: figures/thumbnails/fig-18-intro_th.jpg
-    manifestId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-18-intro-bw/manifest.json
-    canvasId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-18-intro-bw/canvas
     zoom: true
     label: "Figure 18."
     caption: "**Mold-blowing technique** <br>
@@ -16523,10 +16451,6 @@ figure_list:
 
   - id: fig-19-intro-bw
     src: figures/fig-19-intro.jpg
-    printImage: figures/fig-19-intro.jpg
-    thumbnail: figures/thumbnails/fig-19-intro_th.jpg
-    manifestId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-19-intro-bw/manifest.json
-    canvasId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-19-intro-bw/canvas
     zoom: true
     label: "Figure 19."
     caption: "**Dip mold-blowing technique** <br>
@@ -16534,10 +16458,6 @@ figure_list:
 
   - id: fig-20-intro
     src: figures/fig-20-intro.jpg
-    printImage: figures/fig-20-intro.jpg
-    thumbnail: figures/thumbnails/fig-20-intro_th.jpg
-    manifestId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-20-intro/manifest.json
-    canvasId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-20-intro/canvas
     zoom: true
     label: "Figure 20."
     caption: "**Rotary pressing technique for a cameo vessel** <br>
@@ -16545,30 +16465,18 @@ figure_list:
 
   - id: fig-21-appendix
     src: figures/fig-21-appendix.jpg
-    printImage: figures/fig-21-appendix.jpg
-    thumbnail: figures/thumbnails/fig-21-appendix_th.jpg
-    manifestId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-21-appendix/manifest.json
-    canvasId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-21-appendix/canvas
     zoom: true
     label: "Figure 21."
     caption: "Schematic showing the typology, chronology, and color distribution of the vessels investigated."
   
   - id: fig-22-appendix
     src: figures/fig-22-appendix.jpg
-    printImage: figures/fig-22-appendix.jpg
-    thumbnail: figures/thumbnails/fig-22-appendix_th.jpg
-    manifestId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-22-appendix/manifest.json
-    canvasId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-22-appendix/canvas
     zoom: true
     label: "Figure 22."
     caption: "Chart listing the chemicals detected in colored glass, with their most common sources."
 
   - id: fig-23-appendix
     src: figures/fig-23-appendix.jpg
-    printImage: figures/fig-23-appendix.jpg
-    thumbnail: figures/thumbnails/fig-23-appendix_th.jpg
-    manifestId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-23-appendix/manifest.json
-    canvasId: https://www.getty.edu/publications/resources/ancient-glass/iiif/fig-23-appendix/canvas
     zoom: true
     label: "Figure 23."
     caption: "Three-dimensional Principal Component Analysis (PCA) plot reporting data for the most abundant colors: blue, white, turquoise, and yellow. Each circle represents a data point for each color of glass found on an individual vessel; the data point color corresponds to the vessel’s color. Individual points corresponding to the blue, white, and turquoise analyzed in vessel 2003.203 ([cat. 42](/catalogue/cat-42/)) are highlighted with a red outline. Circled data points correspond to the identified groups White 1 (W1 – purple) and White 2 (W2a, W2b, W2c in incrementally darker shades of green respectively). Representative vessels for each group discussed in the text: White 1 (W1), White 2 (including W2a, W2b, W2c), Turquoise 1 (T1), Turquoise 2 (T2), and yellow, are shown: a. [2003.180](/catalogue/cat-10/) (W1), b. [2003.203](/catalogue/cat-42/) (W2a), c. [2003.198](/catalogue/cat-33/) (W2b), d. [2003.199](/catalogue/cat-47/) (W3c), e. [2003.197](/catalogue/cat-32/) (T1), f. [2003.196](/catalogue/cat-15/) (T2), g. [2003.172](/catalogue/cat-38/) (Y)."
