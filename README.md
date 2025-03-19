@@ -114,6 +114,9 @@ Added publication.cover_title in place of the default title
 **_layouts/entry.liquid**
 Added section breadcrumbs to entry pages based on their file paths
 
+**_plugins/figures/figure/index.js**
+Allow for figure thumbnails to be defined in figures.yaml data
+
 **_plugins/shortcodes/def.js**
 **_plugins/shortcodes/index.js**
 Add custom def shortcode for glossary pop-ups
