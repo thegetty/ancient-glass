@@ -99,6 +99,9 @@ Add formatOptionLabel function to strip out custom sort encoding for date ranges
 **_layouts/objects-page.webc**
 Exclude various elements from epub output
 
+**_includes/components/object-filters/object-cards-list.webc**
+Adjust grid break points
+
 **_includes/components/table-of-contents/item/list.js**
 Add a `data-layout` attribute to facilitate CSS hiding of cat. entries
 
