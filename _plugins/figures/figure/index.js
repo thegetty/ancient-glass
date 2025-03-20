@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Allow for figure thumbnails to be defined in figures.yaml data, lines 240 and 261
+//
 const chalkFactory = require('~lib/chalk')
 const Annotation = require('../annotation')
 const AnnotationFactory = require('../annotation/factory')
@@ -233,6 +237,8 @@ module.exports = class Figure {
      */
     const startCanvasIndex = this.isSequence ? this.sequences[0].startCanvasIndex : null
 
+    const thumbnail = this.data.thumbnail ? this.data.thumbnail : this.staticInlineFigureImage
+
     return {
       ...this.data,
       annotations: this.annotations,
@@ -252,7 +258,7 @@ module.exports = class Figure {
       src: this.src,
       staticInlineFigureImage: this.staticInlineFigureImage,
       // TODO: implement thumbnail getter
-      thumbnail: this.staticInlineFigureImage
+      thumbnail
     }
   }
 

@@ -81,9 +81,6 @@ TK
 **_layouts/base.11ty.js**
 Added Google Analytics 4
 
-**_includes/components/figure/modal-link.js**
-Add non-linked version for epub and pdf output
-
 **_includes/components/license-icons.js**
 Remove CC SVG icons from epub output
 
@@ -99,6 +96,9 @@ Add formatOptionLabel function to strip out custom sort encoding for date ranges
 **_layouts/objects-page.webc**
 Exclude various elements from epub output
 
+**_includes/components/object-filters/object-cards-list.webc**
+Adjust grid break points
+
 **_includes/components/table-of-contents/item/list.js**
 Add a `data-layout` attribute to facilitate CSS hiding of cat. entries
 
@@ -110,6 +110,9 @@ Added publication.cover_title in place of the default title
 
 **_layouts/entry.liquid**
 Added section breadcrumbs to entry pages based on their file paths
+
+**_plugins/figures/figure/index.js**
+Allow for figure thumbnails to be defined in figures.yaml data
 
 **_plugins/shortcodes/def.js**
 **_plugins/shortcodes/index.js**
