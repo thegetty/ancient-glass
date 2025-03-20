@@ -81,9 +81,6 @@ TK
 **_layouts/base.11ty.js**
 Added Google Analytics 4
 
-**_includes/components/figure/modal-link.js**
-Add non-linked version for epub and pdf output
-
 **_includes/components/license-icons.js**
 Remove CC SVG icons from epub output
 
