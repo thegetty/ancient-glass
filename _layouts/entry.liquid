@@ -1,4 +1,8 @@
 ---
+## CUSTOMIZED FILE
+## Added section breadcrumbs based on the file path, lines 54–72
+## Limited entry figures to just 1 for epub and pdf
+##
 classes:
   - quire-entry
 layout: base.11ty.js
@@ -30,24 +34,42 @@ Entry content, including entry image and tombstone data
     </div>
   </div>
 
-  <div class="quire-entry__image-wrap" data-outputs-include="epub,pdf">
-    {% if image %}
-      {% comment %} 
-        @TODO: add support for images without ids defined in front matter
-        {% figure image %}
-      {% endcomment %}
-    {% elsif pageObjects %}
-      {% for object in pageObjects %}
-        {% for figure in object.figures %}
-          {% figure figure.id %}
-        {% endfor %}
-      {% endfor %}
-    {% endif %}
-  </div>
-
   <div class="quire-entry__content">
     <header class="quire-entry__header">
+      <div class="quire-entry__image-wrap" data-outputs-include="epub,pdf">
+        {% if image %}
+          {% comment %} 
+            @TODO: add support for images without ids defined in front matter
+            {% figure image %}
+          {% endcomment %}
+        {% elsif pageObjects %}
+          {% for object in pageObjects %}
+            {% for figure in object.figures limit:1 %}
+              {% figure figure.id %} 
+            {% endfor %}
+          {% endfor %}
+        {% endif %}
+      </div>
       <div class="container">
+        <div class="quire-page__header__breadcrumbs">
+        {% assign sections = page.filePathStem | split: "/" %}
+        {% assign slicePoint = sections.size | minus: 2 %}
+        {% assign linkSections =  sections | slice: 1, slicePoint %}
+        {% for section in linkSections %}
+          {% if forloop.first == true %}
+          {% capture capitalizedTitle %}
+            <a href="/{{ section }}/">{{ section | capitalize }}</a>
+          {% endcapture %}
+          {% else %}
+          {% assign sectionTitles = section | replace: "_", " " | split: " " %}
+          {% capture capitalizedTitle %}
+            {% for word in sectionTitles %}
+                {{ word | capitalize }}{% if forloop.first == true %}.{% endif %}
+          {% endfor %}{% endcapture %}
+          {% endif %}
+          <span>{{ capitalizedTitle }}{% if forloop.last != true %} <span class="breadcrumb-separator">⁄</span>{% endif %}</span> 
+        {% endfor %}
+        </div>
         <h1 class="quire-page__header__title" id="page-header-{{ page.filePathStem }}">
           {% pageTitle label=label, title=title, subtitle=subtitle %}
         </h1>
@@ -57,7 +79,7 @@ Entry content, including entry image and tombstone data
       </div>
     </header>
 
-    {% tombstone pageObjects %}
+    {% tombstone pageObjects key outputs page_pdf_output %}
 
     {% if abstract %}
       {% abstract abstract=abstract %}
@@ -67,7 +89,7 @@ Entry content, including entry image and tombstone data
       <div class="container">
         <div class="content">
           {{ content }}
-          {% bibliography citations %}
+          {% bibliography citations outputs page_pdf_output %}
         </div>
       </div>
     </section>

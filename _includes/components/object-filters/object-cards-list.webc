@@ -1,3 +1,7 @@
+<!-- 
+  CUSTOMIZED FILE
+  Adjust grid break points
+-->
 <ol class="object-cards-list">
   <li webc:for="object of objects" :data-object-id="object.id">
     <object-card :@url="object.url" :@data="object.objectData"></object-card>
@@ -20,25 +24,39 @@
   }
 }
 
-/* $desktop */
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 400px) {
   ol.object-cards-list {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
-
-/* $widescreen */
-@media screen and (min-width: 1184px) {
+@media screen and (min-width: 620px) {
   ol.object-cards-list {
     grid-template-columns: repeat(3, 1fr);
   }
 }
 
-/* $fullhd */
-@media screen and (min-width: 1376px) {
+@media screen and (min-width: 1168px) {
   ol.object-cards-list {
     grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media screen and (min-width: 1744px) {
+  ol.object-cards-list {
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
+
+@media screen and (min-width: 2320px) {
+  ol.object-cards-list {
+    grid-template-columns: repeat(6, 1fr);
+  }
+}
+
+@media screen and (min-width: 2896px) {
+  ol.object-cards-list {
+    grid-template-columns: repeat(7, 1fr);
   }
 }
 

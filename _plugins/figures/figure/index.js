@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Allow for figure thumbnails to be defined in figures.yaml data, lines 240 and 261
+//
 const chalkFactory = require('~lib/chalk')
 const Annotation = require('../annotation')
 const AnnotationFactory = require('../annotation/factory')
@@ -89,7 +93,6 @@ module.exports = class Figure {
     const format = iiifConfig.formats.find(({ input }) => input.includes(ext))
 
     this.annotationCount = data.annotations ? data.annotations.length : 0
-    this.annotationFactory = new AnnotationFactory(this)
     this.canvasId = canvasId()
     this.data = data
     this.id = id
@@ -104,13 +107,16 @@ module.exports = class Figure {
     this.outputDir = outputDir
     this.outputFormat = format && format.output
     this.processImage = imageProcessor
-    this.sequenceFactory = new SequenceFactory(this)
     this.src = src
     /**
      * We are disabling zoom for all sequence figures
      * our custom image-sequence component currently only supports static images
      */
     this.zoom = isSequence(data) ? false : zoom
+
+    // NB: *Factory depend on props of `this` so Object.assign() breaks circularity
+    this.annotationFactory = new AnnotationFactory(Object.assign({},this))
+    this.sequenceFactory = new SequenceFactory(Object.assign({},this))
   }
 
   /**
@@ -231,6 +237,8 @@ module.exports = class Figure {
      */
     const startCanvasIndex = this.isSequence ? this.sequences[0].startCanvasIndex : null
 
+    const thumbnail = this.data.thumbnail ? this.data.thumbnail : this.staticInlineFigureImage
+
     return {
       ...this.data,
       annotations: this.annotations,
@@ -250,7 +258,7 @@ module.exports = class Figure {
       src: this.src,
       staticInlineFigureImage: this.staticInlineFigureImage,
       // TODO: implement thumbnail getter
-      thumbnail: this.staticInlineFigureImage
+      thumbnail
     }
   }
 

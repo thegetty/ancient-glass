@@ -1,3 +1,9 @@
+//
+// CUSTOMIZED FILE
+// Updated the some-exceptions language, line 20
+// Added comma, line 37
+//
+
 const { oneLine } = require('~lib/common-tags')
 
 module.exports = function(eleventyConfig) {
@@ -14,7 +20,7 @@ module.exports = function(eleventyConfig) {
 
     if (license.scope == 'some-exceptions') {
       licenseText += `
-        Unless otherwise indicated, this work is licensed under a ${licenseName}.
+        Unless otherwise indicated, the text and images of this work are licensed under a ${licenseName}.
       `
     } else if (license.scope === 'text-only') {
       licenseText += `
@@ -29,7 +35,7 @@ module.exports = function(eleventyConfig) {
     return oneLine`
       ${licenseText}
       <span class="is-print-only">
-        To view a copy of this license visit ${license.url}.
+        To view a copy of this license, visit ${license.url}.
       </span>
     `
   }

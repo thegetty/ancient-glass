@@ -9,7 +9,7 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'https://main--ancient-glass.netlify.app'
+url: 'https://www.getty.edu/publications/ancient-glass/'
 
 # ------------------------------------------------------------------------------
 # Title & Description
@@ -18,26 +18,49 @@ subtitle:
 reading_line:
 short_title:
 
+cover_title: "<span class=\"title-large\">Ancient Glass</span> in the J. Paul Getty Museum"
+
 description:
   one_line:
-  full: ""
+  full: |
+    The J. Paul Getty Museum’s collection of ancient glass—astonishingly delicate, richly hued, and fancifully shaped—is among the most celebrated in the United States. Ranging from the Bronze Age to the medieval period (1500 BCE–1000 CE), the 584 objects included in this publication originated from a wide geographical area, including the Middle East, the Mediterranean, and central Europe.
 
+    This catalogue, written by acclaimed scholar Anastassios Antonaras, begins with a fascinating essay on the history of glassmaking—a highly technical art form that is still practiced similarly today—and continues with detailed and informative entries on the works. Each entry is accompanied by vivid photography. The book also includes a history of the collection, glossary of glassmaking terms, technical study, and full bibliography.
+  online_edition: |
+    The free online edition of this publication is available at [getty.edu/publications/ancient-glass/](https://getty.edu/publications/ancient-glass/) and includes zoomable high-resolution photography and select 360-degree views. Also available are free PDF and EPUB downloads of the book.
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2025-02-01 # YYYY-MM-DD
+pub_date: 2025-04-08 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
 identifier:
-  isbn:
+  isbn: 978-1-60606-922-6
+  url: https://www.getty.edu/publications/ancient-glass/"
 
 publisher:
   - name: J. Paul Getty Museum
     location: Los Angeles
-    url:
+    url: https://www.getty.edu/publications/
     logo: logo-getty.png
+    address: | 
+      Getty Publications
+      1200 Getty Center Drive, Suite 500
+      Los Angeles, California 90049-1682
+      [getty.edu/publications](https://www.getty.edu/publications/)
+
+project_team: 
+  - Ruth Evans Lane, *Project Editor*
+  - Kerri Cox Sullivan, *Manuscript Editor*
+  - Dani Grossman, *Cover Design*
+  - Molly McGeehan, *Production*
+  - Danielle Brink, *Image and Rights Acquisition*
+  - Greg Albers, *Digital Publications Manager*
+  - Erin Cecele Dunigan, *Digital Project Lead*
+  - Jenny Park, *Digital Production*
+  - Kate Justement and Alex Hallenbeck, *Digital Assistants*
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -45,28 +68,36 @@ publisher:
 
 contributor_as_it_appears:
 
+additional_contributors: "With contributions by Nicole&#160;Budrovich and Monica&#160;Ganio"
+
 contributor:
   - id: aantonaras
     type: primary
-    first_name: Anastassios Ch.
+    first_name: Anastassios
     last_name: Antonaras
-    title: 
-    affiliation: 
-    bio: 
-    url: 
-    image: 
-
+    bio: "Anastassios Antonaras, a specialist in the history of glass, jewelry, and textiles, is an archaeologist, a curator and Head of Department at the Museum of Byzantine Culture, Thessaloniki. He has participated in the organization of numerous exhibitions in Greece and abroad and has organized several international conferences and symposia. He has participated in several excavations in Greece and the western Balkans. Antonaras has extensively published and given lectures in several museums and universities in the USA and Europe. He is a member of the editorial board of scientific journals in Europe and the USA and is the president of the International Association for the History of Glass."
+  - id: nbudrovich
+    type: secondary
+    first_name: Nicole
+    last_name: Budrovich
+    bio: "Nicole Budrovich is a curatorial assistant in the Department of Antiquities at the J. Paul Getty Museum. She has worked on the Antiquities Provenance Project, contributed to collection and exhibition catalogues, including *Roman Mosaics in the J. Paul Getty Museum* (2016) and *Princes of Pylos: Treasures from Bronze Age Greece* (2025), and is a coauthor of the book *Provenance Research for Mediterranean Antiquities* (forthcoming, 2026)."
+  - id: mganio
+    type: secondary
+    first_name: Monica
+    last_name: Ganio
+    bio: "Monica Ganio is an associate scientist at the Getty Conservation Institute (GCI). Since 2015 she has been part of the Technical Studies Research group within the GCI’s Science Department, where she leads research into antiquities in the collection of the J. Paul Getty Museum and investigates the application and optimization of new techniques for the study of archaeological materials. Ganio is also active in creating opportunities to facilitate interdisciplinary exchanges through workshops and conferences."
+ 
 # ------------------------------------------------------------------------------
-# Copright & License
+# Copyright & License
 # ------------------------------------------------------------------------------
 
 copyright: © 2025 J. Paul Getty Trust
 
 license:
-  name: Creative Commons Attribution-NonCommercial 4.0 International
+  name: Creative Commons Attribution-NonCommercial 4.0 International License
   abbreviation: CC BY-NC
   url: https://creativecommons.org/licenses/by-nc/4.0/
-  scope: full # full | text-only | some-exceptions
+  scope: some-exceptions # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links
@@ -74,20 +105,20 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF
+    name: PDF (13.1 MB)
     media_type: application/pdf
     link_relation: alternate
-    url: 
+    url: /_assets/downloads/Antonaras_AncientGlass.pdf
   - type: other-format
-    name: EPUB
+    name: EPUB (72.9 MB)
     media_type: application/epub+zip
     link_relation: alternate
-    url: 
+    url: /_assets/downloads/Antonaras_AncientGlass.epub
   - type: other-format
     name: Paperback
     media_type: print
     link_relation: alternate
-    url:
+    url: https://shop.getty.edu/products/ancient-glass-in-the-j-paul-getty-museum-978-1606069196
   - type: footer-link
     name: About
     link_relation: about
@@ -110,18 +141,34 @@ subject:
     name: 
     identifer: 
 
+library_of_congress_cip: | 
+  Library of Congress Cataloging-in-Publication Data
+  - Names: J. Paul Getty Museum, author. | Antonaras, Anastassios C., author.
+  - Title: Ancient glass in the J. Paul Getty Museum / Anastassios Antonaras.
+  - Description: First edition. | Los Angeles : J. Paul Getty Museum, 2025. | Includes bibliographical references. | Summary: "This illustrated book catalogues the J. Paul Getty Museum's collection of ancient glass"— Provided by publisher.
+  - Identifiers: LCCN 2024037436 (print) | LCCN 2024037437 (ebook) | ISBN 9781606069196 (paperback) | ISBN 9781606069219 (pdf) | ISBN 9781606069202 (epub) | ISBN 9781606069226  
+  - Subjects: LCSH: J. Paul Getty Museum—Catalogs. | Glassware, Ancient—Catalogs. | Glassware—California—Los Angeles—Catalogs. | LCGFT: Collection catalogs.
+  - Classification: LCC NK5107 .J25 2025 (print) | LCC NK5107 (ebook) | DDC 748.074/79494—dc23/eng/20240926
+  - LC record available at https://lccn.loc.gov/2024037436
+  - LC ebook record available at https://lccn.loc.gov/2024037437
+
 # ------------------------------------------------------------------------------
 # Revision History
 # ------------------------------------------------------------------------------
 
 revision_history:
-  - date:
+  - date: April 8, 2025
     summary:
+      - First edition
 
-repository_url:
+revision_statement: | 
+
+  Any revisions or corrections made to this publication after the first edition date will be listed in detail in the project repository at https://github.com<wbr>/thegetty/ancient-glass. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here.
+
+repository_url: https://github.com/thegetty/ancient-glass
 
 # ------------------------------------------------------------------------------
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: static-cover.jpg
+promo_image: cover-promo.jpg
