@@ -16600,6 +16600,7 @@ figure_list:
         behavior:
           - continuous
           - sequence
+        viewing_direction: "right-to-left"
   
   - id: fig-084-360
     zoom: true
@@ -16609,6 +16610,7 @@ figure_list:
         behavior:
           - continuous
           - sequence
+        viewing_direction: "right-to-left"
   
   - id: fig-270-360
     zoom: true
@@ -16618,6 +16620,7 @@ figure_list:
         behavior:
           - continuous
           - sequence
+        viewing_direction: "right-to-left"
 
   - id: fig-050-360
     zoom: true
@@ -16627,6 +16630,7 @@ figure_list:
         behavior:
           - continuous
           - sequence
+        viewing_direction: "right-to-left"
 
   - id: fig-153-360
     zoom: true
@@ -16636,6 +16640,7 @@ figure_list:
         behavior:
           - continuous
           - sequence
+        viewing_direction: "right-to-left"
 
   - id: fig-239-360
     zoom: true
@@ -16645,6 +16650,7 @@ figure_list:
         behavior:
           - continuous
           - sequence
+        viewing_direction: "right-to-left"
 
   - id: fig-191-360
     zoom: true
@@ -16654,6 +16660,7 @@ figure_list:
         behavior:
           - continuous
           - sequence
+        viewing_direction: "right-to-left"
 
   - id: fig-417-360
     zoom: true
@@ -16663,6 +16670,7 @@ figure_list:
         behavior:
           - continuous
           - sequence
+        viewing_direction: "right-to-left"
         regex: /\d{4}\.jpg/
   
   - id: fig-003-360
@@ -16673,6 +16681,7 @@ figure_list:
         behavior:
           - continuous
           - sequence
+        viewing_direction: "right-to-left"
   
   - id: fig-161-360
     zoom: true
@@ -16682,6 +16691,7 @@ figure_list:
         behavior:
           - continuous
           - sequence
+        viewing_direction: "right-to-left"
   
   - id: fig-182-360
     zoom: true
@@ -16691,4 +16701,5 @@ figure_list:
         behavior:
           - continuous
           - sequence
+        viewing_direction: "right-to-left"
         start: 041.jpg
