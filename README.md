@@ -1,8 +1,10 @@
-This is the repository for *Ancient Glass in the J. Paul Getty Museum*, by Anastassios Ch. Antonaras. This digital book was first published Month, DD, YYYY, by the J. Paul Getty Museum. It is available online at https://www.getty.edu/publications/ancient-glass/ and may be downloaded there free of charge in multiple formats.
+This is the repository for *Ancient Glass in the J. Paul Getty Museum*, by Anastassios Antonaras. This digital book was first published April 8, 2025, by the J. Paul Getty Museum. It is available online at https://www.getty.edu/publications/ancient-glass/ and may be downloaded there free of charge in multiple formats.
 
 ## About the Book
 
-TK
+The J. Paul Getty Museum’s collection of ancient glass—astonishingly delicate, richly hued, and fancifully shaped—is among the most celebrated in the United States. Ranging from the Bronze Age to the medieval period (1500 BCE–1000 CE), the 584 objects included in this publication originated from a wide geographical area, including the Middle East, the Mediterranean, and central Europe.
+
+This catalogue, written by acclaimed scholar Anastassios Antonaras, begins with a fascinating essay on the history of glassmaking—a highly technical art form that is still practiced similarly today—and continues with detailed and informative entries on the works. Each entry is accompanied by vivid photography. The book also includes a history of the collection, glossary of glassmaking terms, technical study, and full bibliography.
 
 ## Using this Repository
 
@@ -24,7 +26,7 @@ This project was last built with the following software versions:
 | branch | about |
 | --- | --- |
 | `main` | The primary branch |
-| `first-pages`, `second-pages`, `final-pages`| Versions of the project at various staages |
+| `first-pages`, `second-pages`, `final-pages`, `final-pages-v2`, `final-pages-v3` | Versions of the project at various staages |
 | `forthcoming` | A static placeholder page that was displayed at the book’s final URL on getty.edu prior to publication |
 | `revisions` | Any revisions currently under consideration but not yet published |
 | `prototype` | An early prototype of the project built to verify final manuscript prep |
@@ -37,29 +39,17 @@ Some of figure images for *Ancient Glass* are licensed from third parties for us
 git clone --recursive https://github.com/thegetty/ancient-glass.git
 ```
 
-### Previewing the Online Edition Locally
-
-1. Install Node.js 18.16.0 and verify with with `node --version`
-
-2. Install the Quire CLI with `npm install -g @thegetty/quire-cli@1.0.0-rc.11`
-
-3. Clone this repository and select the appropriate branch
-
-4. Run `npm install` to install the project dependencies (this just needs to be done once when first cloning the project, or whenever the core template/code files are updated)
-
-5. Change the `url` in `content/_data/publication.yaml` to `http://localhost:8080/`
-
-6. See the preview with `quire preview`
-
 ### Creating a PDF Version
 
 1. Switch `url` in publication.yaml to `url: 'http://localhost:8080'`
 
-2. Run `quire build`
+2. **Temporarily** comment out all `printImage`, `thumbnail`, `manifestId`, and `canvasId` values from figures.yaml file. (This is an accomodation as external IIIF is not actually working properly for PDF and EPUB outputs.)
 
-3. In the `_site/pdf.html` file, find `<section class="quire-page quire-entry" data-footer-page-title="Catalogue" id="page-catalogue-cat-1">` and right before it, add `<div class="catalogue-entries-wrapper">`. And then find `<section class="quire-page quire-essay" data-footer-page-title="Appendix 1. Noninvasive Analytical Strategies" id="page-appendix-1">` and right before it, add `</div>`. (This creates a new element that wraps all of the catalogue entry pages into one group so that they can flow together in 2-columns.)  
+3. Run `quire build`
 
-3. If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
+4. In the `_site/pdf.html` file, find `<section class="quire-page quire-entry" data-footer-page-title="Catalogue" id="page-catalogue-cat-1">` and right before it, add `<div class="catalogue-entries-wrapper">`. And then find `<section class="quire-page quire-essay" data-footer-page-title="Appendix 1. Noninvasive Analytical Strategies" id="page-appendix-1">` and right before it, add `</div>`. (This creates a new element that wraps all of the catalogue entry pages into one group so that they can flow together in 2-columns.)  
+
+5. If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
 
     ```
     magick mogrify -profile bin/adobe-rgb-1998.icm _site/iiif/**/print-image.jpg
@@ -69,11 +59,17 @@ git clone --recursive https://github.com/thegetty/ancient-glass.git
     magick mogrify -colorspace Gray -profile bin/gray-gamma-2-2.icm _site/iiif/**-bw/**/print-image.jpg
     ```
 
-4. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
+6. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
 
 ### Creating an EPUB Version
 
-TK
+1. Switch `url` in publication.yaml to `url: 'http://localhost:8080'`
+
+2. **Temporarily** comment out all `printImage`, `thumbnail`, `manifestId`, and `canvasId` values from figures.yaml file. (This is an accomodation as external IIIF is not actually working properly for PDF and EPUB outputs.)
+
+3. Run `quire build`
+
+4. Run `quire epub`
 
 ### Customizations
 
