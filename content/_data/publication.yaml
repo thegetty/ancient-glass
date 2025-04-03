@@ -105,12 +105,12 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF (12 MB)
+    name: PDF (13.1 MB)
     media_type: application/pdf
     link_relation: alternate
     url: /_assets/downloads/Antonaras_AncientGlass.pdf
   - type: other-format
-    name: EPUB (74 MB)
+    name: EPUB (72.9 MB)
     media_type: application/epub+zip
     link_relation: alternate
     url: /_assets/downloads/Antonaras_AncientGlass.epub
