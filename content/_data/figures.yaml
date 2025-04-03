@@ -16609,7 +16609,6 @@ figure_list:
         behavior:
           - continuous
           - sequence
-        regex: /\d{4}\.jpg/
   
   - id: fig-270-360
     zoom: true
