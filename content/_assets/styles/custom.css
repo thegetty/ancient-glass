@@ -3,48 +3,6 @@
   /* same as $accent-color in content/_assets/styles/variables.scss */
 }
 
-/* Temporary "UNCORRECTED PROOF" Banner */
-@media screen {
-  .quire::before,
-  .quire::after {
-    color: black;
-    font-weight: 700;
-    position: fixed;
-    width: 230px;
-    height: 230px;
-    z-index: 4000;
-    transform: rotate(-45deg);
-    text-align: center;
-    padding-top: 1rem;
-  }
-  .quire::before {
-    content: "PRESS";
-    background-color: cyan;
-    bottom: -115px;
-    right: -115px;
-  }
-  .quire::after {
-    content: "PREVIEW";
-    bottom: -130px;
-    right: -130px;
-  }
-}
-
-/* Temporary for thumbnails in Typological classification */
-figure.cat-thumbnail {
-  display: inline-block;
-  max-width: 140px;
-  text-align: left;
-  margin-top: 0 !important;
-  margin-left: 0;
-  margin-bottom: 1rem !important;
-  margin-right: .5rem;
-  font-size: .825rem;
-}
-figure.cat-thumbnail a {
-  border-bottom-width: 0 !important;
-}
-
 /* COVER
 ============================================================================= */
 /* Cover customization to match previous collection catalogues */
