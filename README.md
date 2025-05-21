@@ -80,6 +80,9 @@ Added Google Analytics 4
 **_includes/components/figure/modal-link.js**
 Add non-linked version for epub and pdf output
 
+**_includes/components/head.js**
+Remove noindex,nofollow tag
+
 **_includes/components/license-icons.js**
 Remove CC SVG icons from epub output
 
