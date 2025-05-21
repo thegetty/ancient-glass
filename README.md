@@ -77,9 +77,6 @@ git clone --recursive https://github.com/thegetty/ancient-glass.git
 **_layouts/base.11ty.js**
 Added Google Analytics 4
 
-**_includes/components/figure/modal-link.js**
-Add non-linked version for epub and pdf output
-
 **_includes/components/head.js**
 Remove noindex,nofollow tag
 
