@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Remove slugify from figure id as it was leading to EPUB validation issues
+//
 const chalkFactory = require('~lib/chalk')
 const { oneLine } = require('~lib/common-tags')
 
@@ -68,7 +72,7 @@ module.exports = function (eleventyConfig) {
     }
 
     return oneLine`
-      <figure id="${slugify(id)}" class="${['q-figure', 'q-figure--' + mediaType, ...classes].join(' ')}">
+      <figure id="${id}" class="${['q-figure', 'q-figure--' + mediaType, ...classes].join(' ')}">
         ${await component({...figure,lazyLoading})}
       </figure>
     `

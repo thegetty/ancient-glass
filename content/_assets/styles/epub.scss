@@ -106,13 +106,13 @@ h3, h5 {
 }
 a {
   color: $accent-color;
-  text-decoration: none;
+  text-decoration: underline;
 }
 a.q-figure__modal-link {
   pointer-events: none;
   cursor: default;
   color: $black;
-  text-decoration: none;
+  text-decoration: underline;
 }
 figcaption a.q-figure__modal-link {
   font-weight: bold;

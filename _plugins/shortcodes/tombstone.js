@@ -53,7 +53,7 @@ module.exports = function(eleventyConfig, { page }) {
 
       return html`
         <tr>
-          <td>${propLabel}</td>
+          <th>${propLabel}</th>
           <td>${markdownify(object[propField].toString())}</td>
         </tr>
       ` 
