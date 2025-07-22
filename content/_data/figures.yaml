@@ -17020,7 +17020,7 @@ figure_list:
 
   - id: fig-12-intro-bw
     src: figures/fig-12-intro.jpg
-    zoom: true
+    # zoom: true
     label: "Figure 12."
     caption: "**Rod-forming technique** <br>
     A glass object is formed around a core or metal mandrel. Most beads, pendants, and some core-formed vessels are made by winding the molten glass around a rod."
@@ -17081,7 +17081,6 @@ figure_list:
     caption: "**Dip mold-blowing technique** <br>
     A vessel is partially formed by blowing into an intaglio or specially shaped mold; the vessel then acquires its finished dimensions through free blowing during which the original mold-made decoration is blunted or altered."
     alt: "Three steps show partially inflated glass dipped into an open mold, picking up the surface texture, removed from the mold, and shaped into a finished vessel."
-    caption: "**Dip mold-blowing technique** <br>\nA vessel is partially formed by blowing into an intaglio or specially shaped mold; the vessel then acquires its finished dimensions through free blowing during which the original mold-made decoration is blunted or altered."
 
   - id: fig-20-intro
     src: figures/fig-20-intro.jpg
