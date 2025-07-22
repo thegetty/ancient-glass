@@ -71,6 +71,26 @@ git clone --recursive https://github.com/thegetty/ancient-glass.git
 
 4. Run `quire epub`
 
+5. Use a tool like , to unzip the resulting EPUB file, and in `getty-research-journal-20/ops/package.opf` add the following metadata items
+
+    ```
+    <meta property="schema:accessibilitySummary">This publications meets baseline accessibility standards</meta>
+    <meta name="schema:accessMode" content="textual" />
+    <meta name="schema:accessMode" content="visual" />
+    <meta name="schema:accessModeSufficient" content="textual" />
+    <meta name="schema:accessModeSufficient" content="visual" />
+    <meta name="schema:accessibilityFeature" content="alternativeText" />
+    <meta name="schema:accessibilityFeature" content="structuralNavigation" />
+    <meta name="schema:accessibilityFeature" content="tableOfContents" />
+    <meta name="schema:accessibilityHazard" content="noFlashingHazard" />
+    <meta name="schema:accessibilityHazard" content="noMotionSimulationHazard" />
+    <meta name="schema:accessibilityHazard" content="noSoundHazard" />
+    ```
+
+6. Delete the original EPUB file and use the same tool to repackage the raw files into a new EPUB
+
+7. Run the resulting file through epubcheck-5.0.0 and Ace by DAISY accessibility checker to ensure there aren't any validation or accessibility errors or warnings.
+
 ### Customizations
 
 **_includes/components/analytics.js**
