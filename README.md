@@ -110,6 +110,9 @@ Added publication.cover_title in place of the default title
 **_layouts/entry.liquid**
 Added section breadcrumbs to entry pages based on their file paths
 
+**_layouts/pdf.liquid**
+Made updates to improve PDF accessibility
+
 **_plugins/figures/figure/index.js**
 Allow for figure thumbnails to be defined in figures.yaml data
 
@@ -131,6 +134,9 @@ Allow for optional custom labels with `field` and `label` attributes
 **_plugins/transforms/outputs/pdf/transform.js**
 Fixed transform that was converting external links to slugified anchor links
 
+**_plugins/transforms/outputs/pdf/write.js**
+Fed publication data to PDF layout for accessibility metadata needs
+
 **_plugins/transforms/outputs/epub/manifest.js**
 Make epub.defaultCoverImage the first choice, and then promoImage second
 
@@ -142,6 +148,9 @@ Allow for nextPage and previousPage to be overridden at page level
 
 **_plugins/shortcodes/cat.js**
 Allow for optional display text to override the default link text
+
+**_plugins/shortcodes/figure.js**
+Remove slugify from figure id as it was leading to EPUB validation issues
 
 ## License
 

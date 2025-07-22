@@ -409,16 +409,19 @@
   .quire-page.quire-entry .quire-entry__tombstone table td {
     padding: .25rem 0;
   }
+  .quire-page.quire-entry .quire-entry__tombstone table tr:last-child th,
   .quire-page.quire-entry .quire-entry__tombstone table tr:last-child td {
-    padding-bottom: .875rem;
-  } 
-  .quire-page.quire-entry .quire-entry__tombstone table td:last-child {
-    padding-left: .5rem;
+    padding-bottom: 0.875rem;
   }
-  .quire-page.quire-entry .quire-entry__tombstone table td:first-child {
+  .quire-page.quire-entry .quire-entry__tombstone table td:last-child {
+    padding-left: 0.5rem;
+  }
+  .quire-page.quire-entry .quire-entry__tombstone table th:first-child {
+    padding: 0.25rem 0;
     width: 1.25in;
   }
   .quire-page.quire-entry .quire-entry__tombstone table tr,
+  .quire-page.quire-entry .quire-entry__tombstone table tr th,
   .quire-page.quire-entry .quire-entry__tombstone table tr td {
     break-inside: avoid;
     page-break-inside: avoid;
